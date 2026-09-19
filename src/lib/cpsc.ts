@@ -26,6 +26,13 @@ interface RawRecall {
   SoldAtLabel?: string | null;
 }
 
+/** CPSC's feed occasionally ships URLs with a missing slash or literal spaces. */
+export function fixUrl(u: string | undefined): string {
+  let s = (u ?? '').trim().replace(/^(https?:)\/(?!\/)/i, '$1//');
+  s = s.replace(/ /g, '%20');
+  return s;
+}
+
 export function slimRecall(raw: RawRecall): Recall {
   const names = (xs?: Named[]) => (xs ?? []).map((x) => cleanWhitespace(x.Name ?? '')).filter(Boolean);
   return {
@@ -33,7 +40,7 @@ export function slimRecall(raw: RawRecall): Recall {
     number: raw.RecallNumber,
     date: (raw.RecallDate ?? '').slice(0, 10),
     title: cleanWhitespace(raw.Title ?? ''),
-    url: raw.URL,
+    url: fixUrl(raw.URL),
     description: truncate(cleanWhitespace(raw.Description ?? ''), 700),
     products: (raw.Products ?? []).map((p) => cleanWhitespace(p.Name ?? '')).filter(Boolean),
     remedy_options: (raw.RemedyOptions ?? []).map((o) => o.Option ?? '').filter(Boolean),

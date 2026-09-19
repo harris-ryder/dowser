@@ -12,7 +12,8 @@
     "icon": "sh scripts/make-icon.sh",
     "smoke": "tsx scripts/smoke.ts",
     "vercel-build": "npm run build",
-    "test": "vitest run"
+    "test": "vitest run",
+    "validate:data": "tsx scripts/validate-data.ts"
   },
   "keywords": [],
   "author": "",
