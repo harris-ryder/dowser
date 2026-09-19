@@ -1,5 +1,5 @@
 {
-  "$comment": "Paste-ready values for the Muse Connector Platform form (https://muse.ai/platform → Submit a connector). Keys mirror the form's createConnectorSubmissionAction payload as observed on 2026-09-18. The icon is public/icon.png (512x512, ~35 KB). The three attestations are ticked in the form by the account owner.",
+  "$comment": "Paste-ready values for the Muse Connector Platform form (https://muse.ai/platform → Submit a connector). Keys mirror the form's createConnectorSubmissionAction payload as observed on 2026-09-18. The icon is public/icon.png (512x512, ~12 KB). The three attestations are ticked in the form by the account owner.",
   "productName": "Dowser",
   "companyName": "Harris Ryder",
   "website": "https://dowser-sooty.vercel.app",
