@@ -4,11 +4,11 @@ Everything Meta's form asks for, and the order to do it in.
 
 ## Before you open the form
 
-1. Deploy (see the root README). Confirm `https://<your-host>/health` returns `"ok": true`.
+1. Deploy (see the root README). Confirm `https://dowser-sooty.vercel.app/health` returns `"ok": true`.
 2. Set the environment variables on the deployment so the pages show real contact details:
    `DOWSER_CONTACT_EMAIL`, `DOWSER_OPERATOR`, `DOWSER_REPO_URL`, and `DOWSER_BASE_URL` if you use a custom domain.
 3. Add Dowser to your own Muse account first as a custom connector, using the prompt on the site's home page. Confirm Muse lists all six tools and that `search_settlements` returns results. Meta runs an end-to-end test during review; this makes sure it passes on the first try.
-4. Replace every ALL-CAPS placeholder in `muse-form.json`.
+4. Values in `muse-form.json` are filled in for the current deployment. Update them if the URL or contact details change.
 
 ## The form (muse.ai/platform → Submit a connector; requires a Muse login, U.S., 18+)
 
@@ -23,9 +23,9 @@ Everything Meta's form asks for, and the order to do it in.
 | Connector icon | `public/icon.png` (512×512 PNG, well under the 256 KiB limit) |
 | Payments | Does not accept payments |
 | Your name / Work email | you |
-| Support email or URL | `https://<host>/support` |
-| Privacy policy | `https://<host>/privacy` |
-| Terms of service | `https://<host>/terms` |
+| Support email or URL | `https://dowser-sooty.vercel.app/support` |
+| Privacy policy | `https://dowser-sooty.vercel.app/privacy` |
+| Terms of service | `https://dowser-sooty.vercel.app/terms` |
 | Anything else? | `extraNotes` |
 
 ### Step 2: Technical specs
@@ -33,8 +33,8 @@ Everything Meta's form asks for, and the order to do it in.
 | Field | Value |
 |---|---|
 | Connection type | Existing MCP |
-| Hosted MCP endpoint | `https://<host>/mcp` |
-| API or MCP documentation | `https://<host>/docs` |
+| Hosted MCP endpoint | `https://dowser-sooty.vercel.app/mcp` |
+| API or MCP documentation | `https://dowser-sooty.vercel.app/docs` |
 | Access requirements | `limits` |
 | Authentication methods | Other: `authOther` |
 

@@ -82,7 +82,7 @@ Or push to GitHub and import the repo in the Vercel dashboard; the daily data wo
 
 Paste into Muse:
 
-> Build a custom integration to Dowser. Its MCP server URL is https://YOUR-HOST/mcp (streamable HTTP, no authentication). I want you to be able to find class action settlements, product recalls, unused credit card credits, expiring points and birthday freebies I qualify for, from any future conversation. Connect to it, test every tool end to end, show me the results, and save the integration as a reusable skill.
+> Build a custom integration to Dowser. Its MCP server URL is https://dowser-sooty.vercel.app/mcp (streamable HTTP, no authentication). I want you to be able to find class action settlements, product recalls, unused credit card credits, expiring points and birthday freebies I qualify for, from any future conversation. Connect to it, test every tool end to end, show me the results, and save the integration as a reusable skill.
 
 For directory listing, see [`submission/README.md`](submission/README.md) and the paste-ready [`submission/muse-form.json`](submission/muse-form.json).
 
