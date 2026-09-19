@@ -1,0 +1,438 @@
+{
+  "last_reviewed": "2026-09-19",
+  "notes": "Hand-maintained catalogue of recurring statement credits and use-it-or-lose-it perks on popular U.S. consumer cards. Values are the maximum per period. Issuers change these often; every card carries a benefits_url to verify against and a confidence rating. Business cards other than Amex Business Gold are not yet covered.",
+  "cards": [
+    {
+      "id": "amex-platinum",
+      "issuer": "American Express",
+      "name": "The Platinum Card from American Express",
+      "aliases": ["amex platinum", "platinum card", "american express platinum", "amex plat", "platinum amex"],
+      "annual_fee_usd": 895,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/platinum/",
+      "confidence": "medium",
+      "status": "Refreshed September 2025 with new credits and an $895 fee; verify against the benefits page.",
+      "perks": [
+        { "name": "Hotel credit (Fine Hotels + Resorts and The Hotel Collection)", "type": "credit", "value_usd": 300, "cadence": "semiannual", "enrollment_required": false, "how_to_use": "Prepay a Fine Hotels + Resorts or The Hotel Collection stay through Amex Travel. The Hotel Collection needs two or more nights.", "notes": "Up to $300 Jan–Jun and $300 Jul–Dec ($600 a year)." },
+        { "name": "Resy dining credit", "type": "credit", "value_usd": 100, "cadence": "quarterly", "enrollment_required": true, "how_to_use": "Enroll, then dine at U.S. restaurants on Resy and pay with the card.", "notes": "Up to $100 each calendar quarter ($400 a year)." },
+        { "name": "lululemon credit", "type": "credit", "value_usd": 75, "cadence": "quarterly", "enrollment_required": true, "how_to_use": "Enroll, then buy at lululemon U.S. stores or lululemon.com.", "notes": "Up to $75 each quarter ($300 a year)." },
+        { "name": "Digital entertainment credit", "type": "credit", "value_usd": 25, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay for eligible subscriptions (Disney+, Hulu, ESPN, Peacock, The New York Times, The Wall Street Journal, Paramount+) with the card.", "notes": "Up to $25 a month ($300 a year)." },
+        { "name": "Uber Cash", "type": "credit", "value_usd": 15, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Add the card to your Uber account. $15 of Uber Cash loads each month for U.S. rides or Uber Eats; $35 in December.", "notes": "Unused Uber Cash expires at month end. $200 a year." },
+        { "name": "Uber One membership credit", "type": "membership", "value_usd": 120, "cadence": "annual_calendar", "enrollment_required": true, "how_to_use": "Pay for a U.S. Uber One membership with the card to get statement credits.", "notes": "Up to $120 a year." },
+        { "name": "Airline fee credit", "type": "credit", "value_usd": 200, "cadence": "annual_calendar", "enrollment_required": true, "how_to_use": "Select one qualifying airline in your account, then incidental fees (bags, seat selection, lounge day passes) on that airline are credited.", "notes": "Airline choice can be changed once a year in January." },
+        { "name": "Oura Ring credit", "type": "credit", "value_usd": 200, "cadence": "annual_calendar", "enrollment_required": true, "how_to_use": "Enroll, then buy an Oura Ring on oura.com." },
+        { "name": "CLEAR Plus credit", "type": "membership", "value_usd": 209, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Pay for a CLEAR Plus membership with the card." },
+        { "name": "Walmart+ membership credit", "type": "membership", "value_usd": 12.95, "cadence": "monthly", "enrollment_required": false, "how_to_use": "Pay for a monthly Walmart+ membership with the card; the monthly fee plus tax is credited back.", "notes": "Annual Walmart+ plans are not covered." },
+        { "name": "Equinox credit", "type": "credit", "value_usd": 300, "cadence": "annual_calendar", "enrollment_required": true, "how_to_use": "Enroll, then pay Equinox club or Equinox+ fees with the card." },
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the Global Entry ($120) or TSA PreCheck (up to $85) application fee with the card." },
+        { "name": "Centurion Lounge, Priority Pass Select and Delta Sky Club access", "type": "access", "value_usd": null, "cadence": "ongoing", "enrollment_required": true, "how_to_use": "Enroll in Priority Pass Select; show the card at Centurion Lounges. Delta Sky Club access needs a same-day Delta flight and is capped at 10 visits a year unless you spend $75,000." }
+      ]
+    },
+    {
+      "id": "amex-gold",
+      "issuer": "American Express",
+      "name": "American Express Gold Card",
+      "aliases": ["amex gold", "gold card", "american express gold", "amex gold card"],
+      "annual_fee_usd": 325,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/gold-card/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Dining credit", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay at Grubhub, The Cheesecake Factory, Goldbelly, Wine.com or Five Guys.", "notes": "Up to $10 a month ($120 a year)." },
+        { "name": "Uber Cash", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Add the card to your Uber account; $10 of Uber Cash loads each month for U.S. rides or Uber Eats.", "notes": "Unused Uber Cash expires at month end." },
+        { "name": "Resy dining credit", "type": "credit", "value_usd": 50, "cadence": "semiannual", "enrollment_required": true, "how_to_use": "Enroll, then dine at U.S. Resy restaurants.", "notes": "Up to $50 Jan–Jun and $50 Jul–Dec." },
+        { "name": "Dunkin' credit", "type": "credit", "value_usd": 7, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay at U.S. Dunkin' locations.", "notes": "Up to $7 a month ($84 a year)." }
+      ]
+    },
+    {
+      "id": "amex-green",
+      "issuer": "American Express",
+      "name": "American Express Green Card",
+      "aliases": ["amex green", "green card amex", "american express green"],
+      "annual_fee_usd": 150,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/green/",
+      "confidence": "high",
+      "perks": [
+        { "name": "CLEAR Plus credit", "type": "membership", "value_usd": 209, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Pay for a CLEAR Plus membership with the card." }
+      ]
+    },
+    {
+      "id": "amex-blue-cash-preferred",
+      "issuer": "American Express",
+      "name": "Blue Cash Preferred Card",
+      "aliases": ["blue cash preferred", "amex blue cash preferred", "bcp"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-preferred/",
+      "confidence": "medium",
+      "perks": [
+        { "name": "Disney Bundle credit", "type": "credit", "value_usd": 7, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then spend $9.99 or more a month on the Disney Bundle (Disney+, Hulu, ESPN) with the card.", "notes": "Up to $7 a month ($84 a year)." }
+      ]
+    },
+    {
+      "id": "amex-blue-cash-everyday",
+      "issuer": "American Express",
+      "name": "Blue Cash Everyday Card",
+      "aliases": ["blue cash everyday", "amex blue cash everyday", "bce"],
+      "annual_fee_usd": 0,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/",
+      "confidence": "medium",
+      "perks": [
+        { "name": "Disney Bundle credit", "type": "credit", "value_usd": 7, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then spend $9.99 or more a month on the Disney Bundle with the card." },
+        { "name": "Home Chef credit", "type": "credit", "value_usd": 15, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay for a Home Chef subscription with the card.", "notes": "Up to $15 a month ($180 a year)." }
+      ]
+    },
+    {
+      "id": "amex-business-gold",
+      "issuer": "American Express",
+      "name": "American Express Business Gold Card",
+      "aliases": ["amex business gold", "business gold", "american express business gold"],
+      "annual_fee_usd": 375,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/american-express-business-gold-card-amex/",
+      "confidence": "medium",
+      "perks": [
+        { "name": "Flexible business credit", "type": "credit", "value_usd": 20, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay at FedEx, Grubhub or U.S. office supply stores.", "notes": "Up to $20 a month ($240 a year)." },
+        { "name": "Walmart+ membership credit", "type": "membership", "value_usd": 12.95, "cadence": "monthly", "enrollment_required": false, "how_to_use": "Pay for a monthly Walmart+ membership with the card.", "notes": "Up to $155 a year." }
+      ]
+    },
+    {
+      "id": "chase-sapphire-reserve",
+      "issuer": "Chase",
+      "name": "Chase Sapphire Reserve",
+      "aliases": ["sapphire reserve", "csr", "chase reserve", "chase sapphire reserve card"],
+      "annual_fee_usd": 795,
+      "benefits_url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/reserve",
+      "confidence": "medium",
+      "status": "Refreshed June 2025 with a $795 fee and several new semiannual credits; verify.",
+      "perks": [
+        { "name": "Annual travel credit", "type": "credit", "value_usd": 300, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Automatically applied to the first $300 of travel purchases each cardmember year (flights, hotels, transit, parking, tolls)." },
+        { "name": "The Edit hotel credit", "type": "credit", "value_usd": 250, "cadence": "semiannual", "enrollment_required": false, "how_to_use": "Prepay a stay of two nights or more at a property in The Edit through Chase Travel.", "notes": "Up to $250 Jan–Jun and $250 Jul–Dec ($500 a year)." },
+        { "name": "Exclusive Tables dining credit", "type": "credit", "value_usd": 150, "cadence": "semiannual", "enrollment_required": false, "how_to_use": "Dine at Sapphire Reserve Exclusive Tables restaurants booked through OpenTable and pay with the card.", "notes": "Up to $150 Jan–Jun and $150 Jul–Dec." },
+        { "name": "StubHub and viagogo credit", "type": "credit", "value_usd": 150, "cadence": "semiannual", "enrollment_required": true, "how_to_use": "Activate in the Chase app, then buy tickets on StubHub or viagogo.", "notes": "Up to $150 Jan–Jun and $150 Jul–Dec." },
+        { "name": "DoorDash promos", "type": "credit", "value_usd": 25, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Activate complimentary DashPass, then use the $5 restaurant promo and two $10 grocery or retail promos that appear in the DoorDash app each month.", "notes": "Promos expire at month end." },
+        { "name": "Lyft credit", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": false, "how_to_use": "Pay for Lyft rides with the card; up to $10 in-app credit each month.", "ends": "2027-09-30" },
+        { "name": "Peloton credit", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": false, "how_to_use": "Pay for a Peloton All-Access or App membership with the card.", "ends": "2027-12-31" },
+        { "name": "Apple TV+ and Apple Music", "type": "membership", "value_usd": null, "cadence": "ongoing", "enrollment_required": true, "how_to_use": "Activate through the Chase app to get complimentary Apple TV+ and Apple Music.", "ends": "2027-06-22" },
+        { "name": "Global Entry, TSA PreCheck or NEXUS fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." },
+        { "name": "Priority Pass Select and Sapphire Lounge access", "type": "access", "value_usd": null, "cadence": "ongoing", "enrollment_required": true, "how_to_use": "Enroll in Priority Pass Select through Chase; show the card at Sapphire Lounges by The Club." }
+      ]
+    },
+    {
+      "id": "chase-sapphire-preferred",
+      "issuer": "Chase",
+      "name": "Chase Sapphire Preferred",
+      "aliases": ["sapphire preferred", "csp", "chase preferred", "chase sapphire preferred card"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred",
+      "confidence": "high",
+      "perks": [
+        { "name": "Annual hotel credit", "type": "credit", "value_usd": 50, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Book a hotel through Chase Travel; the first $50 each cardmember year is credited." },
+        { "name": "DoorDash promo", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Activate complimentary DashPass, then use the $10 monthly grocery, convenience or retail promo in the DoorDash app.", "ends": "2027-12-31" },
+        { "name": "10% anniversary points bonus", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Automatic: bonus points equal to 10% of the previous year's purchases post at your anniversary." }
+      ]
+    },
+    {
+      "id": "chase-freedom-flex",
+      "issuer": "Chase",
+      "name": "Chase Freedom Flex",
+      "aliases": ["freedom flex", "chase freedom", "chase flex"],
+      "annual_fee_usd": 0,
+      "benefits_url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/flex",
+      "confidence": "high",
+      "perks": [
+        { "name": "5% quarterly bonus categories (activation required)", "type": "activation", "value_usd": 75, "cadence": "quarterly", "enrollment_required": true, "how_to_use": "Activate the quarter's categories in the Chase app by the 14th of the last month of the quarter, then earn 5% on up to $1,500 in those categories.", "notes": "Value shown is the maximum extra cash back per quarter." },
+        { "name": "DoorDash DashPass", "type": "membership", "value_usd": null, "cadence": "ongoing", "enrollment_required": true, "how_to_use": "Activate complimentary DashPass through the DoorDash app.", "ends": "2027-12-31" }
+      ]
+    },
+    {
+      "id": "discover-it-cash-back",
+      "issuer": "Discover",
+      "name": "Discover it Cash Back",
+      "aliases": ["discover it", "discover cash back", "discover it card"],
+      "annual_fee_usd": 0,
+      "benefits_url": "https://www.discover.com/credit-cards/cash-back/it-card.html",
+      "confidence": "high",
+      "perks": [
+        { "name": "5% quarterly bonus categories (activation required)", "type": "activation", "value_usd": 75, "cadence": "quarterly", "enrollment_required": true, "how_to_use": "Activate each quarter in the Discover app or site, then earn 5% on up to $1,500 in the quarter's categories.", "notes": "You can activate any time during the quarter; earnings before activation do not count." }
+      ]
+    },
+    {
+      "id": "capital-one-venture-x",
+      "issuer": "Capital One",
+      "name": "Capital One Venture X Rewards",
+      "aliases": ["venture x", "capital one venture x", "c1 venture x", "capone venture x"],
+      "annual_fee_usd": 395,
+      "benefits_url": "https://www.capitalone.com/credit-cards/venture-x/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Annual travel credit", "type": "credit", "value_usd": 300, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Book flights, hotels or rental cars through Capital One Travel; the first $300 each cardmember year is credited." },
+        { "name": "Anniversary bonus miles", "type": "award", "value_usd": 100, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Automatic: 10,000 miles post each account anniversary." },
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." },
+        { "name": "Capital One Lounges and Priority Pass", "type": "access", "value_usd": null, "cadence": "ongoing", "enrollment_required": true, "how_to_use": "Enroll in Priority Pass through the Capital One app; show the card at Capital One Lounges and Landings." }
+      ]
+    },
+    {
+      "id": "capital-one-venture",
+      "issuer": "Capital One",
+      "name": "Capital One Venture Rewards",
+      "aliases": ["venture card", "capital one venture", "c1 venture"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://www.capitalone.com/credit-cards/venture/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." }
+      ]
+    },
+    {
+      "id": "citi-strata-premier",
+      "issuer": "Citi",
+      "name": "Citi Strata Premier",
+      "aliases": ["strata premier", "citi premier", "citi strata premier card"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://www.citi.com/credit-cards/citi-strata-premier-credit-card",
+      "confidence": "high",
+      "perks": [
+        { "name": "Annual hotel benefit", "type": "credit", "value_usd": 100, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Book a single hotel stay of $500 or more (excluding taxes and fees) through Citi Travel to get $100 off, once per calendar year." }
+      ]
+    },
+    {
+      "id": "citi-strata-elite",
+      "issuer": "Citi",
+      "name": "Citi Strata Elite",
+      "aliases": ["strata elite", "citi elite", "citi strata elite card"],
+      "annual_fee_usd": 595,
+      "benefits_url": "https://www.citi.com/credit-cards/citi-strata-elite-credit-card",
+      "confidence": "medium",
+      "perks": [
+        { "name": "Annual hotel benefit", "type": "credit", "value_usd": 300, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Prepay a hotel stay of two nights or more through Citi Travel; up to $300 off once per calendar year." },
+        { "name": "Splurge Credit", "type": "credit", "value_usd": 200, "cadence": "annual_calendar", "enrollment_required": true, "how_to_use": "Choose from the Splurge partners (such as American Airlines, Best Buy, 1stDibs, Live Nation, Future) and pay with the card.", "notes": "Up to $200 a year across the chosen partners." },
+        { "name": "Blacklane chauffeur credit", "type": "credit", "value_usd": 100, "cadence": "semiannual", "enrollment_required": false, "how_to_use": "Book Blacklane rides with the card.", "notes": "Up to $100 Jan–Jun and $100 Jul–Dec." },
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." },
+        { "name": "Admirals Club passes and Priority Pass", "type": "access", "value_usd": null, "cadence": "annual_calendar", "enrollment_required": true, "how_to_use": "Four Admirals Club passes a year when flying American; enroll in Priority Pass Select." }
+      ]
+    },
+    {
+      "id": "delta-reserve-amex",
+      "issuer": "American Express",
+      "name": "Delta SkyMiles Reserve American Express Card",
+      "aliases": ["delta reserve", "delta reserve amex", "delta skymiles reserve", "amex delta reserve"],
+      "annual_fee_usd": 650,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/delta-reserve/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Resy credit", "type": "credit", "value_usd": 20, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then dine at U.S. Resy restaurants.", "notes": "Up to $20 a month ($240 a year)." },
+        { "name": "Rideshare credit", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay for Uber, Lyft, Curb, Revel or Alto rides in the U.S.", "notes": "Up to $10 a month ($120 a year)." },
+        { "name": "Delta Stays credit", "type": "credit", "value_usd": 200, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Prepay a hotel or vacation rental through Delta Stays." },
+        { "name": "Companion certificate", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Issued each renewal; book a companion ticket on a domestic, Caribbean or Central American Delta flight before it expires." }
+      ]
+    },
+    {
+      "id": "delta-platinum-amex",
+      "issuer": "American Express",
+      "name": "Delta SkyMiles Platinum American Express Card",
+      "aliases": ["delta platinum", "delta platinum amex", "delta skymiles platinum", "amex delta platinum"],
+      "annual_fee_usd": 350,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-platinum-american-express/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Resy credit", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then dine at U.S. Resy restaurants.", "notes": "Up to $10 a month ($120 a year)." },
+        { "name": "Rideshare credit", "type": "credit", "value_usd": 10, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay for U.S. Uber, Lyft, Curb, Revel or Alto rides." },
+        { "name": "Delta Stays credit", "type": "credit", "value_usd": 150, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Prepay a hotel or vacation rental through Delta Stays." },
+        { "name": "Companion certificate", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Issued each renewal for a Main Cabin companion ticket; book before it expires." }
+      ]
+    },
+    {
+      "id": "delta-gold-amex",
+      "issuer": "American Express",
+      "name": "Delta SkyMiles Gold American Express Card",
+      "aliases": ["delta gold", "delta gold amex", "delta skymiles gold", "amex delta gold"],
+      "annual_fee_usd": 150,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/delta-skymiles-gold-american-express/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Delta Stays credit", "type": "credit", "value_usd": 100, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Prepay a hotel or vacation rental through Delta Stays." },
+        { "name": "$200 Delta flight credit after $10,000 spend", "type": "award", "value_usd": 200, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Spend $10,000 on the card in a calendar year to receive a $200 Delta flight credit." }
+      ]
+    },
+    {
+      "id": "hilton-aspire-amex",
+      "issuer": "American Express",
+      "name": "Hilton Honors American Express Aspire Card",
+      "aliases": ["hilton aspire", "amex aspire", "aspire card", "hilton honors aspire"],
+      "annual_fee_usd": 550,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-aspire/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Hilton resort credit", "type": "credit", "value_usd": 200, "cadence": "semiannual", "enrollment_required": false, "how_to_use": "Pay with the card at participating Hilton resorts.", "notes": "Up to $200 Jan–Jun and $200 Jul–Dec ($400 a year)." },
+        { "name": "Flight credit", "type": "credit", "value_usd": 50, "cadence": "quarterly", "enrollment_required": false, "how_to_use": "Buy flights directly from airlines or through Amex Travel.", "notes": "Up to $50 each quarter ($200 a year)." },
+        { "name": "CLEAR Plus credit", "type": "membership", "value_usd": 209, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Pay for a CLEAR Plus membership with the card." },
+        { "name": "Free Night Reward", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "One free weekend or weekday night each year after renewal, valid at almost any Hilton; expires 12 months after issue." }
+      ]
+    },
+    {
+      "id": "hilton-surpass-amex",
+      "issuer": "American Express",
+      "name": "Hilton Honors American Express Surpass Card",
+      "aliases": ["hilton surpass", "amex surpass", "surpass card"],
+      "annual_fee_usd": 150,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/hilton-honors-surpass/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Hilton credit", "type": "credit", "value_usd": 50, "cadence": "quarterly", "enrollment_required": false, "how_to_use": "Pay with the card at Hilton properties.", "notes": "Up to $50 each quarter ($200 a year)." },
+        { "name": "Free Night Reward after $15,000 spend", "type": "award", "value_usd": null, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Spend $15,000 in a calendar year to earn a free night." }
+      ]
+    },
+    {
+      "id": "marriott-brilliant-amex",
+      "issuer": "American Express",
+      "name": "Marriott Bonvoy Brilliant American Express Card",
+      "aliases": ["bonvoy brilliant", "marriott brilliant", "amex brilliant", "brilliant card"],
+      "annual_fee_usd": 650,
+      "benefits_url": "https://www.americanexpress.com/us/credit-cards/card/marriott-bonvoy-brilliant/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Dining credit", "type": "credit", "value_usd": 25, "cadence": "monthly", "enrollment_required": false, "how_to_use": "Pay at restaurants worldwide with the card.", "notes": "Up to $25 a month ($300 a year)." },
+        { "name": "Free Night Award (up to 85,000 points)", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Issued after each renewal; book a Marriott stay costing up to 85,000 points before it expires (12 months)." },
+        { "name": "Ritz-Carlton and St. Regis property credit", "type": "credit", "value_usd": 100, "cadence": "ongoing", "enrollment_required": false, "how_to_use": "Book a two-night or longer stay at a Ritz-Carlton or St. Regis using the Brilliant rate to get a $100 property credit." },
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." }
+      ]
+    },
+    {
+      "id": "marriott-boundless-chase",
+      "issuer": "Chase",
+      "name": "Marriott Bonvoy Boundless Credit Card",
+      "aliases": ["bonvoy boundless", "marriott boundless", "chase marriott"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://creditcards.chase.com/travel-credit-cards/marriott-bonvoy/boundless",
+      "confidence": "high",
+      "perks": [
+        { "name": "Free Night Award (up to 35,000 points)", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Issued after each account anniversary; redeem within 12 months. You can top up with 15,000 points." }
+      ]
+    },
+    {
+      "id": "world-of-hyatt-chase",
+      "issuer": "Chase",
+      "name": "World of Hyatt Credit Card",
+      "aliases": ["hyatt card", "world of hyatt", "chase hyatt"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://creditcards.chase.com/travel-credit-cards/world-of-hyatt",
+      "confidence": "high",
+      "perks": [
+        { "name": "Category 1–4 free night", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Issued after each anniversary; redeem within 12 months at a Category 1–4 Hyatt." },
+        { "name": "Second free night after $15,000 spend", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Spend $15,000 in a cardmember year to earn another Category 1–4 free night." }
+      ]
+    },
+    {
+      "id": "ihg-premier-chase",
+      "issuer": "Chase",
+      "name": "IHG One Rewards Premier Credit Card",
+      "aliases": ["ihg premier", "ihg card", "chase ihg premier", "ihg one rewards premier"],
+      "annual_fee_usd": 99,
+      "benefits_url": "https://creditcards.chase.com/travel-credit-cards/ihg-rewards-club/premier",
+      "confidence": "medium",
+      "perks": [
+        { "name": "Anniversary free night (up to 40,000 points)", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Issued after each anniversary; redeem within 12 months and top up with points if needed." },
+        { "name": "United TravelBank cash", "type": "credit", "value_usd": 50, "cadence": "annual_calendar", "enrollment_required": true, "how_to_use": "Link your MileagePlus account to receive $50 in United TravelBank cash each calendar year." },
+        { "name": "Global Entry, TSA PreCheck or NEXUS fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." },
+        { "name": "Fourth night free on award stays", "type": "award", "value_usd": null, "cadence": "ongoing", "enrollment_required": false, "how_to_use": "Book four or more award nights; the fourth is free." }
+      ]
+    },
+    {
+      "id": "united-explorer-chase",
+      "issuer": "Chase",
+      "name": "United Explorer Card",
+      "aliases": ["united explorer", "chase united explorer", "united card"],
+      "annual_fee_usd": 150,
+      "benefits_url": "https://creditcards.chase.com/travel-credit-cards/united/explorer",
+      "confidence": "medium",
+      "status": "Refreshed in 2025 with new statement credits; verify current amounts.",
+      "perks": [
+        { "name": "United Hotels credit", "type": "credit", "value_usd": 50, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Prepay a hotel stay through United Hotels." },
+        { "name": "Rideshare credit", "type": "credit", "value_usd": 5, "cadence": "monthly", "enrollment_required": true, "how_to_use": "Enroll, then pay for rideshare purchases with the card; up to $5 a month." },
+        { "name": "United Club one-time passes", "type": "access", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Two passes are deposited in your MileagePlus account each anniversary year." },
+        { "name": "Global Entry, TSA PreCheck or NEXUS fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." },
+        { "name": "First checked bag free", "type": "award", "value_usd": null, "cadence": "ongoing", "enrollment_required": false, "how_to_use": "Buy the United ticket with the card; you and one companion on the same reservation get the first bag free." }
+      ]
+    },
+    {
+      "id": "united-quest-chase",
+      "issuer": "Chase",
+      "name": "United Quest Card",
+      "aliases": ["united quest", "chase united quest"],
+      "annual_fee_usd": 350,
+      "benefits_url": "https://creditcards.chase.com/travel-credit-cards/united/quest",
+      "confidence": "medium",
+      "status": "Refreshed in 2025; verify credit amounts.",
+      "perks": [
+        { "name": "United purchase credit", "type": "credit", "value_usd": 200, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Buy United flights, seat upgrades or inflight purchases with the card; up to $200 credited each year." },
+        { "name": "Award flight discounts", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Two 10,000-mile award flight discounts each anniversary year, applied when you redeem miles." },
+        { "name": "Global Entry, TSA PreCheck or NEXUS fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." }
+      ]
+    },
+    {
+      "id": "southwest-priority-chase",
+      "issuer": "Chase",
+      "name": "Southwest Rapid Rewards Priority Credit Card",
+      "aliases": ["southwest priority", "rapid rewards priority", "chase southwest priority"],
+      "annual_fee_usd": 149,
+      "benefits_url": "https://creditcards.chase.com/travel-credit-cards/southwest/priority",
+      "confidence": "high",
+      "perks": [
+        { "name": "Southwest travel credit", "type": "credit", "value_usd": 75, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Buy Southwest flights with the card; the first $75 each cardmember year is credited." },
+        { "name": "Anniversary points", "type": "award", "value_usd": 100, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Automatic: 7,500 points post at each anniversary." },
+        { "name": "Upgraded boardings", "type": "award", "value_usd": null, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Buy up to four upgraded boardings a year with the card and get them credited back." }
+      ]
+    },
+    {
+      "id": "bofa-premium-rewards-elite",
+      "issuer": "Bank of America",
+      "name": "Bank of America Premium Rewards Elite",
+      "aliases": ["premium rewards elite", "bofa elite", "bank of america elite", "boa premium rewards elite"],
+      "annual_fee_usd": 550,
+      "benefits_url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Airline incidental credit", "type": "credit", "value_usd": 300, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Pay airline incidentals (seat upgrades, bags, lounge fees, inflight purchases) with the card." },
+        { "name": "Lifestyle conveniences credit", "type": "credit", "value_usd": 150, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Pay for rideshare, food delivery, streaming or fitness subscriptions with the card." },
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 120, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." },
+        { "name": "Priority Pass Select (up to four memberships)", "type": "access", "value_usd": null, "cadence": "ongoing", "enrollment_required": true, "how_to_use": "Enroll yourself and authorized users through the card benefits site." }
+      ]
+    },
+    {
+      "id": "bofa-premium-rewards",
+      "issuer": "Bank of America",
+      "name": "Bank of America Premium Rewards",
+      "aliases": ["premium rewards", "bofa premium rewards", "boa premium rewards"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Airline incidental credit", "type": "credit", "value_usd": 100, "cadence": "annual_calendar", "enrollment_required": false, "how_to_use": "Pay airline incidentals (seat upgrades, bags, lounge fees) with the card." },
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 100, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." }
+      ]
+    },
+    {
+      "id": "wells-fargo-autograph-journey",
+      "issuer": "Wells Fargo",
+      "name": "Wells Fargo Autograph Journey",
+      "aliases": ["autograph journey", "wells fargo journey", "wf autograph journey"],
+      "annual_fee_usd": 95,
+      "benefits_url": "https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card/",
+      "confidence": "high",
+      "perks": [
+        { "name": "Airline statement credit", "type": "credit", "value_usd": 50, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Spend $50 or more on airline purchases in a cardmember year to receive a $50 statement credit." }
+      ]
+    },
+    {
+      "id": "us-bank-altitude-reserve",
+      "issuer": "U.S. Bank",
+      "name": "U.S. Bank Altitude Reserve Visa Infinite",
+      "aliases": ["altitude reserve", "us bank reserve", "usb altitude reserve"],
+      "annual_fee_usd": 400,
+      "benefits_url": "https://www.usbank.com/credit-cards/altitude-reserve-visa-infinite-credit-card.html",
+      "confidence": "medium",
+      "status": "Closed to new applicants since 2025; existing cardholders keep the benefits.",
+      "perks": [
+        { "name": "Travel and dining credit", "type": "credit", "value_usd": 325, "cadence": "cardmember_year", "enrollment_required": false, "how_to_use": "Automatically applied to travel and dining purchases each cardmember year." },
+        { "name": "Global Entry or TSA PreCheck fee credit", "type": "credit", "value_usd": 100, "cadence": "every_4_years", "enrollment_required": false, "how_to_use": "Pay the application fee with the card." }
+      ]
+    }
+  ]
+}

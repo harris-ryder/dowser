@@ -1,0 +1,33 @@
+name: Refresh data
+
+on:
+  schedule:
+    # Daily at 09:17 UTC. Settlement deadlines and recalls change daily.
+    - cron: "17 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build:data
+      - name: Commit refreshed data
+        run: |
+          if git diff --quiet -- data; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "dowser-bot"
+          git config user.email "dowser-bot@users.noreply.github.com"
+          git add data
+          git commit -m "data: daily refresh $(date -u +%Y-%m-%d)"
+          git push
