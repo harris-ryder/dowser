@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-19T20:47:20.461Z",
+ "generated_at": "2026-09-20T13:35:57.666Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 308,
+ "count": 311,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -220,37 +220,28 @@
    ]
   },
   {
-   "id": "oca-columbus-regional-health-pixel-tracking-class-action-settlement",
-   "title": "Columbus Regional Health Pixel Tracking Settlement — $25.50 for Indiana Portal Users",
-   "summary": "A flat $25.50 cash payment, not a pro rata share, plus one year of CyEx Privacy Shield Pro for Indiana patients who logged into the Columbus Regional patient portal between November 1, 2017 and June 30, 2022.",
-   "category": "Privacy",
-   "states": [
-    "IN"
-   ],
+   "id": "ca-settlements-columbus-regional-health-data-privacy",
+   "title": "Columbus Regional Health - Data Privacy Class Action Settlement",
+   "summary": "This settlement covers current and former patients of Columbus Regional Health who completed a registration for access to their electronic records between November 1, 2017 and June 30, 2022.",
+   "category": "Data Privacy",
+   "states": [],
    "deadline": "2026-09-19",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $25.50 cash payment, not a pro rata share, plus one year of CyEx Privacy Shield Pro for Indiana patients who logged into the Columbus Regional patient p…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$25.50",
    "claim_url": "https://columbusregionalsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/pixel-tracking/columbus-regional-health-pixel-tracking-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#columbus-regional-health-data-privacy"
-   ],
-   "added": "2026-09-16",
-   "first_seen": "2026-09-16",
+   "info_url": "https://www.classaction.org/settlements#columbus-regional-health-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-20",
    "keywords": [
     "columbus",
     "regional",
     "health",
-    "pixel",
-    "tracking",
-    "25",
-    "50",
-    "indiana",
-    "portal",
-    "user"
+    "data",
+    "privacy"
    ]
   },
   {
@@ -1528,11 +1519,10 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "a pro rata cash payment, or up to $5,000 in documented losses instead, plus three years of credit monitoring, for anyone notified of the 2024 HCSG incident",
-   "claim_url": "https://cusocybersecurityincident.com/",
+   "claim_url": "https://healthcareservicesgroupsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/healthcare-services-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#cuso-financial-services-data-breach",
     "https://www.classaction.org/settlements#healthcare-services-group-data-breach"
    ],
    "added": "2026-08-26",
@@ -1541,9 +1531,7 @@
     "healthcare",
     "service",
     "data",
-    "breach",
-    "cuso",
-    "financial"
+    "breach"
    ]
   },
   {
@@ -5370,6 +5358,34 @@
    ]
   },
   {
+   "id": "oca-cuso-financial-services-data-breach-settlement",
+   "title": "CUSO Financial Services Data Breach Settlement — Up to $599",
+   "summary": "up to $599 in residual cash, $100 more for California Subclass members, and up to $5,000 documented, plus two years of IDX credit monitoring · the 76,251 people CUSO notified in 2024",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-16",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "up to $599 in residual cash, $100 more for California Subclass members, and up to $5,000 documented, plus two years of IDX credit monitoring",
+   "claim_url": "https://cusocybersecurityincident.com/",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/cuso-financial-services-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#cuso-financial-services-data-breach"
+   ],
+   "added": "2026-09-19",
+   "first_seen": "2026-09-19",
+   "keywords": [
+    "cuso",
+    "financial",
+    "service",
+    "data",
+    "breach",
+    "599"
+   ]
+  },
+  {
    "id": "oca-cvs-digital-privacy-class-action-settlement",
    "title": "CVS Digital Privacy Settlement — Up to $5 Without Proof",
    "summary": "CVS website and app users may claim up to $5, or up to $10 with documentation, subject to proportional reductions.",
@@ -6056,6 +6072,34 @@
     "canceled",
     "plus",
     "250"
+   ]
+  },
+  {
+   "id": "oca-healthport-datavant-pennsylvania-medical-records-fees-class-action-settlement",
+   "title": "HealthPort/Datavant Pennsylvania Medical Records Fee Class Action Settlement",
+   "summary": "A refund of 35% of the basic, search-and-retrieval and per-page fees paid to HealthPort for copies of Pennsylvania medical records between July 15, 2005 and September 3, 2012.",
+   "category": "Fees & Billing",
+   "states": [
+    "PA"
+   ],
+   "deadline": "2026-11-30",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/healthport-datavant-pennsylvania-medical-records-fees-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-20",
+   "first_seen": "2026-09-20",
+   "keywords": [
+    "healthport",
+    "datavant",
+    "pennsylvania",
+    "medical",
+    "record",
+    "fee"
    ]
   },
   {
@@ -7215,6 +7259,32 @@
     "honda",
     "acura",
     "vehicle"
+   ]
+  },
+  {
+   "id": "oca-alaska-airlines-military-leave-vacation-class-action-settlement",
+   "title": "Alaska Airlines $500K Pilot Military Leave Settlement",
+   "summary": "About 163 current and former Alaska Airlines pilots share $500,000 for vacation that never accrued during military leaves of 31 to 60 consecutive days.",
+   "category": "Employment",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "About 163 current and former Alaska Airlines pilots share $500,000 for vacation that never accrued during military leaves of 31 to 60 consecutive days.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/employment-law/alaska-airlines-military-leave-vacation-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-20",
+   "first_seen": "2026-09-20",
+   "keywords": [
+    "alaska",
+    "airline",
+    "500k",
+    "pilot",
+    "military",
+    "leave"
    ]
   },
   {
