@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-20T13:35:57.666Z",
+ "generated_at": "2026-09-21T15:54:57.199Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 311,
+ "count": 313,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -242,31 +242,6 @@
     "health",
     "data",
     "privacy"
-   ]
-  },
-  {
-   "id": "oca-danaher-securities-class-action-settlement",
-   "title": "$172.5M Danaher Securities Class Action Settlement (DHR)",
-   "summary": "pro rata share of a $172,500,000 fund · estimated $1.13 per eligible share before fees · anyone who bought Danaher (NYSE: DHR) common stock Jan 27, 2022 – Oct 23, 2023 · brokerage records required · shares sold before Oct 20, 2022 recover $0",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-09-20",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata share of a $172,500,000 fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/danaher-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-17",
-   "first_seen": "2026-09-17",
-   "keywords": [
-    "172",
-    "5m",
-    "danaher",
-    "security",
-    "dhr"
    ]
   },
   {
@@ -2431,27 +2406,34 @@
    ]
   },
   {
-   "id": "ca-settlements-anthem-prostate-cancer-treatment",
-   "title": "Anthem - Prostate Cancer Treatment Class Action Settlement",
-   "summary": "You may be included in this settlement if you received proton beam radiation therapy for prostate cancer and sought coverage from Anthem, but your treatments were not covered by insurance.",
-   "category": "Prostate Cancer Treatment",
+   "id": "oca-blue-cross-blue-shield-georgia-proton-beam-therapy-class-action-settlement",
+   "title": "Anthem Proton Beam Therapy Settlement — $3.625M for Denied PBRT Coverage",
+   "summary": "A pro rata share of $3,625,000, capped at each claimant's own out-of-pocket total, for the roughly 140 people Anthem identified as having sought coverage for proton beam radiation therapy for prostate cancer that insurance never covered.",
+   "category": "Healthcare",
    "states": [],
    "deadline": "2026-10-10",
    "deadline_type": "claim",
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
+   "payout": "A pro rata share of $3,625,000, capped at each claimant's own out-of-pocket total, for the roughly 140 people Anthem identified as having sought coverage for p…",
    "claim_url": "https://protonbeamradiationtherapylitigation.com/",
-   "info_url": "https://www.classaction.org/settlements#anthem-prostate-cancer-treatment",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
+   "info_url": "https://openclassactions.com/settlements/blue-cross-blue-shield-georgia-proton-beam-therapy-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#anthem-prostate-cancer-treatment"
+   ],
+   "added": "2026-09-21",
+   "first_seen": "2026-09-21",
    "keywords": [
     "anthem",
-    "prostate",
-    "cancer",
-    "treatment"
+    "proton",
+    "beam",
+    "therapy",
+    "3",
+    "625m",
+    "denied",
+    "pbrt",
+    "coverage"
    ]
   },
   {
@@ -2763,29 +2745,37 @@
    ]
   },
   {
-   "id": "ca-settlements-davison-design-and-development-unwanted-texts-washington",
-   "title": "Davison Design & Development - Unwanted Texts (Washington) Class Action Settlement",
-   "summary": "You may be included in this settlement if you were a Washington resident and received one or more text messages from Davison Design & Development between November 15, 2021 and December 10, 2025.",
-   "category": "Unwanted Texts (Washington)",
-   "states": [],
+   "id": "oca-davison-design-washington-text-message-class-action-settlement",
+   "title": "Davison Design Washington Text Message Settlement — Equal Share of $30,000",
+   "summary": "An equal per-capita share of a $30,000 fund for about 480 Washington residents who were texted marketing messages by Davison Design at a Washington-area-code cellphone number after that number was disconnected and reassigned.",
+   "category": "TCPA",
+   "states": [
+    "WA"
+   ],
    "deadline": "2026-10-13",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "Varies",
+   "payout": "An equal per-capita share of a $30,000 fund for about 480 Washington residents who were texted marketing messages by Davison Design at a Washington-area-code c…",
    "claim_url": "https://www.millertextsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#davison-design-and-development-unwanted-texts-washington",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
+   "info_url": "https://openclassactions.com/settlements/tcpa/davison-design-washington-text-message-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#davison-design-and-development-unwanted-texts-washington"
+   ],
+   "added": "2026-09-21",
+   "first_seen": "2026-09-21",
    "keywords": [
     "davison",
     "design",
-    "development",
-    "unwanted",
+    "washington",
     "text",
-    "washington"
+    "message",
+    "equal",
+    "share",
+    "30",
+    "000",
+    "development"
    ]
   },
   {
@@ -3674,6 +3664,34 @@
     "breach",
     "1",
     "3m"
+   ]
+  },
+  {
+   "id": "oca-dartmouth-oracle-ebs-data-breach-settlement",
+   "title": "Dartmouth Oracle EBS Data Breach Settlement — $75 or Up to $5,000",
+   "summary": "An estimated $75 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Dartmouth notified of the Oracle EBS data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-10-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $75 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Dartmouth notified of the Oracle EBS data i…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/dartmouth-oracle-ebs-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-21",
+   "first_seen": "2026-09-21",
+   "keywords": [
+    "dartmouth",
+    "oracle",
+    "ebs",
+    "data",
+    "breach",
+    "75",
+    "5",
+    "000"
    ]
   },
   {
@@ -6555,6 +6573,61 @@
     "reservation",
     "fee",
     "california"
+   ]
+  },
+  {
+   "id": "oca-apple-intelligence-siri-false-advertising-class-action-settlement",
+   "title": "$250M Apple Intelligence Siri Settlement — $25 to $95 per iPhone",
+   "summary": "A $25 payment per eligible iPhone, adjustable pro rata up to $95, for U.S. buyers of an iPhone 15 Pro, 15 Pro Max or any iPhone 16 model between June 10, 2024 and March 29, 2025 who expected Siri Apple Intelligence features they did not get; the serial number or Apple Account email stands in for a receipt.",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2026-12-21",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "A $25 payment per eligible iPhone, adjustable pro rata up to $95, for U.S. buyers of an iPhone 15 Pro, 15 Pro Max or any iPhone 16 model between June 10, 2024…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/false-advertising/apple-intelligence-siri-false-advertising-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-21",
+   "first_seen": "2026-09-21",
+   "keywords": [
+    "250m",
+    "apple",
+    "intelligence",
+    "siri",
+    "25",
+    "95",
+    "iphone"
+   ]
+  },
+  {
+   "id": "oca-innovative-renal-care-data-breach-settlement",
+   "title": "Innovative Renal Care Data Breach Settlement — $100 or Up to $5,000",
+   "summary": "An estimated $100 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Innovative Renal Care notified of the 2024 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $100 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Innovative Renal Care notified of the 2024…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/innovative-renal-care-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-21",
+   "first_seen": "2026-09-21",
+   "keywords": [
+    "innovative",
+    "renal",
+    "care",
+    "data",
+    "breach",
+    "100",
+    "5",
+    "000"
    ]
   },
   {
