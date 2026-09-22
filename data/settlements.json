@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-21T15:54:57.199Z",
+ "generated_at": "2026-09-22T14:03:45.908Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 313,
+ "count": 311,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -194,81 +194,6 @@
     "fire",
     "fee",
     "refund"
-   ]
-  },
-  {
-   "id": "ca-settlements-moodswings-ticket-fees",
-   "title": "Moodswings - Ticket Fees Class Action Settlement",
-   "summary": "This settlement covers those who bought tickets online through tickets.mesmerica.com, tickets.beautifica.show, changeworlds.org and ticketshop.mesmerica.com in certain states.",
-   "category": "Ticket Fees",
-   "states": [],
-   "deadline": "2026-09-18",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$2 - $7 per ticket",
-   "claim_url": "https://moodswingsticketingsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#moodswings-ticket-fees",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "moodswing",
-    "ticket",
-    "fee"
-   ]
-  },
-  {
-   "id": "ca-settlements-columbus-regional-health-data-privacy",
-   "title": "Columbus Regional Health - Data Privacy Class Action Settlement",
-   "summary": "This settlement covers current and former patients of Columbus Regional Health who completed a registration for access to their electronic records between November 1, 2017 and June 30, 2022.",
-   "category": "Data Privacy",
-   "states": [],
-   "deadline": "2026-09-19",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$25.50",
-   "claim_url": "https://columbusregionalsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#columbus-regional-health-data-privacy",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-20",
-   "keywords": [
-    "columbus",
-    "regional",
-    "health",
-    "data",
-    "privacy"
-   ]
-  },
-  {
-   "id": "oca-excel-fitness-data-breach-settlement",
-   "title": "Excel Fitness Data Breach Settlement",
-   "summary": "$50 cash with ID required, or up to $4,000 documented out-of-pocket losses plus $75 lost time · 2 years of credit monitoring ($1M insurance) · $175,000 cap · employees notified of the Jan 2025 cyberattack on Excel Fitness · Unique ID from your notice optional",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-09-21",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$50 cash with ID required, or up to $4,000 documented out-of-pocket losses plus $75 lost time",
-   "claim_url": "https://excelfitnessdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/excel-fitness-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#excel-fitness-management-data-breach"
-   ],
-   "added": "2026-07-13",
-   "first_seen": "2026-07-13",
-   "keywords": [
-    "excel",
-    "fitness",
-    "data",
-    "breach",
-    "management"
    ]
   },
   {
@@ -1113,7 +1038,8 @@
    "source": "openclassactions",
    "also_listed_at": [
     "https://www.classaction.org/settlements#the-management-association-data-breaches",
-    "https://www.classaction.org/settlements#hcf-management-data-breach"
+    "https://www.classaction.org/settlements#hcf-management-data-breach",
+    "https://www.classaction.org/settlements#excel-fitness-management-data-breach"
    ],
    "added": "2026-07-30",
    "first_seen": "2026-07-30",
@@ -1123,7 +1049,9 @@
     "data",
     "breach",
     "mra",
-    "association"
+    "association",
+    "excel",
+    "fitness"
    ]
   },
   {
@@ -6812,6 +6740,36 @@
     "202",
     "7m",
     "wagefixing"
+   ]
+  },
+  {
+   "id": "oca-curran-progressive-colorado-total-loss-class-action-settlement",
+   "title": "Progressive Colorado Total-Loss Settlement — $15.2M for Underpaid Totaled Vehicles",
+   "summary": "68% of the projected sold adjustment Progressive applied to a totaled vehicle — about 1.87% of the vehicle actual cash value for Progressive Direct policyholders and about 1.53% for Progressive Preferred — for Colorado first-party total-loss claims valued with a Mitchell Instant Report.",
+   "category": "Insurance",
+   "states": [
+    "CO"
+   ],
+   "deadline": "2027-02-05",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$15.2M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/curran-progressive-colorado-total-loss-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-21",
+   "first_seen": "2026-09-21",
+   "keywords": [
+    "progressive",
+    "colorado",
+    "totalloss",
+    "15",
+    "2m",
+    "underpaid",
+    "totaled",
+    "vehicle"
    ]
   },
   {
