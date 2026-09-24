@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-23T14:15:40.826Z",
+ "generated_at": "2026-09-24T14:14:01.108Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 315,
+ "count": 316,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -297,57 +297,26 @@
    ]
   },
   {
-   "id": "oca-toyota-forklift-class-action-settlement",
-   "title": "$299.5M Toyota Forklift Emissions Settlement — Claims Open",
-   "summary": "~$1,000–$2,500 cash per eligible forklift from a $299,500,000 fund, plus a free service visit · anyone, including businesses, who bought or leased a Toyota internal-combustion forklift built 2007–2021 (1KD, 1ZS, 1FS or 4Y engine) · proof of ownership or lease may be required",
-   "category": "Auto",
+   "id": "ca-settlements-dovenmuehle-phone-payment-fees",
+   "title": "Dovenmuehle - Phone Payment Fees Class Action Settlement",
+   "summary": "This settlement covers those with a residential mortgage loan securing a property in North Carolina that was serviced by Dovenmuehle who paid a fee for making a loan payment by phone between April 10, 2020 and January 13, 2026.",
+   "category": "Phone Payment Fees",
    "states": [],
    "deadline": "2026-09-23",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "~$1,000–$2,500 cash per eligible forklift from a $299,500,000 fund, plus a free service visit",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/toyota-forklift-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "keywords": [
-    "299",
-    "5m",
-    "toyota",
-    "forklift",
-    "emission"
-   ]
-  },
-  {
-   "id": "oca-dovenmuehle-mortgage-pay-to-pay-fee-settlement",
-   "title": "Dovenmuehle $9M Mortgage Pay-to-Pay Fee Settlement (North Carolina)",
-   "summary": "automatic payment, no claim form · $9M fund · North Carolina borrowers serviced by Dovenmuehle who paid a pay-to-pay fee for phone or IVR mortgage payments (Apr 10, 2020 – Jan 13, 2026) · estimated ~$425 per fee",
-   "category": "Banking & Credit",
-   "states": [],
-   "deadline": "2026-09-23",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "estimated ~$425 per fee",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "Varies",
    "claim_url": "https://dovenmuehlephonefeelawsuit.com/home",
-   "info_url": "https://openclassactions.com/settlements/dovenmuehle-mortgage-pay-to-pay-fee-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#dovenmuehle-phone-payment-fees"
-   ],
-   "added": "2026-07-08",
-   "first_seen": "2026-07-08",
+   "info_url": "https://www.classaction.org/settlements#dovenmuehle-phone-payment-fees",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-24",
    "keywords": [
     "dovenmuehle",
-    "9m",
-    "mortgage",
-    "paytopay",
-    "fee",
-    "north",
-    "carolina"
+    "phone",
+    "fee"
    ]
   },
   {
@@ -7147,6 +7116,33 @@
    ]
   },
   {
+   "id": "oca-whirlpool-kitchenaid-maytag-refrigerator-frost-class-action-settlement",
+   "title": "Whirlpool / KitchenAid / Maytag 3-Door Refrigerator Frost Clog Class Action Settlement",
+   "summary": "up to $300 repair reimbursement, or a share of the replacement price, for a documented frost clog problem after January 31, 2025 · claim within 90 days of the repair or replacement",
+   "category": "Other",
+   "states": [],
+   "deadline": "2028-12-31",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "up to $300 repair reimbursement, or a share of the replacement price, for a documented frost clog problem after January 31, 2025",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/whirlpool-kitchenaid-maytag-refrigerator-frost-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "whirlpool",
+    "kitchenaid",
+    "maytag",
+    "3door",
+    "refrigerator",
+    "frost",
+    "clog"
+   ]
+  },
+  {
    "id": "oca-sanyo-solar-panel-class-action-settlement",
    "title": "Sanyo Solar Panel Delamination Class Action Settlement",
    "summary": "replacement panels, or a prorated cash refund (original price minus depreciation, $700 default when unknown) · owners of delaminating Sanyo HIP-xxxBA2/BA3/BA5 panels still inside the 20-year Power Warranty · photos of the damage and proof of ownership required",
@@ -7653,6 +7649,32 @@
     "domestic",
     "flight",
     "antitrust"
+   ]
+  },
+  {
+   "id": "oca-dovenmuehle-mortgage-pay-to-pay-fee-settlement",
+   "title": "Dovenmuehle $9M Mortgage Pay-to-Pay Fee Settlement — Automatic Payment (NC)",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$9M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/dovenmuehle-mortgage-pay-to-pay-fee-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-07-08",
+   "first_seen": "2026-07-08",
+   "keywords": [
+    "dovenmuehle",
+    "9m",
+    "mortgage",
+    "paytopay",
+    "fee",
+    "nc"
    ]
   },
   {
