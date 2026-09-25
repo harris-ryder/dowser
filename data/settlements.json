@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-24T14:14:01.108Z",
+ "generated_at": "2026-09-25T14:37:48.483Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 316,
+ "count": 329,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -320,30 +320,27 @@
    ]
   },
   {
-   "id": "oca-drug-and-alcohol-treatment-services-data-breach-settlement",
-   "title": "Drug and Alcohol Treatment Services (DATS) Data Breach Settlement",
-   "summary": "Up to $5,000 in documented out-of-pocket losses, or an alternate flat cash payment sized pro rata instead, plus one year of CyEx Medical Shield medical identity monitoring with either.",
+   "id": "ca-settlements-drug-and-alcohol-treatment-services-data-breach",
+   "title": "Drug and Alcohol Treatment Services - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was impacted by the October 2024 Drug and Alcohol Treatment Services data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-09-24",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Up to $5,000 in documented out-of-pocket losses, or an alternate flat cash payment sized pro rata instead, plus one year of CyEx Medical Shield medical identit…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $5,000",
    "claim_url": "https://www.datsdatabreachsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/drug-and-alcohol-treatment-services-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#drug-and-alcohol-treatment-services-data-breach"
-   ],
-   "added": "2026-09-17",
-   "first_seen": "2026-09-17",
+   "info_url": "https://www.classaction.org/settlements#drug-and-alcohol-treatment-services-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-25",
    "keywords": [
     "drug",
     "alcohol",
     "treatment",
     "service",
-    "dat",
     "data",
     "breach"
    ]
@@ -371,31 +368,6 @@
     "coal",
     "tar",
     "shampoo"
-   ]
-  },
-  {
-   "id": "oca-mg217-coal-tar-shampoo-benzene-class-action-settlement",
-   "title": "MG217 Coal Tar Shampoo Benzene Class Action Settlement",
-   "summary": "Up to $7 per bottle with no receipt, the full purchase price with proof, or a $25 MG217 voucher, from a $1.2M settlement.",
-   "category": "Consumer Products",
-   "states": [],
-   "deadline": "2026-09-24",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $7 per bottle with no receipt, the full purchase price with proof, or a $25 MG217 voucher, from a $1.2M settlement.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/product-defects/mg217-coal-tar-shampoo-benzene-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-20",
-   "first_seen": "2026-08-20",
-   "keywords": [
-    "mg217",
-    "coal",
-    "tar",
-    "shampoo",
-    "benzene"
    ]
   },
   {
@@ -1361,11 +1333,10 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "a pro rata cash payment, or up to $5,000 in documented losses instead, plus three years of credit monitoring, for anyone notified of the 2024 HCSG incident",
-   "claim_url": "https://trcdatasettlement.com/",
+   "claim_url": "https://healthcareservicesgroupsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/healthcare-services-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#trc-staffing-services-data-breach",
     "https://www.classaction.org/settlements#healthcare-services-group-data-breach"
    ],
    "added": "2026-08-26",
@@ -1374,9 +1345,7 @@
     "healthcare",
     "service",
     "data",
-    "breach",
-    "trc",
-    "staffing"
+    "breach"
    ]
   },
   {
@@ -2012,6 +1981,31 @@
    ]
   },
   {
+   "id": "oca-tal-education-securities-class-action-settlement",
+   "title": "$14.1M TAL Education Securities Settlement (TAL)",
+   "summary": "About $0.09 an ADS before fees from a $14.1 million fund for investors who bought TAL Education ADSs during the class period and still held them at its end.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-10-08",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "About $0.09 an ADS before fees from a $14.1 million fund for investors who bought TAL Education ADSs during the class period and still held them at its end.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/tal-education-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "14",
+    "1m",
+    "tal",
+    "education",
+    "security"
+   ]
+  },
+  {
    "id": "oca-arrowhead-regional-computing-consortium-data-breach-settlement",
    "title": "Arrowhead Regional Computing Consortium (ARCC) Data Breach Class Action Settlement",
    "summary": "2 years of 3-bureau credit monitoring plus $20/hour for up to 4 hours ($80 cap) — both, not a choice · no common fund, so the benefit does not shrink · ~65,379 people notified of the Feb 2023 breach at the Minnesota school-technology cooperative · Claim ID & PIN needed",
@@ -2251,6 +2245,33 @@
    ]
   },
   {
+   "id": "oca-vintage-wine-estates-securities-class-action-settlement",
+   "title": "$7.5M Vintage Wine Estates Securities Settlement (VWE)",
+   "summary": "A pro rata share of a $7.5 million fund for investors who bought Vintage Wine Estates common stock during the class period, estimated at about $0.79 a share before fees.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-10-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a $7.5 million fund for investors who bought Vintage Wine Estates common stock during the class period, estimated at about $0.79 a share be…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/vintage-wine-estates-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "7",
+    "5m",
+    "vintage",
+    "wine",
+    "estate",
+    "security",
+    "vwe"
+   ]
+  },
+  {
    "id": "oca-metropolis-parking-tennessee-settlement",
    "title": "Metropolis $6.5M Tennessee Parking Settlement",
    "summary": "restitution for the wrongful charge you can document · $6,500,000 paid to Tennessee and distributed at the Attorney General's discretion · anyone overcharged, ticketed or booted at a Tennessee Metropolis lot (Jul 1, 2021 – Jan 6, 2026) · documentation required",
@@ -2358,6 +2379,31 @@
     "zymergen",
     "ipo",
     "security"
+   ]
+  },
+  {
+   "id": "oca-spectrum-pharmaceuticals-securities-class-action-settlement",
+   "title": "$7M Spectrum Pharmaceuticals Securities Settlement (SPPI)",
+   "summary": "About $0.08 a share before fees from a $7 million fund for investors who bought Spectrum Pharmaceuticals common stock during the class period.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-10-12",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "About $0.08 a share before fees from a $7 million fund for investors who bought Spectrum Pharmaceuticals common stock during the class period.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/spectrum-pharmaceuticals-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "7m",
+    "spectrum",
+    "pharmaceutical",
+    "security",
+    "sppi"
    ]
   },
   {
@@ -3066,6 +3112,37 @@
    ]
   },
   {
+   "id": "oca-anixter-center-data-breach-settlement",
+   "title": "Anixter Center Data Breach Settlement — $50 or Up to $5,000",
+   "summary": "Up to $5,000 in documented losses plus up to $52.50 for lost time, or a flat $50 with no documentation instead, plus a year of identity protection, for people notified of the 2023 Anixter Center breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-10-19",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $5,000 in documented losses plus up to $52.50 for lost time, or a flat $50 with no documentation instead, plus a year of identity protection, for people…",
+   "claim_url": "https://www.anixterdatasettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/anixter-center-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#lester-and-rosalie-anixter-center-data-breach"
+   ],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "anixter",
+    "center",
+    "data",
+    "breach",
+    "50",
+    "5",
+    "000",
+    "lester",
+    "rosalie"
+   ]
+  },
+  {
    "id": "oca-cibc-nsf-fee-settlement-canada",
    "title": "CIBC $10M NSF Fee Class Action Settlement (Canada)",
    "summary": "automatic payment, no claim form · $10M CAD fund, paid pro rata by direct deposit · CIBC & Simplii personal deposit customers charged an NSF fee on a re-presented pre-authorized debit (Sept 21, 2020 – Feb 1, 2024 for CIBC, Dec 18, 2022 for Simplii)",
@@ -3202,32 +3279,6 @@
     "life",
     "american",
     "income",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-lester-and-rosalie-anixter-center-data-breach",
-   "title": "Lester and Rosalie Anixter Center - Data Breach Class Action Settlement",
-   "summary": "If your private information was compromised in the July 2023 Lester and Rosalie Anixter Center data breach, you may be included in this settlement.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$50 - $5,000",
-   "claim_url": "https://www.anixterdatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#lester-and-rosalie-anixter-center-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "lester",
-    "rosalie",
-    "anixter",
-    "center",
     "data",
     "breach"
    ]
@@ -4863,6 +4914,60 @@
    ]
   },
   {
+   "id": "oca-cronos-group-securities-class-action-settlement",
+   "title": "$10M Cronos Group U.S. Securities Settlement (CRON)",
+   "summary": "A pro rata share of a $10 million fund for investors who bought Cronos Group stock on a U.S. market during the class period, estimated at about $0.06 a share before fees.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a $10 million fund for investors who bought Cronos Group stock on a U.S. market during the class period, estimated at about $0.06 a share b…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/cronos-group-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "10m",
+    "crono",
+    "security",
+    "cron"
+   ]
+  },
+  {
+   "id": "oca-boone-health-patient-portal-privacy-settlement",
+   "title": "Boone Health Patient Portal Privacy Settlement — $20 Cash",
+   "summary": "A flat $20 plus optional CyEx Privacy Shield Pro enrollment for Missouri patients who logged into the Boone Health patient portal.",
+   "category": "Privacy",
+   "states": [
+    "MO"
+   ],
+   "deadline": "2026-11-09",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $20 plus optional CyEx Privacy Shield Pro enrollment for Missouri patients who logged into the Boone Health patient portal.",
+   "claim_url": "https://www.boonehealthsettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/privacy/boone-health-patient-portal-privacy-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#boone-health-data-privacy-missouri"
+   ],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "boone",
+    "health",
+    "patient",
+    "portal",
+    "privacy",
+    "20"
+   ]
+  },
+  {
    "id": "oca-covenant-transport-washington-job-postings-class-action-settlement",
    "title": "Covenant Transport Washington Job Postings Class Action Settlement",
    "summary": "an equal share of a $288,125 to $412,500 fund, estimated at about $921 and capped at $5,000, for people who applied online for a Covenant Transport team driver position in Washington",
@@ -4922,15 +5027,15 @@
   },
   {
    "id": "oca-generic-drugs-price-fixing-class-action-settlement",
-   "title": "Generic Drug Price-Fixing Settlements — End-Payer Claims Open ($850M+)",
-   "summary": "pro rata cash from the federal End-Payer settlements (Sandoz $275M, Sun/Taro $200M, Apotex/Heritage $58M) · consumers and insurers who paid for covered generic prescription drugs (May 1, 2009 – Dec 31, 2019) · proof of purchase required",
+   "title": "Generic Drug Price-Fixing Settlements — End-Payer and State AG Claims Open ($850M+)",
+   "summary": "Pro rata cash for consumers and health plans that paid for covered generic drugs; End-Payer claims close November 9, 2026 and a separate State AG claim stays open through March 8, 2027.",
    "category": "Antitrust",
    "states": [],
    "deadline": "2026-11-09",
    "deadline_type": "claim",
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata cash from the federal End-Payer settlements (Sandoz $275M, Sun/Taro $200M, Apotex/Heritage $58M)",
+   "payout": "$850M settlement fund (individual payout not stated)",
    "claim_url": "https://www.genericdrugsendpayersettlement.com/",
    "info_url": "https://openclassactions.com/settlements/generic-drugs-price-fixing-class-action-settlement.php",
    "source": "openclassactions",
@@ -4944,6 +5049,8 @@
     "drug",
     "pricefixing",
     "endpayer",
+    "state",
+    "ag",
     "850m",
     "pharmaceutical",
     "antitrust"
@@ -4979,29 +5086,34 @@
    ]
   },
   {
-   "id": "ca-settlements-twin-cities-pain-clinic-data-breach",
-   "title": "Twin Cities Pain Clinic - Data Breach Class Action Settlement",
-   "summary": "If your private information was compromised in the July 2025 Twin Cities Pain Clinic data breach, you may be included in this settlement.",
+   "id": "oca-twin-cities-pain-clinic-data-breach-settlement",
+   "title": "Twin Cities Pain Clinic Data Breach Settlement — $55 or Up to $4,500",
+   "summary": "An expected $55 with no documentation, or up to $4,500 documented, plus two years of credit monitoring, for patients notified of the 2025 email intrusion.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-09",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$55 - $4,500",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An expected $55 with no documentation, or up to $4,500 documented, plus two years of credit monitoring, for patients notified of the 2025 email intrusion.",
    "claim_url": "https://tcpcdatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#twin-cities-pain-clinic-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-23",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/twin-cities-pain-clinic-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#twin-cities-pain-clinic-data-breach"
+   ],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
    "keywords": [
     "twin",
     "city",
     "pain",
     "clinic",
     "data",
-    "breach"
+    "breach",
+    "55",
+    "4",
+    "500"
    ]
   },
   {
@@ -5019,8 +5131,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/valley-oaks-health-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#valley-oaks-health-data-breach",
-    "https://www.classaction.org/settlements#boone-health-data-privacy-missouri"
+    "https://www.classaction.org/settlements#valley-oaks-health-data-breach"
    ],
    "added": "2026-09-14",
    "first_seen": "2026-09-14",
@@ -5029,8 +5140,7 @@
     "oak",
     "health",
     "data",
-    "breach",
-    "boone"
+    "breach"
    ]
   },
   {
@@ -5056,6 +5166,32 @@
     "rx",
     "brandname",
     "drug"
+   ]
+  },
+  {
+   "id": "oca-communications-data-group-data-breach-settlement",
+   "title": "Communications Data Group Data Breach Settlement — $45 or Up to $5,000",
+   "summary": "A flat $45 with no documentation, or up to $5,000 documented plus three years of credit monitoring, for people notified of the February 2025 CDG billing-vendor breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-10",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $45 with no documentation, or up to $5,000 documented plus three years of credit monitoring, for people notified of the February 2025 CDG billing-vendor…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/communications-data-group-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "communication",
+    "data",
+    "breach",
+    "45",
+    "5",
+    "000"
    ]
   },
   {
@@ -5919,6 +6055,37 @@
    ]
   },
   {
+   "id": "oca-venetian-las-vegas-website-privacy-settlement",
+   "title": "Venetian Las Vegas Website Privacy Settlement — $1.6M for California Visitors",
+   "summary": "An estimated $71 for booking a Venetian stay, or about $3.60 for browsing venetianlasvegas.com, for California residents who used the site.",
+   "category": "Privacy",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-11-24",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "An estimated $71 for booking a Venetian stay, or about $3.60 for browsing venetianlasvegas.com, for California residents who used the site.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/privacy/venetian-las-vegas-website-privacy-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "venetian",
+    "las",
+    "vega",
+    "website",
+    "privacy",
+    "1",
+    "6m",
+    "california",
+    "visitor"
+   ]
+  },
+  {
    "id": "oca-fujifilm-diosynth-data-breach-settlement",
    "title": "Fujifilm Diosynth Data Breach Class Action Settlement",
    "summary": "a flat $50 with no documentation, or up to $2,500 in documented out-of-pocket losses instead, plus two years of credit monitoring, for people notified of the September 2025 incident at the biopharmaceutical manufacturer",
@@ -6283,6 +6450,58 @@
    ]
   },
   {
+   "id": "oca-asp-isotopes-securities-class-action-settlement",
+   "title": "$9.35M ASP Isotopes Securities Settlement (ASPI)",
+   "summary": "A pro rata share of a $9.35 million fund for investors who bought ASP Isotopes common stock during the class period, estimated at about $0.38 a share before fees.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-02",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a $9.35 million fund for investors who bought ASP Isotopes common stock during the class period, estimated at about $0.38 a share before fe…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/asp-isotopes-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "9",
+    "35m",
+    "asp",
+    "isotope",
+    "security",
+    "aspi"
+   ]
+  },
+  {
+   "id": "oca-ihrs-institute-for-human-resources-data-breach-settlement",
+   "title": "IHRS Data Breach Settlement — $45 or Up to $2,000",
+   "summary": "A flat $45, or up to $2,000 documented, plus two years of credit monitoring, for people notified of the 2025 Institute for Human Resources and Services breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-02",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $45, or up to $2,000 documented, plus two years of credit monitoring, for people notified of the 2025 Institute for Human Resources and Services breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/ihrs-institute-for-human-resources-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "ihr",
+    "data",
+    "breach",
+    "45",
+    "2",
+    "000"
+   ]
+  },
+  {
    "id": "oca-inotiv-data-breach-settlement",
    "title": "Inotiv Data Breach Class Action Settlement",
    "summary": "A flat $45 with no documentation, or up to $4,580 in documented losses and lost time instead, plus two years of identity theft protection, for people notified of the August 2025 cyberattack.",
@@ -6305,6 +6524,34 @@
     "inotiv",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-safe-fleet-clarience-data-breach-settlement",
+   "title": "Safe Fleet / Clarience Data Breach Settlement — $50 or Up to $2,500",
+   "summary": "A flat $50 with no documentation, or up to $2,500 documented, plus two years of credit monitoring, for people whose information was affected in the April 2024 Safe Fleet data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-02",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $50 with no documentation, or up to $2,500 documented, plus two years of credit monitoring, for people whose information was affected in the April 2024…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/safe-fleet-clarience-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "safe",
+    "fleet",
+    "clarience",
+    "data",
+    "breach",
+    "50",
+    "2",
+    "500"
    ]
   },
   {
@@ -6695,6 +6942,63 @@
    ]
   },
   {
+   "id": "oca-telmate-viapath-data-breach-settlement",
+   "title": "Telmate / ViaPath Data Breach Settlement — $4.225M",
+   "summary": "An equal share of a $4,225,000 fund plus up to $5,000 in documented losses for people whose information was exposed in the August 2020 Telmate breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $4,225,000 fund plus up to $5,000 in documented losses for people whose information was exposed in the August 2020 Telmate breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/telmate-viapath-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "telmate",
+    "viapath",
+    "data",
+    "breach",
+    "4",
+    "225m"
+   ]
+  },
+  {
+   "id": "oca-trc-staffing-data-breach-settlement",
+   "title": "TRC Staffing Data Breach Settlement — Up to $200 or $5,000 Documented",
+   "summary": "Up to $200 pro rata with no documentation, or up to $5,000 in documented losses plus lost time, for people TRC Staffing notified of the 2024 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-22",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $200 pro rata with no documentation, or up to $5,000 in documented losses plus lost time, for people TRC Staffing notified of the 2024 breach.",
+   "claim_url": "https://trcdatasettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/trc-staffing-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#trc-staffing-services-data-breach"
+   ],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "trc",
+    "staffing",
+    "data",
+    "breach",
+    "200",
+    "5",
+    "000",
+    "documented",
+    "service"
+   ]
+  },
+  {
    "id": "oca-whirlpool-freezers-class-action",
    "title": "$21M Whirlpool / Maytag Bottom-Mount & French-Door Refrigerator Freezer Class Action Settlement",
    "summary": "",
@@ -6822,6 +7126,33 @@
     "rent",
     "pricefixing",
     "realpage"
+   ]
+  },
+  {
+   "id": "oca-canada-cra-gckey-privacy-breach-settlement",
+   "title": "Canada CRA & GCKey Breach Settlement — Up to $5,200 CAD",
+   "summary": "Up to $80 CAD or $200 CAD for time spent, plus up to $5,000 CAD in documented costs, for people whose CRA My Account, My Service Canada or GCKey account was breached in 2020.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-03",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $80 CAD or $200 CAD for time spent, plus up to $5,000 CAD in documented costs, for people whose CRA My Account, My Service Canada or GCKey account was br…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/canada-cra-gckey-privacy-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-24",
+   "first_seen": "2026-09-24",
+   "keywords": [
+    "canada",
+    "cra",
+    "gckey",
+    "breach",
+    "5",
+    "200",
+    "cad"
    ]
   },
   {
@@ -7244,6 +7575,30 @@
     "tlc",
     "license",
     "suspension"
+   ]
+  },
+  {
+   "id": "oca-aerogrow-shareholder-class-action-settlement",
+   "title": "$15.98M AeroGrow Shareholder Class Action Settlement",
+   "summary": "Approved settlement over the 2021 Scotts Miracle-Gro buyout at $3.00 a share, paid automatically per share to holders cashed out in the merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Approved settlement over the 2021 Scotts Miracle-Gro buyout at $3.00 a share, paid automatically per share to holders cashed out in the merger.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/aerogrow-shareholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "keywords": [
+    "15",
+    "98m",
+    "aerogrow",
+    "shareholder"
    ]
   },
   {
