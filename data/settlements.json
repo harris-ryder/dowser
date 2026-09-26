@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-25T14:37:48.483Z",
+ "generated_at": "2026-09-26T13:45:39.260Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 329,
+ "count": 328,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -371,97 +371,6 @@
    ]
   },
   {
-   "id": "oca-community-realty-management-data-breach-settlement",
-   "title": "Community Realty Management (CRM) Data Breach Class Action Settlement",
-   "summary": "2 years of credit monitoring ($1M insurance) · plus one cash option — up to $2,000 documented losses or an estimated $20 flat payment, pro rata under a shared $200,000 cap · anyone notified of the Sept–Oct 2024 email breach at the property manager · LoginID & PIN needed",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "2 years of credit monitoring ($1M insurance)",
-   "claim_url": "https://crmdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/community-realty-management-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#community-realty-management-data-breach"
-   ],
-   "added": "2026-08-09",
-   "first_seen": "2026-08-09",
-   "keywords": [
-    "community",
-    "realty",
-    "management",
-    "crm",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-gotham-steel-granite-stone-bell-howell-cookware-settlement",
-   "title": "Gotham Steel, Granitestone & Bell & Howell Cookware Settlement (California & Colorado)",
-   "summary": "$6 cash per product, max two per household ($12) · Gotham Steel, Granite Stone & Bell & Howell cookware with stainless steel parts bought in California or Colorado (Sept 8, 2021 – Jul 6, 2026) · no receipts; Notice ID optional",
-   "category": "Consumer Products",
-   "states": [
-    "CA",
-    "CO"
-   ],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$6 cash per product, max two per household ($12)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/false-advertising/gotham-steel-granite-stone-bell-howell-cookware-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-14",
-   "first_seen": "2026-08-14",
-   "keywords": [
-    "gotham",
-    "steel",
-    "granitestone",
-    "bell",
-    "howell",
-    "cookware",
-    "california",
-    "colorado"
-   ]
-  },
-  {
-   "id": "oca-leesa-helix-bear-brooklyn-bedding-mattress-discount-settlement",
-   "title": "Leesa, Helix, Bear & Brooklyn Bedding $110 Mattress Discount Settlement (California)",
-   "summary": "$110 per qualifying mattress order — $110 store credit automatically, or $110 cash if you file · California buyers of discounted mattresses from leesa.com, brooklynbedding.com, helixsleep.com or bearmattress.com (2019–2024 windows) · cash claims need your Notice ID",
-   "category": "Consumer Products",
-   "states": [],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$110 per qualifying mattress order — $110 store credit automatically, or $110 cash if you file",
-   "claim_url": "https://nightbbsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/leesa-helix-bear-brooklyn-bedding-mattress-discount-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#night-us-brooklyn-bedding-mattresses-california"
-   ],
-   "added": "2026-07-15",
-   "first_seen": "2026-07-15",
-   "keywords": [
-    "leesa",
-    "helix",
-    "bear",
-    "brooklyn",
-    "bedding",
-    "110",
-    "mattress",
-    "discount",
-    "california",
-    "night"
-   ]
-  },
-  {
    "id": "ca-settlements-mishan-and-sons-stainless-steel-cookware",
    "title": "Mishan & Sons - Stainless Steel Cookware Class Action Settlement",
    "summary": "If you bought Gotham Steel, Granite Stone, or Bell & Howell brand cookware products with stainless steel components in California or Colorado between September 8, 2021 and July 6, 2026, you may be able to claim a piece of this settlement.",
@@ -487,93 +396,78 @@
    ]
   },
   {
-   "id": "oca-quality-inn-seatac-seawind-washington-job-postings-class-action-settlement",
-   "title": "Quality Inn SeaTac (Seawind Hotel) Washington Job Postings Class Action Settlement",
-   "summary": "equal share of a $349,150–$516,000 fund · WA applicants to Seawind Hotel Investment (Quality Inn SeaTac) whose postings omitted the pay range (Jan 2023 – Jul 2025) · LoginID & PIN to file",
-   "category": "Employment",
-   "states": [
-    "WA"
-   ],
+   "id": "ca-settlements-night-us-brooklyn-bedding-mattresses-california",
+   "title": "Night US, Brooklyn Bedding - Mattresses (California) Class Action Settlement",
+   "summary": "You may be included in this settlement if you bought a mattress listed at a discount from leesa.com, brooklynbedding.com, helixsleep.com, or bearmattress.com in California between July 28, 2019 and April 1, 2024.",
+   "category": "Mattresses (California)",
+   "states": [],
    "deadline": "2026-09-25",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "equal share of a $349,150–$516,000 fund",
-   "claim_url": "https://shisettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/quality-inn-seatac-seawind-washington-job-postings-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#seawind-hotel-investment-job-postings-washington"
-   ],
-   "added": "2026-07-31",
-   "first_seen": "2026-07-31",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$110",
+   "claim_url": "https://nightbbsettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#night-us-brooklyn-bedding-mattresses-california",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-26",
    "keywords": [
-    "quality",
-    "inn",
-    "seatac",
+    "night",
+    "brooklyn",
+    "bedding",
+    "mattresses",
+    "california"
+   ]
+  },
+  {
+   "id": "ca-settlements-seawind-hotel-investment-job-postings-washington",
+   "title": "Seawind Hotel Investment - Job Postings (Washington) Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if you applied for a job with Seawind Hotel Investment (Quality Inn SeaTac) in Washington between January 1, 2023 and July 26, 2025.",
+   "category": "Job Postings (Washington)",
+   "states": [],
+   "deadline": "2026-09-25",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
+   "claim_url": "https://shisettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#seawind-hotel-investment-job-postings-washington",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-26",
+   "keywords": [
     "seawind",
     "hotel",
-    "washington",
+    "investment",
     "job",
     "posting",
-    "investment"
+    "washington"
    ]
   },
   {
-   "id": "oca-red-robin-washington-job-postings-class-action-settlement",
-   "title": "Red Robin Washington Job Postings Class Action Settlement",
-   "summary": "estimated $573.43 cash (up to $5,000) · $1,674,500 fund · WA applicants to Red Robin whose postings omitted the pay range (Jan 2023 – Jun 2026) · LoginID & PIN to file",
-   "category": "Employment",
-   "states": [
-    "WA"
-   ],
+   "id": "ca-settlements-tesla-idle-fees",
+   "title": "Tesla - Idle Fees (California) Class Action Settlement",
+   "summary": "You may be included in this settlement if you bought a Supercharger-enabled Tesla vehicle in California before December 16, 2016 and were a citizen of California as of June 21, 2021.",
+   "category": "Idle Fees (California)",
+   "states": [],
    "deadline": "2026-09-25",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "estimated $573.43 cash (up to $5,000)",
-   "claim_url": "https://rrepoasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/red-robin-washington-job-postings-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#red-robin-job-postings-washington"
-   ],
-   "added": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "keywords": [
-    "red",
-    "robin",
-    "washington",
-    "job",
-    "posting"
-   ]
-  },
-  {
-   "id": "oca-tesla-supercharger-idle-fee-class-action-settlement",
-   "title": "Tesla Supercharger Idle Fee Class Action Settlement",
-   "summary": "refund of all paid Supercharger idle fees, plus $50 if access was disabled under 30 days or $350 if disabled 30+ days; former owners may elect $10 · Californians who took delivery of an eligible Tesla before Dec 16, 2016 and still owned it after · LoginID & PIN needed",
-   "category": "Fees & Billing",
-   "states": [
-    "CA"
-   ],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "refund of all paid Supercharger idle fees, plus $50 if access was disabled under 30 days or $350 if disabled 30+ days",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$10 - $350+",
    "claim_url": "https://teslaidlefeeclassaction.com/",
-   "info_url": "https://openclassactions.com/settlements/tesla-supercharger-idle-fee-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#tesla-idle-fees"
-   ],
-   "added": "2026-07-25",
-   "first_seen": "2026-07-25",
+   "info_url": "https://www.classaction.org/settlements#tesla-idle-fees",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-26",
    "keywords": [
     "tesla",
-    "supercharger",
     "idle",
-    "fee"
+    "fee",
+    "california"
    ]
   },
   {
@@ -950,7 +844,8 @@
    "source": "openclassactions",
    "also_listed_at": [
     "https://www.classaction.org/settlements#the-management-association-data-breaches",
-    "https://www.classaction.org/settlements#hcf-management-data-breach"
+    "https://www.classaction.org/settlements#hcf-management-data-breach",
+    "https://www.classaction.org/settlements#community-realty-management-data-breach"
    ],
    "added": "2026-07-30",
    "first_seen": "2026-07-30",
@@ -960,7 +855,9 @@
     "data",
     "breach",
     "mra",
-    "association"
+    "association",
+    "community",
+    "realty"
    ]
   },
   {
@@ -2471,7 +2368,8 @@
    "source": "openclassactions",
    "also_listed_at": [
     "https://www.classaction.org/settlements#hydromax-usa-job-postings-washington",
-    "https://www.classaction.org/settlements#pacific-bag-job-postings-washington"
+    "https://www.classaction.org/settlements#pacific-bag-job-postings-washington",
+    "https://www.classaction.org/settlements#red-robin-job-postings-washington"
    ],
    "added": "2026-08-24",
    "first_seen": "2026-08-24",
@@ -2481,7 +2379,9 @@
     "job",
     "posting",
     "pacific",
-    "bag"
+    "bag",
+    "red",
+    "robin"
    ]
   },
   {
@@ -6229,6 +6129,31 @@
    ]
   },
   {
+   "id": "oca-equifax-hard-inquiry-dispute-class-action-settlement",
+   "title": "Equifax $30M Hard Inquiry Dispute Class Action Settlement",
+   "summary": "An estimated $100 to $400 for people who disputed a hard inquiry with Equifax, depending on which settlement group Equifax’s records place them in.",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": "2026-11-29",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $100 to $400 for people who disputed a hard inquiry with Equifax, depending on which settlement group Equifax’s records place them in.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/credit-reporting/equifax-hard-inquiry-dispute-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-25",
+   "first_seen": "2026-09-25",
+   "keywords": [
+    "equifax",
+    "30m",
+    "hard",
+    "inquiry",
+    "dispute"
+   ]
+  },
+  {
    "id": "oca-navy-federal-unauthorized-personal-loan-class-action-settlement",
    "title": "Navy Federal Unauthorized Personal Loan Settlement — Loan Canceled Plus $250",
    "summary": "The disputed loan is canceled, the credit reporting is requested deleted and payments made are refunded automatically; an extra $250 requires a claim form by November 29, 2026.",
@@ -8080,6 +8005,37 @@
     "credit",
     "score",
     "error"
+   ]
+  },
+  {
+   "id": "oca-fashion-nova-discounted-price-voucher-settlement",
+   "title": "Fashion Nova $12 Voucher Settlement — Sent Automatically by Email",
+   "summary": "A $12 fashionnova.com voucher emailed automatically to shoppers billed in California, Oregon or Washington who bought online or in the app from Sept 17, 2018 to May 20, 2025.",
+   "category": "Consumer Products",
+   "states": [
+    "CA",
+    "OR",
+    "WA"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A $12 fashionnova.com voucher emailed automatically to shoppers billed in California, Oregon or Washington who bought online or in the app from Sept 17, 2018 t…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/fashion-nova-discounted-price-voucher-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-26",
+   "first_seen": "2026-09-26",
+   "keywords": [
+    "fashion",
+    "nova",
+    "12",
+    "voucher",
+    "sent",
+    "automatically",
+    "email"
    ]
   },
   {
