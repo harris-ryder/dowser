@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-26T13:45:39.260Z",
+ "generated_at": "2026-09-27T14:43:06.125Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 328,
+ "count": 339,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -2461,6 +2461,33 @@
    ]
   },
   {
+   "id": "oca-scribd-washington-job-postings-class-action-settlement",
+   "title": "Scribd $3M Washington Job Postings Class Action Settlement",
+   "summary": "equal share of a $3 million fund, estimated $219.27 · automatic payment, no claim form · WA applicants to Scribd (Jan 2023 – Aug 2026) whose postings omitted the pay range",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-10-12",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "equal share of a $3 million fund, estimated $219.27",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/scribd-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "scribd",
+    "3m",
+    "washington",
+    "job",
+    "posting"
+   ]
+  },
+  {
    "id": "ca-settlements-urban-one-data-breach",
    "title": "Urban One - Data Breach Class Action Settlement",
    "summary": "You may be covered by this settlement if your personal information was exposed in the Urban One data breach discovered in March 2025.",
@@ -3181,6 +3208,33 @@
     "income",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-le-moyne-college-covid-fee-refund-class-action-settlement",
+   "title": "Le Moyne College $243,206 COVID Fee Class Action Settlement",
+   "summary": "Automatic equal-share payment · no claim form · Le Moyne undergrads in on-campus classes spring 2020 · elect e-payment",
+   "category": "Fees & Billing",
+   "states": [],
+   "deadline": "2026-10-19",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/le-moyne-college-covid-fee-refund-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "le",
+    "moyne",
+    "college",
+    "243",
+    "206",
+    "covid",
+    "fee"
    ]
   },
   {
@@ -4397,6 +4451,35 @@
    ]
   },
   {
+   "id": "oca-90-washington-street-rent-overcharge-class-action-settlement",
+   "title": "90 Washington Street $1.74M Rent Overcharge Settlement",
+   "summary": "Refunds of alleged rent overcharges plus 9% interest for tenants of deregulated apartments at 90 Washington Street in Manhattan.",
+   "category": "Fees & Billing",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2026-11-02",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$1.74M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/90-washington-street-rent-overcharge-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-26",
+   "first_seen": "2026-09-26",
+   "keywords": [
+    "90",
+    "washington",
+    "street",
+    "1",
+    "74m",
+    "rent",
+    "overcharge"
+   ]
+  },
+  {
    "id": "oca-connectoncall-data-breach-settlement",
    "title": "ConnectOnCall $4.95M Data Breach Class Action Settlement",
    "summary": "up to $75 on a sworn statement alone, or up to $5,000 documented instead, plus two years of dark web and medical data monitoring",
@@ -5182,6 +5265,35 @@
    ]
   },
   {
+   "id": "oca-zk-technology-bipa-class-action-settlement",
+   "title": "ZK Technology $635K BIPA Settlement — Alliance Ground Workers",
+   "summary": "An equal share of a $635,160 fund for Alliance Ground International workers who clocked in with a finger or face scan in Illinois.",
+   "category": "Privacy",
+   "states": [
+    "IL"
+   ],
+   "deadline": "2026-11-10",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $635,160 fund for Alliance Ground International workers who clocked in with a finger or face scan in Illinois.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/privacy/zk-technology-bipa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "zk",
+    "technology",
+    "635k",
+    "bipa",
+    "alliance",
+    "ground",
+    "worker"
+   ]
+  },
+  {
    "id": "oca-international-shoppes-data-breach-settlement",
    "title": "International Shoppes Data Breach Class Action Settlement",
    "summary": "a $50 cash payment with no receipts, or up to $4,000 in documented losses instead, plus two years of credit monitoring, for the 5,382 people notified of the duty-free retailer breach",
@@ -5517,6 +5629,58 @@
    ]
   },
   {
+   "id": "oca-northeast-grocery-401k-erisa-class-action-settlement",
+   "title": "Northeast Grocery $225K 401(k) ERISA Settlement",
+   "summary": "automatic payment, no claim form and no opt-out — a pro rata share of a $225,000 fund for Tops, Price Chopper and Northeast Grocery 401(k) participants from 2018 through August 5, 2026.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-11-17",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form and no opt-out — a pro rata share of a $225,000 fund for Tops, Price Chopper and Northeast Grocery 401(k) participants from 20…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/northeast-grocery-401k-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "northeast",
+    "grocery",
+    "225k",
+    "401",
+    "erisa"
+   ]
+  },
+  {
+   "id": "oca-sizzling-platter-washington-job-postings-class-action-settlement",
+   "title": "Sizzling Platter Washington Job Postings Class Action Settlement",
+   "summary": "estimated $613.71 or more (up to $5,000) · WA applicants for Crew Member or Lead jobs (Jan 2023 – Jul 2025) whose postings omitted the pay range",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-11-17",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "estimated $613.71 or more (up to $5,000)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/sizzling-platter-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "sizzling",
+    "platter",
+    "washington",
+    "job",
+    "posting"
+   ]
+  },
+  {
    "id": "oca-twist-bioscience-securities-class-action-settlement",
    "title": "Twist Bioscience Securities Class Action Settlement ($17.05M)",
    "summary": "a pro rata share of a $17.05 million fund for investors who bought Twist Bioscience (Nasdaq: TWST) common stock, estimated at about $0.31 per eligible share before fees",
@@ -5702,6 +5866,34 @@
     "childlabor",
     "food",
     "solution"
+   ]
+  },
+  {
+   "id": "oca-lavista-walk-apartment-fire-class-action-settlement",
+   "title": "LaVista Walk Apartment Fire $8.45M Settlement",
+   "summary": "An equal displacement payment for adult residents, pro rata property-loss compensation and $2,500 per child for people living at The Reserve at LaVista Walk during the November 2023 fire.",
+   "category": "Environmental",
+   "states": [
+    "GA"
+   ],
+   "deadline": "2026-11-22",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An equal displacement payment for adult residents, pro rata property-loss compensation and $2,500 per child for people living at The Reserve at LaVista Walk du…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/environmental/lavista-walk-apartment-fire-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "lavista",
+    "walk",
+    "apartment",
+    "fire",
+    "8",
+    "45m"
    ]
   },
   {
@@ -5986,6 +6178,30 @@
    ]
   },
   {
+   "id": "oca-bnbuilders-esop-erisa-class-action-settlement",
+   "title": "BNBuilders $5M ESOP ERISA Class Action Settlement",
+   "summary": "automatic payment, no claim form — a share of a $5 million fund for vested BNBuilders ESOP participants (Dec 2021 – Dec 2025) and their beneficiaries",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-11-25",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — a share of a $5 million fund for vested BNBuilders ESOP participants (Dec 2021 – Dec 2025) and their beneficiaries",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/bnbuilders-esop-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "bnbuilder",
+    "5m",
+    "esop",
+    "erisa"
+   ]
+  },
+  {
    "id": "oca-fujifilm-diosynth-data-breach-settlement",
    "title": "Fujifilm Diosynth Data Breach Class Action Settlement",
    "summary": "a flat $50 with no documentation, or up to $2,500 in documented out-of-pocket losses instead, plus two years of credit monitoring, for people notified of the September 2025 incident at the biopharmaceutical manufacturer",
@@ -6126,6 +6342,35 @@
     "squatch",
     "natural",
     "9m"
+   ]
+  },
+  {
+   "id": "oca-finastra-data-breach-settlement",
+   "title": "Finastra $3.125M Data Breach Settlement — Pro Rata Cash or Up to $2,500",
+   "summary": "pro rata cash or up to $2,500 in documented losses, plus a year of credit monitoring, for people notified of the October 2024 Finastra file-transfer breach",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-27",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "pro rata cash or up to $2,500 in documented losses, plus a year of credit monitoring, for people notified of the October 2024 Finastra file-transfer breach",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/finastra-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "finastra",
+    "3",
+    "125m",
+    "data",
+    "breach",
+    "pro",
+    "rata",
+    "2",
+    "500"
    ]
   },
   {
@@ -6372,6 +6617,31 @@
     "warehouse",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-edwards-lifesciences-securities-class-action-settlement",
+   "title": "$39M Edwards Lifesciences Securities Settlement (EW)",
+   "summary": "A pro rata share of a $39 million fund for investors who bought Edwards Lifesciences common stock in the first half of 2024, estimated at about $0.66 a share before fees.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-02",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a $39 million fund for investors who bought Edwards Lifesciences common stock in the first half of 2024, estimated at about $0.66 a share b…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/edwards-lifesciences-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "39m",
+    "edward",
+    "lifescience",
+    "security",
+    "ew"
    ]
   },
   {
@@ -7856,6 +8126,34 @@
     "bond",
     "pricefixing",
     "69m"
+   ]
+  },
+  {
+   "id": "oca-capital-one-canada-data-breach-class-action-settlement",
+   "title": "Capital One Canada Data Breach Settlement — $35M CAD (Claims Not Open Yet)",
+   "summary": "Up to $25,000 CAD in documented costs, lost-time payments of up to $275 CAD and annual-fee refunds for Canadians outside Québec notified of the 2019 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "Up to $25,000 CAD in documented costs, lost-time payments of up to $275 CAD and annual-fee refunds for Canadians outside Québec notified of the 2019 breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/capital-one-canada-data-breach-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-27",
+   "first_seen": "2026-09-27",
+   "keywords": [
+    "capital",
+    "one",
+    "canada",
+    "data",
+    "breach",
+    "35m",
+    "cad",
+    "yet"
    ]
   },
   {
