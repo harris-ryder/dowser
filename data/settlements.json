@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-27T14:43:06.125Z",
+ "generated_at": "2026-09-28T17:40:59.565Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 339,
+ "count": 329,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -221,280 +221,6 @@
     "erisa",
     "1",
     "75m"
-   ]
-  },
-  {
-   "id": "ca-settlements-medical-record-fees-west-virginia",
-   "title": "Medical Record Fees (West Virginia) Class Action Settlement",
-   "summary": "You may be included in this settlement if you paid for copies of medical records from a West Virginia University medical entity between December 1, 2010 and July 5, 2017.",
-   "category": null,
-   "states": [],
-   "deadline": "2026-09-22",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://www.wvhospitalsclassaction.com/",
-   "info_url": "https://www.classaction.org/settlements#medical-record-fees-west-virginia",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "medical",
-    "record",
-    "fee",
-    "west",
-    "virginia"
-   ]
-  },
-  {
-   "id": "ca-settlements-national-tenant-network-credit-reports",
-   "title": "National Tenant Network - Eviction Reports Class Action Settlement",
-   "summary": "You may be included in this settlement if you were the subject of postcards that the National Tenant Network sent to suspected landlords between June 30, 2018 and December 3, 2023.",
-   "category": "Eviction Reports",
-   "states": [],
-   "deadline": "2026-09-22",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://ntnpostcardsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#national-tenant-network-credit-reports",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-23",
-   "keywords": [
-    "national",
-    "tenant",
-    "network",
-    "eviction",
-    "report"
-   ]
-  },
-  {
-   "id": "ca-settlements-toyota-ic-forklift",
-   "title": "Toyota IC Forklift Class Action Settlement",
-   "summary": "You may be included in this settlement if you bought or leased an IC Toyota forklift on or before January 20, 2026.",
-   "category": null,
-   "states": [],
-   "deadline": "2026-09-22",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://forkliftsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#toyota-ic-forklift",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "toyota",
-    "ic",
-    "forklift"
-   ]
-  },
-  {
-   "id": "ca-settlements-dovenmuehle-phone-payment-fees",
-   "title": "Dovenmuehle - Phone Payment Fees Class Action Settlement",
-   "summary": "This settlement covers those with a residential mortgage loan securing a property in North Carolina that was serviced by Dovenmuehle who paid a fee for making a loan payment by phone between April 10, 2020 and January 13, 2026.",
-   "category": "Phone Payment Fees",
-   "states": [],
-   "deadline": "2026-09-23",
-   "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "Varies",
-   "claim_url": "https://dovenmuehlephonefeelawsuit.com/home",
-   "info_url": "https://www.classaction.org/settlements#dovenmuehle-phone-payment-fees",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-24",
-   "keywords": [
-    "dovenmuehle",
-    "phone",
-    "fee"
-   ]
-  },
-  {
-   "id": "ca-settlements-drug-and-alcohol-treatment-services-data-breach",
-   "title": "Drug and Alcohol Treatment Services - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your personal information was impacted by the October 2024 Drug and Alcohol Treatment Services data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-09-24",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $5,000",
-   "claim_url": "https://www.datsdatabreachsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#drug-and-alcohol-treatment-services-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-25",
-   "keywords": [
-    "drug",
-    "alcohol",
-    "treatment",
-    "service",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-lake-consumer-products-coal-tar-shampoo",
-   "title": "Lake Consumer Products - Coal Tar Shampoo Class Action Settlement",
-   "summary": "You may be included in this settlement if you bought MG217 Coal Tar Shampoo products between January 1, 2021 and June 25, 2026.",
-   "category": "Coal Tar Shampoo",
-   "states": [],
-   "deadline": "2026-09-24",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://www.mg217shampoosettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#lake-consumer-products-coal-tar-shampoo",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "lake",
-    "consumer",
-    "coal",
-    "tar",
-    "shampoo"
-   ]
-  },
-  {
-   "id": "ca-settlements-mishan-and-sons-stainless-steel-cookware",
-   "title": "Mishan & Sons - Stainless Steel Cookware Class Action Settlement",
-   "summary": "If you bought Gotham Steel, Granite Stone, or Bell & Howell brand cookware products with stainless steel components in California or Colorado between September 8, 2021 and July 6, 2026, you may be able to claim a piece of this settlement.",
-   "category": "Stainless Steel Cookware",
-   "states": [],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$12",
-   "claim_url": "https://www.stainless-steelcookwaresettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#mishan-and-sons-stainless-steel-cookware",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "mishan",
-    "son",
-    "stainless",
-    "steel",
-    "cookware"
-   ]
-  },
-  {
-   "id": "ca-settlements-night-us-brooklyn-bedding-mattresses-california",
-   "title": "Night US, Brooklyn Bedding - Mattresses (California) Class Action Settlement",
-   "summary": "You may be included in this settlement if you bought a mattress listed at a discount from leesa.com, brooklynbedding.com, helixsleep.com, or bearmattress.com in California between July 28, 2019 and April 1, 2024.",
-   "category": "Mattresses (California)",
-   "states": [],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$110",
-   "claim_url": "https://nightbbsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#night-us-brooklyn-bedding-mattresses-california",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-26",
-   "keywords": [
-    "night",
-    "brooklyn",
-    "bedding",
-    "mattresses",
-    "california"
-   ]
-  },
-  {
-   "id": "ca-settlements-seawind-hotel-investment-job-postings-washington",
-   "title": "Seawind Hotel Investment - Job Postings (Washington) Class Action Settlement",
-   "summary": "You may be able to claim a piece of this settlement if you applied for a job with Seawind Hotel Investment (Quality Inn SeaTac) in Washington between January 1, 2023 and July 26, 2025.",
-   "category": "Job Postings (Washington)",
-   "states": [],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://shisettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#seawind-hotel-investment-job-postings-washington",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-26",
-   "keywords": [
-    "seawind",
-    "hotel",
-    "investment",
-    "job",
-    "posting",
-    "washington"
-   ]
-  },
-  {
-   "id": "ca-settlements-tesla-idle-fees",
-   "title": "Tesla - Idle Fees (California) Class Action Settlement",
-   "summary": "You may be included in this settlement if you bought a Supercharger-enabled Tesla vehicle in California before December 16, 2016 and were a citizen of California as of June 21, 2021.",
-   "category": "Idle Fees (California)",
-   "states": [],
-   "deadline": "2026-09-25",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$10 - $350+",
-   "claim_url": "https://teslaidlefeeclassaction.com/",
-   "info_url": "https://www.classaction.org/settlements#tesla-idle-fees",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-26",
-   "keywords": [
-    "tesla",
-    "idle",
-    "fee",
-    "california"
-   ]
-  },
-  {
-   "id": "oca-travelers-new-mexico-uim-class-action-settlement",
-   "title": "Travelers New Mexico UIM Coverage Class Action Settlement",
-   "summary": "29% refund of UIM premiums paid (or reevaluation of a Schmick-offset claim) · New Mexico Travelers auto policyholders with underinsured motorist (UIM) coverage (Jan 1, 2015 – Aug 16, 2022) · claim form required, no receipts",
-   "category": "Insurance",
-   "states": [],
-   "deadline": "2026-09-27",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://aguilaruimclasssettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/travelers-new-mexico-uim-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#the-travelers-indemnity-company-underinsured-coverage"
-   ],
-   "added": "2026-07-14",
-   "first_seen": "2026-07-14",
-   "keywords": [
-    "traveler",
-    "mexico",
-    "uim",
-    "coverage",
-    "indemnity"
    ]
   },
   {
@@ -844,8 +570,7 @@
    "source": "openclassactions",
    "also_listed_at": [
     "https://www.classaction.org/settlements#the-management-association-data-breaches",
-    "https://www.classaction.org/settlements#hcf-management-data-breach",
-    "https://www.classaction.org/settlements#community-realty-management-data-breach"
+    "https://www.classaction.org/settlements#hcf-management-data-breach"
    ],
    "added": "2026-07-30",
    "first_seen": "2026-07-30",
@@ -855,9 +580,7 @@
     "data",
     "breach",
     "mra",
-    "association",
-    "community",
-    "realty"
+    "association"
    ]
   },
   {
@@ -1050,16 +773,14 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/apollomd-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#apollomd-data-breach",
-    "https://www.classaction.org/settlements#700credit-data-breach"
+    "https://www.classaction.org/settlements#apollomd-data-breach"
    ],
    "added": "2026-07-12",
    "first_seen": "2026-07-12",
    "keywords": [
     "apollomd",
     "data",
-    "breach",
-    "700credit"
+    "breach"
    ]
   },
   {
@@ -1230,10 +951,11 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "a pro rata cash payment, or up to $5,000 in documented losses instead, plus three years of credit monitoring, for anyone notified of the 2024 HCSG incident",
-   "claim_url": "https://healthcareservicesgroupsettlement.com/",
+   "claim_url": "https://www.lscdatasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/healthcare-services-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
+    "https://www.classaction.org/settlements#laboratory-services-cooperative-data-breach",
     "https://www.classaction.org/settlements#healthcare-services-group-data-breach"
    ],
    "added": "2026-08-26",
@@ -1242,7 +964,9 @@
     "healthcare",
     "service",
     "data",
-    "breach"
+    "breach",
+    "laboratory",
+    "cooperative"
    ]
   },
   {
@@ -1698,12 +1422,12 @@
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
    "payout": "80% reimbursement of one out-of-pocket water pump repair plus 80% of up to two coolant-related head gasket repairs (invoices capped at $820 and $3,325)",
-   "claim_url": "https://spapumpclassactionsettlement.com/",
+   "claim_url": "https://mainenginewaterpumpsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/automotive/volkswagen-atlas-water-pump-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#bestway-spa-pumps",
-    "https://www.classaction.org/settlements#volkswagen-atlas-water-pumps"
+    "https://www.classaction.org/settlements#volkswagen-atlas-water-pumps",
+    "https://www.classaction.org/settlements#bestway-spa-pumps"
    ],
    "added": "2026-07-31",
    "first_seen": "2026-07-31",
@@ -2368,8 +2092,7 @@
    "source": "openclassactions",
    "also_listed_at": [
     "https://www.classaction.org/settlements#hydromax-usa-job-postings-washington",
-    "https://www.classaction.org/settlements#pacific-bag-job-postings-washington",
-    "https://www.classaction.org/settlements#red-robin-job-postings-washington"
+    "https://www.classaction.org/settlements#pacific-bag-job-postings-washington"
    ],
    "added": "2026-08-24",
    "first_seen": "2026-08-24",
@@ -2379,9 +2102,7 @@
     "job",
     "posting",
     "pacific",
-    "bag",
-    "red",
-    "robin"
+    "bag"
    ]
   },
   {
@@ -5404,6 +5125,30 @@
    ]
   },
   {
+   "id": "oca-ftd-proflowers-delivery-fee-class-action-settlement",
+   "title": "FTD & ProFlowers Delivery Fee Class Action Settlement",
+   "summary": "$5 cash or a $15 voucher for U.S. customers who paid a delivery, shipping, handling or service fee on FTD.com or ProFlowers.com orders from January 2021 to January 2025.",
+   "category": "Fees & Billing",
+   "states": [],
+   "deadline": "2026-11-13",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$5 cash or a $15 voucher for U.S. customers who paid a delivery, shipping, handling or service fee on FTD.com or ProFlowers.com orders from January 2021 to Jan…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/ftd-proflowers-delivery-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-28",
+   "first_seen": "2026-09-28",
+   "keywords": [
+    "ftd",
+    "proflower",
+    "delivery",
+    "fee"
+   ]
+  },
+  {
    "id": "oca-high-5-games-social-casino-class-action-settlement",
    "title": "High 5 Games Social Casino Class Action Settlement ($12M–$30M)",
    "summary": "a share of the fund scaled to what you spent on virtual coins in High 5 Casino or High 5 Vegas, settled after a jury sided with the plaintiff",
@@ -6159,10 +5904,12 @@
    "proof": "none",
    "proof_label": "No proof required",
    "payout": "An estimated $71 for booking a Venetian stay, or about $3.60 for browsing venetianlasvegas.com, for California residents who used the site.",
-   "claim_url": null,
+   "claim_url": "https://venetianlasvegassettlement.com/",
    "info_url": "https://openclassactions.com/settlements/privacy/venetian-las-vegas-website-privacy-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#venetian-las-vegas-gaming-data-privacy-california"
+   ],
    "added": "2026-09-24",
    "first_seen": "2026-09-24",
    "keywords": [
@@ -6174,7 +5921,8 @@
     "1",
     "6m",
     "california",
-    "visitor"
+    "visitor",
+    "gaming"
    ]
   },
   {
@@ -6553,10 +6301,12 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "A share of a $309.5 million fund for Amazon customers whose refund for a returned product went missing, arrived late, came up short or was charged back — no cl…",
-   "claim_url": null,
+   "claim_url": "https://www.returnsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/new-amazon-returns-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#amazon-return-policy"
+   ],
    "added": "2026-09-03",
    "first_seen": "2026-09-03",
    "keywords": [
@@ -6838,14 +6588,14 @@
   {
    "id": "ca-settlements-indegene-unwanted-faxes",
    "title": "Indegene - Unwanted Faxes Class Action Settlement",
-   "summary": "You may be included in this settlement if you were sent a fax from Indegene on or about February 7, 2020.",
+   "summary": "You may be included in this settlement if you were sent a fax on or about February 7, 2020 stating \"Medical Record Review of the Impact of Adverse Events Associated with the Use of Current anti-Parkinson’s Disease Medications on Patient Clinical Therapeutics and Outcomes Trajectories in the U.S.\"",
    "category": "Unwanted Faxes",
    "states": [],
    "deadline": "2026-12-09",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$250",
+   "payout": "Up to $250",
    "claim_url": "https://indegenetcpasettlement.com/",
    "info_url": "https://www.classaction.org/settlements#indegene-unwanted-faxes",
    "source": "classaction.org",
