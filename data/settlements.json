@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-29T15:55:34.773Z",
+ "generated_at": "2026-09-30T15:56:49.872Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 334,
+ "count": 343,
  "settlements": [
   {
    "id": "oca-big-als-washington-non-compete-class-action-settlement",
@@ -353,142 +353,122 @@
    ]
   },
   {
-   "id": "oca-emanate-health-pixel-privacy-class-action-settlement",
-   "title": "Emanate Health Meta Pixel Privacy Class Action Settlement",
-   "summary": "pro rata cash, estimated ~$11–$55, from a $777,000 fund · California patients who used the Emanate patient portal, submitted an online form, or booked an appointment on emanatehealth.org (Aug 30, 2019 – Apr 30, 2024) · Settlement Claim ID needed",
-   "category": "Privacy",
+   "id": "ca-settlements-emanate-health-medical-center-data-privacy",
+   "title": "Emanate Health Medical Center - Data Privacy Class Action Settlement",
+   "summary": "If you logged into the Emanate patient portal, submitted an online form or scheduled an appointment on Emanate's website between August 30, 2019 and April 30, 2024, you may be covered by this settlement.",
+   "category": "Data Privacy",
    "states": [],
    "deadline": "2026-09-29",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "pro rata cash, estimated ~$11–$55, from a $777,000 fund",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://www.emanateprivacysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/privacy/emanate-health-pixel-privacy-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#emanate-health-medical-center-data-privacy"
-   ],
-   "added": "2026-07-14",
-   "first_seen": "2026-07-14",
+   "info_url": "https://www.classaction.org/settlements#emanate-health-medical-center-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-30",
    "keywords": [
     "emanate",
     "health",
-    "meta",
-    "pixel",
-    "privacy",
     "medical",
-    "center"
+    "center",
+    "data",
+    "privacy"
    ]
   },
   {
-   "id": "oca-hcf-management-data-breach-settlement",
-   "title": "HCF Management Data Breach Class Action Settlement",
-   "summary": "flat $35 cash, or documented losses up to $4,000 extraordinary, $400 out-of-pocket and $80 lost time · plus 3 years of credit monitoring ($1M insurance) · anyone mailed notice of the Sept 2024 breach at HCF's Ohio and Pennsylvania nursing facilities · LoginID & PIN needed",
+   "id": "ca-settlements-hcf-management-data-breach",
+   "title": "HCF Management - Data Breach Class Action Settlement",
+   "summary": "You may be covered by this settlement if you received notice that your personal information was allegedly accessed in the September 2024 HCF Management data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-09-29",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "flat $35 cash, or documented losses up to $4,000 extraordinary, $400 out-of-pocket and $80 lost time",
-   "claim_url": "https://mradatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/hcf-management-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#the-management-association-data-breaches",
-    "https://www.classaction.org/settlements#hcf-management-data-breach"
-   ],
-   "added": "2026-07-30",
-   "first_seen": "2026-07-30",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$35 - $4,480",
+   "claim_url": "https://hcfdatasettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#hcf-management-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-30",
    "keywords": [
     "hcf",
     "management",
     "data",
-    "breach",
-    "mra",
-    "association"
+    "breach"
    ]
   },
   {
-   "id": "oca-lifestance-pixel-tracking-class-action-settlement",
-   "title": "LifeStance Pixel Tracking Privacy Class Action Settlement",
-   "summary": "pro rata cash from a $3,027,874 non-reversionary fund · LifeStance patients between Mar 1, 2020 and Apr 30, 2023 · alleged website tracking-pixel disclosures to Meta & Google · Notice ID & Confirmation Code needed to file online",
-   "category": "Privacy",
+   "id": "ca-settlements-lifestance-health-group-data-privacy",
+   "title": "LifeStance Health Group - Data Privacy Class Action Settlement",
+   "summary": "You may be included in this settlement if you were a LifeStance patient between March 1, 2020 and April 30, 2023.",
+   "category": "Data Privacy",
    "states": [],
    "deadline": "2026-09-29",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "pro rata cash from a $3,027,874 non-reversionary fund",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://www.lifestancepixelsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/privacy/lifestance-pixel-tracking-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#lifestance-health-group-data-privacy"
-   ],
-   "added": "2026-07-14",
-   "first_seen": "2026-07-14",
+   "info_url": "https://www.classaction.org/settlements#lifestance-health-group-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-30",
    "keywords": [
     "lifestance",
-    "pixel",
-    "tracking",
-    "privacy",
-    "health"
+    "health",
+    "data",
+    "privacy"
    ]
   },
   {
-   "id": "oca-people-data-labs-colorado-cell-phone-number-class-action-settlement",
-   "title": "People Data Labs $6.36M Colorado Cell Phone Number Class Action Settlement",
-   "summary": "an equal share of a $6,362,167 fund after fees and costs — no per-person estimate, since it moves with the claim rate · Coloradans in the People Data Labs database with an inferred Colorado mobile number disclosed Sept 2022 – Mar 3, 2026 · LoginID & PIN needed",
-   "category": "Privacy",
-   "states": [
-    "CO"
-   ],
+   "id": "ca-settlements-people-data-labs-mobile-numbers-colorado",
+   "title": "People Data Labs - Mobile Numbers (Colorado) Class Action Settlement",
+   "summary": "This settlement covers Colorado residents whose mobile number was found in People Data Labs' database and whose information was disclosed at least once between September 2022 and March 3, 2026.",
+   "category": "Mobile Numbers (Colorado)",
+   "states": [],
    "deadline": "2026-09-29",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an equal share of a $6,362,167 fund after fees and costs — no per-person estimate, since it moves with the claim rate",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://pdlsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/ptfa/people-data-labs-colorado-cell-phone-number-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#people-data-labs-mobile-numbers-colorado"
-   ],
-   "added": "2026-08-06",
-   "first_seen": "2026-08-06",
+   "info_url": "https://www.classaction.org/settlements#people-data-labs-mobile-numbers-colorado",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-30",
    "keywords": [
     "people",
     "data",
     "lab",
-    "6",
-    "36m",
-    "colorado",
-    "cell",
-    "phone",
-    "number"
+    "mobile",
+    "number",
+    "colorado"
    ]
   },
   {
-   "id": "oca-physicians-primary-care-southwest-florida-data-breach-settlement",
-   "title": "Physicians' Primary Care of Southwest Florida Data Breach Settlement",
-   "summary": "up to $5,000 documented out-of-pocket losses or an estimated ~$100 pro rata payment, plus 2 years of credit and medical-data monitoring · anyone notified of the Sept 2024 breach at the Fort Myers–area medical group · unique ID & PIN needed to file online",
+   "id": "ca-settlements-physicians-primary-care-of-southwest-florida-data-breach",
+   "title": "Physicians’ Primary Care Of Southwest Florida - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was potentially exposed in the September 2024 Physicians’ Primary Care Of Southwest Florida data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-09-29",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $5,000 documented out-of-pocket losses or an estimated ~$100 pro rata payment, plus 2 years of credit and medical-data monitoring",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $5,000",
    "claim_url": "https://physiciansprimarycaredatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/physicians-primary-care-southwest-florida-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#physicians-primary-care-of-southwest-florida-data-breach"
-   ],
-   "added": "2026-07-15",
-   "first_seen": "2026-07-15",
+   "info_url": "https://www.classaction.org/settlements#physicians-primary-care-of-southwest-florida-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-30",
    "keywords": [
     "physician",
     "primary",
@@ -500,31 +480,27 @@
    ]
   },
   {
-   "id": "oca-xactus-credit-plus-fcra-class-action-settlement",
-   "title": "Xactus & Credit Plus $2.4M FCRA Credit Report Class Action Settlement",
-   "summary": "estimated ~$500 cash from a $2.4M fund · ~28,416 people whose Credit Plus merged credit report showed a charged-off R9 account with a calculated monthly payment while two of three bureaus reported a $0 balance (since Nov 16, 2021) · Claim Number & PIN needed",
-   "category": "Banking & Credit",
+   "id": "ca-settlements-xactus-credit-plus-consumer-reports",
+   "title": "Xactus, Credit Plus - Consumer Reports Class Action Settlement",
+   "summary": "You may be included in this settlement if you were the subject of certain consumer reports Credit Plus sent to a third party between November 16, 2021 and June 18, 2026.",
+   "category": "Consumer Reports",
    "states": [],
    "deadline": "2026-09-29",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "estimated ~$500 cash from a $2.4M fund",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$500 (est.)",
    "claim_url": "https://cinnerfcraclassaction.com/default.aspx",
-   "info_url": "https://openclassactions.com/settlements/credit-reporting/xactus-credit-plus-fcra-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#xactus-credit-plus-consumer-reports"
-   ],
+   "info_url": "https://www.classaction.org/settlements#xactus-credit-plus-consumer-reports",
+   "source": "classaction.org",
+   "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-09-19",
+   "first_seen": "2026-09-30",
    "keywords": [
     "xactus",
     "credit",
     "plus",
-    "2",
-    "4m",
-    "fcra",
+    "consumer",
     "report"
    ]
   },
@@ -1401,6 +1377,31 @@
     "bradfordscott",
     "data",
     "sharetec",
+    "breach"
+   ]
+  },
+  {
+   "id": "ca-settlements-the-management-association-data-breaches",
+   "title": "MRA The Management Association - Data Breaches Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was potentially exposed in a data breach affecting MRA - The Management Association in July 2023 or January 2024.",
+   "category": "Data Breaches",
+   "states": [],
+   "deadline": "2026-10-07",
+   "deadline_type": "claim",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "Varies",
+   "claim_url": "https://mradatasettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#the-management-association-data-breaches",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "mra",
+    "management",
+    "association",
+    "data",
     "breach"
    ]
   },
@@ -3609,26 +3610,33 @@
    ]
   },
   {
-   "id": "ca-settlements-thermoflex-biometric-privacy",
-   "title": "Thermoflex - Biometric Privacy Class Action Settlement",
-   "summary": "You may be able to claim a piece of this settlement if you used a biometric finger-scanning device during the course of your work at Thermoflex at any time between July 27, 2015 and September 3, 2020.",
-   "category": "Biometric Privacy",
-   "states": [],
+   "id": "oca-thermoflex-bipa-class-action-settlement",
+   "title": "Thermoflex $9M BIPA Settlement — About $900, Paid Automatically",
+   "summary": "An estimated $900 check, with no claim form, for workers who scanned a fingerprint timeclock at Thermoflex in Illinois from 2015 to 2020.",
+   "category": "Privacy",
+   "states": [
+    "IL"
+   ],
    "deadline": "2026-10-26",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An estimated $900 check, with no claim form, for workers who scanned a fingerprint timeclock at Thermoflex in Illinois from 2015 to 2020.",
    "claim_url": "https://thermoflexbipasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#thermoflex-biometric-privacy",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-29",
+   "info_url": "https://openclassactions.com/settlements/privacy/thermoflex-bipa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#thermoflex-biometric-privacy"
+   ],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
    "keywords": [
     "thermoflex",
-    "biometric",
-    "privacy"
+    "9m",
+    "bipa",
+    "900",
+    "paid",
+    "automatically"
    ]
   },
   {
@@ -3732,11 +3740,10 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "an estimated $85 pro rata cash payment, or up to $5,000 documented, plus two years of medical identity protection",
-   "claim_url": "https://etairoshealthsettlement.com/",
+   "claim_url": "https://highlanddatabreachsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/highland-health-systems-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#etairos-health-data-breach",
     "https://www.classaction.org/settlements#highland-health-systems-data-breach",
     "https://www.classaction.org/settlements#system-pavers-data-breach"
    ],
@@ -3748,7 +3755,6 @@
     "system",
     "data",
     "breach",
-    "etairo",
     "paver"
    ]
   },
@@ -3993,6 +3999,34 @@
    ]
   },
   {
+   "id": "oca-sun-country-pilot-military-leave-401k-class-action-settlement",
+   "title": "Sun Country $1.55M Pilot Military Leave 401(k) Settlement — Automatic Payment",
+   "summary": "Missed 401(k) contributions plus lost earnings, paid automatically, for Sun Country pilots who took military leave between 2011 and 2025.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-10-30",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$1.55M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/sun-country-pilot-military-leave-401k-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "sun",
+    "country",
+    "1",
+    "55m",
+    "pilot",
+    "military",
+    "leave",
+    "401"
+   ]
+  },
+  {
    "id": "ca-settlements-trans-union-consumer-reports",
    "title": "Trans Union - Consumer Reports Class Action Settlement",
    "summary": "If Trans Union sold a consumer report about you that included a bankruptcy remark on a credit account, but the same report did not include a public record of a bankruptcy filing, you may be covered by this settlement.",
@@ -4232,24 +4266,27 @@
    ]
   },
   {
-   "id": "ca-settlements-specialtycare-training-repayment",
-   "title": "SpecialtyCare - Training Repayment Class Action Settlement",
-   "summary": "You may be included in this settlement if you were a surgical neurophysiologist employed by SpecialtyCare and were subject to the training repayment agreement at any point between August 23, 2017 and June 10, 2026?",
-   "category": "Training Repayment",
+   "id": "oca-specialtycare-training-repayment-agreement-class-action-settlement",
+   "title": "SpecialtyCare $725K Training Repayment Settlement — Automatic",
+   "summary": "automatic payment of at least $100 (up to about $10,727) plus cancellation of training repayment debt for SpecialtyCare surgical neurophysiologists subject to the agreement from Aug. 2017 to June 10, 2026",
+   "category": "Employment",
    "states": [],
    "deadline": "2026-11-02",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment of at least $100 (up to about $10,727) plus cancellation of training repayment debt for SpecialtyCare surgical neurophysiologists subject to…",
    "claim_url": "https://specialtycareincsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#specialtycare-training-repayment",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-29",
+   "info_url": "https://openclassactions.com/settlements/employment-law/specialtycare-training-repayment-agreement-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#specialtycare-training-repayment"
+   ],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
    "keywords": [
     "specialtycare",
+    "725k",
     "training",
     "repayment"
    ]
@@ -4479,6 +4516,32 @@
     "medical",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-truffettes-de-france-class-action-settlement",
+   "title": "Truffettes de France Settlement (Canada) — $3 CAD per Product",
+   "summary": "$3 CAD per product, with no receipt needed for up to three, for Canadian residents who bought Truffettes de France truffles or French Mallows.",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2026-11-04",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$3 CAD per product, with no receipt needed for up to three, for Canadian residents who bought Truffettes de France truffles or French Mallows.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/truffettes-de-france-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-29",
+   "first_seen": "2026-09-29",
+   "keywords": [
+    "truffette",
+    "de",
+    "france",
+    "canada",
+    "3",
+    "cad"
    ]
   },
   {
@@ -5574,7 +5637,7 @@
   {
    "id": "ca-settlements-schenker-background-checks",
    "title": "Schenker - Background Checks Class Action Settlement",
-   "summary": "You may be able to claim a piece of this settlement if Schenker acquired a consumer credit report to conduct your background check.",
+   "summary": "You may be able to claim a piece of this settlement if Schenker obtained a consumer report on you for employment purposes between November 20, 2014 and February 28, 2022.",
    "category": "Background Checks",
    "states": [],
    "deadline": "2026-11-20",
@@ -5622,6 +5685,35 @@
     "fire",
     "8",
     "45m"
+   ]
+  },
+  {
+   "id": "oca-sela-realty-florida-security-deposit-class-action-settlement",
+   "title": "SELA Realty Florida Security Deposit Settlement — 60% Back",
+   "summary": "60% of a kept security deposit for former SELA Realty tenants in Florida, plus old balances cleared for those who moved out by the end of 2024.",
+   "category": "Fees & Billing",
+   "states": [
+    "FL"
+   ],
+   "deadline": "2026-11-22",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/sela-realty-florida-security-deposit-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "sela",
+    "realty",
+    "florida",
+    "security",
+    "deposit",
+    "60",
+    "back"
    ]
   },
   {
@@ -5849,8 +5941,8 @@
    "states": [],
    "deadline": "2026-11-24",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
    "payout": "A pro rata share of an $850,000 fund, sized to the processing fees each claimant paid, for anyone who bought Raging Waters admission tickets online between Jun…",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/deceptive-pricing/raging-waters-processing-fee-class-action-settlement.php",
@@ -6013,6 +6105,36 @@
     "7m",
     "illinois",
     "user"
+   ]
+  },
+  {
+   "id": "oca-wellnow-urgent-care-wage-hour-class-action-settlement",
+   "title": "WellNow Urgent Care $1.64M Wage Settlement",
+   "summary": "A points-based share of $1.64 million for hourly WellNow patient-care staff in New York, Illinois and Pennsylvania, scaled to pay periods worked.",
+   "category": "Employment",
+   "states": [
+    "NY",
+    "IL",
+    "PA"
+   ],
+   "deadline": "2026-11-25",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "A points-based share of $1.64 million for hourly WellNow patient-care staff in New York, Illinois and Pennsylvania, scaled to pay periods worked.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/wellnow-urgent-care-wage-hour-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "wellnow",
+    "urgent",
+    "care",
+    "1",
+    "64m",
+    "wage"
    ]
   },
   {
@@ -6304,6 +6426,33 @@
    ]
   },
   {
+   "id": "oca-texas-retina-associates-data-breach-settlement",
+   "title": "Texas Retina Data Breach Settlement — $45 or Up to $4,000",
+   "summary": "A flat $45, or up to $4,000 in documented losses, plus three years of identity theft protection, for patients and others affected by the 2024 Texas Retina Associates data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-30",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $45, or up to $4,000 in documented losses, plus three years of identity theft protection, for patients and others affected by the 2024 Texas Retina Asso…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/texas-retina-associates-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "texa",
+    "retina",
+    "data",
+    "breach",
+    "45",
+    "4",
+    "000"
+   ]
+  },
+  {
    "id": "oca-new-amazon-returns-class-action-settlement",
    "title": "Amazon Returns Class Action Settlement",
    "summary": "A share of a $309.5 million fund for Amazon customers whose refund for a returned product went missing, arrived late, came up short or was charged back — no claim form for anyone Amazon's own records identify.",
@@ -6570,28 +6719,36 @@
    ]
   },
   {
-   "id": "ca-settlements-seattle-public-schools-data-breach",
-   "title": "Seattle Public Schools - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your personal information was exposed in the January 2025 Seattle Public Schools data breach.",
+   "id": "oca-seattle-federal-way-schools-carruth-data-breach-settlement",
+   "title": "Seattle & Federal Way Schools Carruth Data Breach Settlement — Up to $599",
+   "summary": "Up to $599 in pro rata cash plus up to $5,000 in documented losses for Seattle and Federal Way school employees exposed in the Carruth breach.",
    "category": "Data Breach",
-   "states": [],
+   "states": [
+    "WA"
+   ],
    "deadline": "2026-12-02",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $5,000",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $599 in pro rata cash plus up to $5,000 in documented losses for Seattle and Federal Way school employees exposed in the Carruth breach.",
    "claim_url": "https://www.carruthsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#seattle-public-schools-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-29",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/seattle-federal-way-schools-carruth-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#seattle-public-schools-data-breach"
+   ],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
    "keywords": [
     "seattle",
-    "public",
+    "federal",
+    "way",
     "school",
+    "carruth",
     "data",
-    "breach"
+    "breach",
+    "599",
+    "public"
    ]
   },
   {
@@ -6754,6 +6911,32 @@
     "security",
     "19",
     "5m"
+   ]
+  },
+  {
+   "id": "oca-becton-dickinson-sec-fair-fund",
+   "title": "Becton Dickinson $175M SEC Fair Fund (BDX)",
+   "summary": "A share of the SEC's $175,000,000 Becton Fair Fund for investors who bought BDX common stock between February 5, 2019 and February 5, 2020.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-13",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of the SEC's $175,000,000 Becton Fair Fund for investors who bought BDX common stock between February 5, 2019 and February 5, 2020.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/becton-dickinson-sec-fair-fund.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "becton",
+    "dickinson",
+    "175m",
+    "sec",
+    "fair",
+    "bdx"
    ]
   },
   {
@@ -6927,6 +7110,35 @@
    ]
   },
   {
+   "id": "oca-etairos-health-data-breach-settlement",
+   "title": "Etairos Health Data Breach Settlement — $75 or Up to $4,500",
+   "summary": "A flat $75, or up to $4,500 in documented losses and time, plus three years of credit monitoring, for current and former employees Etairos Health notified of its 2024 ransomware attack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $75, or up to $4,500 in documented losses and time, plus three years of credit monitoring, for current and former employees Etairos Health notified of i…",
+   "claim_url": "https://etairoshealthsettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/etairos-health-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#etairos-health-data-breach"
+   ],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "etairo",
+    "health",
+    "data",
+    "breach",
+    "75",
+    "4",
+    "500"
+   ]
+  },
+  {
    "id": "oca-innovative-renal-care-data-breach-settlement",
    "title": "Innovative Renal Care Data Breach Settlement — $100 or Up to $5,000",
    "summary": "An estimated $100 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Innovative Renal Care notified of the 2024 breach.",
@@ -7039,6 +7251,34 @@
     "000",
     "documented",
     "service"
+   ]
+  },
+  {
+   "id": "oca-equifax-credit-score-error-class-action-settlement",
+   "title": "Equifax $100M Credit Score Error Settlement — Est. $95 to $280",
+   "summary": "An estimated $95 to $280 each for people whose Equifax credit score was misreported during the spring 2022 coding issue.",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $95 to $280 each for people whose Equifax credit score was misreported during the spring 2022 coding issue.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/equifax-credit-score-error-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-07",
+   "first_seen": "2026-09-07",
+   "keywords": [
+    "equifax",
+    "100m",
+    "credit",
+    "score",
+    "error",
+    "est",
+    "95",
+    "280"
    ]
   },
   {
@@ -7311,6 +7551,31 @@
     "nonbank",
     "atm",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-buyalerts-tcpa-text-message-class-action-settlement",
+   "title": "BuyAlerts Text Message Settlement — Up to $42.16",
+   "summary": "Up to $42.16 for people who kept getting BuyAlerts marketing texts after replying “stop” or while on the Do Not Call Registry.",
+   "category": "TCPA",
+   "states": [],
+   "deadline": "2027-02-16",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $42.16 for people who kept getting BuyAlerts marketing texts after replying “stop” or while on the Do Not Call Registry.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/tcpa/buyalerts-tcpa-text-message-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-29",
+   "first_seen": "2026-09-29",
+   "keywords": [
+    "buyalert",
+    "text",
+    "message",
+    "42",
+    "16"
    ]
   },
   {
@@ -8187,31 +8452,6 @@
     "overtime",
     "1",
     "3m"
-   ]
-  },
-  {
-   "id": "oca-equifax-credit-score-error-class-action-settlement",
-   "title": "Equifax $100M Credit Score Error Settlement",
-   "summary": "A $100 million deal addresses the 2022 credit score coding error; final approval and verified claim instructions are still pending.",
-   "category": "Banking & Credit",
-   "states": [],
-   "deadline": null,
-   "deadline_type": "unknown",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "A $100 million deal addresses the 2022 credit score coding error",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/equifax-credit-score-error-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-07",
-   "first_seen": "2026-09-07",
-   "keywords": [
-    "equifax",
-    "100m",
-    "credit",
-    "score",
-    "error"
    ]
   },
   {
