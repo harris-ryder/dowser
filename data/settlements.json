@@ -1,39 +1,12 @@
 {
- "generated_at": "2026-09-30T15:56:49.872Z",
+ "generated_at": "2026-10-01T16:28:41.120Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 343,
+ "count": 344,
  "settlements": [
-  {
-   "id": "oca-big-als-washington-non-compete-class-action-settlement",
-   "title": "Big Al's $450K Washington Non-Compete Settlement — Automatic Payment",
-   "summary": "",
-   "category": null,
-   "states": [
-    "WA"
-   ],
-   "deadline": "2026-08-24",
-   "deadline_type": "opt_out",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "$450K settlement fund (individual payout not stated)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/employment/non-compete/big-als-washington-non-compete-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "big",
-    "al",
-    "450k",
-    "washington",
-    "noncompete"
-   ]
-  },
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
    "title": "Hunter Warfield $350 Unlicensed Rental Collections Settlement (Maryland)",
@@ -505,167 +478,55 @@
    ]
   },
   {
-   "id": "oca-wayland-maricann-securities-class-action-settlement",
-   "title": "$8M CAD Wayland Group (Formerly Maricann) Securities Class Action Settlement",
-   "summary": "pro rata share of an $8M CAD fund, capped at $0.74, $0.17 or $0.03 a share by trade date · Wayland Group (formerly Maricann) investors still holding at the close on Aug 2, 2019",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-09-30",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata share of an $8M CAD fund, capped at $0.74, $0.17 or $0.03 a share by trade date",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/wayland-maricann-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-18",
-   "first_seen": "2026-09-18",
-   "keywords": [
-    "8m",
-    "cad",
-    "wayland",
-    "formerly",
-    "maricann",
-    "security"
-   ]
-  },
-  {
-   "id": "oca-aetna-lumbar-artificial-disc-replacement-class-action-settlement",
-   "title": "Aetna Lumbar Artificial Disc Replacement (L-ADR) Coverage Class Action Settlement",
-   "summary": "reimbursement up to $55,000 + future coverage · Aetna ERISA members denied single-level L-ADR surgery (Aug 2016–Feb 2023) · Claimant ID + proof required · file within 90 days of final approval",
-   "category": "Healthcare",
-   "states": [],
-   "deadline": "2026-09-30",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "reimbursement up to $55,000 + future coverage",
-   "claim_url": "https://www.ladrsurgerysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/aetna-lumbar-artificial-disc-replacement-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#aetna-life-insurance-lumbar-artificial-disc-replacement"
-   ],
-   "added": "2026-06-22",
-   "first_seen": "2026-06-22",
-   "keywords": [
-    "aetna",
-    "lumbar",
-    "artificial",
-    "disc",
-    "replacement",
-    "ladr",
-    "coverage",
-    "life",
-    "insurance"
-   ]
-  },
-  {
-   "id": "oca-apollomd-data-breach-settlement",
-   "title": "ApolloMD Data Breach Settlement",
-   "summary": "~$75 cash with no documentation, or up to $5,000 for documented losses, plus 1 year of medical data monitoring ($1M insurance) · $4.02M fund · ~662,000 patients of ApolloMD's affiliated physicians notified of the May 2025 incident · Class Member ID needed",
+   "id": "ca-settlements-clay-platte-family-medicine-data-breach",
+   "title": "Clay-Platte Family Medicine - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was exposed in the June 2024 Clay-Platte Family Medicine Clinic data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-09-30",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "~$75 cash with no documentation, or up to $5,000 for documented losses, plus 1 year of medical data monitoring ($1M insurance)",
-   "claim_url": "https://apollomddatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/apollomd-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#apollomd-data-breach"
-   ],
-   "added": "2026-07-12",
-   "first_seen": "2026-07-12",
-   "keywords": [
-    "apollomd",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-clay-platte-family-medicine-data-breach-settlement",
-   "title": "Clay-Platte Family Medicine $1M Data Breach Class Action Settlement",
-   "summary": "up to $15,000 documented losses, or pro rata cash from a $1M fund, plus 3 years of medical and credit monitoring · ~53,916 patients of four Kansas City-area clinics notified of the June 2024 breach · Notice ID & Confirmation Code needed",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-09-30",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $15,000 documented losses, or pro rata cash from a $1M fund, plus 3 years of medical and credit monitoring",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $15,000",
    "claim_url": "https://www.cpfmsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/clay-platte-family-medicine-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#clay-platte-family-medicine-data-breach"
-   ],
+   "info_url": "https://www.classaction.org/settlements#clay-platte-family-medicine-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-09-19",
+   "first_seen": "2026-10-01",
    "keywords": [
     "clayplatte",
     "family",
     "medicine",
-    "1m",
     "data",
     "breach"
    ]
   },
   {
-   "id": "oca-first-baptist-church-hammond-data-breach-settlement",
-   "title": "First Baptist Church of Hammond Data Breach Settlement",
-   "summary": "flat $50 cash with no proof, or instead documented losses — up to $450 ordinary, $4,500 extraordinary, plus $80 lost time · anyone notified of the July 2025 cyberattack on First Baptist Church of Hammond, Indiana · LoginID & PIN needed to file online",
+   "id": "ca-settlements-first-baptist-church-of-hammond-indiana-data-breach",
+   "title": "First Baptist Church of Hammond, Indiana - Data Breach Class Action Settlement",
+   "summary": "If your private information was compromised in the July 2025 First Baptist Church of Hammond, Indiana data breach, you may be included in this settlement.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-09-30",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "flat $50 cash with no proof, or instead documented losses — up to $450 ordinary, $4,500 extraordinary, plus $80 lost time",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$50 - $5,030",
    "claim_url": "https://fbcdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/first-baptist-church-hammond-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#first-baptist-church-of-hammond-indiana-data-breach"
-   ],
-   "added": "2026-07-29",
-   "first_seen": "2026-07-29",
+   "info_url": "https://www.classaction.org/settlements#first-baptist-church-of-hammond-indiana-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-01",
    "keywords": [
     "first",
     "baptist",
     "church",
     "hammond",
+    "indiana",
     "data",
-    "breach",
-    "indiana"
-   ]
-  },
-  {
-   "id": "oca-mercedes-benz-aem-incentive-bluetec-diesel-settlement",
-   "title": "Mercedes-Benz BlueTEC Diesel AEM Incentive Settlement",
-   "summary": "",
-   "category": "Auto",
-   "states": [],
-   "deadline": "2026-09-30",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": null,
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/mercedes-benz-aem-incentive-bluetec-diesel-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "mercedesbenz",
-    "bluetec",
-    "diesel",
-    "aem",
-    "incentive"
+    "breach"
    ]
   },
   {
@@ -1551,16 +1412,19 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "estimated $100 pro rata cash with no documentation, and/or up to $5,000 documented losses, plus 2 years of credit monitoring",
-   "claim_url": null,
+   "claim_url": "https://apollomddatasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/eisner-advisory-group-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#apollomd-data-breach"
+   ],
    "added": "2026-08-02",
    "first_seen": "2026-08-02",
    "keywords": [
     "eisneramper",
     "data",
-    "breach"
+    "breach",
+    "apollomd"
    ]
   },
   {
@@ -2338,30 +2202,6 @@
     "data",
     "privacy",
     "app"
-   ]
-  },
-  {
-   "id": "oca-john-deere-right-to-repair-class-action-settlement",
-   "title": "$99M John Deere Right-to-Repair Class Action Settlement",
-   "summary": "pro rata cash by repair labor hours paid · $99M fund plus 10 years of access to Deere digital repair tools · anyone who paid Deere or an authorized dealer for large ag equipment repairs (Jan 10, 2018 – May 18, 2026) · repair invoices and payment records required",
-   "category": "Antitrust",
-   "states": [],
-   "deadline": "2026-10-15",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "$99M fund plus 10 years of access to Deere digital repair tools",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/john-deere-right-to-repair-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-04",
-   "first_seen": "2026-07-04",
-   "keywords": [
-    "99m",
-    "john",
-    "deere",
-    "righttorepair"
    ]
   },
   {
@@ -3812,6 +3652,32 @@
    ]
   },
   {
+   "id": "oca-academy-mortgage-data-breach-settlement",
+   "title": "Academy Mortgage $1.995M Data Breach Class Action Settlement",
+   "summary": "A pro rata cash payment, up to $3,000 in documented losses and three years of credit monitoring for people notified of the 2023 Academy Mortgage data incident; claims open by October 29, 2026.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-10-29",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata cash payment, up to $3,000 in documented losses and three years of credit monitoring for people notified of the 2023 Academy Mortgage data incident",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/academy-mortgage-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "academy",
+    "mortgage",
+    "1",
+    "995m",
+    "data",
+    "breach"
+   ]
+  },
+  {
    "id": "oca-acct-holdings-esop-erisa-class-action-settlement",
    "title": "ACCT Holdings ESOP $8.75M ERISA Class Action Settlement",
    "summary": "a pro rata share of $3M in cash plus a $5.75M debt reduction meant to lift share value, for vested ACCT Holdings ESOP participants and beneficiaries — no claim form and no opt-out",
@@ -4289,6 +4155,33 @@
     "725k",
     "training",
     "repayment"
+   ]
+  },
+  {
+   "id": "oca-swire-coca-cola-washington-non-compete-class-action-settlement",
+   "title": "Swire Coca-Cola $2M Washington Non-Compete Settlement",
+   "summary": "An equal share of a $2,003,000 fund, estimated at $672.54, for Swire Coca-Cola workers in Washington who earned under twice the minimum wage (Sep 9, 2022 – Mar 10, 2026).",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-11-02",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $2,003,000 fund, estimated at $672.54, for Swire Coca-Cola workers in Washington who earned under twice the minimum wage (Sep 9, 2022 – Mar…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/employment/non-compete/swire-coca-cola-washington-non-compete-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "swire",
+    "cocacola",
+    "2m",
+    "washington",
+    "noncompete"
    ]
   },
   {
@@ -5163,34 +5056,26 @@
    ]
   },
   {
-   "id": "oca-high-5-games-social-casino-class-action-settlement",
-   "title": "High 5 Games Social Casino Class Action Settlement ($12M–$30M)",
-   "summary": "a share of the fund scaled to what you spent on virtual coins in High 5 Casino or High 5 Vegas, settled after a jury sided with the plaintiff",
-   "category": "Consumer Products",
-   "states": [
-    "WA"
-   ],
+   "id": "ca-settlements-high-5-games-washington",
+   "title": "High 5 Games (Washington) Class Action Settlement",
+   "summary": "You may be covered by this settlement if you bought virtual coins in the High 5 Casino or High 5 Vegas social casino applications while in Washington between April 9, 2014 and October 1, 2022.",
+   "category": null,
+   "states": [],
    "deadline": "2026-11-13",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$12M settlement fund (individual payout not stated)",
+   "payout": "Varies",
    "claim_url": "https://www.high5lawsuit.com/",
-   "info_url": "https://openclassactions.com/settlements/high-5-games-social-casino-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#high-5-games-washington"
-   ],
-   "added": "2026-08-30",
-   "first_seen": "2026-08-30",
+   "info_url": "https://www.classaction.org/settlements#high-5-games-washington",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-01",
    "keywords": [
     "high",
     "5",
     "game",
-    "social",
-    "casino",
-    "12m",
-    "30m",
     "washington"
    ]
   },
@@ -6314,6 +6199,32 @@
    ]
   },
   {
+   "id": "oca-wayland-maricann-securities-class-action-settlement",
+   "title": "$8M CAD Wayland Group (Formerly Maricann) Securities Class Action Settlement",
+   "summary": "pro rata share of an $8M CAD fund, capped at $0.74, $0.17 or $0.03 a share by trade date · Wayland Group (formerly Maricann) investors still holding at the close on Aug 2, 2019",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-30",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "pro rata share of an $8M CAD fund, capped at $0.74, $0.17 or $0.03 a share by trade date",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/wayland-maricann-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-18",
+   "first_seen": "2026-09-18",
+   "keywords": [
+    "8m",
+    "cad",
+    "wayland",
+    "formerly",
+    "maricann",
+    "security"
+   ]
+  },
+  {
    "id": "oca-healthport-datavant-pennsylvania-medical-records-fees-class-action-settlement",
    "title": "HealthPort/Datavant Pennsylvania Medical Records Fee Class Action Settlement",
    "summary": "A refund of 35% of the basic, search-and-retrieval and per-page fees paid to HealthPort for copies of Pennsylvania medical records between July 15, 2005 and September 3, 2012.",
@@ -6993,6 +6904,32 @@
    ]
   },
   {
+   "id": "oca-providence-health-washington-wage-hour-class-action-settlement",
+   "title": "Providence $17M Washington Wage Settlement — Automatic Payments",
+   "summary": "pro rata share of a $17M fund by W-2 wages, $25 minimum · automatic payment, no claim form · hourly non-exempt Providence Health & Services – Washington employees (Apr 23, 2022 – Aug 13, 2026) · alleged rest/meal break, unpaid time and overtime violations",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-14",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "pro rata share of a $17M fund by W-2 wages, $25 minimum",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/providence-health-washington-wage-hour-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "providence",
+    "17m",
+    "washington",
+    "wage"
+   ]
+  },
+  {
    "id": "oca-state-farm-washington-umpd-diminished-value-class-action-settlement",
    "title": "State Farm Washington UMPD Diminished Value Class Action Settlement — About $625 Average",
    "summary": "a diminished value payment scaled to your repair cost from a fund of up to $8,822,039.83, estimated at about $625 on average · State Farm Mutual Washington insureds paid under UMPD coverage for a Jan 13, 2019 – Feb 27, 2026 accident with a $1,000+ repair estimate on a vehicle under six years old and 90,000 miles",
@@ -7254,6 +7191,31 @@
    ]
   },
   {
+   "id": "oca-nyc-taxi-limousine-commission-license-suspension-class-action-settlement",
+   "title": "$140M NYC TLC License Suspension Class Action Settlement",
+   "summary": "$263–$36,000 est. · taxi/for-hire drivers suspended after an arrest (2003–2020) · final approval granted · claims due Dec 28, 2026",
+   "category": "Government",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$263–$36,000 est.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/nyc-taxi-limousine-commission-license-suspension-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-09-19",
+   "keywords": [
+    "140m",
+    "nyc",
+    "tlc",
+    "license",
+    "suspension"
+   ]
+  },
+  {
    "id": "oca-equifax-credit-score-error-class-action-settlement",
    "title": "Equifax $100M Credit Score Error Settlement — Est. $95 to $280",
    "summary": "An estimated $95 to $280 each for people whose Equifax credit score was misreported during the spring 2022 coding issue.",
@@ -7309,6 +7271,32 @@
    ]
   },
   {
+   "id": "oca-john-deere-right-to-repair-class-action-settlement",
+   "title": "$99M John Deere Right-to-Repair Class Action Settlement",
+   "summary": "pro rata cash by repair labor hours paid · $99M fund plus 10 years of access to Deere digital repair tools · anyone who paid Deere or an authorized dealer for large ag equipment repairs (Jan 10, 2018 – May 18, 2026) · notice ID and confirmation code, or repair records if you got no notice",
+   "category": "Antitrust",
+   "states": [],
+   "deadline": "2026-12-31",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$99M fund plus 10 years of access to Deere digital repair tools",
+   "claim_url": "https://www.deererepairsettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/john-deere-right-to-repair-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#john-deere-large-agricultural-equipment-repairs"
+   ],
+   "added": "2026-07-04",
+   "first_seen": "2026-07-04",
+   "keywords": [
+    "99m",
+    "john",
+    "deere",
+    "righttorepair"
+   ]
+  },
+  {
    "id": "oca-clorox-pine-sol-recall",
    "title": "Clorox® Pine-Sol® Voluntary Recall",
    "summary": "",
@@ -7329,32 +7317,6 @@
     "clorox",
     "pinesol",
     "voluntary"
-   ]
-  },
-  {
-   "id": "ca-settlements-john-deere-large-agricultural-equipment-repairs",
-   "title": "John Deere - Large Agricultural Equipment Repairs Class Action Settlement",
-   "summary": "You may be covered by this settlement if you paid for repair services for John Deere large agricultural equipment from John Deere or a Deere authorized dealer between January 10, 2018 and May 18, 2026.",
-   "category": "Large Agricultural Equipment Repairs",
-   "states": [],
-   "deadline": "2026-12-31",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://www.deererepairsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#john-deere-large-agricultural-equipment-repairs",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "john",
-    "deere",
-    "large",
-    "agricultural",
-    "equipment",
-    "repair"
    ]
   },
   {
@@ -7383,6 +7345,35 @@
     "50",
     "5",
     "000"
+   ]
+  },
+  {
+   "id": "oca-high-5-games-social-casino-class-action-settlement",
+   "title": "High 5 Games Social Casino Class Action Settlement ($12M–$30M)",
+   "summary": "a share of the fund scaled to what you spent on virtual coins in High 5 Casino or High 5 Vegas, settled after a jury sided with the plaintiff",
+   "category": "Consumer Products",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$12M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/high-5-games-social-casino-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-08-30",
+   "first_seen": "2026-08-30",
+   "keywords": [
+    "high",
+    "5",
+    "game",
+    "social",
+    "casino",
+    "12m",
+    "30m"
    ]
   },
   {
@@ -7464,33 +7455,6 @@
     "5",
     "200",
     "cad"
-   ]
-  },
-  {
-   "id": "oca-beef-and-pork-wages-class-action-settlement",
-   "title": "Beef & Pork Processing Workers $202.7M Wage-Fixing Settlement",
-   "summary": "pro rata cash from ~$202.7M in settlements (Tyson, JBS, Cargill, Hormel, National Beef & others) · anyone who worked at a defendant beef or pork processing plant (Jan 1, 2000 – Feb 27, 2024) · noticed class members are paid automatically; others file with a photo ID or paystub",
-   "category": "Employment",
-   "states": [],
-   "deadline": "2027-02-04",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "pro rata cash from ~$202.7M in settlements (Tyson, JBS, Cargill, Hormel, National Beef & others)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/beef-and-pork-wages-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "keywords": [
-    "beef",
-    "pork",
-    "processing",
-    "worker",
-    "202",
-    "7m",
-    "wagefixing"
    ]
   },
   {
@@ -7653,6 +7617,33 @@
     "nonbank",
     "atm",
     "surcharge"
+   ]
+  },
+  {
+   "id": "oca-beef-and-pork-wages-class-action-settlement",
+   "title": "Beef & Pork Processing Workers $202.7M Wage-Fixing Settlement",
+   "summary": "pro rata cash from ~$202.7M in settlements (Tyson, JBS, Cargill, Hormel, National Beef & others) · anyone who worked at a defendant beef or pork processing plant (Jan 1, 2000 – Feb 27, 2024) · noticed class members are paid automatically; others file with a photo ID or paystub",
+   "category": "Employment",
+   "states": [],
+   "deadline": "2027-03-26",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "pro rata cash from ~$202.7M in settlements (Tyson, JBS, Cargill, Hormel, National Beef & others)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/beef-and-pork-wages-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "keywords": [
+    "beef",
+    "pork",
+    "processing",
+    "worker",
+    "202",
+    "7m",
+    "wagefixing"
    ]
   },
   {
@@ -7922,31 +7913,6 @@
    ]
   },
   {
-   "id": "oca-nyc-taxi-limousine-commission-license-suspension-class-action-settlement",
-   "title": "$140M NYC TLC License Suspension Class Action Settlement",
-   "summary": "$263–$36,000 est. · taxi/for-hire drivers suspended after an arrest (2003–2020) · claims not open yet · register for updates",
-   "category": "Government",
-   "states": [],
-   "deadline": null,
-   "deadline_type": "unknown",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$263–$36,000 est.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/nyc-taxi-limousine-commission-license-suspension-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "140m",
-    "nyc",
-    "tlc",
-    "license",
-    "suspension"
-   ]
-  },
-  {
    "id": "oca-aerogrow-shareholder-class-action-settlement",
    "title": "$15.98M AeroGrow Shareholder Class Action Settlement",
    "summary": "Approved settlement over the 2021 Scotts Miracle-Gro buyout at $3.00 a share, paid automatically per share to holders cashed out in the merger.",
@@ -8153,6 +8119,37 @@
    ]
   },
   {
+   "id": "oca-aetna-lumbar-artificial-disc-replacement-class-action-settlement",
+   "title": "Aetna Lumbar Artificial Disc Replacement (L-ADR) Coverage Class Action Settlement",
+   "summary": "",
+   "category": "Lumbar Artificial Disc Replacement",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $55,000",
+   "claim_url": "https://www.ladrsurgerysettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/aetna-lumbar-artificial-disc-replacement-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#aetna-life-insurance-lumbar-artificial-disc-replacement"
+   ],
+   "added": "2026-06-22",
+   "first_seen": "2026-06-22",
+   "keywords": [
+    "aetna",
+    "lumbar",
+    "artificial",
+    "disc",
+    "replacement",
+    "ladr",
+    "coverage",
+    "life",
+    "insurance"
+   ]
+  },
+  {
    "id": "oca-alaska-airlines-military-leave-vacation-class-action-settlement",
    "title": "Alaska Airlines $500K Pilot Military Leave Settlement",
    "summary": "About 163 current and former Alaska Airlines pilots share $500,000 for vacation that never accrued during military leaves of 31 to 60 consecutive days.",
@@ -8353,6 +8350,31 @@
     "certainteed",
     "organic",
     "shingle"
+   ]
+  },
+  {
+   "id": "oca-credit-exterminators-earn-company-croa-class-action-settlement",
+   "title": "Credit Exterminators / Earn Company $125K Credit Repair Class Action Settlement",
+   "summary": "about $60 each, an equal share of a $125,000 fund paid over two years, for the 1,434 people who signed a Credit Repair Services Agreement with Credit Exterminators, Earn Company or Earn Finance Company since February 10, 2016",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "about $60 each, an equal share of a $125,000 fund paid over two years, for the 1,434 people who signed a Credit Repair Services Agreement with Credit Extermina…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/credit-exterminators-earn-company-croa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-30",
+   "first_seen": "2026-09-30",
+   "keywords": [
+    "credit",
+    "exterminator",
+    "earn",
+    "125k",
+    "repair"
    ]
   },
   {
