@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-01T16:28:41.120Z",
+ "generated_at": "2026-10-03T14:19:46.300Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 344,
+ "count": 388,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -556,129 +556,22 @@
    ]
   },
   {
-   "id": "oca-irhythm-technologies-securities-class-action-settlement",
-   "title": "$45M iRhythm Technologies Securities Settlement (IRTC)",
-   "summary": "pro rata share of a $45,000,000 fund · estimated $1.83 per eligible share before fees (~$0.49) · anyone who bought iRhythm (Nasdaq: IRTC) common stock July 25, 2022 – Aug 9, 2024 · brokerage records required, including the Aug 12 – Nov 8, 2024 look-back window",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-01",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata share of a $45,000,000 fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/irhythm-technologies-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-03",
-   "first_seen": "2026-08-03",
-   "keywords": [
-    "45m",
-    "irhythm",
-    "technology",
-    "security",
-    "irtc"
-   ]
-  },
-  {
-   "id": "oca-chemocentryx-securities-class-action-settlement",
-   "title": "$69M ChemoCentryx Securities Settlement (CCXI)",
-   "summary": "pro rata share of a $69,000,000 fund · estimated $2.88 per eligible share before fees (~$0.84) · anyone who bought ChemoCentryx (Nasdaq: CCXI) common stock Nov 26, 2019 – May 6, 2021 · brokerage records required, plus the May 7 – Aug 4, 2021 look-back window",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-01",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata share of a $69,000,000 fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/chemocentryx-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-27",
-   "first_seen": "2026-07-27",
-   "keywords": [
-    "69m",
-    "chemocentryx",
-    "security",
-    "ccxi"
-   ]
-  },
-  {
-   "id": "oca-healthcare-services-group-data-breach-settlement",
-   "title": "Healthcare Services Group Data Breach Class Action Settlement",
-   "summary": "a pro rata cash payment, or up to $5,000 in documented losses instead, plus three years of credit monitoring, for anyone notified of the 2024 HCSG incident",
+   "id": "ca-settlements-nj-lenders-corp-data-breach",
+   "title": "NJ Lenders Corp - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was exposed in the August 2025 NJ Lenders Corp data breach.",
    "category": "Data Breach",
    "states": [],
-   "deadline": "2026-10-01",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a pro rata cash payment, or up to $5,000 in documented losses instead, plus three years of credit monitoring, for anyone notified of the 2024 HCSG incident",
-   "claim_url": "https://www.lscdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/healthcare-services-group-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#laboratory-services-cooperative-data-breach",
-    "https://www.classaction.org/settlements#healthcare-services-group-data-breach"
-   ],
-   "added": "2026-08-26",
-   "first_seen": "2026-08-26",
-   "keywords": [
-    "healthcare",
-    "service",
-    "data",
-    "breach",
-    "laboratory",
-    "cooperative"
-   ]
-  },
-  {
-   "id": "oca-hefty-recycling-bags-settlement",
-   "title": "Hefty “Recycling” Bags Arizona Restitution Settlement",
-   "summary": "Arizona shoppers who bought Hefty “Recycling,” blue or clear bags can file a free complaint with the Arizona Attorney General to be considered for restitution.",
-   "category": "Consumer Products",
-   "states": [
-    "AZ"
-   ],
    "deadline": "2026-10-01",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": null,
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/hefty-recycling-bags-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-29",
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "hefty",
-    "recycling",
-    "bag",
-    "arizona",
-    "restitution"
-   ]
-  },
-  {
-   "id": "oca-nj-lenders-data-breach-settlement",
-   "title": "NJ Lenders Data Breach Class Action Settlement",
-   "summary": "$40 flat cash with no proof, or up to $2,500 documented out-of-pocket losses · 1 year of credit monitoring ($1M insurance) on top of either · anyone notified of the Aug 2025 cyberattack on the New Jersey mortgage lender · LoginID & PIN needed to file online",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-01",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$40 flat cash with no proof, or up to $2,500 documented out-of-pocket losses",
+   "payout": "$40 - $2,500",
    "claim_url": "https://njlendersdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/nj-lenders-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#nj-lenders-corp-data-breach"
-   ],
-   "added": "2026-08-08",
-   "first_seen": "2026-08-08",
+   "info_url": "https://www.classaction.org/settlements#nj-lenders-corp-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-03",
    "keywords": [
     "nj",
     "lender",
@@ -687,31 +580,27 @@
    ]
   },
   {
-   "id": "oca-sugared-bronzed-tcpa-text-message-class-action-settlement",
-   "title": "Sugared + Bronzed TCPA Text Message Class Action Settlement ($750K)",
-   "summary": "an estimated $110 to $222 per approved claim, an equal pro rata share of a non-reversionary $750,000 fund, for people sent two or more Sugared + Bronzed marketing texts through Klaviyo after asking them to stop",
-   "category": "TCPA",
+   "id": "ca-settlements-sugared-bronzed-unwanted-texts",
+   "title": "Sugared + Bronzed - Unwanted Texts Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if you received two or more marketing text messages from Sugared + Bronzed after opting out of said messages between August 14, 2020 and July 17, 2026.",
+   "category": "Unwanted Texts",
    "states": [],
    "deadline": "2026-10-02",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $110 to $222 per approved claim, an equal pro rata share of a non-reversionary $750,000 fund, for people sent two or more Sugared + Bronzed market…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$110 - $222",
    "claim_url": "https://sbtcpasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/tcpa/sugared-bronzed-tcpa-text-message-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#sugared-bronzed-unwanted-texts"
-   ],
-   "added": "2026-08-28",
-   "first_seen": "2026-08-28",
+   "info_url": "https://www.classaction.org/settlements#sugared-bronzed-unwanted-texts",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-03",
    "keywords": [
     "sugared",
     "bronzed",
-    "tcpa",
-    "text",
-    "message",
-    "750k"
+    "unwanted",
+    "text"
    ]
   },
   {
@@ -865,7 +754,8 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/coleman-professional-services-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#coleman-professional-services-data-breach"
+    "https://www.classaction.org/settlements#coleman-professional-services-data-breach",
+    "https://www.classaction.org/settlements#healthcare-services-group-data-breach"
    ],
    "added": "2026-08-09",
    "first_seen": "2026-08-09",
@@ -874,7 +764,8 @@
     "professional",
     "service",
     "data",
-    "breach"
+    "breach",
+    "healthcare"
    ]
   },
   {
@@ -1212,6 +1103,29 @@
     "32m",
     "stitch",
     "fix",
+    "security"
+   ]
+  },
+  {
+   "id": "oca-amtrust-securities-class-action-settlement",
+   "title": "AmTrust $19M Securities Settlement",
+   "summary": "A pro rata share of $19 million, est. $2.09 per common share or $0.45 per Series F preferred share before fees, for buyers traceable to AmTrust’s 2015 and 2016 offerings.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-10-07",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $19 million, est.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/amtrust-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "amtrust",
+    "19m",
     "security"
    ]
   },
@@ -1984,27 +1898,37 @@
    ]
   },
   {
-   "id": "ca-settlements-crossroads-trading-co-data-breach",
-   "title": "Crossroads Trading Co. - Data Breach Class Action Settlement",
-   "summary": "This settlement covers those who were affected by the February 2025 Crossroads Trading Co. data breach.",
+   "id": "oca-crossroads-trading-data-breach-settlement",
+   "title": "Crossroads Trading $600K Data Breach Settlement — $25 With No Proof, $100 Extra in California",
+   "summary": "an estimated $25 with no documentation, or up to $5,000 in documented losses, plus an estimated $100 for California residents and two years of credit monitoring, for people affected by the February 2025 Crossroads Trading breach",
    "category": "Data Breach",
-   "states": [],
+   "states": [
+    "ID"
+   ],
    "deadline": "2026-10-13",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$25 - $5,000",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "an estimated $25 with no documentation, or up to $5,000 in documented losses, plus an estimated $100 for California residents and two years of credit monitorin…",
    "claim_url": "https://crossroadssettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#crossroads-trading-co-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/crossroads-trading-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#crossroads-trading-co-data-breach"
+   ],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
    "keywords": [
     "crossroad",
     "trading",
+    "600k",
     "data",
-    "breach"
+    "breach",
+    "25",
+    "proof",
+    "100",
+    "extra",
+    "california"
    ]
   },
   {
@@ -2828,6 +2752,32 @@
    ]
   },
   {
+   "id": "oca-exo-commuter-train-delays-class-action-settlement-quebec",
+   "title": "exo Train Delays Settlement (Quebec) — Up to $145 CAD",
+   "summary": "Up to $145 CAD per monthly or annual pass, or up to $29 per booklet, for Deux-Montagnes and Mascouche train riders in winter 2017–2018.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2026-10-20",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $145 CAD per monthly or annual pass, or up to $29 per booklet, for Deux-Montagnes and Mascouche train riders in winter 2017–2018.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/exo-commuter-train-delays-class-action-settlement-quebec.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "exo",
+    "train",
+    "delay",
+    "quebec",
+    "145",
+    "cad"
+   ]
+  },
+  {
    "id": "oca-ohio-nightclub-dancer-unpaid-wages-class-action-settlement",
    "title": "Ohio Nightclub Dancer Unpaid Wages Class Action Settlement ($800K)",
    "summary": "a share of $800,000 for dancers who worked at Cheeks, Top Hat, House of Babes, Private Dancer, Fantasyland West or Sirens between May 2014 and June 2025",
@@ -3363,6 +3313,40 @@
    ]
   },
   {
+   "id": "oca-gosiger-washington-job-postings-class-action-settlement",
+   "title": "Gosiger Machine Tools $241,500 Washington Job Postings Settlement — Est. $1,841.27, Automatic",
+   "summary": "An equal share of a $241,500 fund, estimated at $1,841.27, paid automatically to people who applied to a Gosiger job opening in Washington whose posting omitted the pay range.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-10-26",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $241,500 fund, estimated at $1,841.27, paid automatically to people who applied to a Gosiger job opening in Washington whose posting omitte…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/gosiger-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "gosiger",
+    "machine",
+    "tool",
+    "241",
+    "500",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "1",
+    "841",
+    "27"
+   ]
+  },
+  {
    "id": "oca-muscatine-power-and-water-data-breach-settlement",
    "title": "Muscatine Power and Water Data Breach Settlement — $525K",
    "summary": "Up to $100 for time spent with nothing to document, plus up to $500 in out-of-pocket expenses and up to $5,000 for a documented extraordinary loss.",
@@ -3388,6 +3372,31 @@
     "data",
     "breach",
     "525k"
+   ]
+  },
+  {
+   "id": "oca-russelectric-esop-erisa-class-action-settlement",
+   "title": "Russelectric $14.55M ESOP ERISA Settlement — Automatic Payment",
+   "summary": "automatic payment, no claim form — a pro rata share of $14.55 million from four settlements, based on ESOP shares held, for participants and beneficiaries who received a benefit when the Russelectric ESOP terminated",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-10-26",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — a pro rata share of $14.55 million from four settlements, based on ESOP shares held, for participants and beneficiaries who…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/russelectric-esop-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "russelectric",
+    "14",
+    "55m",
+    "esop",
+    "erisa"
    ]
   },
   {
@@ -3757,6 +3766,31 @@
    ]
   },
   {
+   "id": "oca-bigsteelbox-abbotsford-flood-class-action-settlement",
+   "title": "BigSteelBox Abbotsford Flood Settlement (B.C.) — $1M CAD",
+   "summary": "A share of $1 million CAD, based on the depreciated value of what was lost, for people whose property flooded in BigSteelBox containers in Abbotsford in late 2021.",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2026-10-30",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of $1 million CAD, based on the depreciated value of what was lost, for people whose property flooded in BigSteelBox containers in Abbotsford in late 2…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/bigsteelbox-abbotsford-flood-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "bigsteelbox",
+    "abbotsford",
+    "flood",
+    "1m",
+    "cad"
+   ]
+  },
+  {
    "id": "oca-emblemhealth-senior-care-copay-class-action-settlement",
    "title": "EmblemHealth & NYC $53M Senior Care Co-Pay Class Action Settlement",
    "summary": "Reimbursement of up to 100% of the $15 medical co-pays charged to Medicare-eligible New York City retirees enrolled in the EmblemHealth-administered GHI Senior Care plan between January 1, 2022 and January 31, 2023, or up to 40% capped at $100 without proof of payment.",
@@ -3965,6 +3999,64 @@
     "5m",
     "october",
     "30"
+   ]
+  },
+  {
+   "id": "oca-wm-technology-securities-class-action-settlement",
+   "title": "WM Technology (Weedmaps) $7.5M Securities Settlement (MAPS)",
+   "summary": "A pro rata share of $7.5 million, est. about $0.072 per security before fees, for investors who bought WM Technology or Silver Spike stock or warrants.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-10-30",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $7.5 million, est. about $0.072 per security before fees, for investors who bought WM Technology or Silver Spike stock or warrants.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/wm-technology-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "wm",
+    "technology",
+    "weedmap",
+    "7",
+    "5m",
+    "security",
+    "map"
+   ]
+  },
+  {
+   "id": "oca-alba-services-new-york-worker-restitution-settlement",
+   "title": "Alba Services NY Attorney General Worker Restitution — $1.4M Fund",
+   "summary": "A share of $1.4M for Alba construction and demolition workers injured on the job in 2016–2024 or sexually harassed at work in 2016–2025.",
+   "category": "Employment",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2026-10-31",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A share of $1.4M for Alba construction and demolition workers injured on the job in 2016–2024 or sexually harassed at work in 2016–2025.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/alba-services-new-york-worker-restitution-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "alba",
+    "service",
+    "ny",
+    "attorney",
+    "general",
+    "worker",
+    "restitution",
+    "1",
+    "4m"
    ]
   },
   {
@@ -4633,15 +4725,15 @@
   },
   {
    "id": "oca-generic-drugs-price-fixing-class-action-settlement",
-   "title": "Generic Drug Price-Fixing Settlements — End-Payer and State AG Claims Open ($850M+)",
-   "summary": "Pro rata cash for consumers and health plans that paid for covered generic drugs; End-Payer claims close November 9, 2026 and a separate State AG claim stays open through March 8, 2027.",
+   "title": "Generic Drug Price-Fixing End-Payer Settlements ($533M) — Sandoz, Sun/Taro, Apotex/Heritage",
+   "summary": "Pro rata cash for consumers and health plans that paid for covered generic drugs from 2009 to 2019, from the Sandoz/Fougera, Sun/Taro and Apotex/Heritage settlements.",
    "category": "Antitrust",
    "states": [],
    "deadline": "2026-11-09",
    "deadline_type": "claim",
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
-   "payout": "$850M settlement fund (individual payout not stated)",
+   "payout": "$533M settlement fund (individual payout not stated)",
    "claim_url": "https://www.genericdrugsendpayersettlement.com/",
    "info_url": "https://openclassactions.com/settlements/generic-drugs-price-fixing-class-action-settlement.php",
    "source": "openclassactions",
@@ -4655,9 +4747,12 @@
     "drug",
     "pricefixing",
     "endpayer",
-    "state",
-    "ag",
-    "850m",
+    "533m",
+    "sandoz",
+    "sun",
+    "taro",
+    "apotex",
+    "heritage",
     "pharmaceutical",
     "antitrust"
    ]
@@ -5004,6 +5099,34 @@
    ]
   },
   {
+   "id": "oca-san-diego-water-rates-class-action-settlement",
+   "title": "San Diego $40M Water Rate Settlement — Automatic Refunds",
+   "summary": "A pro rata refund, paid automatically, for City of San Diego single-family water customers overcharged between Aug 14, 2014 and Dec 1, 2023.",
+   "category": "Government",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-11-12",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$40M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/san-diego-water-rates-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "san",
+    "diego",
+    "40m",
+    "water",
+    "rate",
+    "refund"
+   ]
+  },
+  {
    "id": "oca-susan-b-allen-memorial-hospital-data-breach-settlement",
    "title": "Susan B. Allen Hospital Data Breach Class Action Settlement",
    "summary": "up to $100 in cash plus two years of medical identity monitoring for people sent notice of the July 2025 cyberattack on the Kansas hospital",
@@ -5053,6 +5176,31 @@
     "proflower",
     "delivery",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-gritstone-bio-securities-class-action-settlement",
+   "title": "Gritstone bio $6M Securities Settlement (GRTS)",
+   "summary": "A pro rata share of $6 million from former CEO Andrew Allen’s insurers, est. about $0.11 a share before fees, for investors who bought Gritstone bio common stock.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-13",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $6 million from former CEO Andrew Allen’s insurers, est. about $0.11 a share before fees, for investors who bought Gritstone bio common sto…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/gritstone-bio-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "gritstone",
+    "bio",
+    "6m",
+    "security",
+    "grt"
    ]
   },
   {
@@ -5520,6 +5668,62 @@
    ]
   },
   {
+   "id": "oca-mont-sainte-anne-gondola-class-action-settlement-quebec",
+   "title": "Mont-Sainte-Anne Gondola Settlement (Quebec) — $5.1M CAD",
+   "summary": "An equal share for everyone aboard the February 21 or March 11, 2020 gondola stops, plus $20,000 to $150,000 CAD for documented injuries or losses.",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2026-11-20",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An equal share for everyone aboard the February 21 or March 11, 2020 gondola stops, plus $20,000 to $150,000 CAD for documented injuries or losses.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/mont-sainte-anne-gondola-class-action-settlement-quebec.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "montsainteanne",
+    "gondola",
+    "quebec",
+    "5",
+    "1m",
+    "cad"
+   ]
+  },
+  {
+   "id": "oca-progress-residential-florida-eviction-attorney-fees-class-action-settlement",
+   "title": "Progress Residential Florida Eviction Fees Settlement — 75% or 30% Back, Automatic",
+   "summary": "75% or 30% of eviction attorneys’ fees paid, sent automatically, for Florida Progress Residential tenants charged those fees before a court awarded them.",
+   "category": "Fees & Billing",
+   "states": [
+    "FL"
+   ],
+   "deadline": "2026-11-20",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/progress-residential-florida-eviction-attorney-fees-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "progress",
+    "residential",
+    "florida",
+    "eviction",
+    "fee",
+    "75",
+    "30",
+    "back"
+   ]
+  },
+  {
    "id": "ca-settlements-schenker-background-checks",
    "title": "Schenker - Background Checks Class Action Settlement",
    "summary": "You may be able to claim a piece of this settlement if Schenker obtained a consumer report on you for employment purposes between November 20, 2014 and February 28, 2022.",
@@ -5680,6 +5884,37 @@
    ]
   },
   {
+   "id": "oca-lily-transportation-washington-job-postings-class-action-settlement",
+   "title": "Lily Transportation WA Job Postings Settlement — Est. $606, Up to $5,000",
+   "summary": "An equal share estimated at $606.31, capped at $5,000, for people who applied to a Lily Transportation job opening in Washington whose posting omitted the pay range.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-11-23",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share estimated at $606.31, capped at $5,000, for people who applied to a Lily Transportation job opening in Washington whose posting omitted the pay…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/lily-transportation-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "lily",
+    "transportation",
+    "wa",
+    "job",
+    "posting",
+    "est",
+    "606",
+    "5",
+    "000"
+   ]
+  },
+  {
    "id": "oca-vasindas-around-the-clock-care-data-breach-settlement",
    "title": "Vasindas' Around the Clock Care Data Breach Class Action Settlement",
    "summary": "a flat $70 with no proof, or up to $2,500 in documented out-of-pocket losses instead, plus two years of medical identity monitoring either way, for people notified of the cyberattack on the Bakersfield in-home senior and dementia care provider",
@@ -5761,6 +5996,31 @@
     "water",
     "ticket",
     "price"
+   ]
+  },
+  {
+   "id": "ca-settlements-laboratory-services-cooperative-data-breach",
+   "title": "Laboratory Services Cooperative - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was exposed in the Laboratory Services Cooperative data breach discovered in October 2024.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-24",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $6,000",
+   "claim_url": "https://www.lscdatasettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#laboratory-services-cooperative-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "laboratory",
+    "service",
+    "cooperative",
+    "data",
+    "breach"
    ]
   },
   {
@@ -5932,6 +6192,33 @@
     "5m",
     "esop",
     "erisa"
+   ]
+  },
+  {
+   "id": "oca-everbridge-securities-class-action-settlement",
+   "title": "Everbridge $85M Securities Settlement (EVBG) — About $2.32 a Share",
+   "summary": "A pro rata share of an $85 million fund, estimated at about $2.32 a share before fees, for investors who bought Everbridge (EVBG) common stock.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-25",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of an $85 million fund, estimated at about $2.32 a share before fees, for investors who bought Everbridge (EVBG) common stock.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/everbridge-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "everbridge",
+    "85m",
+    "security",
+    "evbg",
+    "2",
+    "32",
+    "share"
    ]
   },
   {
@@ -6364,6 +6651,32 @@
    ]
   },
   {
+   "id": "oca-beef-purchasers-class-action",
+   "title": "Tyson $82.5M Beef Direct Purchaser Settlement",
+   "summary": "A pro rata share of $82.5M for businesses that bought beef directly from Tyson, JBS, Cargill or National Beef between 2015 and February 2020.",
+   "category": "Antitrust",
+   "states": [],
+   "deadline": "2026-11-30",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of $82.5M for businesses that bought beef directly from Tyson, JBS, Cargill or National Beef between 2015 and February 2020.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/beef-purchasers-class-action.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "tyson",
+    "82",
+    "5m",
+    "beef",
+    "direct",
+    "purchaser"
+   ]
+  },
+  {
    "id": "oca-new-amazon-returns-class-action-settlement",
    "title": "Amazon Returns Class Action Settlement",
    "summary": "A share of a $309.5 million fund for Amazon customers whose refund for a returned product went missing, arrived late, came up short or was charged back — no claim form for anyone Amazon's own records identify.",
@@ -6443,6 +6756,33 @@
     "patient",
     "portal",
     "user"
+   ]
+  },
+  {
+   "id": "oca-ontario-corrections-staffing-lockdowns-class-action-settlement",
+   "title": "Ontario Jail Staffing Lockdowns Settlement — Up to $68,000 CAD",
+   "summary": "$2,000 to $68,000 CAD for inmates and immigration detainees who went through 16 or more staffing-related lockdowns in Ontario provincial jails, mostly after August 2014.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2026-12-01",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$2,000 to $68,000 CAD for inmates and immigration detainees who went through 16 or more staffing-related lockdowns in Ontario provincial jails, mostly after Au…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/ontario-corrections-staffing-lockdowns-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "ontario",
+    "jail",
+    "staffing",
+    "lockdown",
+    "68",
+    "000",
+    "cad"
    ]
   },
   {
@@ -6689,6 +7029,31 @@
    ]
   },
   {
+   "id": "oca-hut-8-securities-class-action-settlement",
+   "title": "Hut 8 $2.35M Securities Settlement (HUT)",
+   "summary": "A pro rata share of $2.35 million for Hut 8 shares traceable to the 2023 US Bitcoin Corp merger that were sold at a loss before June 14, 2024.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-05",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $2.35 million for Hut 8 shares traceable to the 2023 US Bitcoin Corp merger that were sold at a loss before June 14, 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/hut-8-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "hut",
+    "8",
+    "2",
+    "35m",
+    "security"
+   ]
+  },
+  {
    "id": "oca-wayne-memorial-hospital-data-breach-settlement",
    "title": "Wayne Memorial Hospital Data Breach Settlement — An Estimated $25 or Up to $5,000",
    "summary": "An estimated $25 with no documentation, or up to $5,000 for documented losses instead, plus two years of credit monitoring, for people notified of the June 2024 incident at the Georgia hospital.",
@@ -6825,6 +7190,30 @@
    ]
   },
   {
+   "id": "oca-mclean-mortgage-data-breach-settlement",
+   "title": "McLean Mortgage Data Breach Class Action Settlement",
+   "summary": "A one-time $45 with no documentation, or up to $4,000 in documented losses, plus three years of credit monitoring for people affected by the October 2024 McLean Mortgage breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-10",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A one-time $45 with no documentation, or up to $4,000 in documented losses, plus three years of credit monitoring for people affected by the October 2024 McLea…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/mclean-mortgage-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "mclean",
+    "mortgage",
+    "data",
+    "breach"
+   ]
+  },
+  {
    "id": "oca-becton-dickinson-sec-fair-fund",
    "title": "Becton Dickinson $175M SEC Fair Fund (BDX)",
    "summary": "A share of the SEC's $175,000,000 Becton Fair Fund for investors who bought BDX common stock between February 5, 2019 and February 5, 2020.",
@@ -6901,6 +7290,34 @@
     "center",
     "hernia",
     "surgery"
+   ]
+  },
+  {
+   "id": "oca-kiromic-biopharma-securities-class-action-settlement",
+   "title": "Kiromic BioPharma $1.225M Securities Settlement — About $0.08 a Share",
+   "summary": "A pro rata share of a $1.225 million fund, about $0.08 per damaged share before fees, for investors who bought Kiromic stock in the June 2021 offering or through February 2, 2022.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-14",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a $1.225 million fund, about $0.08 per damaged share before fees, for investors who bought Kiromic stock in the June 2021 offering or throu…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/kiromic-biopharma-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "kiromic",
+    "biopharma",
+    "1",
+    "225m",
+    "security",
+    "0",
+    "08",
+    "share"
    ]
   },
   {
@@ -6987,6 +7404,87 @@
    ]
   },
   {
+   "id": "oca-webtoon-entertainment-securities-class-action-settlement",
+   "title": "WEBTOON $10.05M IPO Securities Settlement — About $0.45 a Share",
+   "summary": "A pro rata share of a $10.05 million fund, estimated at about $0.45 a share before fees, for investors who bought WEBTOON stock in or traceable to the June 2024 IPO.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-14",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a $10.05 million fund, estimated at about $0.45 a share before fees, for investors who bought WEBTOON stock in or traceable to the June 202…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/webtoon-entertainment-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "webtoon",
+    "10",
+    "05m",
+    "ipo",
+    "security",
+    "0",
+    "45",
+    "share"
+   ]
+  },
+  {
+   "id": "oca-kimco-staffing-data-breach-settlement",
+   "title": "Kimco Staffing Data Breach Settlement — Up to $5,000 Plus $50 in CA",
+   "summary": "Up to $5,000 in documented losses, a pro rata cash share and two years of credit monitoring, plus $50 for California residents, after the June 2023 incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-15",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $5,000 in documented losses, a pro rata cash share and two years of credit monitoring, plus $50 for California residents, after the June 2023 incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/kimco-staffing-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "kimco",
+    "staffing",
+    "data",
+    "breach",
+    "5",
+    "000",
+    "plus",
+    "50",
+    "ca"
+   ]
+  },
+  {
+   "id": "oca-national-holdings-stockholder-class-action-settlement",
+   "title": "National Holdings $4.35M Stockholder Settlement",
+   "summary": "About $0.60 a share before fees for stockholders cashed out at $3.25 a share in the February 2021 B. Riley buyout of National Holdings.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-16",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "About $0.60 a share before fees for stockholders cashed out at $3.25 a share in the February 2021 B.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/national-holdings-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "national",
+    "4",
+    "35m",
+    "stockholder"
+   ]
+  },
+  {
    "id": "oca-service-spot-parking-reservation-fees-california-class-action-settlement",
    "title": "$500K Service Spot Parking Reservation Fee California Class Action Settlement",
    "summary": "",
@@ -7018,6 +7516,33 @@
    ]
   },
   {
+   "id": "oca-marist-brothers-quebec-sexual-abuse-class-action-settlement",
+   "title": "Marist Brothers Quebec Abuse Settlement — $24.95M CAD",
+   "summary": "Compensation of up to $300,000 CAD, set through a confidential adjudicator process, for people who say a Marist Brothers religious member sexually assaulted them in Quebec.",
+   "category": "Mass Tort",
+   "states": [],
+   "deadline": "2026-12-17",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Compensation of up to $300,000 CAD, set through a confidential adjudicator process, for people who say a Marist Brothers religious member sexually assaulted th…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/marist-brothers-quebec-sexual-abuse-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "marist",
+    "brother",
+    "quebec",
+    "abuse",
+    "24",
+    "95m",
+    "cad"
+   ]
+  },
+  {
    "id": "oca-apple-intelligence-siri-false-advertising-class-action-settlement",
    "title": "$250M Apple Intelligence Siri Settlement — $25 to $95 per iPhone",
    "summary": "A $25 payment per eligible iPhone, adjustable pro rata up to $95, for U.S. buyers of an iPhone 15 Pro, 15 Pro Max or any iPhone 16 model between June 10, 2024 and March 29, 2025 who expected Siri Apple Intelligence features they did not get; the serial number or Apple Account email stands in for a receipt.",
@@ -7044,6 +7569,34 @@
     "25",
     "95",
     "iphone"
+   ]
+  },
+  {
+   "id": "oca-ecsi-data-breach-settlement",
+   "title": "ECSI $6.5M Data Breach Settlement — $100 or Up to $5,000",
+   "summary": "An estimated $100 with no documentation, or up to $5,000 documented, for people whose information was exposed in the 2023–2024 attack on ECSI’s website.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $100 with no documentation, or up to $5,000 documented, for people whose information was exposed in the 2023–2024 attack on ECSI’s website.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/ecsi-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "ecsi",
+    "6",
+    "5m",
+    "data",
+    "breach",
+    "100",
+    "5",
+    "000"
    ]
   },
   {
@@ -7157,6 +7710,34 @@
     "4",
     "225m",
     "technology"
+   ]
+  },
+  {
+   "id": "oca-electronics-for-imaging-efi-data-breach-settlement",
+   "title": "Electronics for Imaging (EFI) Data Breach Settlement — $75 or Up to $5,000",
+   "summary": "An estimated $75 with no documents, or up to $5,000 documented, plus three years of credit monitoring, for people impacted in EFI’s September 2024 cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-22",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $75 with no documents, or up to $5,000 documented, plus three years of credit monitoring, for people impacted in EFI’s September 2024 cyberattack.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/electronics-for-imaging-efi-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "electronic",
+    "imaging",
+    "efi",
+    "data",
+    "breach",
+    "75",
+    "5",
+    "000"
    ]
   },
   {
@@ -7377,6 +7958,33 @@
    ]
   },
   {
+   "id": "oca-manitoba-childrens-special-allowance-class-action-settlement",
+   "title": "Manitoba Children’s Special Allowance Settlement — $445.2M CAD",
+   "summary": "A share of a $445.2 million CAD fund, based on months in care, for people who were provincially funded children in Manitoba CFS care from 2005 to 2019.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-01-05",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of a $445.2 million CAD fund, based on months in care, for people who were provincially funded children in Manitoba CFS care from 2005 to 2019.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/manitoba-childrens-special-allowance-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "manitoba",
+    "children",
+    "special",
+    "allowance",
+    "445",
+    "2m",
+    "cad"
+   ]
+  },
+  {
    "id": "oca-co-diagnostics-securities-class-action-settlement",
    "title": "$6.5M Co-Diagnostics Securities Class Action Settlement (CODX)",
    "summary": "pro rata share of a $6,500,000 fund · estimated $0.61 per damaged share before fees, about $0.36 after · anyone who bought Co-Diagnostics (CODX) stock or call options, or sold puts, May 12 – Aug 11, 2022 · brokerage records required · shares sold before Aug 12, 2022 recover $0",
@@ -7399,6 +8007,58 @@
     "codiagnostic",
     "security",
     "codx"
+   ]
+  },
+  {
+   "id": "oca-british-columbia-solitary-confinement-class-action-settlement",
+   "title": "B.C. Solitary Confinement Settlement — Up to $91,000 CAD",
+   "summary": "Up to $3,000 or $6,000 CAD base, plus up to $85,000 CAD for serious harms, for people held in segregation in B.C. correctional centres 15+ days or with a mental illness.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-01-11",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $3,000 or $6,000 CAD base, plus up to $85,000 CAD for serious harms, for people held in segregation in B.C. correctional centres 15+ days or with a menta…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/british-columbia-solitary-confinement-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "solitary",
+    "confinement",
+    "91",
+    "000",
+    "cad"
+   ]
+  },
+  {
+   "id": "oca-progressive-texas-pip-late-payment-class-action-settlement",
+   "title": "Progressive Texas PIP Late-Payment Settlement — Up to $6M",
+   "summary": "5% of each late-paid PIP medical bill line item plus 11.452% annual interest, for Progressive PIP claimants under Texas policies whose bills were paid more than 15 business days or 30 days after receipt.",
+   "category": "Insurance",
+   "states": [
+    "TX"
+   ],
+   "deadline": "2027-01-19",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $6M",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/progressive-texas-pip-late-payment-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "progressive",
+    "texa",
+    "pip",
+    "latepayment",
+    "6m"
    ]
   },
   {
@@ -7620,6 +8280,85 @@
    ]
   },
   {
+   "id": "oca-generic-drugs-state-ag-consumer-settlement",
+   "title": "State Attorneys General Generic Drug Consumer Settlement ($96.5M)",
+   "summary": "A pro rata share of about $96.5 million recovered by 48 state attorneys general from Apotex, Heritage, Lannett, Bausch and Glenmark, for consumers who bought covered generic drugs from 2009 to 2019.",
+   "category": "Antitrust",
+   "states": [],
+   "deadline": "2027-03-08",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of about $96.5 million recovered by 48 state attorneys general from Apotex, Heritage, Lannett, Bausch and Glenmark, for consumers who bought c…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pharmaceuticals/generic-drugs-state-ag-consumer-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "state",
+    "attorney",
+    "general",
+    "generic",
+    "drug",
+    "consumer",
+    "96",
+    "5m"
+   ]
+  },
+  {
+   "id": "oca-nova-scotia-disability-waitlist-class-action-settlement",
+   "title": "Nova Scotia Disability Waitlist Settlement — Up to $34M CAD",
+   "summary": "Base payments of $5,000 CAD for the waitlist or $15,000 for institutions and nursing homes, plus $1,500 per hospital month, for Nova Scotians eligible for disability services.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-03-17",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Base payments of $5,000 CAD for the waitlist or $15,000 for institutions and nursing homes, plus $1,500 per hospital month, for Nova Scotians eligible for disa…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/nova-scotia-disability-waitlist-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "nova",
+    "scotia",
+    "disability",
+    "waitlist",
+    "34m",
+    "cad"
+   ]
+  },
+  {
+   "id": "oca-revance-stockholder-class-action-settlement",
+   "title": "Revance $2.4M Stockholder Settlement (RVNC)",
+   "summary": "A pro rata share of $2.4 million for Revance stockholders cashed out at $3.65 a share in the February 2025 Crown Laboratories buyout.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-03-17",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $2.4 million for Revance stockholders cashed out at $3.65 a share in the February 2025 Crown Laboratories buyout.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/revance-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "revance",
+    "2",
+    "4m",
+    "stockholder",
+    "rvnc"
+   ]
+  },
+  {
    "id": "oca-beef-and-pork-wages-class-action-settlement",
    "title": "Beef & Pork Processing Workers $202.7M Wage-Fixing Settlement",
    "summary": "pro rata cash from ~$202.7M in settlements (Tyson, JBS, Cargill, Hormel, National Beef & others) · anyone who worked at a defendant beef or pork processing plant (Jan 1, 2000 – Feb 27, 2024) · noticed class members are paid automatically; others file with a photo ID or paystub",
@@ -7703,6 +8442,142 @@
    ]
   },
   {
+   "id": "oca-saint-john-kenneth-estabrooks-abuse-class-action-settlement",
+   "title": "Saint John Estabrooks Abuse Settlement (New Brunswick) — $16.5M CAD",
+   "summary": "Pro rata compensation by points from a $16.5M CAD fund for people sexually abused by Kenneth Estabrooks while he was a Saint John police officer, 1953–1975.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-04-13",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Pro rata compensation by points from a $16.5M CAD fund for people sexually abused by Kenneth Estabrooks while he was a Saint John police officer, 1953–1975.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/saint-john-kenneth-estabrooks-abuse-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "saint",
+    "john",
+    "estabrook",
+    "abuse",
+    "brunswick",
+    "16",
+    "5m",
+    "cad"
+   ]
+  },
+  {
+   "id": "oca-ile-a-la-crosse-school-class-action-settlement",
+   "title": "Île-à-la-Crosse School Settlement — Up to $15,000 CAD Plus Abuse Compensation",
+   "summary": "Up to $15,000 CAD per former student alive on December 9, 2003, plus separate abuse compensation of up to $235,000 CAD, for Île-à-la-Crosse School Survivors.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-06-01",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $15,000 CAD per former student alive on December 9, 2003, plus separate abuse compensation of up to $235,000 CAD, for Île-à-la-Crosse School Survivors.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/ile-a-la-crosse-school-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "ilealacrosse",
+    "school",
+    "15",
+    "000",
+    "cad",
+    "plus",
+    "abuse",
+    "compensation"
+   ]
+  },
+  {
+   "id": "oca-fiat-500-door-handles-class-action-settlement-quebec",
+   "title": "Fiat 500 Door Handles Settlement (Quebec) — Repair Refunds",
+   "summary": "Full reimbursement of past door handle repair costs, with no cap, plus free dealer repairs for Quebec buyers and lessees of 2012–2019 Fiat 500s.",
+   "category": "Auto",
+   "states": [],
+   "deadline": "2027-06-11",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/fiat-500-door-handles-class-action-settlement-quebec.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "fiat",
+    "500",
+    "door",
+    "handle",
+    "quebec",
+    "repair",
+    "refund"
+   ]
+  },
+  {
+   "id": "oca-manitoba-solitary-confinement-class-action-settlement",
+   "title": "Manitoba Solitary Confinement Settlement — Up to $100,000 CAD",
+   "summary": "A base payment of up to $9,000 CAD for youth, $6,000 for SMI or $3,000 for prolonged segregation, with up to $100,000 total, for people segregated in Manitoba custody.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-08-24",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A base payment of up to $9,000 CAD for youth, $6,000 for SMI or $3,000 for prolonged segregation, with up to $100,000 total, for people segregated in Manitoba…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/manitoba-solitary-confinement-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "manitoba",
+    "solitary",
+    "confinement",
+    "100",
+    "000",
+    "cad"
+   ]
+  },
+  {
+   "id": "oca-ontario-training-schools-class-action-settlement",
+   "title": "Ontario Training Schools Settlement — $5,000 to $100,000 CAD",
+   "summary": "$5,000 CAD for general harm or up to $100,000 for assault or solitary confinement, for former residents of 13 Ontario training schools (1953–1984).",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-09-22",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$5,000 CAD for general harm or up to $100,000 for assault or solitary confinement, for former residents of 13 Ontario training schools (1953–1984).",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/ontario-training-schools-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "ontario",
+    "training",
+    "school",
+    "5",
+    "000",
+    "100",
+    "cad"
+   ]
+  },
+  {
    "id": "oca-keurig-k-supreme-settlement",
    "title": "Keurig K-Supreme Coffee Maker Descaling Settlement",
    "summary": "the $250 cash tier closed Nov 14, 2025; a 12-month extended-warranty claim remains open for K-Supreme, K-Supreme Plus & K-Supreme SMART brewers that first lose power during descaling after June 20, 2025 · proof of purchase & malfunction documentation required",
@@ -7776,6 +8651,62 @@
     "unpaid",
     "wage",
     "illinois"
+   ]
+  },
+  {
+   "id": "oca-first-nations-child-and-family-services-class-action-settlement",
+   "title": "First Nations Child Welfare Settlement (Canada) — Up to $40,000 CAD",
+   "summary": "Up to $40,000 CAD each for First Nations people removed from their homes as children between 1991 and 2022, and the parents or grandparents caring for them.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2028-03-10",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $40,000 CAD each for First Nations people removed from their homes as children between 1991 and 2022, and the parents or grandparents caring for them.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/first-nations-child-and-family-services-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "first",
+    "nation",
+    "child",
+    "welfare",
+    "canada",
+    "40",
+    "000",
+    "cad"
+   ]
+  },
+  {
+   "id": "oca-federal-indian-hospitals-class-action-settlement",
+   "title": "Federal Indian Hospitals Settlement (Canada) — $10,000 to $200,000 CAD",
+   "summary": "$10,000 to $200,000 CAD for people who suffered abuse while admitted to one of 33 Federal Indian Hospitals Canada operated between 1936 and 1981.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2028-07-27",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$10,000 to $200,000 CAD for people who suffered abuse while admitted to one of 33 Federal Indian Hospitals Canada operated between 1936 and 1981.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/federal-indian-hospitals-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "federal",
+    "indian",
+    "hospital",
+    "canada",
+    "10",
+    "000",
+    "200",
+    "cad"
    ]
   },
   {
@@ -8176,6 +9107,31 @@
    ]
   },
   {
+   "id": "oca-anadarko-securities-class-action-settlement",
+   "title": "Anadarko $114.5M Securities Settlement (APC)",
+   "summary": "A share of a proposed $114.5M fund for buyers of Anadarko common stock from Feb. 20, 2015 to May 2, 2017; awaiting preliminary approval, no claim form yet.",
+   "category": "Securities",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of a proposed $114.5M fund for buyers of Anadarko common stock from Feb. 20, 2015 to May 2, 2017",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/anadarko-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "anadarko",
+    "114",
+    "5m",
+    "security",
+    "apc"
+   ]
+  },
+  {
    "id": "oca-blue-ridge-power-warn-act-class-action-settlement",
    "title": "Blue Ridge Power $3.07M WARN Act Settlement",
    "summary": "A proposed $3.07 million fund before adjustments would compensate eligible Blue Ridge Power workers over alleged WARN Act violations.",
@@ -8328,6 +9284,32 @@
    ]
   },
   {
+   "id": "oca-cash-app-borrow-military-lending-act-settlement",
+   "title": "Cash App Borrow $615K Military Lending Act Settlement",
+   "summary": "About $250 on average, paid automatically, for servicemembers and covered dependents whose Cash App Borrow loans exceeded the 36% military rate cap.",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "About $250 on average, paid automatically, for servicemembers and covered dependents whose Cash App Borrow loans exceeded the 36% military rate cap.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/cash-app-borrow-military-lending-act-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "app",
+    "borrow",
+    "615k",
+    "military",
+    "lending",
+    "act"
+   ]
+  },
+  {
    "id": "oca-certainteed-organic-shingles-class-action-settlement",
    "title": "CertainTeed Organic Shingles Class Action Settlement",
    "summary": "Open · deadline varies by warranty",
@@ -8353,6 +9335,33 @@
    ]
   },
   {
+   "id": "oca-cognizant-401k-erisa-class-action-settlement",
+   "title": "Cognizant 401(k) $2.8M ERISA Settlement — Awaiting Approval",
+   "summary": "A proposed $2.8 million pro rata settlement for Cognizant Technology Solutions 401(k) Savings Plan participants since December 2014, paid automatically if approved.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A proposed $2.8 million pro rata settlement for Cognizant Technology Solutions 401(k) Savings Plan participants since December 2014, paid automatically if appr…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/cognizant-401k-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "cognizant",
+    "401",
+    "2",
+    "8m",
+    "erisa",
+    "awaiting",
+    "approval"
+   ]
+  },
+  {
    "id": "oca-credit-exterminators-earn-company-croa-class-action-settlement",
    "title": "Credit Exterminators / Earn Company $125K Credit Repair Class Action Settlement",
    "summary": "about $60 each, an equal share of a $125,000 fund paid over two years, for the 1,434 people who signed a Credit Repair Services Agreement with Credit Exterminators, Earn Company or Earn Finance Company since February 10, 2016",
@@ -8375,6 +9384,35 @@
     "earn",
     "125k",
     "repair"
+   ]
+  },
+  {
+   "id": "oca-devon-energy-oklahoma-gas-royalty-class-action-settlement",
+   "title": "Devon Energy $52.5M Oklahoma Gas Royalty Settlement",
+   "summary": "Royalty owners paid by Devon on gas from Oklahoma wells between 2013 and 2025 share a $52.5 million fund automatically; final approval granted September 21, 2026.",
+   "category": "Fees & Billing",
+   "states": [
+    "OK"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Royalty owners paid by Devon on gas from Oklahoma wells between 2013 and 2025 share a $52.5 million fund automatically",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/devon-energy-oklahoma-gas-royalty-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "devon",
+    "energy",
+    "52",
+    "5m",
+    "oklahoma",
+    "gas",
+    "royalty"
    ]
   },
   {
@@ -8690,6 +9728,34 @@
    ]
   },
   {
+   "id": "oca-happy-baby-nurture-baby-food-heavy-metals-class-action-settlement",
+   "title": "Happy Baby (Nurture) Baby Food Heavy Metals Settlement — Awaiting Approval",
+   "summary": "A proposed $3.4 million cash fund plus free product vouchers for U.S. buyers of Nurture baby and toddler foods since 2015; claims open after preliminary approval.",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "A proposed $3.4 million cash fund plus free product vouchers for U.S. buyers of Nurture baby and toddler foods since 2015",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/false-advertising/happy-baby-nurture-baby-food-heavy-metals-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "happy",
+    "baby",
+    "nurture",
+    "food",
+    "heavy",
+    "metal",
+    "awaiting",
+    "approval"
+   ]
+  },
+  {
    "id": "oca-harvard-morgue-donor-families-class-action-settlement",
    "title": "Harvard $53M Morgue Settlement for Donor Families",
    "summary": "Two funds totaling $53 million would compensate eligible donor families; final approval and verified claim instructions remain pending.",
@@ -8762,6 +9828,33 @@
     "casino",
     "mobile",
     "game"
+   ]
+  },
+  {
+   "id": "oca-jkmax-heated-blanket-heating-pad-recall",
+   "title": "JKMAX Heated Blanket & Heating Pad Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/jkmax-heated-blanket-heating-pad-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "jkmax",
+    "heated",
+    "blanket",
+    "heating",
+    "pad",
+    "full",
+    "refund"
    ]
   },
   {
@@ -8864,6 +9957,32 @@
     "14m",
     "ftc",
     "com"
+   ]
+  },
+  {
+   "id": "oca-clorox-mistolin-lestoil-cleaner-recall",
+   "title": "Mistolin & Lestoil Cleaner Recall — How to Get a Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/clorox-mistolin-lestoil-cleaner-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "mistolin",
+    "lestoil",
+    "cleaner",
+    "how",
+    "get",
+    "refund"
    ]
   },
   {
@@ -9043,6 +10162,65 @@
    ]
   },
   {
+   "id": "oca-otay-water-district-rates-class-action-settlement",
+   "title": "Otay Water District $12M Water Rate Settlement — Automatic Refunds",
+   "summary": "Bill credits or checks, paid automatically, for Otay Water District single-family customers overcharged between July 2014 and December 2022.",
+   "category": "Government",
+   "states": [
+    "CA"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$12M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/otay-water-district-rates-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "otay",
+    "water",
+    "district",
+    "12m",
+    "rate",
+    "refund"
+   ]
+  },
+  {
+   "id": "oca-pensacola-energy-natural-gas-franchise-fee-settlement",
+   "title": "Pensacola Energy $12.6M Franchise Fee Settlement — Former Customers Must Claim",
+   "summary": "",
+   "category": null,
+   "states": [
+    "ID"
+   ],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "$12.6M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pensacola-energy-natural-gas-franchise-fee-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "pensacola",
+    "energy",
+    "12",
+    "6m",
+    "franchise",
+    "fee",
+    "former",
+    "customer",
+    "must"
+   ]
+  },
+  {
    "id": "ca-settlements-ram-trucks-anti-lock-braking-system",
    "title": "Ram Trucks - Anti-Lock Braking System Class Action Settlement",
    "summary": "This settlement covers current owners or lessees of certain 2017-2018 Ram 2500, 3500, 4500 and 5500 models built between April 1, 2017 and December 29, 2018.",
@@ -9219,6 +10397,35 @@
     "blood",
     "testing",
     "service"
+   ]
+  },
+  {
+   "id": "oca-trinity-operating-oklahoma-royalty-interest-class-action-settlement",
+   "title": "Trinity Operating $16.5M Oklahoma Late-Payment Interest Settlement",
+   "summary": "Owners paid late by Trinity on Oklahoma oil and gas proceeds from June 2022 through 2025, without statutory interest, share $16.5 million automatically.",
+   "category": "Fees & Billing",
+   "states": [
+    "OK"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Owners paid late by Trinity on Oklahoma oil and gas proceeds from June 2022 through 2025, without statutory interest, share $16.5 million automatically.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/trinity-operating-oklahoma-royalty-interest-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "keywords": [
+    "trinity",
+    "operating",
+    "16",
+    "5m",
+    "oklahoma",
+    "latepayment",
+    "interest"
    ]
   },
   {
