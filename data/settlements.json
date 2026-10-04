@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-03T14:19:46.300Z",
+ "generated_at": "2026-10-04T14:48:30.277Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 388,
+ "count": 391,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -6624,6 +6624,42 @@
    ]
   },
   {
+   "id": "oca-pulsz-social-casino-class-action-settlement",
+   "title": "Pulsz Social Casino Settlement — Free Gold Coins or 23% Cash in Six States",
+   "summary": "Gold Coins automatically, or a cash payment of 23% of net spending if elected, for people who spent money on Pulsz or Pulsz Bingo in AL, TN, KY, OH, NJ or MA.",
+   "category": "Consumer Products",
+   "states": [
+    "AL",
+    "OH",
+    "NJ",
+    "MA",
+    "TN",
+    "KY"
+   ],
+   "deadline": "2026-11-30",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pulsz-social-casino-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-04",
+   "first_seen": "2026-10-04",
+   "keywords": [
+    "pulsz",
+    "social",
+    "casino",
+    "free",
+    "gold",
+    "coin",
+    "23",
+    "six",
+    "state"
+   ]
+  },
+  {
    "id": "oca-texas-retina-associates-data-breach-settlement",
    "title": "Texas Retina Data Breach Settlement — $45 or Up to $4,000",
    "summary": "A flat $45, or up to $4,000 in documented losses, plus three years of identity theft protection, for patients and others affected by the 2024 Texas Retina Associates data incident.",
@@ -7026,6 +7062,36 @@
     "technology",
     "abington",
     "fire"
+   ]
+  },
+  {
+   "id": "oca-aramark-capital-one-arena-venue-fee-class-action-settlement",
+   "title": "Aramark Capital One Arena $4.5M Venue Fee Settlement",
+   "summary": "An equal share of a $4.5 million fund, with no receipt, for anyone who paid Aramark’s 3% venue fee on food, drinks or other purchases at Capital One Arena from October 1, 2024 to December 31, 2025.",
+   "category": "Fees & Billing",
+   "states": [
+    "DC"
+   ],
+   "deadline": "2026-12-04",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $4.5 million fund, with no receipt, for anyone who paid Aramark’s 3% venue fee on food, drinks or other purchases at Capital One Arena from…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/aramark-capital-one-arena-venue-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "aramark",
+    "capital",
+    "one",
+    "arena",
+    "4",
+    "5m",
+    "venue",
+    "fee"
    ]
   },
   {
@@ -8059,6 +8125,34 @@
     "pip",
     "latepayment",
     "6m"
+   ]
+  },
+  {
+   "id": "oca-dental-intelligence-localmed-privacy-class-action-settlement",
+   "title": "Dental Intelligence $5.75M LocalMed Privacy Settlement — Pro Rata Cash",
+   "summary": "An equal share of a $5.75 million fund for people who booked, changed or rescheduled a dental appointment through the LocalMed online scheduler from March 2022 to June 2025.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2027-01-25",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $5.75 million fund for people who booked, changed or rescheduled a dental appointment through the LocalMed online scheduler from March 2022…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pixel-tracking/dental-intelligence-localmed-privacy-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-04",
+   "first_seen": "2026-10-04",
+   "keywords": [
+    "dental",
+    "intelligence",
+    "5",
+    "75m",
+    "localmed",
+    "privacy",
+    "pro",
+    "rata"
    ]
   },
   {
