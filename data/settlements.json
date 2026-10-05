@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04T14:48:30.277Z",
+ "generated_at": "2026-10-05T18:31:23.351Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 391,
+ "count": 393,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -659,32 +659,28 @@
    ]
   },
   {
-   "id": "oca-palm-beach-tan-tcpa-text-message-class-action-settlement",
-   "title": "Palm Beach Tan Text Message Class Action Settlement ($2.5M)",
-   "summary": "an equal amount per text, up to $1,500 each, from a $2,500,000 fund for people who kept getting Palm Beach Tan marketing texts after asking it to stop",
-   "category": "TCPA",
+   "id": "ca-settlements-palm-beach-tan-unwanted-texts",
+   "title": "Palm Beach Tan - Unwanted Texts Class Action Settlement",
+   "summary": "You may be included in this settlement if you received a marketing text from Palm Beach Tan between June 19, 2019 and July 5, 2026 after requesting that the texts stop.",
+   "category": "Unwanted Texts",
    "states": [],
    "deadline": "2026-10-04",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an equal amount per text, up to $1,500 each, from a $2,500,000 fund for people who kept getting Palm Beach Tan marketing texts after asking it to stop",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $1,500",
    "claim_url": "https://www.hudsonclass.com/",
-   "info_url": "https://openclassactions.com/settlements/tcpa/palm-beach-tan-tcpa-text-message-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#palm-beach-tan-unwanted-texts"
-   ],
-   "added": "2026-08-17",
-   "first_seen": "2026-08-17",
+   "info_url": "https://www.classaction.org/settlements#palm-beach-tan-unwanted-texts",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-05",
    "keywords": [
     "palm",
     "beach",
     "tan",
-    "text",
-    "message",
-    "2",
-    "5m"
+    "unwanted",
+    "text"
    ]
   },
   {
@@ -1000,6 +996,30 @@
     "sport",
     "bestway",
     "spa"
+   ]
+  },
+  {
+   "id": "oca-community-connections-data-breach-settlement",
+   "title": "Community Connections Data Breach Class Action Settlement",
+   "summary": "$50 cash, or up to $5,000 documented losses plus up to $100 lost time, and 2 years of medical identity and credit monitoring · people notified of the 2024 and 2026 data incidents at the Washington, D.C. behavioral health provider",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-10-06",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$50 cash, or up to $5,000 documented losses plus up to $100 lost time, and 2 years of medical identity and credit monitoring",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/community-connections-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-05",
+   "first_seen": "2026-10-05",
+   "keywords": [
+    "community",
+    "connection",
+    "data",
+    "breach"
    ]
   },
   {
@@ -2813,8 +2833,8 @@
    "states": [],
    "deadline": "2026-10-20",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
+   "proof": "none",
+   "proof_label": "No proof required",
    "payout": "$20 per bottle or box of VSL#3 bought between June 2016 and June 2019 — one unit on your word alone, or up to 40 units if you have receipts or a notice",
    "claim_url": "https://www.vsl3lawsuit.com/",
    "info_url": "https://openclassactions.com/settlements/false-advertising/vsl3-probiotic-class-action-settlement.php",
@@ -5591,11 +5611,10 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "A flat $40 with no proof, or up to $5,000 documented plus $75 lost time instead, and three years of credit monitoring — but only for class members who file.",
-   "claim_url": "https://www.jbssettlement.com/",
+   "claim_url": "https://mhadatasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/mental-health-association-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#jefferson-blount-st-clair-mental-health-data-breach",
     "https://www.classaction.org/settlements#mental-health-association-data-breach"
    ],
    "added": "2026-09-07",
@@ -5606,9 +5625,7 @@
     "association",
     "mha",
     "data",
-    "breach",
-    "jeffersonblountst",
-    "clair"
+    "breach"
    ]
   },
   {
@@ -7835,6 +7852,36 @@
     "000",
     "documented",
     "service"
+   ]
+  },
+  {
+   "id": "oca-jefferson-blount-st-clair-mental-health-authority-data-breach-settlement",
+   "title": "Jefferson-Blount-St. Clair Mental Health Authority Data Breach Class Action Settlement ($700K)",
+   "summary": "$100 cash (adjusted pro rata) or up to $5,000 documented losses, plus 3 years of credit monitoring · people affected by the November 2025 cyberattack on the Alabama mental health authority",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-23",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$100 cash (adjusted pro rata) or up to $5,000 documented losses, plus 3 years of credit monitoring",
+   "claim_url": "https://www.jbssettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/jefferson-blount-st-clair-mental-health-authority-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#jefferson-blount-st-clair-mental-health-data-breach"
+   ],
+   "added": "2026-10-05",
+   "first_seen": "2026-10-05",
+   "keywords": [
+    "jeffersonblountst",
+    "clair",
+    "mental",
+    "health",
+    "authority",
+    "data",
+    "breach",
+    "700k"
    ]
   },
   {
