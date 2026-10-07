@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-06T15:59:02.563Z",
+ "generated_at": "2026-10-07T16:33:27.247Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 383,
+ "count": 386,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -552,30 +552,6 @@
    ]
   },
   {
-   "id": "oca-community-connections-data-breach-settlement",
-   "title": "Community Connections Data Breach Class Action Settlement",
-   "summary": "$50 cash, or up to $5,000 documented losses plus up to $100 lost time, and 2 years of medical identity and credit monitoring · people notified of the 2024 and 2026 data incidents at the Washington, D.C. behavioral health provider",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-06",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$50 cash, or up to $5,000 documented losses plus up to $100 lost time, and 2 years of medical identity and credit monitoring",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/community-connections-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-05",
-   "first_seen": "2026-10-05",
-   "keywords": [
-    "community",
-    "connection",
-    "data",
-    "breach"
-   ]
-  },
-  {
    "id": "oca-north-highland-esop-erisa-class-action-settlement",
    "title": "North Highland ESOP $2.375M ERISA Class Action Settlement",
    "summary": "automatic payment, no claim form and no opt-out — a pro rata share of a $2,375,000 fund for participants and beneficiaries who held vested North Highland ESOP shares between 2016 and 2025",
@@ -603,15 +579,15 @@
   },
   {
    "id": "oca-providence-health-401k-forfeiture-class-action-settlement",
-   "title": "Providence Health $42.7M 401(k) Forfeiture ERISA Settlement",
-   "summary": "equal per-capita share, estimated at about $106, deposited into your plan account · automatic payment, no claim form · participants in and beneficiaries of the Providence Health or Swedish Health 401(k) plans (Jan 1, 2018 – Jun 4, 2026) · alleged ERISA misuse of forfeitures",
-   "category": "Retirement Plans",
+   "title": "Providence Health $42.7M 401(k) Forfeiture ERISA Settlement — Automatic Payment",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-10-06",
    "deadline_type": "claim",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "equal per-capita share, estimated at about $106, deposited into your plan account",
+   "payout": "$42.7M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/employment/erisa/providence-health-401k-forfeiture-class-action-settlement.php",
    "source": "openclassactions",
@@ -629,30 +605,27 @@
    ]
   },
   {
-   "id": "oca-stockpile-data-breach-settlement",
-   "title": "Stockpile Data Breach Class Action Settlement ($600K)",
-   "summary": "an equal share of the net fund, capped at $90 each, for anyone whose personal information was caught up in the 2020 Stockpile data breach",
+   "id": "ca-settlements-stockpile-investments-data-breach",
+   "title": "Stockpile Investments - Data Breach Class Action Settlement",
+   "summary": "You may be covered by this settlement if your personal information was exposed in the 2020 Stockpile Investments data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-06",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an equal share of the net fund, capped at $90 each, for anyone whose personal information was caught up in the 2020 Stockpile data breach",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $90",
    "claim_url": "https://www.stockpiledatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/stockpile-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#stockpile-investments-data-breach"
-   ],
-   "added": "2026-08-17",
-   "first_seen": "2026-08-17",
+   "info_url": "https://www.classaction.org/settlements#stockpile-investments-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-07",
    "keywords": [
     "stockpile",
+    "investment",
     "data",
-    "breach",
-    "600k",
-    "investment"
+    "breach"
    ]
   },
   {
@@ -2185,8 +2158,8 @@
    ],
    "deadline": "2026-10-19",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
    "payout": "Up to $475 for each time you were held at a New York City Central Booking facility during the class periods, from a fund of up to $21.5 million.",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/nyc-central-booking-class-action-settlement.php",
@@ -4825,6 +4798,32 @@
    ]
   },
   {
+   "id": "oca-wwe-tko-merger-stockholders-class-action-settlement",
+   "title": "$147.5M WWE Merger Stockholder Class Action Settlement (TKO)",
+   "summary": "About $2.74 a share before fees, paid automatically to holders whose WWE shares were exchanged for TKO stock in the September 2023 UFC merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-16",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "About $2.74 a share before fees, paid automatically to holders whose WWE shares were exchanged for TKO stock in the September 2023 UFC merger.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/wwe-tko-merger-stockholders-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-06",
+   "first_seen": "2026-10-06",
+   "keywords": [
+    "147",
+    "5m",
+    "wwe",
+    "merger",
+    "stockholder",
+    "tko"
+   ]
+  },
+  {
    "id": "oca-albany-college-of-pharmacy-data-breach-settlement",
    "title": "Albany College of Pharmacy and Health Sciences Data Breach Class Action Settlement",
    "summary": "A flat $25 with no proof of loss, or up to $5,080 in documented losses and lost time instead, plus two years of credit monitoring, for people notified of the 2024 ACPHS breach.",
@@ -5932,8 +5931,8 @@
    ],
    "deadline": "2026-11-25",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
    "payout": "A points-based share of $1.64 million for hourly WellNow patient-care staff in New York, Illinois and Pennsylvania, scaled to pay periods worked.",
    "claim_url": "https://searswellnowsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/wellnow-urgent-care-wage-hour-class-action-settlement.php",
@@ -5990,8 +5989,8 @@
    ],
    "deadline": "2026-11-26",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
    "payout": "a pro rata share of $28 million, scaled to how many times you were strip searched on arrival at the Manhattan Court Division after already being searched befor…",
    "claim_url": "https://www.nystripsearchsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/nyc-strip-search-class-action-settlement.php",
@@ -6741,6 +6740,32 @@
     "5m",
     "venue",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-its-technologies-logistics-bipa-class-action-settlement",
+   "title": "ITS Technologies & Logistics BIPA Settlement — About $964",
+   "summary": "An estimated $964 for Illinois ITS Technologies & Logistics workers who clocked in with a hand or fingerprint scan from 2017 to 2024.",
+   "category": "Privacy",
+   "states": [
+    "IL"
+   ],
+   "deadline": "2026-12-04",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An estimated $964 for Illinois ITS Technologies & Logistics workers who clocked in with a hand or fingerprint scan from 2017 to 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/privacy/its-technologies-logistics-bipa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-06",
+   "first_seen": "2026-10-06",
+   "keywords": [
+    "technology",
+    "logistic",
+    "bipa",
+    "964"
    ]
   },
   {
@@ -7653,6 +7678,61 @@
    ]
   },
   {
+   "id": "oca-kelly-benefits-data-breach-settlement",
+   "title": "Kelly Benefits Data Breach Settlement — Est. $50 or Up to $5,000",
+   "summary": "People notified about the December 2024 Kelly Benefits breach can claim an estimated $50, documented losses up to $5,000 and credit monitoring.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "People notified about the December 2024 Kelly Benefits breach can claim an estimated $50, documented losses up to $5,000 and credit monitoring.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/kelly-benefits-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-07",
+   "first_seen": "2026-10-07",
+   "keywords": [
+    "kelly",
+    "benefit",
+    "data",
+    "breach",
+    "est",
+    "50",
+    "5",
+    "000"
+   ]
+  },
+  {
+   "id": "oca-napco-securities-class-action-settlement",
+   "title": "NAPCO $20M Securities Settlement (NSSC) — About $1.23 a Share",
+   "summary": "A pro rata share of $20 million for investors who bought NAPCO Security Technologies stock from Nov. 7, 2022 through Aug. 18, 2023.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $20 million for investors who bought NAPCO Security Technologies stock from Nov. 7, 2022 through Aug. 18, 2023.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/napco-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-06",
+   "first_seen": "2026-10-06",
+   "keywords": [
+    "napco",
+    "20m",
+    "security",
+    "nssc",
+    "1",
+    "23",
+    "share"
+   ]
+  },
+  {
    "id": "oca-whirlpool-freezers-class-action",
    "title": "$21M Whirlpool / Maytag Bottom-Mount & French-Door Refrigerator Freezer Class Action Settlement",
    "summary": "",
@@ -8090,7 +8170,7 @@
   {
    "id": "oca-elanco-advantix-pet-flea-tick-antitrust-settlement-news",
    "title": "Petco, PetSmart & Chewy Flea & Tick Settlement (Elanco $9.275M) — $10 per Purchase",
-   "summary": "$10 per purchase of Elanco imidacloprid flea and tick topicals such as K9 Advantix II and Advantage II from Chewy, Petco, PetSmart, PetMed Express or Petsense (Jan 1, 2016 – Sept 17, 2026); up to $40 per household with no receipts. Claim form due by January 8, 2027.",
+   "summary": "$10 per purchase of Elanco imidacloprid flea and tick topicals such as K9 Advantix II and Advantage II from Chewy, Petco, PetSmart, PetMed Express or Petsense (Jan 1, 2016 – Sept 17, 2026); up to $40 per household with no receipts. The claim form opens by January 8, 2027; claims are due February 25, 2027.",
    "category": "Antitrust",
    "states": [],
    "deadline": "2027-02-25",
@@ -8360,7 +8440,7 @@
   {
    "id": "oca-ile-a-la-crosse-school-class-action-settlement",
    "title": "Île-à-la-Crosse School Settlement — Up to $15,000 CAD Plus Abuse Compensation",
-   "summary": "Up to $15,000 CAD per former student alive on December 9, 2003, plus separate abuse compensation of up to $235,000 CAD, for Île-à-la-Crosse School Survivors.",
+   "summary": "Up to $15,000 CAD per former student alive on December 9, 2003, plus separate abuse compensation of up to $235,000 CAD, for Île-à-la-Crosse School Survivors. Experience Payment claims are due June 1, 2027; abuse compensation claims by June 1, 2028.",
    "category": "Government",
    "states": [],
    "deadline": "2027-06-01",
