@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-07T16:33:27.247Z",
+ "generated_at": "2026-10-08T16:32:06.345Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 386,
+ "count": 392,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -629,79 +629,6 @@
    ]
   },
   {
-   "id": "oca-stitch-fix-securities-class-action-settlement",
-   "title": "$32M Stitch Fix Securities Class Action Settlement",
-   "summary": "Bought Stitch Fix (SFIX) Jun 9, 2020 – Jun 9, 2022 · ~$0.17/share avg before fees · brokerage records required",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-07",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "~$0.17/share avg before fees",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/stitch-fix-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-02",
-   "first_seen": "2026-07-02",
-   "keywords": [
-    "32m",
-    "stitch",
-    "fix",
-    "security"
-   ]
-  },
-  {
-   "id": "oca-amtrust-securities-class-action-settlement",
-   "title": "AmTrust $19M Securities Settlement",
-   "summary": "A pro rata share of $19 million, est. $2.09 per common share or $0.45 per Series F preferred share before fees, for buyers traceable to AmTrust’s 2015 and 2016 offerings.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-07",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "A pro rata share of $19 million, est.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/amtrust-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
-   "keywords": [
-    "amtrust",
-    "19m",
-    "security"
-   ]
-  },
-  {
-   "id": "oca-bradford-scott-data-sharetec-data-breach-settlement",
-   "title": "Bradford-Scott Data (Sharetec) Data Breach Settlement",
-   "summary": "estimated $100 pro rata cash with no documentation, and/or up to $5,000 documented losses, plus 3 years of credit monitoring ($1M insurance) · $2,393,888 fund · ~245,527 people notified of the July 2023 breach at credit union software vendor Sharetec · Login ID & PIN needed",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-07",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "estimated $100 pro rata cash with no documentation, and/or up to $5,000 documented losses, plus 3 years of credit monitoring ($1M insurance)",
-   "claim_url": "https://bradfordscottdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/bradford-scott-data-sharetec-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#bradford-scott-data-data-breach"
-   ],
-   "added": "2026-07-31",
-   "first_seen": "2026-07-31",
-   "keywords": [
-    "bradfordscott",
-    "data",
-    "sharetec",
-    "breach"
-   ]
-  },
-  {
    "id": "ca-settlements-the-management-association-data-breaches",
    "title": "MRA The Management Association - Data Breaches Class Action Settlement",
    "summary": "You may be included in this settlement if your personal information was potentially exposed in a data breach affecting MRA - The Management Association in July 2023 or January 2024.",
@@ -872,11 +799,11 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "estimated $100 pro rata cash with no documentation, and/or up to $5,000 documented losses, plus 2 years of credit monitoring",
-   "claim_url": "https://holtgroupdatasettlement.com/",
+   "claim_url": "https://bradfordscottdatasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/eisner-advisory-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#holt-group-data-breach"
+    "https://www.classaction.org/settlements#bradford-scott-data-data-breach"
    ],
    "added": "2026-08-02",
    "first_seen": "2026-08-02",
@@ -884,7 +811,7 @@
     "eisneramper",
     "data",
     "breach",
-    "holt"
+    "bradfordscott"
    ]
   },
   {
@@ -4966,6 +4893,36 @@
    ]
   },
   {
+   "id": "oca-jefferson-county-health-center-data-breach-settlement",
+   "title": "Jefferson County Health Center Data Breach Settlement — $150 or Up to $300",
+   "summary": "$150 with no documentation, or up to $300 for documented losses, for Missouri residents whose health information was exposed in the 2022 breach.",
+   "category": "Data Breach",
+   "states": [
+    "MO"
+   ],
+   "deadline": "2026-11-16",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$150 with no documentation, or up to $300 for documented losses, for Missouri residents whose health information was exposed in the 2022 breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/jefferson-county-health-center-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "jefferson",
+    "county",
+    "health",
+    "center",
+    "data",
+    "breach",
+    "150",
+    "300"
+   ]
+  },
+  {
    "id": "oca-onetouchpoint-data-breach-class-action-settlement",
    "title": "OneTouchPoint Data Breach Class Action Settlement",
    "summary": "a flat $75 with no documents, or instead up to $5,000 in documented losses, plus two years of credit monitoring, for people impacted in the April 2022 OneTouchPoint data incident",
@@ -5073,6 +5030,31 @@
     "washington",
     "job",
     "posting"
+   ]
+  },
+  {
+   "id": "oca-teleflora-tcpa-text-message-class-action-settlement",
+   "title": "Teleflora $6M Text Message Settlement — Up to $251",
+   "summary": "Up to $251, less a share of fees and costs, for people on the Do Not Call Registry who got more than one Teleflora promotional text in 12 months.",
+   "category": "TCPA",
+   "states": [],
+   "deadline": "2026-11-17",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $251, less a share of fees and costs, for people on the Do Not Call Registry who got more than one Teleflora promotional text in 12 months.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/tcpa/teleflora-tcpa-text-message-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "teleflora",
+    "6m",
+    "text",
+    "message",
+    "251"
    ]
   },
   {
@@ -6410,6 +6392,34 @@
    ]
   },
   {
+   "id": "oca-holt-group-data-breach-settlement",
+   "title": "Holt Group Data Breach Settlement — $50 or Up to $5,080",
+   "summary": "A flat $50, or up to $5,080 for documented losses and lost time, plus two years of credit monitoring, for people notified of the December 2024 Holt Group cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-01",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $50, or up to $5,080 for documented losses and lost time, plus two years of credit monitoring, for people notified of the December 2024 Holt Group cyber…",
+   "claim_url": "https://holtgroupdatasettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/holt-group-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#holt-group-data-breach"
+   ],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "holt",
+    "data",
+    "breach",
+    "50",
+    "5",
+    "080"
+   ]
+  },
+  {
    "id": "oca-mdlive-evernorth-pixel-tracking-privacy-class-action-settlement",
    "title": "MDLIVE $3.5 Million Privacy Class Action Settlement — Up to $15 for Patient Portal Users",
    "summary": "Up to $15, subject to pro rata adjustment, for MDLIVE users who signed in to the patient portal between May 30, 2023 and August 11, 2025 and had an active Facebook or Google account.",
@@ -6791,6 +6801,33 @@
     "2",
     "35m",
     "security"
+   ]
+  },
+  {
+   "id": "oca-pillsbury-data-breach-settlement",
+   "title": "Pillsbury Law Firm Data Breach Settlement — Cash + Up to $3,000",
+   "summary": "Pro rata cash with no documentation, plus up to $3,000 for documented losses and a year of medical data monitoring, for people notified of the April 2025 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-07",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata cash with no documentation, plus up to $3,000 for documented losses and a year of medical data monitoring, for people notified of the April 2025 breac…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/pillsbury-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "pillsbury",
+    "law",
+    "firm",
+    "data",
+    "breach",
+    "3",
+    "000"
    ]
   },
   {
@@ -7288,6 +7325,34 @@
    ]
   },
   {
+   "id": "oca-container-store-blind-accessibility-class-action-settlement",
+   "title": "The Container Store $780K Accessibility Settlement — $75 Per Purchase",
+   "summary": "$75 per qualifying purchase, pro rata, for legally blind Massachusetts shoppers who met touchscreen kiosks with no non-visual way to enter loyalty information.",
+   "category": "Consumer Products",
+   "states": [
+    "MA"
+   ],
+   "deadline": "2026-12-20",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$75 per qualifying purchase, pro rata, for legally blind Massachusetts shoppers who met touchscreen kiosks with no non-visual way to enter loyalty information.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/container-store-blind-accessibility-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "container",
+    "store",
+    "780k",
+    "accessibility",
+    "75",
+    "purchase"
+   ]
+  },
+  {
    "id": "oca-apple-intelligence-siri-false-advertising-class-action-settlement",
    "title": "$250M Apple Intelligence Siri Settlement — $25 to $95 per iPhone",
    "summary": "A $25 payment per eligible iPhone, adjustable pro rata up to $95, for U.S. buyers of an iPhone 15 Pro, 15 Pro Max or any iPhone 16 model between June 10, 2024 and March 29, 2025 who expected Siri Apple Intelligence features they did not get; the serial number or Apple Account email stands in for a receipt.",
@@ -7601,6 +7666,33 @@
    ]
   },
   {
+   "id": "oca-coast-dental-tcpa-text-message-class-action-settlement",
+   "title": "Coast Dental Text Message Settlement — Up to $59 or $99 Voucher",
+   "summary": "Up to $59 in cash or a $99 electric toothbrush voucher for people who got Coast Dental appointment texts or calls after replying STOP.",
+   "category": "TCPA",
+   "states": [],
+   "deadline": "2026-12-24",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $59 in cash or a $99 electric toothbrush voucher for people who got Coast Dental appointment texts or calls after replying STOP.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/tcpa/coast-dental-tcpa-text-message-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "coast",
+    "dental",
+    "text",
+    "message",
+    "59",
+    "99",
+    "voucher"
+   ]
+  },
+  {
    "id": "ca-settlements-earn-company-fees",
    "title": "Earn Company - Fees Class Action Settlement",
    "summary": "You may be included in this settlement if you entered into a Credit Repair Services Agreement with Earn Company, Earn Finance Company or Credit Exterminators on or after February 10, 2016.",
@@ -7645,6 +7737,33 @@
     "tlc",
     "license",
     "suspension"
+   ]
+  },
+  {
+   "id": "oca-arizona-labor-force-data-breach-settlement",
+   "title": "Arizona Labor Force Data Breach Settlement — About $25 With No Proof",
+   "summary": "An estimated $25 pro rata share of a $300,000 fund, with no documentation, for people whose information was exposed in the January 2023 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $25 pro rata share of a $300,000 fund, with no documentation, for people whose information was exposed in the January 2023 breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/arizona-labor-force-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "arizona",
+    "labor",
+    "force",
+    "data",
+    "breach",
+    "25",
+    "proof"
    ]
   },
   {
@@ -7837,6 +7956,36 @@
     "5",
     "000",
     "association"
+   ]
+  },
+  {
+   "id": "oca-amca-sonic-healthcare-data-breach-settlement",
+   "title": "$6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000",
+   "summary": "An estimated $50, or up to $5,000 documented, plus two years of medical data monitoring, for people notified of the AMCA breach by CPL or Austin Pathology Associates.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $50, or up to $5,000 documented, plus two years of medical data monitoring, for people notified of the AMCA breach by CPL or Austin Pathology Asso…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/amca-sonic-healthcare-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "6",
+    "44m",
+    "amca",
+    "sonic",
+    "healthcare",
+    "data",
+    "breach",
+    "50",
+    "5",
+    "000"
    ]
   },
   {
@@ -9693,6 +9842,35 @@
     "subscription",
     "5m",
     "california"
+   ]
+  },
+  {
+   "id": "oca-guadalupe-credit-union-collection-lawsuits-class-action-settlement",
+   "title": "Guadalupe Credit Union Settlement — $1,000 Plus a Refund, Automatic",
+   "summary": "$1,000 plus a refund of what the credit union collected, paid automatically to people it sued in New Mexico magistrate court without a licensed attorney.",
+   "category": "Banking & Credit",
+   "states": [
+    "NM"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$1,000 plus a refund of what the credit union collected, paid automatically to people it sued in New Mexico magistrate court without a licensed attorney.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/guadalupe-credit-union-collection-lawsuits-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "guadalupe",
+    "credit",
+    "union",
+    "1",
+    "000",
+    "plus",
+    "refund"
    ]
   },
   {
