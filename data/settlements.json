@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-08T16:32:06.345Z",
+ "generated_at": "2026-10-09T16:16:18.548Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 392,
+ "count": 395,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -681,70 +681,42 @@
    ]
   },
   {
-   "id": "oca-tal-education-securities-class-action-settlement",
-   "title": "$14.1M TAL Education Securities Settlement (TAL)",
-   "summary": "About $0.09 an ADS before fees from a $14.1 million fund for investors who bought TAL Education ADSs during the class period and still held them at its end.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "About $0.09 an ADS before fees from a $14.1 million fund for investors who bought TAL Education ADSs during the class period and still held them at its end.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/tal-education-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-24",
-   "first_seen": "2026-09-24",
-   "keywords": [
-    "14",
-    "1m",
-    "tal",
-    "education",
-    "security"
-   ]
-  },
-  {
-   "id": "oca-arrowhead-regional-computing-consortium-data-breach-settlement",
-   "title": "Arrowhead Regional Computing Consortium (ARCC) Data Breach Class Action Settlement",
-   "summary": "2 years of 3-bureau credit monitoring plus $20/hour for up to 4 hours ($80 cap) — both, not a choice · no common fund, so the benefit does not shrink · ~65,379 people notified of the Feb 2023 breach at the Minnesota school-technology cooperative · Claim ID & PIN needed",
+   "id": "ca-settlements-arrowhead-regional-computing-consortium-data-breach",
+   "title": "Arrowhead Regional Computing Consortium - Data Breach Class Action Settlement",
+   "summary": "This settlement covers those who were affected by the February 2023 Arrowhead Regional Computing Consortium data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-08",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "2 years of 3-bureau credit monitoring plus $20/hour for up to 4 hours ($80 cap) — both, not a choice",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $80",
    "claim_url": "https://arrowheaddatasecuritysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/arrowhead-regional-computing-consortium-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#arrowhead-regional-computing-consortium-data-breach"
-   ],
-   "added": "2026-08-06",
-   "first_seen": "2026-08-06",
+   "info_url": "https://www.classaction.org/settlements#arrowhead-regional-computing-consortium-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-09",
    "keywords": [
     "arrowhead",
     "regional",
     "computing",
     "consortium",
-    "arcc",
     "data",
     "breach"
    ]
   },
   {
    "id": "oca-costa-del-mar-sunglasses-warranty-fee-class-action-settlement",
-   "title": "Costa Del Mar $4.095M Sunglasses Warranty Fee Class Action Settlement",
-   "summary": "a pro rata share of $4.095M for each warranty repair, for anyone who paid Costa to fix sunglasses damaged by a manufacturer’s defect",
-   "category": "Fees & Billing",
+   "title": "Costa Del Mar $4.095M Sunglasses Warranty Fee Settlement — Automatic Payments",
+   "summary": "",
+   "category": "Warranty Fees",
    "states": [],
    "deadline": "2026-10-08",
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "a pro rata share of $4.095M for each warranty repair, for anyone who paid Costa to fix sunglasses damaged by a manufacturer’s defect",
+   "payout": "$4.095M settlement fund (individual payout not stated)",
    "claim_url": "https://costasunglasswarrantysettlement.com/",
    "info_url": "https://openclassactions.com/settlements/costa-del-mar-sunglasses-warranty-fee-class-action-settlement.php",
    "source": "openclassactions",
@@ -789,32 +761,6 @@
    ]
   },
   {
-   "id": "oca-eisner-advisory-group-data-breach-settlement",
-   "title": "EisnerAmper Data Breach Class Action Settlement",
-   "summary": "estimated $100 pro rata cash with no documentation, and/or up to $5,000 documented losses, plus 2 years of credit monitoring · California subclass adds $50 · $1,050,000 fund · ~82,459 people notified of the Sept 2023 breach at the accounting firm · Claim ID & PIN needed",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "estimated $100 pro rata cash with no documentation, and/or up to $5,000 documented losses, plus 2 years of credit monitoring",
-   "claim_url": "https://bradfordscottdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/eisner-advisory-group-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#bradford-scott-data-data-breach"
-   ],
-   "added": "2026-08-02",
-   "first_seen": "2026-08-02",
-   "keywords": [
-    "eisneramper",
-    "data",
-    "breach",
-    "bradfordscott"
-   ]
-  },
-  {
    "id": "ca-settlements-ernst-and-young-moveit-data-breach",
    "title": "Ernst & Young - MOVEit Data Breach Class Action Settlement",
    "summary": "You may be included in this settlement if you received notice from Ernst & Young that your personal information was potentially exposed in the May 2023 MOVEit data breach.",
@@ -840,52 +786,22 @@
    ]
   },
   {
-   "id": "oca-ey-bank-of-america-moveit-data-breach-settlement",
-   "title": "EY & Bank of America $2.5M MOVEit Data Breach Class Action Settlement",
-   "summary": "A flat $100 or documented losses, plus two years of identity theft protection, for people Ernst & Young notified about the 2023 MOVEit incident.",
+   "id": "ca-settlements-onepoint-patient-care-data-breach",
+   "title": "OnePoint Patient Care - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your private information was accessed in the August 2024 OnePoint Patient Care data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-08",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $100 or documented losses, plus two years of identity theft protection, for people Ernst & Young notified about the 2023 MOVEit incident.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/ey-bank-of-america-moveit-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-31",
-   "first_seen": "2026-08-31",
-   "keywords": [
-    "ey",
-    "bank",
-    "america",
-    "2",
-    "5m",
-    "moveit",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-onepoint-patient-care-data-breach-settlement",
-   "title": "OnePoint Patient Care Data Breach Class Action Settlement",
-   "summary": "estimated $100 cash with no documentation, or documented losses up to $3,500, both pro rata · $2,115,000 fund · U.S. residents notified of the Aug 2024 data incident at the hospice pharmacy · Unique ID & PIN needed online, or file on paper without one",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "estimated $100 cash with no documentation, or documented losses up to $3,500, both pro rata",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$100 - $3,500",
    "claim_url": "https://onepointsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/onepoint-patient-care-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#onepoint-patient-care-data-breach"
-   ],
-   "added": "2026-07-30",
-   "first_seen": "2026-07-30",
+   "info_url": "https://www.classaction.org/settlements#onepoint-patient-care-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-09",
    "keywords": [
     "onepoint",
     "patient",
@@ -896,9 +812,9 @@
   },
   {
    "id": "oca-saint-gobain-washington-job-postings-class-action-settlement",
-   "title": "Saint-Gobain & CertainTeed Washington Job Postings Class Action Settlement",
-   "summary": "equal share of a $1,628,000 fund, estimated $1,271.91 · automatic payment, no claim form · WA applicants to seven Saint-Gobain and CertainTeed entities (Jan 2023 – Jul 2025) whose postings omitted the pay range",
-   "category": "Employment",
+   "title": "Saint-Gobain & CertainTeed Washington Job Postings Settlement — Est. $1,271.91, Automatic Payment",
+   "summary": "",
+   "category": "Job Postings (Washington)",
    "states": [
     "WA"
    ],
@@ -906,7 +822,7 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "equal share of a $1,628,000 fund, estimated $1,271.91",
+   "payout": "$1,271.91",
    "claim_url": "https://epoasettlementsgaai.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/saint-gobain-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
@@ -920,7 +836,11 @@
     "certainteed",
     "washington",
     "job",
-    "posting"
+    "posting",
+    "est",
+    "1",
+    "271",
+    "91"
    ]
   },
   {
@@ -1110,27 +1030,31 @@
    ]
   },
   {
-   "id": "ca-settlements-ais-infosource-data-breach",
-   "title": "AIS InfoSource - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your personal information was exposed in the February 2025 AIS InfoSource data breach.",
+   "id": "oca-ais-infosource-data-breach-settlement",
+   "title": "AIS InfoSource Data Breach Settlement — Up to $5,000",
+   "summary": "Up to $5,000 in documented losses, up to $80 for lost time and credit monitoring for people notified of the February 2025 AIS InfoSource data incident.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-12",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $5,000",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $5,000 in documented losses, up to $80 for lost time and credit monitoring for people notified of the February 2025 AIS InfoSource data incident.",
    "claim_url": "https://aissettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#ais-infosource-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/ais-infosource-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#ais-infosource-data-breach"
+   ],
+   "added": "2026-10-09",
+   "first_seen": "2026-10-09",
    "keywords": [
     "ais",
     "infosource",
     "data",
-    "breach"
+    "breach",
+    "5",
+    "000"
    ]
   },
   {
@@ -1501,14 +1425,16 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/sansone-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#sansone-group-data-breach"
+    "https://www.classaction.org/settlements#sansone-group-data-breach",
+    "https://www.classaction.org/settlements#bradford-scott-data-data-breach"
    ],
    "added": "2026-08-16",
    "first_seen": "2026-08-16",
    "keywords": [
     "sansone",
     "data",
-    "breach"
+    "breach",
+    "bradfordscott"
    ]
   },
   {
@@ -4004,6 +3930,32 @@
    ]
   },
   {
+   "id": "oca-university-of-phoenix-pixel-privacy-class-action-settlement",
+   "title": "University of Phoenix Pixel Privacy Settlement — $25 for Students",
+   "summary": "$25 per approved claim for people enrolled at the University of Phoenix from April 1, 2023 (April 1, 2020 in Illinois) through October 6, 2026.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2026-11-05",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$25 per approved claim for people enrolled at the University of Phoenix from April 1, 2023 (April 1, 2020 in Illinois) through October 6, 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/vppa/university-of-phoenix-pixel-privacy-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "university",
+    "phoenix",
+    "pixel",
+    "privacy",
+    "25",
+    "student"
+   ]
+  },
+  {
    "id": "oca-yes-communities-data-breach-settlement",
    "title": "YES Communities Data Breach Class Action Settlement",
    "summary": "a flat $50 with no documentation, or documented losses plus lost time instead, with three years of credit monitoring either way, from the December 2024 ransomware attack",
@@ -4281,6 +4233,33 @@
     "data",
     "breach",
     "950k"
+   ]
+  },
+  {
+   "id": "oca-safemoon-sfm-token-class-action-settlement",
+   "title": "SafeMoon Settlement — ~$12M Plus Jake Paul and Keemstar Deals",
+   "summary": "A pro rata share of about $12M, $200K from Jake Paul and $90K from Keemstar for SFM token buyers from March 2021 through November 2023.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of about $12M, $200K from Jake Paul and $90K from Keemstar for SFM token buyers from March 2021 through November 2023.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/safemoon-sfm-token-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-08",
+   "first_seen": "2026-10-08",
+   "keywords": [
+    "safemoon",
+    "12m",
+    "plus",
+    "jake",
+    "paul",
+    "keemstar",
+    "deal"
    ]
   },
   {
@@ -5390,6 +5369,40 @@
    ]
   },
   {
+   "id": "oca-bank-of-america-unused-vacation-pay-class-action-settlement",
+   "title": "Bank of America $4.28M Unused Vacation Settlement — Automatic Payments",
+   "summary": "Automatic payments for former Bank of America workers in California, New York and Illinois whose unused vacation was never paid out.",
+   "category": "Employment",
+   "states": [
+    "CA",
+    "NY",
+    "IL"
+   ],
+   "deadline": "2026-11-23",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$4.28M settlement fund (individual payout not stated)",
+   "claim_url": "https://www.laboratorycorporationwebsitesettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/bank-of-america-unused-vacation-pay-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#laboratory-corporation-of-america-data-privacy"
+   ],
+   "added": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "keywords": [
+    "bank",
+    "america",
+    "4",
+    "28m",
+    "unused",
+    "vacation",
+    "laboratory",
+    "corporation"
+   ]
+  },
+  {
    "id": "oca-emerald-city-pizza-washington-job-postings-class-action-settlement",
    "title": "Emerald City Pizza $376,000 Washington Job Postings Settlement — Est. $1,107.44, Automatic",
    "summary": "An equal share of a $376,000 fund, estimated at $1,107.44, paid automatically to people who applied to an Emerald City Pizza job opening in Washington whose posting omitted pay and benefits.",
@@ -5474,31 +5487,6 @@
     "jolla",
     "data",
     "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-laboratory-corporation-of-america-data-privacy",
-   "title": "Laboratory Corporation of America - Data Privacy Class Action Settlement",
-   "summary": "You may be included in this settlement if you live in California or Pennsylvania and conducted search queries on Labcorp’s website between May 1, 2021 and April 1, 2026.",
-   "category": "Data Privacy",
-   "states": [],
-   "deadline": "2026-11-23",
-   "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "N/A",
-   "claim_url": "https://www.laboratorycorporationwebsitesettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#laboratory-corporation-of-america-data-privacy",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "laboratory",
-    "corporation",
-    "america",
-    "data",
-    "privacy"
    ]
   },
   {
@@ -6478,6 +6466,30 @@
    ]
   },
   {
+   "id": "oca-pars-public-agency-retirement-services-data-breach-settlement",
+   "title": "PARS $750K Data Breach Settlement — Automatic Cash",
+   "summary": "An automatic pro rata payment, about $19 by OCA’s estimate, for people whose data was exposed in the March 2024 PARS cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-01",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An automatic pro rata payment, about $19 by OCA’s estimate, for people whose data was exposed in the March 2024 PARS cyberattack.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/pars-public-agency-retirement-services-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "keywords": [
+    "par",
+    "750k",
+    "data",
+    "breach"
+   ]
+  },
+  {
    "id": "oca-steel-warehouse-data-breach-settlement",
    "title": "Steel Warehouse Data Breach Class Action Settlement",
    "summary": "a flat $40 with no proof, or documented losses and lost time instead, plus a year of credit monitoring, for people notified of the January 2025 cyberattack",
@@ -6888,6 +6900,31 @@
     "camera",
     "fee",
     "36"
+   ]
+  },
+  {
+   "id": "oca-harvard-morgue-donor-families-class-action-settlement",
+   "title": "Harvard $53M Morgue Settlement for Donor Families",
+   "summary": "$53 million across two funds for relatives of Harvard Anatomical Gift Program donors; claims due December 9, 2026 with relationship documents.",
+   "category": "Healthcare",
+   "states": [],
+   "deadline": "2026-12-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$53 million across two funds for relatives of Harvard Anatomical Gift Program donors",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/harvard-morgue-donor-families-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-07",
+   "first_seen": "2026-09-07",
+   "keywords": [
+    "harvard",
+    "53m",
+    "morgue",
+    "donor",
+    "family"
    ]
   },
   {
@@ -7639,6 +7676,33 @@
    ]
   },
   {
+   "id": "oca-antigo-construction-data-breach-settlement",
+   "title": "Antigo Construction Data Breach Settlement — $100 or Up to $3,000",
+   "summary": "A $100 flat payment, or up to $3,000 in documented losses, plus free credit monitoring for employees in Antigo Construction’s June 2025 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-24",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $100 flat payment, or up to $3,000 in documented losses, plus free credit monitoring for employees in Antigo Construction’s June 2025 breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/antigo-construction-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "keywords": [
+    "antigo",
+    "construction",
+    "data",
+    "breach",
+    "100",
+    "3",
+    "000"
+   ]
+  },
+  {
    "id": "oca-cbiz-data-breach-settlement",
    "title": "CBIZ Data Breach Settlement — Est. $100 or Up to $5,000",
    "summary": "An estimated $100 cash payment plus up to $5,000 in documented losses for the roughly 19,990 people CBIZ notified about its June 2024 breach.",
@@ -8070,6 +8134,32 @@
    ]
   },
   {
+   "id": "oca-ftac-ii-paysafe-stockholder-class-action-settlement",
+   "title": "$59.5M FTAC II Paysafe Stockholder Settlement",
+   "summary": "A pro rata share of $59.5 million for FTAC II Class A holders who kept their shares through the March 2021 Paysafe SPAC merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-01-07",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $59.5 million for FTAC II Class A holders who kept their shares through the March 2021 Paysafe SPAC merger.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/ftac-ii-paysafe-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "keywords": [
+    "59",
+    "5m",
+    "ftac",
+    "ii",
+    "paysafe",
+    "stockholder"
+   ]
+  },
+  {
    "id": "oca-british-columbia-solitary-confinement-class-action-settlement",
    "title": "B.C. Solitary Confinement Settlement — Up to $91,000 CAD",
    "summary": "Up to $3,000 or $6,000 CAD base, plus up to $85,000 CAD for serious harms, for people held in segregation in B.C. correctional centres 15+ days or with a mental illness.",
@@ -8290,6 +8380,30 @@
     "message",
     "42",
     "16"
+   ]
+  },
+  {
+   "id": "oca-merrill-lynch-cash-sweep-class-action-settlement",
+   "title": "Merrill Lynch $39M Cash Sweep Settlement — Automatic Payments",
+   "summary": "Automatic payments for Merrill Edge retirement account holders whose swept cash earned low interest from Dec. 2016 to March 2020.",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": "2027-02-19",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$39M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/merrill-lynch-cash-sweep-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-09",
+   "first_seen": "2026-10-09",
+   "keywords": [
+    "merrill",
+    "lynch",
+    "39m",
+    "sweep"
    ]
   },
   {
@@ -9899,31 +10013,6 @@
     "metal",
     "awaiting",
     "approval"
-   ]
-  },
-  {
-   "id": "oca-harvard-morgue-donor-families-class-action-settlement",
-   "title": "Harvard $53M Morgue Settlement for Donor Families",
-   "summary": "Two funds totaling $53 million would compensate eligible donor families; final approval and verified claim instructions remain pending.",
-   "category": "Healthcare",
-   "states": [],
-   "deadline": null,
-   "deadline_type": "unknown",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "Two funds totaling $53 million would compensate eligible donor families",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/harvard-morgue-donor-families-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-07",
-   "first_seen": "2026-09-07",
-   "keywords": [
-    "harvard",
-    "53m",
-    "morgue",
-    "donor",
-    "family"
    ]
   },
   {
