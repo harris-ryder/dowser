@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-09T16:16:18.548Z",
+ "generated_at": "2026-10-10T15:24:25.797Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 395,
+ "count": 396,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -865,60 +865,6 @@
     "total",
     "loss",
     "michigan"
-   ]
-  },
-  {
-   "id": "oca-vintage-wine-estates-securities-class-action-settlement",
-   "title": "$7.5M Vintage Wine Estates Securities Settlement (VWE)",
-   "summary": "A pro rata share of a $7.5 million fund for investors who bought Vintage Wine Estates common stock during the class period, estimated at about $0.79 a share before fees.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-09",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "A pro rata share of a $7.5 million fund for investors who bought Vintage Wine Estates common stock during the class period, estimated at about $0.79 a share be…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/vintage-wine-estates-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-24",
-   "first_seen": "2026-09-24",
-   "keywords": [
-    "7",
-    "5m",
-    "vintage",
-    "wine",
-    "estate",
-    "security",
-    "vwe"
-   ]
-  },
-  {
-   "id": "oca-metropolis-parking-tennessee-settlement",
-   "title": "Metropolis $6.5M Tennessee Parking Settlement",
-   "summary": "restitution for the wrongful charge you can document · $6,500,000 paid to Tennessee and distributed at the Attorney General's discretion · anyone overcharged, ticketed or booted at a Tennessee Metropolis lot (Jul 1, 2021 – Jan 6, 2026) · documentation required",
-   "category": "Fees & Billing",
-   "states": [
-    "TN"
-   ],
-   "deadline": "2026-10-09",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "$6,500,000 paid to Tennessee and distributed at the Attorney General's discretion",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/consumer-protection/metropolis-parking-tennessee-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-04",
-   "first_seen": "2026-08-04",
-   "keywords": [
-    "metropolis",
-    "6",
-    "5m",
-    "tennessee",
-    "parking"
    ]
   },
   {
@@ -2597,6 +2543,36 @@
     "equinox",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-pineda-inn-tip-credit-class-action-settlement",
+   "title": "Pineda Inn Bar & Grill Tip Credit Settlement — $2 Per Hour",
+   "summary": "$2 per covered hour for former tipped staff at the Brevard County, Florida restaurant who had a tip credit applied from April 2021 through August 2023.",
+   "category": "Employment",
+   "states": [
+    "FL"
+   ],
+   "deadline": "2026-10-23",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$2 per covered hour for former tipped staff at the Brevard County, Florida restaurant who had a tip credit applied from April 2021 through August 2023.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/pineda-inn-tip-credit-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-10",
+   "first_seen": "2026-10-10",
+   "keywords": [
+    "pineda",
+    "inn",
+    "bar",
+    "grill",
+    "tip",
+    "credit",
+    "2",
+    "hour"
    ]
   },
   {
@@ -6765,6 +6741,36 @@
    ]
   },
   {
+   "id": "oca-belcan-washington-job-postings-class-action-settlement",
+   "title": "Belcan Washington Job Postings Settlement — Est. $1,292.77",
+   "summary": "An equal share, estimated at $1,292.77, for people who applied to a Belcan job opening in Washington whose posting left out the pay range (Jan 2023 – Aug 2026).",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-04",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share, estimated at $1,292.77, for people who applied to a Belcan job opening in Washington whose posting left out the pay range (Jan 2023 – Aug 2026).",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/belcan-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-10",
+   "first_seen": "2026-10-10",
+   "keywords": [
+    "belcan",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "1",
+    "292",
+    "77"
+   ]
+  },
+  {
    "id": "oca-its-technologies-logistics-bipa-class-action-settlement",
    "title": "ITS Technologies & Logistics BIPA Settlement — About $964",
    "summary": "An estimated $964 for Illinois ITS Technologies & Logistics workers who clocked in with a hand or fingerprint scan from 2017 to 2024.",
@@ -6928,26 +6934,29 @@
    ]
   },
   {
-   "id": "ca-settlements-indegene-unwanted-faxes",
-   "title": "Indegene - Unwanted Faxes Class Action Settlement",
-   "summary": "You may be included in this settlement if you were sent a fax on or about February 7, 2020 stating \"Medical Record Review of the Impact of Adverse Events Associated with the Use of Current anti-Parkinson’s Disease Medications on Patient Clinical Therapeutics and Outcomes Trajectories in the U.S.\"",
-   "category": "Unwanted Faxes",
+   "id": "oca-indegene-tcpa-junk-fax-class-action-settlement",
+   "title": "Indegene Junk Fax Settlement — Up to $250 Per Fax",
+   "summary": "Up to $250 for owners of fax numbers sent Indegene’s February 2020 fax about a Parkinson’s medication record review.",
+   "category": "TCPA",
    "states": [],
    "deadline": "2026-12-09",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $250",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $250 for owners of fax numbers sent Indegene’s February 2020 fax about a Parkinson’s medication record review.",
    "claim_url": "https://indegenetcpasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#indegene-unwanted-faxes",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-23",
+   "info_url": "https://openclassactions.com/settlements/tcpa/indegene-tcpa-junk-fax-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#indegene-unwanted-faxes"
+   ],
+   "added": "2026-10-10",
+   "first_seen": "2026-10-10",
    "keywords": [
     "indegene",
-    "unwanted",
-    "fax"
+    "junk",
+    "fax",
+    "250"
    ]
   },
   {
@@ -8182,6 +8191,35 @@
     "91",
     "000",
     "cad"
+   ]
+  },
+  {
+   "id": "oca-costa-del-mar-florida-sunglasses-class-action-settlement",
+   "title": "Costa Del Mar $21.75M Florida Sunglasses Settlement",
+   "summary": "A pro rata cash share per pair for Florida citizens who bought Costa sunglasses from July 2013 to January 2018, up to five with no receipts; Florida repair fees over $11.95 are paid automatically.",
+   "category": "Fees & Billing",
+   "states": [
+    "FL"
+   ],
+   "deadline": "2027-01-11",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Florida repair fees over $11.95 are paid automatically.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/costa-del-mar-florida-sunglasses-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-10",
+   "first_seen": "2026-10-10",
+   "keywords": [
+    "costa",
+    "del",
+    "mar",
+    "21",
+    "75m",
+    "florida",
+    "sunglasses"
    ]
   },
   {
