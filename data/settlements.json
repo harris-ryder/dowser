@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-12T19:05:40.062Z",
+ "generated_at": "2026-10-13T16:58:25.552Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 402,
+ "count": 384,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -304,126 +304,6 @@
    ]
   },
   {
-   "id": "ca-settlements-albany-gastroenterology-consultants-data-breach",
-   "title": "Albany Gastroenterology Consultants - Data Breach Class Action Settlement",
-   "summary": "If your private information was compromised in the November 2024 Albany Gastroenterology Consultants data breach, you may be able to claim a piece of this settlement.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$10 - $2,500",
-   "claim_url": "https://albanygastrodatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#albany-gastroenterology-consultants-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "albany",
-    "gastroenterology",
-    "consultant",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-bayhealth-data-privacy",
-   "title": "Bayhealth - Data Privacy Class Action Settlement",
-   "summary": "You may be included in this settlement if you used the Bayhealth website to access the Bayhealth MyChart patient portal between January 1, 2019 and December 31, 2025.",
-   "category": "Data Privacy",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$25",
-   "claim_url": "https://bayhealthpixelsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#bayhealth-data-privacy",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "bayhealth",
-    "data",
-    "privacy"
-   ]
-  },
-  {
-   "id": "ca-settlements-bestway-spa-pumps",
-   "title": "Bestway Spa Pumps Class Action Settlement",
-   "summary": "You may be included in this settlement if you purchased certain Bestway AirJet or Bestway HydroJet spa pumps.",
-   "category": null,
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Up to $75",
-   "claim_url": "https://spapumpclassactionsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#bestway-spa-pumps",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "bestway",
-    "spa",
-    "pump"
-   ]
-  },
-  {
-   "id": "ca-settlements-coleman-professional-services-data-breach",
-   "title": "Coleman Professional Services - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your personal information was accessed in the October 2023 Coleman Professional Services data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$70 - $5,000",
-   "claim_url": "https://www.colemansettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#coleman-professional-services-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "coleman",
-    "professional",
-    "service",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-cone-health-data-privacy",
-   "title": "Cone Health - Data Privacy Class Action Settlement",
-   "summary": "You may be included in this settlement if you accessed Cone Health's MyChart patient portal or submitted a form on its website between September 1, 2016 and November 3, 2022.",
-   "category": "Data Privacy",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://conepixelsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#cone-health-data-privacy",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "cone",
-    "health",
-    "data",
-    "privacy"
-   ]
-  },
-  {
    "id": "oca-crst-expedited-california-truck-driver-paga-class-action-settlement",
    "title": "CRST Expedited California Truck Driver Class Action & PAGA Settlement ($14.5M)",
    "summary": "automatic payment, no claim form — a pro rata share of $14,500,000 scaled to weeks worked, plus a share of $181,250 in PAGA penalties · California resident truck drivers paid by piece-rate at CRST Expedited",
@@ -436,12 +316,10 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "automatic payment, no claim form — a pro rata share of $14,500,000 scaled to weeks worked, plus a share of $181,250 in PAGA penalties",
-   "claim_url": "https://truckingdriversettlement.com/",
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/paga/crst-expedited-california-truck-driver-paga-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#crst-expedited-driver-wages-california"
-   ],
+   "also_listed_at": [],
    "added": "2026-08-16",
    "first_seen": "2026-08-16",
    "keywords": [
@@ -453,102 +331,6 @@
     "paga",
     "14",
     "5m"
-   ]
-  },
-  {
-   "id": "ca-settlements-just4veterans-disability-claim-fees",
-   "title": "Just4Veterans - Disability Claim Fees Class Action Settlement",
-   "summary": "You may be covered by this settlement if you are a veteran who was charged a fee by Just4Veterans in connection with a VA disability claim on or after September 20, 2020.",
-   "category": "Disability Claim Fees",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://www.j4vsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#just4veterans-disability-claim-fees",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "just4veterans",
-    "disability",
-    "fee"
-   ]
-  },
-  {
-   "id": "ca-settlements-sportsmans-guide-firearm-purchase-data-privacy",
-   "title": "Sportsman’s Guide - Firearm Purchase Data Privacy Class Action Settlement",
-   "summary": "This settlement covers Pennsylvania residents who ordered or reserved a firearm online from the Sportsman’s Guide website from January 11, 2021 to July 7, 2026.",
-   "category": "Firearm Purchase Data Privacy",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $145",
-   "claim_url": "https://pasportsmansguideufasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#sportsmans-guide-firearm-purchase-data-privacy",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "sportsman",
-    "guide",
-    "firearm",
-    "purchase",
-    "data",
-    "privacy"
-   ]
-  },
-  {
-   "id": "ca-settlements-usa-clinics-group-unwanted-texts",
-   "title": "USA Clinics Group - Unwanted Texts Class Action Settlement",
-   "summary": "You may be included in this settlement if you received more than one marketing text from USA Clinics Group between June 12, 2021 and June 16, 2026.",
-   "category": "Unwanted Texts",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$50 - $150",
-   "claim_url": "https://usaclinicsgrouptcpasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#usa-clinics-group-unwanted-texts",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "clinic",
-    "unwanted",
-    "text"
-   ]
-  },
-  {
-   "id": "ca-settlements-volkswagen-atlas-water-pumps",
-   "title": "Volkswagen Atlas - Water Pumps Class Action Settlement",
-   "summary": "You may be included in this settlement if you owned or leased a 2018-2022 Volkswagen Atlas or Atlas Cross Sport vehicle equipped with a 3.6 Liter engine.",
-   "category": "Water Pumps",
-   "states": [],
-   "deadline": "2026-10-05",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://mainenginewaterpumpsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#volkswagen-atlas-water-pumps",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-06",
-   "keywords": [
-    "volkswagen",
-    "atla",
-    "water",
-    "pump"
    ]
   },
   {
@@ -605,55 +387,6 @@
    ]
   },
   {
-   "id": "ca-settlements-stockpile-investments-data-breach",
-   "title": "Stockpile Investments - Data Breach Class Action Settlement",
-   "summary": "You may be covered by this settlement if your personal information was exposed in the 2020 Stockpile Investments data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-06",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $90",
-   "claim_url": "https://www.stockpiledatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#stockpile-investments-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-07",
-   "keywords": [
-    "stockpile",
-    "investment",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-the-management-association-data-breaches",
-   "title": "MRA The Management Association - Data Breaches Class Action Settlement",
-   "summary": "You may be included in this settlement if your personal information was potentially exposed in a data breach affecting MRA - The Management Association in July 2023 or January 2024.",
-   "category": "Data Breaches",
-   "states": [],
-   "deadline": "2026-10-07",
-   "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "Varies",
-   "claim_url": "https://mradatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#the-management-association-data-breaches",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-30",
-   "keywords": [
-    "mra",
-    "management",
-    "association",
-    "data",
-    "breach"
-   ]
-  },
-  {
    "id": "oca-money-source-tcpa-prerecorded-calls-class-action-settlement",
    "title": "The Money Source TCPA Prerecorded Call Class Action Settlement",
    "summary": "pro rata cash from a $1,500,000 fund, scaled to the qualifying calls in the defendant's records · automatic payment, no claim form · U.S. cell numbers called with a prerecorded voice after asking The Money Source to stop (Feb 6, 2019 – May 7, 2025)",
@@ -664,12 +397,10 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "pro rata cash from a $1,500,000 fund, scaled to the qualifying calls in the defendant's records",
-   "claim_url": "https://www.moneysourcetcpaclassaction.com/",
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/tcpa/money-source-tcpa-prerecorded-calls-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#the-money-source-unwanted-calls"
-   ],
+   "also_listed_at": [],
    "added": "2026-08-03",
    "first_seen": "2026-08-03",
    "keywords": [
@@ -681,48 +412,20 @@
    ]
   },
   {
-   "id": "ca-settlements-arrowhead-regional-computing-consortium-data-breach",
-   "title": "Arrowhead Regional Computing Consortium - Data Breach Class Action Settlement",
-   "summary": "This settlement covers those who were affected by the February 2023 Arrowhead Regional Computing Consortium data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $80",
-   "claim_url": "https://arrowheaddatasecuritysettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#arrowhead-regional-computing-consortium-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-09",
-   "keywords": [
-    "arrowhead",
-    "regional",
-    "computing",
-    "consortium",
-    "data",
-    "breach"
-   ]
-  },
-  {
    "id": "oca-costa-del-mar-sunglasses-warranty-fee-class-action-settlement",
    "title": "Costa Del Mar $4.095M Sunglasses Warranty Fee Settlement — Automatic Payments",
    "summary": "",
-   "category": "Warranty Fees",
+   "category": null,
    "states": [],
    "deadline": "2026-10-08",
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "$4.095M settlement fund (individual payout not stated)",
-   "claim_url": "https://costasunglasswarrantysettlement.com/",
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/costa-del-mar-sunglasses-warranty-fee-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#costa-sunglasses-warranty-fees"
-   ],
+   "also_listed_at": [],
    "added": null,
    "first_seen": "2026-10-12",
    "keywords": [
@@ -737,84 +440,10 @@
    ]
   },
   {
-   "id": "ca-settlements-eisner-advisory-group-data-breach",
-   "title": "Eisner Advisory Group - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your private information was exposed in the September 2023 Eisner Advisory Group data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$100 - $5,150",
-   "claim_url": "https://eisnerdatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#eisner-advisory-group-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "eisner",
-    "advisory",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-ernst-and-young-moveit-data-breach",
-   "title": "Ernst & Young - MOVEit Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if you received notice from Ernst & Young that your personal information was potentially exposed in the May 2023 MOVEit data breach.",
-   "category": "MOVEit Data Breach",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$100 - $10,000",
-   "claim_url": "https://www.moveitsettlementeyboa.com/",
-   "info_url": "https://www.classaction.org/settlements#ernst-and-young-moveit-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "ernst",
-    "young",
-    "moveit",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-onepoint-patient-care-data-breach",
-   "title": "OnePoint Patient Care - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your private information was accessed in the August 2024 OnePoint Patient Care data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$100 - $3,500",
-   "claim_url": "https://onepointsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#onepoint-patient-care-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-09",
-   "keywords": [
-    "onepoint",
-    "patient",
-    "care",
-    "data",
-    "breach"
-   ]
-  },
-  {
    "id": "oca-saint-gobain-washington-job-postings-class-action-settlement",
    "title": "Saint-Gobain & CertainTeed Washington Job Postings Settlement — Est. $1,271.91, Automatic Payment",
    "summary": "",
-   "category": "Job Postings (Washington)",
+   "category": null,
    "states": [
     "WA"
    ],
@@ -822,13 +451,11 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "$1,271.91",
-   "claim_url": "https://epoasettlementsgaai.com/",
+   "payout": null,
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/saint-gobain-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#saint-gobain-job-postings-washington"
-   ],
+   "also_listed_at": [],
    "added": null,
    "first_seen": "2026-10-12",
    "keywords": [
@@ -844,238 +471,10 @@
    ]
   },
   {
-   "id": "ca-settlements-usaa-total-loss-claims-michigan",
-   "title": "USAA - Total Loss Claims (Michigan) Class Action Settlement",
-   "summary": "You may be included in this settlement if you insured a leased vehicle under a Michigan USAA auto insurance policy and did not receive full payment for tax and regulatory fees after the vehicle was totaled between January 27, 2015 and March 11, 2026.",
-   "category": "Total Loss Claims (Michigan)",
-   "states": [],
-   "deadline": "2026-10-08",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://www.marcheksettlement.com/Home/portalid/0",
-   "info_url": "https://www.classaction.org/settlements#usaa-total-loss-claims-michigan",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "usaa",
-    "total",
-    "loss",
-    "michigan"
-   ]
-  },
-  {
-   "id": "ca-settlements-anthem-prostate-cancer-treatment",
-   "title": "Anthem - Prostate Cancer Treatment Class Action Settlement",
-   "summary": "You may be included in this settlement if you received proton beam radiation therapy for prostate cancer and sought coverage from Anthem, but your treatments were not covered by insurance.",
-   "category": "Prostate Cancer Treatment",
-   "states": [],
-   "deadline": "2026-10-10",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://protonbeamradiationtherapylitigation.com/",
-   "info_url": "https://www.classaction.org/settlements#anthem-prostate-cancer-treatment",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-11",
-   "keywords": [
-    "anthem",
-    "prostate",
-    "cancer",
-    "treatment"
-   ]
-  },
-  {
-   "id": "oca-spectrum-pharmaceuticals-securities-class-action-settlement",
-   "title": "$7M Spectrum Pharmaceuticals Securities Settlement (SPPI)",
-   "summary": "About $0.08 a share before fees from a $7 million fund for investors who bought Spectrum Pharmaceuticals common stock during the class period.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-12",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "About $0.08 a share before fees from a $7 million fund for investors who bought Spectrum Pharmaceuticals common stock during the class period.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/spectrum-pharmaceuticals-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-24",
-   "first_seen": "2026-09-24",
-   "keywords": [
-    "7m",
-    "spectrum",
-    "pharmaceutical",
-    "security",
-    "sppi"
-   ]
-  },
-  {
-   "id": "oca-ais-infosource-data-breach-settlement",
-   "title": "AIS InfoSource Data Breach Settlement — Up to $5,000",
-   "summary": "Up to $5,000 in documented losses, up to $80 for lost time and credit monitoring for people notified of the February 2025 AIS InfoSource data incident.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-12",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Up to $5,000 in documented losses, up to $80 for lost time and credit monitoring for people notified of the February 2025 AIS InfoSource data incident.",
-   "claim_url": "https://aissettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/ais-infosource-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#ais-infosource-data-breach"
-   ],
-   "added": "2026-10-09",
-   "first_seen": "2026-10-09",
-   "keywords": [
-    "ais",
-    "infosource",
-    "data",
-    "breach",
-    "5",
-    "000"
-   ]
-  },
-  {
-   "id": "ca-settlements-fca-warranty-coverage",
-   "title": "FCA - Warranty Coverage Class Action Settlement",
-   "summary": "This settlement covers those who bought or leased one or more of several FCA vehicles equipped with a 3.6L engine.",
-   "category": "Warranty Coverage",
-   "states": [],
-   "deadline": "2026-10-12",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://fcawarrantysettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#fca-warranty-coverage",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "fca",
-    "warranty",
-    "coverage"
-   ]
-  },
-  {
-   "id": "oca-hydromax-usa-job-postings-washington-class-action-settlement",
-   "title": "Hydromax USA Washington Job Postings Class Action Settlement",
-   "summary": "an equal share of a fund worth up to $382,500 for people who applied to a Hydromax USA job opening in Washington",
-   "category": "Employment",
-   "states": [
-    "WA"
-   ],
-   "deadline": "2026-10-12",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an equal share of a fund worth up to $382,500 for people who applied to a Hydromax USA job opening in Washington",
-   "claim_url": "https://epoasettlementhul.com/",
-   "info_url": "https://openclassactions.com/settlements/hydromax-usa-job-postings-washington-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#hydromax-usa-job-postings-washington"
-   ],
-   "added": "2026-08-24",
-   "first_seen": "2026-08-24",
-   "keywords": [
-    "hydromax",
-    "washington",
-    "job",
-    "posting"
-   ]
-  },
-  {
-   "id": "oca-fca-3-6l-valve-train-warranty-class-action-settlement",
-   "title": "Ram, Jeep, Dodge & Chrysler 3.6L Valve Train Warranty Settlement",
-   "summary": "an automatic warranty extension to 7 years or 70,000 miles on three valve train parts, plus reimbursement for a qualifying repair already paid for",
-   "category": "Auto",
-   "states": [
-    "CA",
-    "CT",
-    "DE",
-    "ME",
-    "MD",
-    "MA",
-    "OR",
-    "PA",
-    "RI",
-    "VT",
-    "WA"
-   ],
-   "deadline": "2026-10-12",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": null,
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/automotive/fca-3-6l-valve-train-warranty-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-01",
-   "first_seen": "2026-09-01",
-   "keywords": [
-    "ram",
-    "jeep",
-    "dodge",
-    "chrysler",
-    "3",
-    "6l",
-    "valve",
-    "train",
-    "warranty"
-   ]
-  },
-  {
-   "id": "oca-rapid-investments-axiom-bank-release-card-class-action-settlement",
-   "title": "Release Card Class Action Settlement — Rapid Financial Solutions & Axiom Bank ($4.2M)",
-   "summary": "a $15 minimum plus three times the fees charged on the prepaid release card you were issued when a jail or detention center let you go",
-   "category": "Banking & Credit",
-   "states": [],
-   "deadline": "2026-10-12",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a $15 minimum plus three times the fees charged on the prepaid release card you were issued when a jail or detention center let you go",
-   "claim_url": "https://hallreleasecardsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/rapid-investments-axiom-bank-release-card-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#correctional-facility-prepaid-debit-cards"
-   ],
-   "added": "2026-08-24",
-   "first_seen": "2026-08-24",
-   "keywords": [
-    "release",
-    "card",
-    "rapid",
-    "financial",
-    "solution",
-    "axiom",
-    "bank",
-    "4",
-    "2m",
-    "correctional",
-    "facility",
-    "prepaid",
-    "debit"
-   ]
-  },
-  {
    "id": "oca-scribd-washington-job-postings-class-action-settlement",
-   "title": "Scribd $3M Washington Job Postings Class Action Settlement",
-   "summary": "equal share of a $3 million fund, estimated $219.27 · automatic payment, no claim form · WA applicants to Scribd (Jan 2023 – Aug 2026) whose postings omitted the pay range",
-   "category": "Employment",
+   "title": "Scribd Washington Job Postings Settlement — Est. $219.27, Automatic Payment",
+   "summary": "",
+   "category": null,
    "states": [
     "WA"
    ],
@@ -1083,45 +482,21 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "equal share of a $3 million fund, estimated $219.27",
-   "claim_url": "https://epoasettlementsi.com/",
+   "payout": null,
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/scribd-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#scribd-job-postings-washington"
-   ],
+   "also_listed_at": [],
    "added": "2026-09-27",
    "first_seen": "2026-09-27",
    "keywords": [
     "scribd",
-    "3m",
     "washington",
     "job",
-    "posting"
-   ]
-  },
-  {
-   "id": "ca-settlements-urban-one-data-breach",
-   "title": "Urban One - Data Breach Class Action Settlement",
-   "summary": "You may be covered by this settlement if your personal information was exposed in the Urban One data breach discovered in March 2025.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-12",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$500 - $10,000",
-   "claim_url": "https://urbanonedataincident.com/",
-   "info_url": "https://www.classaction.org/settlements#urban-one-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "urban",
-    "one",
-    "data",
-    "breach"
+    "posting",
+    "est",
+    "219",
+    "27"
    ]
   },
   {
@@ -1312,16 +687,14 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/sansone-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#sansone-group-data-breach",
-    "https://www.classaction.org/settlements#bradford-scott-data-data-breach"
+    "https://www.classaction.org/settlements#sansone-group-data-breach"
    ],
    "added": "2026-08-16",
    "first_seen": "2026-08-16",
    "keywords": [
     "sansone",
     "data",
-    "breach",
-    "bradfordscott"
+    "breach"
    ]
   },
   {
@@ -1706,12 +1079,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "a flat $50 with no documentation, or up to $5,000 in documented losses instead, plus two years of medical and credit monitoring, for people notified of the Dec…",
-   "claim_url": "https://mcnadatabreachsettlement.com/",
+   "claim_url": "https://www.cddatabreach.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/community-dental-care-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#managed-care-of-north-america-data-breach",
-    "https://www.classaction.org/settlements#community-dental-care-data-breach"
+    "https://www.classaction.org/settlements#community-dental-care-data-breach",
+    "https://www.classaction.org/settlements#managed-care-of-north-america-data-breach"
    ],
    "added": "2026-08-25",
    "first_seen": "2026-08-25",
@@ -3887,10 +3260,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "$25 per approved claim for people enrolled at the University of Phoenix from April 1, 2023 (April 1, 2020 in Illinois) through October 6, 2026.",
-   "claim_url": null,
+   "claim_url": "https://uoppixelsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/vppa/university-of-phoenix-pixel-privacy-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#university-of-phoenix-data-privacy"
+   ],
    "added": "2026-10-08",
    "first_seen": "2026-10-08",
    "keywords": [
@@ -4748,8 +4123,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/california-casualty-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#california-casualty-group-data-breach",
-    "https://www.classaction.org/settlements#total-vision-data-breach-california"
+    "https://www.classaction.org/settlements#california-casualty-group-data-breach"
    ],
    "added": "2026-08-31",
    "first_seen": "2026-08-31",
@@ -4757,9 +4131,7 @@
     "california",
     "casualty",
     "data",
-    "breach",
-    "total",
-    "vision"
+    "breach"
    ]
   },
   {
@@ -4831,10 +4203,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "$150 with no documentation, or up to $300 for documented losses, for Missouri residents whose health information was exposed in the 2022 breach.",
-   "claim_url": null,
+   "claim_url": "https://jeffersoncountybreachsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/jefferson-county-health-center-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#jefferson-county-health-department-data-breach"
+   ],
    "added": "2026-10-08",
    "first_seen": "2026-10-08",
    "keywords": [
@@ -4845,7 +4219,8 @@
     "data",
     "breach",
     "150",
-    "300"
+    "300",
+    "department"
    ]
   },
   {
@@ -4969,10 +4344,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "Up to $251, less a share of fees and costs, for people on the Do Not Call Registry who got more than one Teleflora promotional text in 12 months.",
-   "claim_url": null,
+   "claim_url": "https://www.tfsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/tcpa/teleflora-tcpa-text-message-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#teleflora-unwanted-calls"
+   ],
    "added": "2026-10-08",
    "first_seen": "2026-10-08",
    "keywords": [
@@ -5050,8 +4427,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/carter-credit-union-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#carter-federal-credit-union-data-breach",
-    "https://www.classaction.org/settlements#heritage-south-credit-union-data-breach"
+    "https://www.classaction.org/settlements#carter-federal-credit-union-data-breach"
    ],
    "added": "2026-09-09",
    "first_seen": "2026-09-09",
@@ -5061,9 +4437,7 @@
     "union",
     "data",
     "breach",
-    "federal",
-    "heritage",
-    "south"
+    "federal"
    ]
   },
   {
@@ -5330,10 +4704,11 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "$4.28M settlement fund (individual payout not stated)",
-   "claim_url": "https://www.laboratorycorporationwebsitesettlement.com/",
+   "claim_url": "https://unusedvacationsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/bank-of-america-unused-vacation-pay-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
+    "https://www.classaction.org/settlements#bank-of-america-unused-vacation",
     "https://www.classaction.org/settlements#laboratory-corporation-of-america-data-privacy"
    ],
    "added": "2026-10-09",
@@ -5362,10 +4737,12 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "An equal share of a $376,000 fund, estimated at $1,107.44, paid automatically to people who applied to an Emerald City Pizza job opening in Washington whose po…",
-   "claim_url": null,
+   "claim_url": "https://epoasettlementecp.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/emerald-city-pizza-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#emerald-city-pizza-job-postings-washington"
+   ],
    "added": "2026-10-06",
    "first_seen": "2026-10-06",
    "keywords": [
@@ -6071,6 +5448,30 @@
    ]
   },
   {
+   "id": "ca-settlements-guadalupe-credit-union-new-mexico",
+   "title": "Guadalupe Credit Union (New Mexico) Class Action Settlement",
+   "summary": "You may be included in this settlement Guadalupe Credit Union filed a collection action against you in New Mexico Magistrate Court on or after October 7, 2015.",
+   "category": null,
+   "states": [],
+   "deadline": "2026-11-30",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$1,000",
+   "claim_url": "https://www.salasvgcusettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#guadalupe-credit-union-new-mexico",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "guadalupe",
+    "credit",
+    "union",
+    "mexico"
+   ]
+  },
+  {
    "id": "oca-healthport-datavant-pennsylvania-medical-records-fees-class-action-settlement",
    "title": "HealthPort/Datavant Pennsylvania Medical Records Fee Class Action Settlement",
    "summary": "A refund of 35% of the basic, search-and-retrieval and per-page fees paid to HealthPort for copies of Pennsylvania medical records between July 15, 2005 and September 3, 2012.",
@@ -6180,6 +5581,34 @@
     "restaurant",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-oregon-tax-foreclosure-surplus-proceeds-class-action-settlement",
+   "title": "Oregon Tax Foreclosure Surplus Settlements — Six Counties",
+   "summary": "Surplus proceeds for former owners, lienholders and heirs of property taken for unpaid taxes in six Oregon counties.",
+   "category": "Government",
+   "states": [
+    "OR"
+   ],
+   "deadline": "2026-11-30",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/oregon-tax-foreclosure-surplus-proceeds-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "oregon",
+    "tax",
+    "foreclosure",
+    "surplus",
+    "six",
+    "county"
    ]
   },
   {
@@ -6432,6 +5861,32 @@
    "keywords": [
     "par",
     "750k",
+    "data",
+    "breach"
+   ]
+  },
+  {
+   "id": "ca-settlements-public-agency-retirement-services-data-breach",
+   "title": "Public Agency Retirement Services - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was exposed in the March 2024 Public Agency Retirement Services data breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-01",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
+   "claim_url": "https://phaseiidatasettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#public-agency-retirement-services-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "public",
+    "agency",
+    "retirement",
+    "service",
     "data",
     "breach"
    ]
@@ -6694,10 +6149,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "An equal share of a $4.5 million fund, with no receipt, for anyone who paid Aramark’s 3% venue fee on food, drinks or other purchases at Capital One Arena from…",
-   "claim_url": null,
+   "claim_url": "https://www.venuefeesettlement.com/",
    "info_url": "https://openclassactions.com/settlements/deceptive-pricing/aramark-capital-one-arena-venue-fee-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#capital-one-arena-concessions"
+   ],
    "added": "2026-10-03",
    "first_seen": "2026-10-03",
    "keywords": [
@@ -6754,10 +6211,12 @@
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
    "payout": "An estimated $964 for Illinois ITS Technologies & Logistics workers who clocked in with a hand or fingerprint scan from 2017 to 2024.",
-   "claim_url": null,
+   "claim_url": "https://itsbipasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/privacy/its-technologies-logistics-bipa-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#its-technologies-and-logistics-biometric-privacy-illinois"
+   ],
    "added": "2026-10-06",
    "first_seen": "2026-10-06",
    "keywords": [
@@ -6890,10 +6349,12 @@
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
    "payout": "$53 million across two funds for relatives of Harvard Anatomical Gift Program donors",
-   "claim_url": null,
+   "claim_url": "https://harvardmorguesettlement.com/",
    "info_url": "https://openclassactions.com/settlements/harvard-morgue-donor-families-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#harvard-morgue"
+   ],
    "added": "2026-09-07",
    "first_seen": "2026-09-07",
    "keywords": [
@@ -7354,10 +6815,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "$75 per qualifying purchase, pro rata, for legally blind Massachusetts shoppers who met touchscreen kiosks with no non-visual way to enter loyalty information.",
-   "claim_url": null,
+   "claim_url": "https://www.tcssettlement.com/",
    "info_url": "https://openclassactions.com/settlements/consumer-protection/container-store-blind-accessibility-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#the-container-store-massachusetts"
+   ],
    "added": "2026-10-08",
    "first_seen": "2026-10-08",
    "keywords": [
@@ -7366,7 +6829,8 @@
     "780k",
     "accessibility",
     "75",
-    "purchase"
+    "purchase",
+    "massachusett"
    ]
   },
   {
@@ -7518,10 +6982,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "An estimated $100 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Innovative Renal Care notified of the 2024…",
-   "claim_url": null,
+   "claim_url": "https://www.ircsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/innovative-renal-care-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#american-renal-management-data-breach"
+   ],
    "added": "2026-09-21",
    "first_seen": "2026-09-21",
    "keywords": [
@@ -7532,7 +6998,9 @@
     "breach",
     "100",
     "5",
-    "000"
+    "000",
+    "american",
+    "management"
    ]
   },
   {
@@ -7720,10 +7188,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "An estimated $100 cash payment plus up to $5,000 in documented losses for the roughly 19,990 people CBIZ notified about its June 2024 breach.",
-   "claim_url": null,
+   "claim_url": "https://cbizdatabreachsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/cbiz-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#cbiz-data-breach"
+   ],
    "added": "2026-10-06",
    "first_seen": "2026-10-06",
    "keywords": [
@@ -7747,10 +7217,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "Up to $59 in cash or a $99 electric toothbrush voucher for people who got Coast Dental appointment texts or calls after replying STOP.",
-   "claim_url": null,
+   "claim_url": "https://cdstcpasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/tcpa/coast-dental-tcpa-text-message-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#coast-dental-services-unwanted-texts"
+   ],
    "added": "2026-10-08",
    "first_seen": "2026-10-08",
    "keywords": [
@@ -7760,13 +7232,14 @@
     "message",
     "59",
     "99",
-    "voucher"
+    "voucher",
+    "service"
    ]
   },
   {
    "id": "ca-settlements-earn-company-fees",
    "title": "Earn Company - Fees Class Action Settlement",
-   "summary": "You may be included in this settlement if you entered into a Credit Repair Services Agreement with Earn Company, Earn Finance Company or Credit Exterminators on or after February 10, 2016.",
+   "summary": "You may be included in this settlement if you entered into a credit repair services agreement with Earn Company, Earn Finance Company or Credit Exterminators on or after February 10, 2016.",
    "category": "Fees",
    "states": [],
    "deadline": "2026-12-26",
@@ -7821,10 +7294,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "An estimated $25 pro rata share of a $300,000 fund, with no documentation, for people whose information was exposed in the January 2023 breach.",
-   "claim_url": null,
+   "claim_url": "https://azlaborforcesettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/arizona-labor-force-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#arizona-labor-force-data-breach"
+   ],
    "added": "2026-10-08",
    "first_seen": "2026-10-08",
    "keywords": [
@@ -8060,6 +7535,32 @@
    ]
   },
   {
+   "id": "ca-settlements-american-medical-collection-agency-data-breach",
+   "title": "American Medical Collection Agency - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if you received diagnostic services from onic Healthcare U.S.A., Aurora Diagnostics, Clinical Pathology Laboratories, or Austin Pathology Associates.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$50 - $5,000",
+   "claim_url": "https://www.amcadatabreachsettlement-saca.com/",
+   "info_url": "https://www.classaction.org/settlements#american-medical-collection-agency-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "american",
+    "medical",
+    "collection",
+    "agency",
+    "data",
+    "breach"
+   ]
+  },
+  {
    "id": "oca-high-5-games-social-casino-class-action-settlement",
    "title": "High 5 Games Social Casino Class Action Settlement ($12M–$30M)",
    "summary": "a share of the fund scaled to what you spent on virtual coins in High 5 Casino or High 5 Vegas, settled after a jury sided with the plaintiff",
@@ -8141,6 +7642,36 @@
     "445",
     "2m",
     "cad"
+   ]
+  },
+  {
+   "id": "oca-seatgeek-nevada-ticket-fee-class-action-settlement",
+   "title": "SeatGeek $7.75M Nevada Ticket Fee Settlement — Pro Rata Cash",
+   "summary": "A pro rata share of $7.75 million, based on fees paid, for people who bought tickets to Nevada events on SeatGeek from Nov. 2020 to May 2025.",
+   "category": "Fees & Billing",
+   "states": [
+    "NV"
+   ],
+   "deadline": "2027-01-05",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of $7.75 million, based on fees paid, for people who bought tickets to Nevada events on SeatGeek from Nov. 2020 to May 2025.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/seatgeek-nevada-ticket-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-12",
+   "first_seen": "2026-10-12",
+   "keywords": [
+    "seatgeek",
+    "7",
+    "75m",
+    "nevada",
+    "ticket",
+    "fee",
+    "pro",
+    "rata"
    ]
   },
   {
@@ -8800,10 +8331,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "Up to $50, or a pro rata share of 94.7% of the net fund, for patients billed over $249 or $349 for Natera’s Panorama or Horizon tests.",
-   "claim_url": null,
+   "claim_url": "https://geneticscreeningtestsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/natera-genetic-screening-test-billing-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#natera-testing"
+   ],
    "added": "2026-10-05",
    "first_seen": "2026-10-05",
    "keywords": [
@@ -8813,7 +8346,8 @@
     "genetic",
     "screening",
     "test",
-    "billing"
+    "billing",
+    "testing"
    ]
   },
   {
@@ -10594,6 +10128,31 @@
     "district",
     "12m",
     "rate",
+    "refund"
+   ]
+  },
+  {
+   "id": "oca-pacearth-swing-seat-recall",
+   "title": "PACEARTH Swing Seat Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/pacearth-swing-seat-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "pacearth",
+    "swing",
+    "seat",
+    "full",
     "refund"
    ]
   },
