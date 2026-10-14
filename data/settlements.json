@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-13T16:58:25.552Z",
+ "generated_at": "2026-10-14T14:32:17.031Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 384,
+ "count": 382,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -500,229 +500,77 @@
    ]
   },
   {
-   "id": "oca-hirevue-bipa-biometric-privacy-class-action-settlement",
-   "title": "$3.75M HireVue BIPA Biometric Privacy Class Action Settlement",
-   "summary": "About $150, an equal share of a $3.75M fund, for people who completed a HireVue video interview while in Illinois.",
-   "category": "Privacy",
-   "states": [
-    "IL"
-   ],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "About $150, an equal share of a $3.75M fund, for people who completed a HireVue video interview while in Illinois.",
-   "claim_url": "https://videointerviewbipasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/privacy/hirevue-bipa-biometric-privacy-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#hirevue-biometric-privacy-illinois"
-   ],
-   "added": "2026-08-31",
-   "first_seen": "2026-08-31",
-   "keywords": [
-    "3",
-    "75m",
-    "hirevue",
-    "bipa",
-    "biometric",
-    "privacy"
-   ]
-  },
-  {
-   "id": "oca-hain-celestial-securities-class-action-settlement",
-   "title": "$35M Hain Celestial Securities Class Action Settlement (HAIN)",
-   "summary": "pro rata share of a $35,000,000 fund · estimated $0.28 per damaged share before fees, ~$0.18 after · anyone who bought Hain Celestial (Nasdaq: HAIN) stock or traded its options Nov 5, 2013 – Feb 10, 2017 · brokerage records required · shares sold before Jan 22, 2016 recover $0",
-   "category": "Securities",
+   "id": "ca-settlements-crossroads-trading-co-data-breach",
+   "title": "Crossroads Trading Co. - Data Breach Class Action Settlement",
+   "summary": "This settlement covers those who were affected by the February 2025 Crossroads Trading Co. data breach.",
+   "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-13",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata share of a $35,000,000 fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/hain-celestial-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-04",
-   "first_seen": "2026-08-04",
-   "keywords": [
-    "35m",
-    "hain",
-    "celestial",
-    "security"
-   ]
-  },
-  {
-   "id": "oca-crossroads-trading-data-breach-settlement",
-   "title": "Crossroads Trading $600K Data Breach Settlement — $25 With No Proof, $100 Extra in California",
-   "summary": "an estimated $25 with no documentation, or up to $5,000 in documented losses, plus an estimated $100 for California residents and two years of credit monitoring, for people affected by the February 2025 Crossroads Trading breach",
-   "category": "Data Breach",
-   "states": [
-    "ID"
-   ],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $25 with no documentation, or up to $5,000 in documented losses, plus an estimated $100 for California residents and two years of credit monitorin…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$25 - $5,000",
    "claim_url": "https://crossroadssettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/crossroads-trading-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#crossroads-trading-co-data-breach"
-   ],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
+   "info_url": "https://www.classaction.org/settlements#crossroads-trading-co-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-14",
    "keywords": [
     "crossroad",
     "trading",
-    "600k",
     "data",
-    "breach",
-    "25",
-    "proof",
-    "100",
-    "extra",
-    "california"
+    "breach"
    ]
   },
   {
-   "id": "oca-davison-design-washington-text-message-class-action-settlement",
-   "title": "Davison Design Washington Text Message Settlement — Equal Share of $30,000",
-   "summary": "An equal per-capita share of a $30,000 fund for about 480 Washington residents who were texted marketing messages by Davison Design at a Washington-area-code cellphone number after that number was disconnected and reassigned.",
-   "category": "TCPA",
-   "states": [
-    "WA"
-   ],
+   "id": "ca-settlements-davison-design-and-development-unwanted-texts-washington",
+   "title": "Davison Design & Development - Unwanted Texts (Washington) Class Action Settlement",
+   "summary": "You may be included in this settlement if you were a Washington resident and received one or more text messages from Davison Design & Development between November 15, 2021 and December 10, 2025.",
+   "category": "Unwanted Texts (Washington)",
+   "states": [],
    "deadline": "2026-10-13",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "An equal per-capita share of a $30,000 fund for about 480 Washington residents who were texted marketing messages by Davison Design at a Washington-area-code c…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://www.millertextsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/tcpa/davison-design-washington-text-message-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#davison-design-and-development-unwanted-texts-washington"
-   ],
-   "added": "2026-09-21",
-   "first_seen": "2026-09-21",
+   "info_url": "https://www.classaction.org/settlements#davison-design-and-development-unwanted-texts-washington",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-14",
    "keywords": [
     "davison",
     "design",
-    "washington",
+    "development",
+    "unwanted",
     "text",
-    "message",
-    "equal",
-    "share",
-    "30",
-    "000",
-    "development"
+    "washington"
    ]
   },
   {
-   "id": "oca-diisocyanates-mdi-tdi-antitrust-class-action-settlement",
-   "title": "Diisocyanates (MDI & TDI) Price-Fixing Class Action Settlements — $37.65M",
-   "summary": "A pro rata share of $37.65M for U.S. businesses that bought MDI or TDI directly from BASF, Covestro, Dow, Huntsman or Wanhua since January 1, 2016",
-   "category": "Antitrust",
+   "id": "ca-settlements-hirevue-biometric-privacy-illinois",
+   "title": "HireVue - Biometric Privacy (Illinois) Class Action Settlement",
+   "summary": "You may be included in this settlement if, while in Illinois, you completed an interview through HireVue's video interview platform between January 27, 2017 and June 25, 2026.",
+   "category": "Biometric Privacy (Illinois)",
    "states": [],
    "deadline": "2026-10-13",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A pro rata share of $37.65M for U.S. businesses that bought MDI or TDI directly from BASF, Covestro, Dow, Huntsman or Wanhua since January 1, 2016",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/diisocyanates-mdi-tdi-antitrust-class-action-settlement.php",
-   "source": "openclassactions",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$150",
+   "claim_url": "https://videointerviewbipasettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#hirevue-biometric-privacy-illinois",
+   "source": "classaction.org",
    "also_listed_at": [],
-   "added": "2026-09-13",
-   "first_seen": "2026-09-13",
+   "added": null,
+   "first_seen": "2026-10-14",
    "keywords": [
-    "diisocyanate",
-    "mdi",
-    "tdi",
-    "pricefixing",
-    "37",
-    "65m"
-   ]
-  },
-  {
-   "id": "oca-doxim-data-breach-settlement",
-   "title": "Doxim Data Breach Class Action Settlement",
-   "summary": "estimated $100 cash with no documentation, or up to $5,000 for documented losses, plus 1 year of credit monitoring either way · $5,500,000 fund · U.S. residents notified of the Dec 2023 breach at credit union statement vendor Doxim · Unique ID & PIN needed",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "estimated $100 cash with no documentation, or up to $5,000 for documented losses, plus 1 year of credit monitoring either way",
-   "claim_url": "https://www.doximdatasecuritysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/doxim-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#doxim-data-breach"
-   ],
-   "added": "2026-08-03",
-   "first_seen": "2026-08-03",
-   "keywords": [
-    "doxim",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-sansone-group-data-breach-settlement",
-   "title": "Sansone Group Data Breach Class Action Settlement",
-   "summary": "a one-time $45 with no documentation, or instead up to $3,500 documented, plus 2 years of credit monitoring · anyone notified of the March 2025 Sansone Group breach",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a one-time $45 with no documentation, or instead up to $3,500 documented, plus 2 years of credit monitoring",
-   "claim_url": "https://sansonedataincident.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/sansone-group-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#sansone-group-data-breach"
-   ],
-   "added": "2026-08-16",
-   "first_seen": "2026-08-16",
-   "keywords": [
-    "sansone",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-talkdesk-washington-job-postings-class-action-settlement",
-   "title": "Talkdesk Washington Job Postings Class Action Settlement",
-   "summary": "an equal share of a $1,828,288 to $2,785,000 fund, estimated at about $1,718 and capped at $5,000, for people who applied to a Talkdesk job opening in Washington",
-   "category": "Employment",
-   "states": [
-    "WA"
-   ],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an equal share of a $1,828,288 to $2,785,000 fund, estimated at about $1,718 and capped at $5,000, for people who applied to a Talkdesk job opening in Washingt…",
-   "claim_url": "https://epoasettlementtdi.com/",
-   "info_url": "https://openclassactions.com/settlements/talkdesk-washington-job-postings-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#talkdesk-job-postings-washington"
-   ],
-   "added": "2026-08-20",
-   "first_seen": "2026-08-20",
-   "keywords": [
-    "talkdesk",
-    "washington",
-    "job",
-    "posting"
+    "hirevue",
+    "biometric",
+    "privacy",
+    "illinois"
    ]
   },
   {
@@ -1654,7 +1502,9 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/americold-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#americold-logistics-data-breaches"
+    "https://www.classaction.org/settlements#americold-logistics-data-breaches",
+    "https://www.classaction.org/settlements#doxim-data-breach",
+    "https://www.classaction.org/settlements#sansone-group-data-breach"
    ],
    "added": "2026-08-16",
    "first_seen": "2026-08-16",
@@ -1662,7 +1512,9 @@
     "americold",
     "data",
     "breach",
-    "logistic"
+    "logistic",
+    "doxim",
+    "sansone"
    ]
   },
   {
@@ -2864,24 +2716,31 @@
    ]
   },
   {
-   "id": "ca-settlements-diisocyanates-antitrust",
-   "title": "Diisocyanates Antitrust Class Action Settlement",
-   "summary": "You may be included in this settlement if you bought methylene diphenyl diisocyanate (MDI) or toluene diisocyanate (TDI) at any time between January 1, 2016 and July 29, 2026.",
-   "category": null,
+   "id": "oca-diisocyanates-mdi-tdi-antitrust-class-action-settlement",
+   "title": "Diisocyanates (MDI & TDI) Price-Fixing Class Action Settlements — $37.65M",
+   "summary": "A pro rata share of $37.65M for U.S. businesses that bought MDI or TDI directly from BASF, Covestro, Dow, Huntsman or Wanhua since January 1, 2016",
+   "category": "Antitrust",
    "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of $37.65M for U.S. businesses that bought MDI or TDI directly from BASF, Covestro, Dow, Huntsman or Wanhua since January 1, 2016",
    "claim_url": "https://www.diisocyanatesantitrustlitigation.com/",
-   "info_url": "https://www.classaction.org/settlements#diisocyanates-antitrust",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
+   "info_url": "https://openclassactions.com/settlements/diisocyanates-mdi-tdi-antitrust-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#diisocyanates-antitrust"
+   ],
+   "added": "2026-09-13",
+   "first_seen": "2026-09-13",
    "keywords": [
     "diisocyanate",
+    "mdi",
+    "tdi",
+    "pricefixing",
+    "37",
+    "65m",
     "antitrust"
    ]
   },
@@ -3455,7 +3314,8 @@
    "info_url": "https://openclassactions.com/settlements/covenant-transport-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#covenant-transport-job-postings-washington"
+    "https://www.classaction.org/settlements#covenant-transport-job-postings-washington",
+    "https://www.classaction.org/settlements#talkdesk-job-postings-washington"
    ],
    "added": "2026-09-08",
    "first_seen": "2026-09-08",
@@ -3464,7 +3324,8 @@
     "transport",
     "washington",
     "job",
-    "posting"
+    "posting",
+    "talkdesk"
    ]
   },
   {
@@ -6307,6 +6168,35 @@
     "25",
     "5",
     "000"
+   ]
+  },
+  {
+   "id": "oca-brockton-neighborhood-health-center-data-breach-settlement",
+   "title": "Brockton Neighborhood Health Center Data Breach Settlement — Up to $50 or Up to $2,500",
+   "summary": "Up to $50 with no documentation, or up to $2,500 for documented losses and lost time instead, plus three years of credit monitoring, for people affected by the November 2024 attack on the Massachusetts health center.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-08",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $50 with no documentation, or up to $2,500 for documented losses and lost time instead, plus three years of credit monitoring, for people affected by the…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/brockton-neighborhood-health-center-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "brockton",
+    "neighborhood",
+    "health",
+    "center",
+    "data",
+    "breach",
+    "50",
+    "2",
+    "500"
    ]
   },
   {
@@ -9693,6 +9583,35 @@
    ]
   },
   {
+   "id": "oca-hughes-federal-credit-union-repossession-class-action-settlement",
+   "title": "Hughes Federal Credit Union $7M Repossession Settlement — Automatic Checks",
+   "summary": "Automatic checks averaging an estimated $1,067, plus erased deficiency balances, for borrowers whose vehicles Hughes repossessed in Arizona from 2019 to 2023.",
+   "category": "Banking & Credit",
+   "states": [
+    "AZ"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Automatic checks averaging an estimated $1,067, plus erased deficiency balances, for borrowers whose vehicles Hughes repossessed in Arizona from 2019 to 2023.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/hughes-federal-credit-union-repossession-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "hughe",
+    "federal",
+    "credit",
+    "union",
+    "7m",
+    "repossession",
+    "check"
+   ]
+  },
+  {
    "id": "oca-hustler-store-facta-credit-card-receipts-privacy-class-action-settlement",
    "title": "Hustler Store FACTA Credit Card Receipt Class Action Settlement",
    "summary": "",
@@ -10495,6 +10414,35 @@
     "2",
     "million",
     "unit"
+   ]
+  },
+  {
+   "id": "oca-welch-mechanical-dc-construction-worker-misclassification-settlement",
+   "title": "Welch Mechanical $1.7M DC Worker Misclassification Settlement",
+   "summary": "$1,100 each plus any unpaid wages for about 500 construction workers on six DC projects whom the Attorney General alleges were misclassified.",
+   "category": "Employment",
+   "states": [
+    "DC"
+   ],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$1,100 each plus any unpaid wages for about 500 construction workers on six DC projects whom the Attorney General alleges were misclassified.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/welch-mechanical-dc-construction-worker-misclassification-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-13",
+   "first_seen": "2026-10-13",
+   "keywords": [
+    "welch",
+    "mechanical",
+    "1",
+    "7m",
+    "dc",
+    "worker",
+    "misclassification"
    ]
   },
   {
