@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-14T14:32:17.031Z",
+ "generated_at": "2026-10-15T14:11:43.090Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 382,
+ "count": 385,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -500,108 +500,6 @@
    ]
   },
   {
-   "id": "ca-settlements-crossroads-trading-co-data-breach",
-   "title": "Crossroads Trading Co. - Data Breach Class Action Settlement",
-   "summary": "This settlement covers those who were affected by the February 2025 Crossroads Trading Co. data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$25 - $5,000",
-   "claim_url": "https://crossroadssettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#crossroads-trading-co-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-14",
-   "keywords": [
-    "crossroad",
-    "trading",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-davison-design-and-development-unwanted-texts-washington",
-   "title": "Davison Design & Development - Unwanted Texts (Washington) Class Action Settlement",
-   "summary": "You may be included in this settlement if you were a Washington resident and received one or more text messages from Davison Design & Development between November 15, 2021 and December 10, 2025.",
-   "category": "Unwanted Texts (Washington)",
-   "states": [],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://www.millertextsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#davison-design-and-development-unwanted-texts-washington",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-14",
-   "keywords": [
-    "davison",
-    "design",
-    "development",
-    "unwanted",
-    "text",
-    "washington"
-   ]
-  },
-  {
-   "id": "ca-settlements-hirevue-biometric-privacy-illinois",
-   "title": "HireVue - Biometric Privacy (Illinois) Class Action Settlement",
-   "summary": "You may be included in this settlement if, while in Illinois, you completed an interview through HireVue's video interview platform between January 27, 2017 and June 25, 2026.",
-   "category": "Biometric Privacy (Illinois)",
-   "states": [],
-   "deadline": "2026-10-13",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$150",
-   "claim_url": "https://videointerviewbipasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#hirevue-biometric-privacy-illinois",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-14",
-   "keywords": [
-    "hirevue",
-    "biometric",
-    "privacy",
-    "illinois"
-   ]
-  },
-  {
-   "id": "oca-dairy-farmers-of-america-data-breach-settlement",
-   "title": "Dairy Farmers of America (DFA) Data Breach Class Action Settlement",
-   "summary": "no automatic benefits — a claim form is required · 2 years of credit monitoring ($1M fraud insurance) plus either up to $4,500 documented losses or an estimated $55 flat payment · $475,000 cap · ~4,546 people notified of the June 2025 breach · LoginID & PIN needed",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-14",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "2 years of credit monitoring ($1M fraud insurance) plus either up to $4,500 documented losses or an estimated $55 flat payment",
-   "claim_url": "https://dfadatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/dairy-farmers-of-america-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#dairy-farmers-of-america-data-breach"
-   ],
-   "added": "2026-08-10",
-   "first_seen": "2026-08-10",
-   "keywords": [
-    "dairy",
-    "farmer",
-    "america",
-    "dfa",
-    "data",
-    "breach"
-   ]
-  },
-  {
    "id": "oca-flo-health-app-privacy-settlement",
    "title": "$59.5M Flo Period Tracker Data Privacy Class Action Settlement",
    "summary": "No proof",
@@ -616,7 +514,6 @@
    "info_url": "https://openclassactions.com/settlements/flo-health-app-privacy-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#flo-app-data-privacy",
     "https://www.classaction.org/settlements#flo-app-data-privacy"
    ],
    "added": null,
@@ -927,12 +824,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "a flat $50 with no documentation, or up to $5,000 in documented losses instead, plus two years of medical and credit monitoring, for people notified of the Dec…",
-   "claim_url": "https://www.cddatabreach.com/",
+   "claim_url": "https://mcnadatabreachsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/community-dental-care-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#community-dental-care-data-breach",
-    "https://www.classaction.org/settlements#managed-care-of-north-america-data-breach"
+    "https://www.classaction.org/settlements#managed-care-of-north-america-data-breach",
+    "https://www.classaction.org/settlements#community-dental-care-data-breach"
    ],
    "added": "2026-08-25",
    "first_seen": "2026-08-25",
@@ -1502,9 +1399,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/americold-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#americold-logistics-data-breaches",
-    "https://www.classaction.org/settlements#doxim-data-breach",
-    "https://www.classaction.org/settlements#sansone-group-data-breach"
+    "https://www.classaction.org/settlements#americold-logistics-data-breaches"
    ],
    "added": "2026-08-16",
    "first_seen": "2026-08-16",
@@ -1512,9 +1407,7 @@
     "americold",
     "data",
     "breach",
-    "logistic",
-    "doxim",
-    "sansone"
+    "logistic"
    ]
   },
   {
@@ -3000,6 +2893,35 @@
    ]
   },
   {
+   "id": "oca-rhode-island-bioenergy-johnston-odor-class-action-settlement",
+   "title": "Rhode Island Bioenergy $850K Odor Settlement (Johnston, RI)",
+   "summary": "An equal per-address share of an $850,000 fund for people who owned, rented or leased a home within 1.75 miles of the Rhode Island Bioenergy facility since 2016.",
+   "category": "Environmental",
+   "states": [
+    "RI"
+   ],
+   "deadline": "2026-11-03",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An equal per-address share of an $850,000 fund for people who owned, rented or leased a home within 1.75 miles of the Rhode Island Bioenergy facility since 201…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/environmental/rhode-island-bioenergy-johnston-odor-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "keywords": [
+    "rhode",
+    "island",
+    "bioenergy",
+    "850k",
+    "odor",
+    "johnston",
+    "ri"
+   ]
+  },
+  {
    "id": "oca-schnucks-rewards-points-sales-tax-class-action-settlement",
    "title": "Schnucks Rewards Points Sales Tax Class Action Settlement",
    "summary": "a flat $7 for Schnucks Rewards members who redeemed Rewards Points on purchases of tax-eligible items at a Missouri Schnucks store between May 2, 2020 and August 7, 2026",
@@ -3314,8 +3236,7 @@
    "info_url": "https://openclassactions.com/settlements/covenant-transport-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#covenant-transport-job-postings-washington",
-    "https://www.classaction.org/settlements#talkdesk-job-postings-washington"
+    "https://www.classaction.org/settlements#covenant-transport-job-postings-washington"
    ],
    "added": "2026-09-08",
    "first_seen": "2026-09-08",
@@ -3324,8 +3245,7 @@
     "transport",
     "washington",
     "job",
-    "posting",
-    "talkdesk"
+    "posting"
    ]
   },
   {
@@ -4038,6 +3958,7 @@
    "info_url": "https://openclassactions.com/settlements/cvs-digital-privacy-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
+    "https://www.classaction.org/settlements#cvs-data-privacy",
     "https://www.classaction.org/settlements#cvs-data-privacy"
    ],
    "added": "2026-09-14",
@@ -4407,6 +4328,37 @@
     "childlabor",
     "food",
     "solution"
+   ]
+  },
+  {
+   "id": "oca-concord-management-florida-security-deposit-class-action-settlement",
+   "title": "Concord Management Florida Security Deposit Settlement — $1.85M, Paid Automatically",
+   "summary": "A pro rata check sized to the deposit withheld, plus nearly $16M in unpaid lease balances waived, for tenants of Concord-managed Florida properties.",
+   "category": "Fees & Billing",
+   "states": [
+    "FL"
+   ],
+   "deadline": "2026-11-20",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata check sized to the deposit withheld, plus nearly $16M in unpaid lease balances waived, for tenants of Concord-managed Florida properties.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/concord-management-florida-security-deposit-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "concord",
+    "management",
+    "florida",
+    "security",
+    "deposit",
+    "1",
+    "85m",
+    "paid",
+    "automatically"
    ]
   },
   {
@@ -5311,14 +5263,14 @@
   {
    "id": "ca-settlements-guadalupe-credit-union-new-mexico",
    "title": "Guadalupe Credit Union (New Mexico) Class Action Settlement",
-   "summary": "You may be included in this settlement Guadalupe Credit Union filed a collection action against you in New Mexico Magistrate Court on or after October 7, 2015.",
+   "summary": "You may be included in this settlement if Guadalupe Credit Union filed a collection action against you in New Mexico Magistrate Court on or after October 7, 2015 without being represented by a licensed New Mexico attorney.",
    "category": null,
    "states": [],
    "deadline": "2026-11-30",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$1,000",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "$1,000+",
    "claim_url": "https://www.salasvgcusettlement.com/",
    "info_url": "https://www.classaction.org/settlements#guadalupe-credit-union-new-mexico",
    "source": "classaction.org",
@@ -5734,8 +5686,8 @@
    "states": [],
    "deadline": "2026-12-01",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
    "payout": "Varies",
    "claim_url": "https://phaseiidatasettlement.com/",
    "info_url": "https://www.classaction.org/settlements#public-agency-retirement-services-data-breach",
@@ -5970,6 +5922,31 @@
    ]
   },
   {
+   "id": "oca-starbucks-cobra-notice-class-action-settlement",
+   "title": "Starbucks $325K COBRA Notice Settlement — Claim by Mail",
+   "summary": "An equal share of a $325,000 fund, estimated at $30 to $74, for Starbucks health and vision plan members who were sent a COBRA notice and didn't elect coverage.",
+   "category": "Healthcare",
+   "states": [],
+   "deadline": "2026-12-02",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $325,000 fund, estimated at $30 to $74, for Starbucks health and vision plan members who were sent a COBRA notice and didn't elect coverage.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/starbucks-cobra-notice-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "starbuck",
+    "325k",
+    "cobra",
+    "notice",
+    "mail"
+   ]
+  },
+  {
    "id": "oca-sps-technologies-abington-fire-class-action-settlement",
    "title": "SPS Technologies Abington Fire Settlement",
    "summary": "Cash for residents, workers and businesses inside the Abington Township area affected by the February 2025 plant fire, from a $5 million fund.",
@@ -6197,6 +6174,33 @@
     "50",
     "2",
     "500"
+   ]
+  },
+  {
+   "id": "oca-frontier-communications-401k-verizon-stock-erisa-settlement",
+   "title": "Frontier 401(k) $14.05M Verizon Stock ERISA Settlement — Automatic Payment",
+   "summary": "A share of $14.05 million, based on Verizon Stock Fund holdings, for Frontier 401(k) participants whose accounts held Verizon stock from 2012 to 2018.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-12-08",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A share of $14.05 million, based on Verizon Stock Fund holdings, for Frontier 401(k) participants whose accounts held Verizon stock from 2012 to 2018.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/frontier-communications-401k-verizon-stock-erisa-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "frontier",
+    "401",
+    "14",
+    "05m",
+    "verizon",
+    "stock",
+    "erisa"
    ]
   },
   {
@@ -7288,6 +7292,31 @@
    ]
   },
   {
+   "id": "oca-goodrx-privacy-class-action-settlement",
+   "title": "GoodRx $32M Privacy Settlement — No Proof Needed",
+   "summary": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before April 20, 2024.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2026-12-29",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/privacy/goodrx-privacy-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-14",
+   "first_seen": "2026-10-14",
+   "keywords": [
+    "goodrx",
+    "32m",
+    "privacy",
+    "proof",
+    "needed"
+   ]
+  },
+  {
    "id": "oca-whirlpool-freezers-class-action",
    "title": "$21M Whirlpool / Maytag Bottom-Mount & French-Door Refrigerator Freezer Class Action Settlement",
    "summary": "",
@@ -7427,7 +7456,7 @@
   {
    "id": "ca-settlements-american-medical-collection-agency-data-breach",
    "title": "American Medical Collection Agency - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if you received diagnostic services from onic Healthcare U.S.A., Aurora Diagnostics, Clinical Pathology Laboratories, or Austin Pathology Associates.",
+   "summary": "You may be included in this settlement if you received diagnostic services from Sonic Healthcare U.S.A., Aurora Diagnostics, Clinical Pathology Laboratories, or Austin Pathology Associates.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2027-01-04",
@@ -7613,6 +7642,33 @@
     "ii",
     "paysafe",
     "stockholder"
+   ]
+  },
+  {
+   "id": "oca-washington-gastroenterology-data-breach-class-action-settlement",
+   "title": "Washington Gastroenterology Data Breach Settlement — $75 or Up to $4,000",
+   "summary": "An estimated $75 with no documentation, or up to $4,000 documented, plus two years of medical record monitoring, for people notified of the 2024 cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-10",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $75 with no documentation, or up to $4,000 documented, plus two years of medical record monitoring, for people notified of the 2024 cyberattack.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/washington-gastroenterology-data-breach-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "washington",
+    "gastroenterology",
+    "data",
+    "breach",
+    "75",
+    "4",
+    "000"
    ]
   },
   {
@@ -7838,6 +7894,32 @@
     "nonbank",
     "atm",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-carpenters-western-washington-pension-vix-erisa-settlement",
+   "title": "Carpenters of Western Washington $9.25M Pension Settlement — Automatic Payment",
+   "summary": "A pro rata share of $9.25 million for Carpenters of Western Washington IAP and Retirement Plan members from 2016 to 2020, over the plans’ VIX-linked Allianz funds.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2027-02-10",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata share of $9.25 million for Carpenters of Western Washington IAP and Retirement Plan members from 2016 to 2020, over the plans’ VIX-linked Allianz fu…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/carpenters-western-washington-pension-vix-erisa-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "carpenter",
+    "western",
+    "washington",
+    "9",
+    "25m",
+    "pension"
    ]
   },
   {
