@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-15T14:11:43.090Z",
+ "generated_at": "2026-10-16T13:59:42.851Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 385,
+ "count": 389,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -500,161 +500,27 @@
    ]
   },
   {
-   "id": "oca-flo-health-app-privacy-settlement",
-   "title": "$59.5M Flo Period Tracker Data Privacy Class Action Settlement",
-   "summary": "No proof",
-   "category": "Privacy",
+   "id": "ca-settlements-flo-app-data-privacy",
+   "title": "FLO App - Data Privacy Class Action Settlement",
+   "summary": "You may be included in this settlement if you used the FLO app between November 1, 2016 and February 28, 2019.",
+   "category": "Data Privacy",
    "states": [],
    "deadline": "2026-10-15",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$59.5M settlement fund (individual payout not stated)",
+   "payout": "Varies",
    "claim_url": "https://periodtrackerdataprivacylitigation.com/home/",
-   "info_url": "https://openclassactions.com/settlements/flo-health-app-privacy-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#flo-app-data-privacy"
-   ],
+   "info_url": "https://www.classaction.org/settlements#flo-app-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-10-12",
+   "first_seen": "2026-10-16",
    "keywords": [
-    "59",
-    "5m",
     "flo",
-    "period",
-    "tracker",
+    "app",
     "data",
-    "privacy",
-    "app"
-   ]
-  },
-  {
-   "id": "oca-amazon-pennsylvania-unpaid-wages-class-action-settlement",
-   "title": "Amazon $3M Pennsylvania Unpaid-Wages Class Action Settlement",
-   "summary": "$3M fund, automatic payment (no claim form) · 30,000+ PA hourly Amazon workers screened for COVID-19 before shifts",
-   "category": "Employment",
-   "states": [],
-   "deadline": "2026-10-15",
-   "deadline_type": "automatic",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "$3M fund, automatic payment (no claim form)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/amazon-pennsylvania-unpaid-wages-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-06-23",
-   "first_seen": "2026-06-23",
-   "keywords": [
-    "amazon",
-    "3m",
-    "pennsylvania",
-    "unpaidwage"
-   ]
-  },
-  {
-   "id": "oca-canadian-armed-forces-racial-discrimination-settlement",
-   "title": "Canadian Armed Forces Racism Class Action Settlement (Canada)",
-   "summary": "$5,000 CAD for every eligible claimant plus an optional $10,000–$30,000 from a written narrative · anyone enrolled in the CAF since April 17, 1985 who experienced racism",
-   "category": "Government",
-   "states": [],
-   "deadline": "2026-10-15",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "$5,000 CAD for every eligible claimant plus an optional $10,000–$30,000 from a written narrative",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/canadian-armed-forces-racial-discrimination-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-18",
-   "first_seen": "2026-09-18",
-   "keywords": [
-    "canadian",
-    "armed",
-    "force",
-    "racism",
-    "canada"
-   ]
-  },
-  {
-   "id": "oca-docketwise-data-breach-settlement",
-   "title": "Docketwise Data Breach Class Action Settlement — $50 or Up to $5,000",
-   "summary": "A flat $50 with nothing to document, or documented out-of-pocket losses and lost time capped at $5,000 instead, plus two years of Kroll credit monitoring either way — and no fund to divide, so the $50 is not reduced pro rata.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-15",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $50 with nothing to document, or documented out-of-pocket losses and lost time capped at $5,000 instead, plus two years of Kroll credit monitoring eithe…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/docketwise-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-17",
-   "first_seen": "2026-09-17",
-   "keywords": [
-    "docketwise",
-    "data",
-    "breach",
-    "50",
-    "5",
-    "000"
-   ]
-  },
-  {
-   "id": "oca-rockley-photonics-securities-class-action-settlement",
-   "title": "Rockley Photonics Securities Class Action Settlement ($10M)",
-   "summary": "an estimated $0.11 per damaged share for investors who bought Rockley Photonics (NYSE: RKLY) common stock during the class period",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-15",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "an estimated $0.11 per damaged share for investors who bought Rockley Photonics (NYSE: RKLY) common stock during the class period",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/rockley-photonics-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-31",
-   "first_seen": "2026-08-31",
-   "keywords": [
-    "rockley",
-    "photonic",
-    "security",
-    "10m"
-   ]
-  },
-  {
-   "id": "oca-tift-regional-health-system-data-breach-settlement",
-   "title": "Tift Regional Health System & Southwell Data Breach Settlement",
-   "summary": "an estimated $75 pro rata cash payment with no loss documentation, or up to $5,000 for documented out-of-pocket losses, plus 2 years of CyEx Medical Shield Complete monitoring ($1M medical identity theft insurance) · $1,200,000 fund · anyone in the U.S. notified of the August 2022 cyberattack on the Tifton, Georgia hospital network · Login ID & PIN from your notice needed to file online",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-15",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $75 pro rata cash payment with no loss documentation, or up to $5,000 for documented out-of-pocket losses, plus 2 years of CyEx Medical Shield Com…",
-   "claim_url": "https://tiftdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/tift-regional-health-system-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#tift-regional-health-system-data-breach"
-   ],
-   "added": "2026-08-15",
-   "first_seen": "2026-08-15",
-   "keywords": [
-    "tift",
-    "regional",
-    "health",
-    "system",
-    "southwell",
-    "data",
-    "breach"
+    "privacy"
    ]
   },
   {
@@ -2031,7 +1897,8 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/highland-health-systems-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#highland-health-systems-data-breach"
+    "https://www.classaction.org/settlements#highland-health-systems-data-breach",
+    "https://www.classaction.org/settlements#tift-regional-health-system-data-breach"
    ],
    "added": "2026-09-18",
    "first_seen": "2026-09-18",
@@ -2040,7 +1907,9 @@
     "health",
     "system",
     "data",
-    "breach"
+    "breach",
+    "tift",
+    "regional"
    ]
   },
   {
@@ -3973,6 +3842,32 @@
    ]
   },
   {
+   "id": "oca-folsom-insurance-tcpa-prerecorded-calls-class-action-settlement",
+   "title": "Folsom Insurance Robocall Settlement — An Estimated $125–$200",
+   "summary": "An estimated $125 to $200 for people whose cell phones got prerecorded calls or voicemails from the Texas trucking insurance agency.",
+   "category": "TCPA",
+   "states": [],
+   "deadline": "2026-11-16",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $125 to $200 for people whose cell phones got prerecorded calls or voicemails from the Texas trucking insurance agency.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/tcpa/folsom-insurance-tcpa-prerecorded-calls-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "folsom",
+    "insurance",
+    "robocall",
+    "estimated",
+    "125",
+    "200"
+   ]
+  },
+  {
    "id": "oca-jefferson-county-health-center-data-breach-settlement",
    "title": "Jefferson County Health Center Data Breach Settlement — $150 or Up to $300",
    "summary": "$150 with no documentation, or up to $300 for documented losses, for Missouri residents whose health information was exposed in the 2022 breach.",
@@ -4331,6 +4226,35 @@
    ]
   },
   {
+   "id": "oca-charlotte-motor-speedway-landfill-odor-class-action-settlement",
+   "title": "Charlotte Motor Speedway Landfill $675K Odor Settlement (Concord, N.C.)",
+   "summary": "An equal per-household share of $675,000 for people who owned, rented or leased a home within 1.5 miles of the landfill since August 2021.",
+   "category": "Environmental",
+   "states": [
+    "NC"
+   ],
+   "deadline": "2026-11-20",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An equal per-household share of $675,000 for people who owned, rented or leased a home within 1.5 miles of the landfill since August 2021.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/environmental/charlotte-motor-speedway-landfill-odor-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "charlotte",
+    "motor",
+    "speedway",
+    "landfill",
+    "675k",
+    "odor",
+    "concord"
+   ]
+  },
+  {
    "id": "oca-concord-management-florida-security-deposit-class-action-settlement",
    "title": "Concord Management Florida Security Deposit Settlement — $1.85M, Paid Automatically",
    "summary": "A pro rata check sized to the deposit withheld, plus nearly $16M in unpaid lease balances waived, for tenants of Concord-managed Florida properties.",
@@ -4438,6 +4362,34 @@
     "schenker",
     "background",
     "check"
+   ]
+  },
+  {
+   "id": "oca-menasha-packaging-california-wage-paga-class-action-settlement",
+   "title": "Menasha Packaging $1.73M California Wage Settlement — Automatic",
+   "summary": "automatic payment, no claim form — A pro rata share of $1,732,500, by workweek, for hourly and staffing-agency workers at Menasha’s California facilities from 2017 to 2024.",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-11-21",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — A pro rata share of $1,732,500, by workweek, for hourly and staffing-agency workers at Menasha’s California facilities from…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/paga/menasha-packaging-california-wage-paga-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "keywords": [
+    "menasha",
+    "packaging",
+    "1",
+    "73m",
+    "california",
+    "wage"
    ]
   },
   {
@@ -4966,6 +4918,31 @@
     "2",
     "32",
     "share"
+   ]
+  },
+  {
+   "id": "oca-exabeam-stockholder-class-action-settlement",
+   "title": "Exabeam $7M Stockholder Settlement — Paid Automatically",
+   "summary": "A pro rata share of $7 million cash plus contingent equity units for holders whose Exabeam common shares were cancelled for nothing in the 2024 LogRhythm merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-25",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata share of $7 million cash plus contingent equity units for holders whose Exabeam common shares were cancelled for nothing in the 2024 LogRhythm merge…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/exabeam-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "exabeam",
+    "7m",
+    "stockholder",
+    "paid",
+    "automatically"
    ]
   },
   {
@@ -5859,6 +5836,36 @@
    ]
   },
   {
+   "id": "oca-ohio-bmv-disabled-veteran-military-license-plate-refund-settlement",
+   "title": "Ohio BMV Military License Plate Settlement — Full Fee Refunds",
+   "summary": "A full refund of the registration taxes and fees 100% disabled veterans paid for an Ohio Specialty Military License Plate since October 17, 2019.",
+   "category": "Government",
+   "states": [
+    "OH"
+   ],
+   "deadline": "2026-12-02",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/ohio-bmv-disabled-veteran-military-license-plate-refund-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "ohio",
+    "bmv",
+    "military",
+    "license",
+    "plate",
+    "full",
+    "fee",
+    "refund"
+   ]
+  },
+  {
    "id": "oca-safe-fleet-clarience-data-breach-settlement",
    "title": "Safe Fleet / Clarience Data Breach Settlement — $50 or Up to $2,500",
    "summary": "A flat $50 with no documentation, or up to $2,500 documented, plus two years of credit monitoring, for people whose information was affected in the April 2024 Safe Fleet data incident.",
@@ -6144,6 +6151,34 @@
     "estimated",
     "25",
     "5",
+    "000"
+   ]
+  },
+  {
+   "id": "oca-baptist-health-drew-county-data-breach-settlement",
+   "title": "Baptist Health Drew County Data Breach Settlement — Up to $4,000",
+   "summary": "Two years of credit monitoring, up to $80 for lost time, and up to $400 or $4,000 in documented losses for people notified of the 2024 hospital data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-08",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Two years of credit monitoring, up to $80 for lost time, and up to $400 or $4,000 in documented losses for people notified of the 2024 hospital data incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/baptist-health-drew-county-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "baptist",
+    "health",
+    "drew",
+    "county",
+    "data",
+    "breach",
+    "4",
     "000"
    ]
   },
@@ -7424,6 +7459,33 @@
    ]
   },
   {
+   "id": "oca-atlas-crest-archer-aviation-stockholder-class-action-settlement",
+   "title": "$15M Atlas Crest (Archer Aviation) Stockholder Settlement (ACHR)",
+   "summary": "A pro rata share of $15 million for Atlas Crest Class A holders who did not redeem before the September 2021 Archer Aviation SPAC merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $15 million for Atlas Crest Class A holders who did not redeem before the September 2021 Archer Aviation SPAC merger.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/atlas-crest-archer-aviation-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "keywords": [
+    "15m",
+    "atla",
+    "crest",
+    "archer",
+    "aviation",
+    "stockholder",
+    "achr"
+   ]
+  },
+  {
    "id": "oca-amca-sonic-healthcare-data-breach-settlement",
    "title": "$6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000",
    "summary": "An estimated $50, or up to $5,000 documented, plus two years of medical data monitoring, for people notified of the AMCA breach by CPL or Austin Pathology Associates.",
@@ -7920,6 +7982,32 @@
     "9",
     "25m",
     "pension"
+   ]
+  },
+  {
+   "id": "oca-adams-toyota-resistall-enviroguard-class-action-settlement",
+   "title": "Adams Toyota ResistAll/EnviroGuard Settlement — Up to $4.25M",
+   "summary": "Buyers who got the ResistAll/EnviroGuard add-on with an Adams Toyota vehicle purchase since Aug. 17, 2019 can claim a payment split between a check and a dealership gift card.",
+   "category": "Auto",
+   "states": [],
+   "deadline": "2027-02-11",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $4.25M",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/automotive/adams-toyota-resistall-enviroguard-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "adam",
+    "toyota",
+    "resistall",
+    "enviroguard",
+    "4",
+    "25m"
    ]
   },
   {
@@ -8957,6 +9045,30 @@
     "pilot",
     "military",
     "leave"
+   ]
+  },
+  {
+   "id": "oca-amazon-pennsylvania-unpaid-wages-class-action-settlement",
+   "title": "Amazon $3M Pennsylvania Unpaid-Wages Settlement — Automatic Payments",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$3M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/amazon-pennsylvania-unpaid-wages-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-06-23",
+   "first_seen": "2026-06-23",
+   "keywords": [
+    "amazon",
+    "3m",
+    "pennsylvania",
+    "unpaidwage"
    ]
   },
   {
