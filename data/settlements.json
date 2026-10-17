@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-16T13:59:42.851Z",
+ "generated_at": "2026-10-17T12:59:29.808Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 389,
+ "count": 393,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -521,58 +521,6 @@
     "app",
     "data",
     "privacy"
-   ]
-  },
-  {
-   "id": "oca-eagle-pharmaceuticals-securities-class-action-settlement",
-   "title": "$9.5M Eagle Pharmaceuticals Securities Class Action Settlement (EGRX)",
-   "summary": "pro rata share of a $9.5M fund · estimated $0.76 per damaged share after fees · Eagle Pharmaceuticals (EGRX) buyers Aug 9, 2022 – Oct 1, 2024 · shares sold before May 9, 2023 recover $0",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-16",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata share of a $9.5M fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/eagle-pharmaceuticals-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-18",
-   "first_seen": "2026-09-18",
-   "keywords": [
-    "9",
-    "5m",
-    "eagle",
-    "pharmaceutical",
-    "security",
-    "egrx"
-   ]
-  },
-  {
-   "id": "oca-silk-beverage-class-action-settlement-canada",
-   "title": "Silk & Great Value Plant-Based Beverage Recall Settlement (Canada)",
-   "summary": "$400–$300,000 by injury level · declaration for short illness, medical records for serious claims · Canada only",
-   "category": "Consumer Products",
-   "states": [],
-   "deadline": "2026-10-16",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "$400–$300,000 by injury level",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/silk-beverage-class-action-settlement-canada.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-12",
-   "keywords": [
-    "silk",
-    "great",
-    "value",
-    "plantbased",
-    "beverage",
-    "canada"
    ]
   },
   {
@@ -6508,6 +6456,34 @@
    ]
   },
   {
+   "id": "oca-pandora-jewelry-washington-job-postings-class-action-settlement",
+   "title": "Pandora $1.99M Washington Job Postings Class Action Settlement",
+   "summary": "equal share of a $1.99 million fund per qualifying job posting · automatic payment, no claim form · WA applicants to Pandora (Jan 2023 – Jul 2025) whose postings omitted the pay range",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-14",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "equal share of a $1.99 million fund per qualifying job posting",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/pandora-jewelry-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "keywords": [
+    "pandora",
+    "1",
+    "99m",
+    "washington",
+    "job",
+    "posting"
+   ]
+  },
+  {
    "id": "oca-providence-health-washington-wage-hour-class-action-settlement",
    "title": "Providence $17M Washington Wage Settlement — Automatic Payments",
    "summary": "pro rata share of a $17M fund by W-2 wages, $25 minimum · automatic payment, no claim form · hourly non-exempt Providence Health & Services – Washington employees (Apr 23, 2022 – Aug 13, 2026) · alleged rest/meal break, unpaid time and overtime violations",
@@ -6729,6 +6705,33 @@
     "24",
     "95m",
     "cad"
+   ]
+  },
+  {
+   "id": "oca-ardent-health-kronos-outage-flsa-wage-settlement",
+   "title": "Ardent Health $2.9M Kronos Outage Wage Settlement",
+   "summary": "A share of $2.9 million, by hours worked, for non-exempt Ardent Health employees whose pay was disrupted by the 2021–2022 Kronos outage.",
+   "category": "Employment",
+   "states": [],
+   "deadline": "2026-12-18",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A share of $2.9 million, by hours worked, for non-exempt Ardent Health employees whose pay was disrupted by the 2021–2022 Kronos outage.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/ardent-health-kronos-outage-flsa-wage-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "keywords": [
+    "ardent",
+    "health",
+    "2",
+    "9m",
+    "krono",
+    "outage",
+    "wage"
    ]
   },
   {
@@ -7352,6 +7355,30 @@
    ]
   },
   {
+   "id": "oca-marqeta-securities-class-action-settlement",
+   "title": "$13M Marqeta Securities Settlement (MQ)",
+   "summary": "A pro rata share of $13 million for investors who bought Marqeta stock or call options, or wrote puts, from February 28 to November 4, 2024.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-31",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $13 million for investors who bought Marqeta stock or call options, or wrote puts, from February 28 to November 4, 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/marqeta-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "keywords": [
+    "13m",
+    "marqeta",
+    "security",
+    "mq"
+   ]
+  },
+  {
    "id": "oca-whirlpool-freezers-class-action",
    "title": "$21M Whirlpool / Maytag Bottom-Mount & French-Door Refrigerator Freezer Class Action Settlement",
    "summary": "",
@@ -7513,6 +7540,32 @@
     "50",
     "5",
     "000"
+   ]
+  },
+  {
+   "id": "oca-mexican-government-bonds-antitrust-class-action-settlement",
+   "title": "$86.4M Mexican Government Bonds Antitrust Settlement",
+   "summary": "A pro rata share of $86.4 million for investors who traded peso-denominated Mexican Government Bonds with six Mexican banks from 2006 to 2017.",
+   "category": "Antitrust",
+   "states": [],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $86.4 million for investors who traded peso-denominated Mexican Government Bonds with six Mexican banks from 2006 to 2017.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/antitrust/mexican-government-bonds-antitrust-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "keywords": [
+    "86",
+    "4m",
+    "mexican",
+    "government",
+    "bond",
+    "antitrust"
    ]
   },
   {
@@ -7929,6 +7982,33 @@
     "totaled",
     "vehicle",
     "direct"
+   ]
+  },
+  {
+   "id": "oca-wyatt-detention-facility-data-breach-settlement",
+   "title": "Wyatt Detention Facility Data Breach Settlement — Up to $5,000",
+   "summary": "Up to $5,000 in documented losses, up to $80 for lost time and five years of credit monitoring over the 2023 Wyatt data incident; claim website due by October 31, 2026.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-05",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $5,000 in documented losses, up to $80 for lost time and five years of credit monitoring over the 2023 Wyatt data incident",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/wyatt-detention-facility-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-16",
+   "first_seen": "2026-10-16",
+   "keywords": [
+    "wyatt",
+    "detention",
+    "facility",
+    "data",
+    "breach",
+    "5",
+    "000"
    ]
   },
   {
@@ -9191,6 +9271,34 @@
    "keywords": [
     "branford",
     "manor"
+   ]
+  },
+  {
+   "id": "oca-bright-lending-class-action-settlement",
+   "title": "Bright Lending $15M Settlement — Automatic Payments and Debt Cancellation",
+   "summary": "Automatic cash from a $15M fund for Bright Lending borrowers who repaid a loan, and canceled balances on unpaid loans from 2020 to 2024.",
+   "category": "Banking & Credit",
+   "states": [
+    "NV",
+    "UT"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Automatic cash from a $15M fund for Bright Lending borrowers who repaid a loan, and canceled balances on unpaid loans from 2020 to 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/bright-lending-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "keywords": [
+    "bright",
+    "lending",
+    "15m",
+    "debt",
+    "cancellation"
    ]
   },
   {
