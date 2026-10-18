@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-17T12:59:29.808Z",
+ "generated_at": "2026-10-18T13:20:10.685Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 393,
+ "count": 395,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -3551,6 +3551,38 @@
    ]
   },
   {
+   "id": "oca-compucom-washington-job-postings-class-action-settlement",
+   "title": "CompuCom $1M Washington Job Postings Class Action Settlement",
+   "summary": "equal share of a $1 million fund, estimated at $266.67 · automatic payment, no claim form · WA applicants to CompuCom Systems (Jan 2023 – Sep 2026) whose postings omitted the pay range",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-11-13",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "equal share of a $1 million fund, estimated at $266.67",
+   "claim_url": "https://www.high5lawsuit.com/",
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/compucom-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#high-5-games-washington"
+   ],
+   "added": "2026-10-18",
+   "first_seen": "2026-10-18",
+   "keywords": [
+    "compucom",
+    "1m",
+    "washington",
+    "job",
+    "posting",
+    "high",
+    "5",
+    "game"
+   ]
+  },
+  {
    "id": "oca-ftd-proflowers-delivery-fee-class-action-settlement",
    "title": "FTD & ProFlowers Delivery Fee Class Action Settlement",
    "summary": "$5 cash or a $15 voucher for U.S. customers who paid a delivery, shipping, handling or service fee on FTD.com or ProFlowers.com orders from January 2021 to January 2025.",
@@ -3597,30 +3629,6 @@
     "6m",
     "security",
     "grt"
-   ]
-  },
-  {
-   "id": "ca-settlements-high-5-games-washington",
-   "title": "High 5 Games (Washington) Class Action Settlement",
-   "summary": "You may be covered by this settlement if you bought virtual coins in the High 5 Casino or High 5 Vegas social casino applications while in Washington between April 9, 2014 and October 1, 2022.",
-   "category": null,
-   "states": [],
-   "deadline": "2026-11-13",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://www.high5lawsuit.com/",
-   "info_url": "https://www.classaction.org/settlements#high-5-games-washington",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-01",
-   "keywords": [
-    "high",
-    "5",
-    "game",
-    "washington"
    ]
   },
   {
@@ -7332,14 +7340,14 @@
   {
    "id": "oca-goodrx-privacy-class-action-settlement",
    "title": "GoodRx $32M Privacy Settlement — No Proof Needed",
-   "summary": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before April 20, 2024.",
-   "category": "Privacy",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-12-29",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before…",
+   "payout": "$32M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/privacy/goodrx-privacy-class-action-settlement.php",
    "source": "openclassactions",
@@ -7893,6 +7901,37 @@
     "privacy",
     "pro",
     "rata"
+   ]
+  },
+  {
+   "id": "oca-genesys-domestic-violence-hotline-privacy-class-action-settlement",
+   "title": "Genesys $2.5M Domestic Violence Hotline Privacy Settlement — Up to $1,250",
+   "summary": "A pro rata share of up to $1,250 for people who communicated with the National Domestic Violence Hotline while in California since April 11, 2023.",
+   "category": "Privacy",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2027-01-29",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of up to $1,250 for people who communicated with the National Domestic Violence Hotline while in California since April 11, 2023.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/privacy/genesys-domestic-violence-hotline-privacy-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "keywords": [
+    "genesy",
+    "2",
+    "5m",
+    "domestic",
+    "violence",
+    "hotline",
+    "privacy",
+    "1",
+    "250"
    ]
   },
   {
@@ -9068,6 +9107,32 @@
     "honda",
     "acura",
     "vehicle"
+   ]
+  },
+  {
+   "id": "oca-3m-scotch-thermal-laminator-recall",
+   "title": "3M Scotch Thermal Laminator Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/3m-scotch-thermal-laminator-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-18",
+   "keywords": [
+    "3m",
+    "scotch",
+    "thermal",
+    "laminator",
+    "full",
+    "refund"
    ]
   },
   {
