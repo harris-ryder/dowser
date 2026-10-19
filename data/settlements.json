@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-18T13:20:10.685Z",
+ "generated_at": "2026-10-19T16:29:45.297Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 395,
+ "count": 397,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -5331,8 +5331,8 @@
   },
   {
    "id": "oca-oregon-tax-foreclosure-surplus-proceeds-class-action-settlement",
-   "title": "Oregon Tax Foreclosure Surplus Settlements — Six Counties",
-   "summary": "Surplus proceeds for former owners, lienholders and heirs of property taken for unpaid taxes in six Oregon counties.",
+   "title": "Oregon Tax Foreclosure Surplus Settlements — Seven Counties",
+   "summary": "Surplus proceeds for former owners, lienholders and heirs of property taken for unpaid taxes in seven Oregon counties, Lane County included.",
    "category": "Government",
    "states": [
     "OR"
@@ -5353,7 +5353,7 @@
     "tax",
     "foreclosure",
     "surplus",
-    "six",
+    "seven",
     "county"
    ]
   },
@@ -7849,6 +7849,31 @@
    ]
   },
   {
+   "id": "oca-swinerton-401k-erisa-class-action-settlement",
+   "title": "Swinerton $497,500 401(k) Fee Settlement — Automatic Payment",
+   "summary": "automatic payment, no claim form — a share of $497,500, by account balance, for Swinerton retirement plan participants and beneficiaries over alleged excessive plan fees.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2027-01-14",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — a share of $497,500, by account balance, for Swinerton retirement plan participants and beneficiaries over alleged excessive…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/swinerton-401k-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "keywords": [
+    "swinerton",
+    "497",
+    "500",
+    "401",
+    "fee"
+   ]
+  },
+  {
    "id": "oca-progressive-texas-pip-late-payment-class-action-settlement",
    "title": "Progressive Texas PIP Late-Payment Settlement — Up to $6M",
    "summary": "5% of each late-paid PIP medical bill line item plus 11.452% annual interest, for Progressive PIP claimants under Texas policies whose bills were paid more than 15 business days or 30 days after receipt.",
@@ -7901,6 +7926,35 @@
     "privacy",
     "pro",
     "rata"
+   ]
+  },
+  {
+   "id": "oca-mavis-discount-tire-pennsylvania-ag-restitution-settlement",
+   "title": "Mavis Tire Pennsylvania Settlement — $190K Restitution for Unneeded Repairs",
+   "summary": "Restitution from a $190,000 fund for Pennsylvania Mavis Discount Tire customers who paid for unneeded, unperformed or faulty repairs.",
+   "category": "Auto",
+   "states": [
+    "PA"
+   ],
+   "deadline": "2027-01-26",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Restitution from a $190,000 fund for Pennsylvania Mavis Discount Tire customers who paid for unneeded, unperformed or faulty repairs.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/automotive/mavis-discount-tire-pennsylvania-ag-restitution-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "keywords": [
+    "mavis",
+    "tire",
+    "pennsylvania",
+    "190k",
+    "restitution",
+    "unneeded",
+    "repair"
    ]
   },
   {
@@ -8048,6 +8102,31 @@
     "breach",
     "5",
     "000"
+   ]
+  },
+  {
+   "id": "oca-ncaa-tennis-prize-money-class-action-settlement",
+   "title": "$2M NCAA Tennis Prize Money Class Action Settlement",
+   "summary": "A share of a $2M fund, in proportion to prize money forfeited, for tennis players who gave up winnings Mar 19, 2020 – Nov 21, 2025 · NCAA ID and documentation required.",
+   "category": "Antitrust",
+   "states": [],
+   "deadline": "2027-02-08",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of a $2M fund, in proportion to prize money forfeited, for tennis players who gave up winnings Mar 19, 2020 – Nov 21, 2025",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/ncaa-tennis-prize-money-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-07-09",
+   "first_seen": "2026-07-09",
+   "keywords": [
+    "2m",
+    "ncaa",
+    "tennis",
+    "prize",
+    "money"
    ]
   },
   {
@@ -8953,31 +9032,6 @@
     "kentucky",
     "overdraft",
     "fee"
-   ]
-  },
-  {
-   "id": "oca-ncaa-tennis-prize-money-class-action-settlement",
-   "title": "$2M NCAA Tennis Prize Money Class Action Settlement",
-   "summary": "share of a $2M fund for HS & college tennis athletes who forfeited prize money Mar 19, 2020 – Nov 21, 2025 (~12,000 athletes) · claims open July 13, 2026 · records of forfeited winnings required · final hearing Jan 8, 2027",
-   "category": "Antitrust",
-   "states": [],
-   "deadline": null,
-   "deadline_type": "unknown",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "share of a $2M fund for HS & college tennis athletes who forfeited prize money Mar 19, 2020 – Nov 21, 2025 (~12,000 athletes)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/ncaa-tennis-prize-money-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-09",
-   "first_seen": "2026-07-09",
-   "keywords": [
-    "2m",
-    "ncaa",
-    "tennis",
-    "prize",
-    "money"
    ]
   },
   {
