@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-19T16:29:45.297Z",
+ "generated_at": "2026-10-20T14:20:10.387Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 397,
+ "count": 400,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -524,30 +524,6 @@
    ]
   },
   {
-   "id": "oca-seagate-securities-class-action-settlement",
-   "title": "$175M Seagate Securities Class Action Settlement (STX)",
-   "summary": "pro rata share of a $175,000,000 fund · estimated $1.03 per eligible share before fees · anyone who bought Seagate (Nasdaq: STX) common stock Sept 14, 2020 – Apr 19, 2023 · options not eligible · brokerage records required · shares sold before Mar 7, 2022 recover $0",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "pro rata share of a $175,000,000 fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/seagate-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-06",
-   "first_seen": "2026-08-06",
-   "keywords": [
-    "175m",
-    "seagate",
-    "security",
-    "stx"
-   ]
-  },
-  {
    "id": "oca-powerschool-stockholders-class-action-settlement",
    "title": "$26.5M PowerSchool Stockholder Class Action Settlement",
    "summary": "About $0.44 a share before fees, paid automatically to holders who received $22.80 a share when the Bain Capital deal closed.",
@@ -569,37 +545,6 @@
     "5m",
     "powerschool",
     "stockholder"
-   ]
-  },
-  {
-   "id": "oca-anixter-center-data-breach-settlement",
-   "title": "Anixter Center Data Breach Settlement — $50 or Up to $5,000",
-   "summary": "Up to $5,000 in documented losses plus up to $52.50 for lost time, or a flat $50 with no documentation instead, plus a year of identity protection, for people notified of the 2023 Anixter Center breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Up to $5,000 in documented losses plus up to $52.50 for lost time, or a flat $50 with no documentation instead, plus a year of identity protection, for people…",
-   "claim_url": "https://www.anixterdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/anixter-center-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#lester-and-rosalie-anixter-center-data-breach"
-   ],
-   "added": "2026-09-24",
-   "first_seen": "2026-09-24",
-   "keywords": [
-    "anixter",
-    "center",
-    "data",
-    "breach",
-    "50",
-    "5",
-    "000",
-    "lester",
-    "rosalie"
    ]
   },
   {
@@ -628,170 +573,126 @@
    ]
   },
   {
-   "id": "oca-community-dental-care-data-breach-settlement",
-   "title": "Community Dental Care Data Breach Class Action Settlement",
-   "summary": "a flat $50 with no documentation, or up to $5,000 in documented losses instead, plus two years of medical and credit monitoring, for people notified of the December 2024 breach",
-   "category": "Data Breach",
+   "id": "ca-settlements-concora-credit-unwanted-calls",
+   "title": "Concora Credit - Unwanted Calls Class Action Settlement",
+   "summary": "You may be included in this settlement if you weren't a Concora Credit accountholder but received a prerecorded call from Concora Credit to your cell between May 2, 2021 and May 31, 2026.",
+   "category": "Unwanted Calls",
    "states": [],
    "deadline": "2026-10-19",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat $50 with no documentation, or up to $5,000 in documented losses instead, plus two years of medical and credit monitoring, for people notified of the Dec…",
-   "claim_url": "https://mcnadatabreachsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/community-dental-care-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#managed-care-of-north-america-data-breach",
-    "https://www.classaction.org/settlements#community-dental-care-data-breach"
-   ],
-   "added": "2026-08-25",
-   "first_seen": "2026-08-25",
-   "keywords": [
-    "community",
-    "dental",
-    "care",
-    "data",
-    "breach",
-    "managed",
-    "north",
-    "america"
-   ]
-  },
-  {
-   "id": "oca-concora-credit-tcpa-prerecorded-calls-class-action-settlement",
-   "title": "Concora Credit TCPA Prerecorded Call Class Action Settlement ($9.375M)",
-   "summary": "an estimated $250 to $650, an equal share of an $8,375,000 fund, for people who were not Concora accountholders but got a prerecorded call on a cell phone between May 2021 and May 2026",
-   "category": "TCPA",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $250 to $650, an equal share of an $8,375,000 fund, for people who were not Concora accountholders but got a prerecorded call on a cell phone betw…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$250 - $650",
    "claim_url": "https://www.sealstcpasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/tcpa/concora-credit-tcpa-prerecorded-calls-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#concora-credit-unwanted-calls"
-   ],
-   "added": "2026-09-10",
-   "first_seen": "2026-09-10",
+   "info_url": "https://www.classaction.org/settlements#concora-credit-unwanted-calls",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-20",
    "keywords": [
     "concora",
     "credit",
-    "tcpa",
-    "prerecorded",
-    "call",
-    "9",
-    "375m"
+    "unwanted",
+    "call"
    ]
   },
   {
-   "id": "oca-csx-livingston-kentucky-train-derailment-class-action-settlement",
-   "title": "CSX Livingston, Kentucky Train Derailment Settlement",
-   "summary": "up to $4,000 per household from a $1,500,000 fund, offset by any money CSX already paid you · anyone who lived in or owned residential property within three miles of the November 22, 2023 derailment site",
-   "category": "Environmental",
-   "states": [
-    "KY"
-   ],
+   "id": "ca-settlements-csxt-train-derailment-kentucky",
+   "title": "CSXT Train Derailment (Kentucky) Class Action Settlement",
+   "summary": "If you were residing or owned residential property within a three-mile radius of the CSXT train derailment site in Rockcastle County, Kentucky on November 22, 2023, you may be included in this settlement.",
+   "category": null,
+   "states": [],
    "deadline": "2026-10-19",
    "deadline_type": "claim",
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
-   "payout": "up to $4,000 per household from a $1,500,000 fund, offset by any money CSX already paid you",
+   "payout": "Up to $6,000",
    "claim_url": "https://livingstonderailmentsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/csx-livingston-kentucky-train-derailment-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#csxt-train-derailment-kentucky"
-   ],
-   "added": "2026-08-16",
-   "first_seen": "2026-08-16",
+   "info_url": "https://www.classaction.org/settlements#csxt-train-derailment-kentucky",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-20",
    "keywords": [
-    "csx",
-    "livingston",
-    "kentucky",
+    "csxt",
     "train",
     "derailment",
-    "csxt"
+    "kentucky"
    ]
   },
   {
-   "id": "oca-globe-life-american-income-life-data-breach-settlement",
-   "title": "Globe Life & American Income Life Data Breach Class Action Settlement",
-   "summary": "up to $5,000 in documented losses plus $72 for four hours of lost time, and two years of credit monitoring automatically, for the 532,578 people the insurers notified about the October 2024 incident",
+   "id": "ca-settlements-le-moyne-college-covid-tuition",
+   "title": "Le Moyne College - COVID Tuition Class Action Settlement",
+   "summary": "You may be included in this settlement if you were a Le Moyne College undergraduate student who was charged tuition or mandatory fees and enrolled in at least one in-person, on-campus class during the Spring 2020 semester.",
+   "category": "COVID Tuition",
+   "states": [],
+   "deadline": "2026-10-19",
+   "deadline_type": "claim",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "Varies",
+   "claim_url": "https://lemoynecollegesettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#le-moyne-college-covid-tuition",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "le",
+    "moyne",
+    "college",
+    "covid",
+    "tuition"
+   ]
+  },
+  {
+   "id": "ca-settlements-lester-and-rosalie-anixter-center-data-breach",
+   "title": "Lester and Rosalie Anixter Center - Data Breach Class Action Settlement",
+   "summary": "If your private information was compromised in the July 2023 Lester and Rosalie Anixter Center data breach, you may be included in this settlement.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-19",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $5,000 in documented losses plus $72 for four hours of lost time, and two years of credit monitoring automatically, for the 532,578 people the insurers n…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/globe-life-american-income-life-data-breach-settlement.php",
-   "source": "openclassactions",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$50 - $5,000",
+   "claim_url": "https://www.anixterdatasettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#lester-and-rosalie-anixter-center-data-breach",
+   "source": "classaction.org",
    "also_listed_at": [],
-   "added": "2026-08-30",
-   "first_seen": "2026-08-30",
+   "added": null,
+   "first_seen": "2026-10-20",
    "keywords": [
-    "globe",
-    "life",
-    "american",
-    "income",
+    "lester",
+    "rosalie",
+    "anixter",
+    "center",
     "data",
     "breach"
    ]
   },
   {
-   "id": "oca-le-moyne-college-covid-fee-refund-class-action-settlement",
-   "title": "Le Moyne College $243,206 COVID Fee Class Action Settlement",
-   "summary": "Automatic equal-share payment · no claim form · Le Moyne undergrads in on-campus classes spring 2020 · elect e-payment",
-   "category": "Fees & Billing",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "Varies",
-   "claim_url": "https://lemoynecollegesettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/le-moyne-college-covid-fee-refund-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#le-moyne-college-covid-tuition"
-   ],
-   "added": "2026-09-27",
-   "first_seen": "2026-09-27",
-   "keywords": [
-    "le",
-    "moyne",
-    "college",
-    "243",
-    "206",
-    "covid",
-    "fee"
-   ]
-  },
-  {
-   "id": "oca-mcna-dental-data-breach-settlement",
-   "title": "MCNA Dental Data Breach Class Action Settlement",
-   "summary": "two years of medical data monitoring with no claim form, plus up to $2,500 for documented out-of-pocket losses from a $250,000 cap",
+   "id": "ca-settlements-managed-care-of-north-america-data-breach",
+   "title": "Managed Care of North America - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was potentially impacted by the Managed Care of North America data breach that occurred between February 26, 2023 and March 7, 2023.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-19",
    "deadline_type": "claim",
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
-   "payout": "two years of medical data monitoring with no claim form, plus up to $2,500 for documented out-of-pocket losses from a $250,000 cap",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/mcna-dental-data-breach-settlement.php",
-   "source": "openclassactions",
+   "payout": "Up to $2,500",
+   "claim_url": "https://mcnadatabreachsettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#managed-care-of-north-america-data-breach",
+   "source": "classaction.org",
    "also_listed_at": [],
-   "added": "2026-08-20",
-   "first_seen": "2026-08-20",
+   "added": null,
+   "first_seen": "2026-10-20",
    "keywords": [
-    "mcna",
-    "dental",
+    "managed",
+    "care",
+    "north",
+    "america",
     "data",
     "breach"
    ]
@@ -821,119 +722,80 @@
    ]
   },
   {
-   "id": "oca-nyc-central-booking-class-action-settlement",
-   "title": "NYC Central Booking $21.5M Class Action Settlement",
-   "summary": "Up to $475 for each time you were held at a New York City Central Booking facility during the class periods, from a fund of up to $21.5 million.",
-   "category": "Government",
-   "states": [
-    "NY"
-   ],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Up to $475 for each time you were held at a New York City Central Booking facility during the class periods, from a fund of up to $21.5 million.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/nyc-central-booking-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-06",
-   "first_seen": "2026-09-06",
-   "keywords": [
-    "nyc",
-    "central",
-    "booking",
-    "21",
-    "5m"
-   ]
-  },
-  {
-   "id": "oca-state-farm-louisiana-total-loss-purchasing-fees-settlement",
-   "title": "State Farm Louisiana Total-Loss Purchasing Fees Class Action Settlement",
-   "summary": "A flat $28.39 for Louisiana drivers whose State Farm total-loss payout left out sales tax, title, notary, registration and tag fees.",
-   "category": "Insurance",
-   "states": [
-    "LA"
-   ],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $28.39 for Louisiana drivers whose State Farm total-loss payout left out sales tax, title, notary, registration and tag fees.",
-   "claim_url": "https://louisianafeessettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/state-farm-louisiana-total-loss-purchasing-fees-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#state-farm-total-loss-fees-louisiana"
-   ],
-   "added": "2026-08-31",
-   "first_seen": "2026-08-31",
-   "keywords": [
-    "state",
-    "farm",
-    "louisiana",
-    "totalloss",
-    "purchasing",
-    "fee"
-   ]
-  },
-  {
-   "id": "oca-tennessee-farmers-mutual-total-loss-class-action-settlement",
-   "title": "Tennessee Farmers Mutual $5.85M Total Loss Class Action Settlement",
-   "summary": "Automatic pro rata payment · no claim form · TN totaled-vehicle claims 2017–2026 · elect e-payment",
-   "category": "Insurance",
+   "id": "ca-settlements-state-farm-total-loss-fees-louisiana",
+   "title": "State Farm - Total Loss Fees (Louisiana) Class Action Settlement",
+   "summary": "You may be eligible to claim a piece of this settlement if you are a Louisiana resident and received a total loss claim payment for your vehicle from State Farm between May 17, 2022 and May 21, 2026.",
+   "category": "Total Loss Fees (Louisiana)",
    "states": [],
    "deadline": "2026-10-19",
    "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "$5.85M settlement fund (individual payout not stated)",
-   "claim_url": "https://autoinsuranceclaimsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/tennessee-farmers-mutual-total-loss-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#tennessee-farmers-mutual-insurance-total-loss-claims"
-   ],
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$28.39",
+   "claim_url": "https://louisianafeessettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#state-farm-total-loss-fees-louisiana",
+   "source": "classaction.org",
+   "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-10-12",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "state",
+    "farm",
+    "total",
+    "loss",
+    "fee",
+    "louisiana"
+   ]
+  },
+  {
+   "id": "ca-settlements-tennessee-farmers-mutual-insurance-total-loss-claims",
+   "title": "Tennessee Farmers Mutual Insurance - Total Loss Claims Class Action Settlement",
+   "summary": "If your vehicle was adjusted to be a total loss by Tennessee Farmers Mutual Insurance Company and the claim was submitted between September 26, 2017 and April 7, 2026, you may be included in this settlement.",
+   "category": "Total Loss Claims",
+   "states": [],
+   "deadline": "2026-10-19",
+   "deadline_type": "claim",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "Varies",
+   "claim_url": "https://autoinsuranceclaimsettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#tennessee-farmers-mutual-insurance-total-loss-claims",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-20",
    "keywords": [
     "tennessee",
     "farmer",
     "mutual",
-    "5",
-    "85m",
+    "insurance",
     "total",
-    "loss",
-    "insurance"
+    "loss"
    ]
   },
   {
-   "id": "oca-wpm-pathology-salina-regional-data-breach-settlement",
-   "title": "WPM Pathology & Salina Regional Data Breach Class Action Settlement",
-   "summary": "a flat $45 with no documentation, or up to $4,480 by stacking documented losses and lost time, plus two years of credit monitoring for the November 2024 Kansas lab breach",
+   "id": "ca-settlements-wpm-pathology-data-breach",
+   "title": "WPM Pathology Laboratory - Data Breach Class Action Settlement",
+   "summary": "If your personal information was compromised in the November 2024 WPM Pathology Laboratory data breach, you may be covered by this settlement.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-19",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat $45 with no documentation, or up to $4,480 by stacking documented losses and lost time, plus two years of credit monitoring for the November 2024 Kansas…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$20 - $4,480",
    "claim_url": "https://www.wpmpldatabreach.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/wpm-pathology-salina-regional-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#wpm-pathology-data-breach"
-   ],
-   "added": "2026-08-25",
-   "first_seen": "2026-08-25",
+   "info_url": "https://www.classaction.org/settlements#wpm-pathology-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-20",
    "keywords": [
     "wpm",
     "pathology",
-    "salina",
-    "regional",
+    "laboratory",
     "data",
-    "breach",
-    "laboratory"
+    "breach"
    ]
   },
   {
@@ -2886,17 +2748,21 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "a flat $50 with no documentation, or documented losses plus lost time instead, with three years of credit monitoring either way, from the December 2024 ransomw…",
-   "claim_url": null,
+   "claim_url": "https://www.cddatabreach.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/yes-communities-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#community-dental-care-data-breach"
+   ],
    "added": "2026-08-30",
    "first_seen": "2026-08-30",
    "keywords": [
     "yes",
     "community",
     "data",
-    "breach"
+    "breach",
+    "dental",
+    "care"
    ]
   },
   {
@@ -3238,6 +3104,29 @@
     "health",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-inovalon-stockholder-class-action-settlement",
+   "title": "$44M Inovalon Stockholder Class Action Settlement",
+   "summary": "About $0.57 a share before fees, paid automatically to former holders who received $41.00 a share when a Nordic Capital-led group took Inovalon private in 2021.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-10",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "About $0.57 a share before fees, paid automatically to former holders who received $41.00 a share when a Nordic Capital-led group took Inovalon private in 2021.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/inovalon-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "keywords": [
+    "44m",
+    "inovalon",
+    "stockholder"
    ]
   },
   {
@@ -3629,6 +3518,39 @@
     "6m",
     "security",
     "grt"
+   ]
+  },
+  {
+   "id": "oca-jimmy-johns-sandwich-sc-washington-job-postings-class-action-settlement",
+   "title": "Jimmy John’s (Sandwich SC) $975,000 Washington Job Postings Settlement — Est. $393, Automatic",
+   "summary": "An equal share of a $975,000 fund, estimated by OCA at about $393, paid automatically to people who applied for a Washington job posted by Sandwich SC LLC (Jimmy John’s) from January 1, 2023 to August 24, 2026.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-11-13",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $975,000 fund, estimated by OCA at about $393, paid automatically to people who applied for a Washington job posted by Sandwich SC LLC (Jim…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/jimmy-johns-sandwich-sc-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "jimmy",
+    "john",
+    "sandwich",
+    "sc",
+    "975",
+    "000",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "393"
    ]
   },
   {
@@ -4823,6 +4745,32 @@
     "6m",
     "california",
     "visitor"
+   ]
+  },
+  {
+   "id": "oca-atlas-energy-solutions-stockholder-class-action-settlement",
+   "title": "$17M Atlas Energy Solutions Stockholder Class Action Settlement (AESI)",
+   "summary": "Paid automatically to holders whose Atlas Class A shares were exchanged in the October 2023 reorganization.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-25",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$17M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/atlas-energy-solutions-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-19",
+   "first_seen": "2026-10-19",
+   "keywords": [
+    "17m",
+    "atla",
+    "energy",
+    "solution",
+    "stockholder",
+    "aesi"
    ]
   },
   {
@@ -6603,6 +6551,31 @@
    ]
   },
   {
+   "id": "oca-zumba-vppa-class-action-settlement",
+   "title": "Zumba $2.7M Video Privacy Settlement — Automatic Payment",
+   "summary": "At least $229.33 per subclass, paid automatically, for the 4,543 people who bought the online Zumba Basic 1 instructor course on Zumba.com from October 2022 to October 2024.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2026-12-14",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "At least $229.33 per subclass, paid automatically, for the 4,543 people who bought the online Zumba Basic 1 instructor course on Zumba.com from October 2022 to…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/vppa/zumba-vppa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "zumba",
+    "2",
+    "7m",
+    "video",
+    "privacy"
+   ]
+  },
+  {
    "id": "oca-kimco-staffing-data-breach-settlement",
    "title": "Kimco Staffing Data Breach Settlement — Up to $5,000 Plus $50 in CA",
    "summary": "Up to $5,000 in documented losses, a pro rata cash share and two years of credit monitoring, plus $50 for California residents, after the June 2023 incident.",
@@ -6800,6 +6773,34 @@
     "25",
     "95",
     "iphone"
+   ]
+  },
+  {
+   "id": "oca-auxilio-mutuo-data-breach-settlement",
+   "title": "Auxilio Mutuo Hospital Data Breach Class Action Settlement — $25 or Up to $2,500",
+   "summary": "A $25 cash payment or up to $2,500 in documented losses, plus two years of credit and medical monitoring, for about 41,000 people notified of the Hospital Español Auxilio Mutuo data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $25 cash payment or up to $2,500 in documented losses, plus two years of credit and medical monitoring, for about 41,000 people notified of the Hospital Espa…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/auxilio-mutuo-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "auxilio",
+    "mutuo",
+    "hospital",
+    "data",
+    "breach",
+    "25",
+    "2",
+    "500"
    ]
   },
   {
@@ -7363,6 +7364,35 @@
    ]
   },
   {
+   "id": "oca-covenant-health-data-breach-settlement",
+   "title": "Covenant Health $2M Data Breach Class Action Settlement — Est. $75 or Up to $5,000",
+   "summary": "An estimated $75 pro rata cash and up to $5,000 in documented losses, plus two years of credit monitoring, for about 502,606 people notified of the May 2025 Covenant Health cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-30",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $75 pro rata cash and up to $5,000 in documented losses, plus two years of credit monitoring, for about 502,606 people notified of the May 2025 Co…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/covenant-health-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "covenant",
+    "health",
+    "2m",
+    "data",
+    "breach",
+    "est",
+    "75",
+    "5",
+    "000"
+   ]
+  },
+  {
    "id": "oca-marqeta-securities-class-action-settlement",
    "title": "$13M Marqeta Securities Settlement (MQ)",
    "summary": "A pro rata share of $13 million for investors who bought Marqeta stock or call options, or wrote puts, from February 28 to November 4, 2024.",
@@ -7871,6 +7901,31 @@
     "500",
     "401",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-davita-ransomware-data-breach-settlement",
+   "title": "DaVita $10M Ransomware Data Breach Class Action Settlement",
+   "summary": "An estimated $50 cash, up to $2,500 in documented losses and three years of credit monitoring for about 2.39 million people whose information was exposed in the April 2025 DaVita ransomware attack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-19",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $50 cash, up to $2,500 in documented losses and three years of credit monitoring for about 2.39 million people whose information was exposed in th…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/davita-ransomware-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "davita",
+    "10m",
+    "ransomware",
+    "data",
+    "breach"
    ]
   },
   {
