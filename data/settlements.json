@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-20T14:20:10.387Z",
+ "generated_at": "2026-10-21T14:30:38.382Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 400,
+ "count": 402,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -63,32 +63,6 @@
    ]
   },
   {
-   "id": "oca-guitar-center-wage-and-hour-class-action-settlement",
-   "title": "Guitar Center $2.4M Wage and Hour Class Action Settlement",
-   "summary": "",
-   "category": null,
-   "states": [],
-   "deadline": "2026-09-01",
-   "deadline_type": "opt_out",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "$2.4M settlement fund (individual payout not stated)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/guitar-center-wage-and-hour-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-12",
-   "keywords": [
-    "guitar",
-    "center",
-    "2",
-    "4m",
-    "wage",
-    "hour"
-   ]
-  },
-  {
    "id": "oca-scale-ai-contributor-misclassification-class-action-settlement",
    "title": "Scale AI $12.5M Worker Misclassification Settlement — Automatic Payment",
    "summary": "",
@@ -114,86 +88,6 @@
     "5m",
     "worker",
     "misclassification"
-   ]
-  },
-  {
-   "id": "oca-smith-nephew-401k-erisa-class-action-settlement",
-   "title": "Smith & Nephew $350K 401(k) ERISA Settlement",
-   "summary": "pro rata share of a $350,000 fund, based on your average Plan account balance · automatic payment, no claim form · participants in and beneficiaries of the Smith & Nephew U.S. Savings Plan (Aug 30, 2018 – May 13, 2026) · alleged ERISA excessive managed-account fees",
-   "category": "Retirement Plans",
-   "states": [],
-   "deadline": "2026-09-04",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "pro rata share of a $350,000 fund, based on your average Plan account balance",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/employment/erisa/smith-nephew-401k-erisa-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "keywords": [
-    "smith",
-    "nephew",
-    "350k",
-    "401",
-    "erisa"
-   ]
-  },
-  {
-   "id": "oca-long-county-georgia-fire-fees-class-action-settlement",
-   "title": "Long County, Georgia Fire Fee Refund Settlement",
-   "summary": "refund of the fire fees your property was assessed and paid, from a $500,000 fund · no per-owner figure announced · automatic if you still own the property; former owners are mailed a form after approval · anyone charged Long County fire fees from Sept 6, 2024",
-   "category": "Government",
-   "states": [
-    "GA"
-   ],
-   "deadline": "2026-09-07",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "refund of the fire fees your property was assessed and paid, from a $500,000 fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/long-county-georgia-fire-fees-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-27",
-   "first_seen": "2026-07-27",
-   "keywords": [
-    "long",
-    "county",
-    "georgia",
-    "fire",
-    "fee",
-    "refund"
-   ]
-  },
-  {
-   "id": "oca-ricoh-usa-retirement-savings-plan-erisa-class-action-settlement",
-   "title": "Ricoh USA Retirement Savings Plan ERISA Class Action Settlement ($1.75M)",
-   "summary": "automatic payment, no claim form — a pro rata share of $1,750,000 scaled to your quarterly plan account balances · anyone who participated in the Ricoh USA, Inc. Retirement Savings Plan between February 22, 2016 and March 24, 2026 · non-opt-out class",
-   "category": "Retirement Plans",
-   "states": [],
-   "deadline": "2026-09-21",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic payment, no claim form — a pro rata share of $1,750,000 scaled to your quarterly plan account balances",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/erisa/ricoh-usa-retirement-savings-plan-erisa-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-16",
-   "first_seen": "2026-08-16",
-   "keywords": [
-    "ricoh",
-    "retirement",
-    "saving",
-    "plan",
-    "erisa",
-    "1",
-    "75m"
    ]
   },
   {
@@ -334,6 +228,34 @@
    ]
   },
   {
+   "id": "oca-long-county-georgia-fire-fees-class-action-settlement",
+   "title": "Long County, Georgia Fire Fee Refund Settlement",
+   "summary": "refund of the fire fees your property was assessed and paid, from a $500,000 fund · no per-owner figure announced · automatic if you still own the property; former owners are mailed a form after approval · anyone charged Long County fire fees from Sept 6, 2024",
+   "category": "Government",
+   "states": [
+    "GA"
+   ],
+   "deadline": "2026-10-06",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "refund of the fire fees your property was assessed and paid, from a $500,000 fund",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/long-county-georgia-fire-fees-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-07-27",
+   "first_seen": "2026-07-27",
+   "keywords": [
+    "long",
+    "county",
+    "georgia",
+    "fire",
+    "fee",
+    "refund"
+   ]
+  },
+  {
    "id": "oca-north-highland-esop-erisa-class-action-settlement",
    "title": "North Highland ESOP $2.375M ERISA Class Action Settlement",
    "summary": "automatic payment, no claim form and no opt-out — a pro rata share of a $2,375,000 fund for participants and beneficiaries who held vested North Highland ESOP shares between 2016 and 2025",
@@ -440,6 +362,33 @@
    ]
   },
   {
+   "id": "oca-ricoh-usa-retirement-savings-plan-erisa-class-action-settlement",
+   "title": "Ricoh USA Retirement Savings Plan ERISA Class Action Settlement ($1.75M)",
+   "summary": "automatic payment, no claim form — a pro rata share of $1,750,000 scaled to your quarterly plan account balances · anyone who participated in the Ricoh USA, Inc. Retirement Savings Plan between February 22, 2016 and March 24, 2026 · non-opt-out class",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-10-08",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — a pro rata share of $1,750,000 scaled to your quarterly plan account balances",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/ricoh-usa-retirement-savings-plan-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-08-16",
+   "first_seen": "2026-08-16",
+   "keywords": [
+    "ricoh",
+    "retirement",
+    "saving",
+    "plan",
+    "erisa",
+    "1",
+    "75m"
+   ]
+  },
+  {
    "id": "oca-saint-gobain-washington-job-postings-class-action-settlement",
    "title": "Saint-Gobain & CertainTeed Washington Job Postings Settlement — Est. $1,271.91, Automatic Payment",
    "summary": "",
@@ -500,30 +449,6 @@
    ]
   },
   {
-   "id": "ca-settlements-flo-app-data-privacy",
-   "title": "FLO App - Data Privacy Class Action Settlement",
-   "summary": "You may be included in this settlement if you used the FLO app between November 1, 2016 and February 28, 2019.",
-   "category": "Data Privacy",
-   "states": [],
-   "deadline": "2026-10-15",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://periodtrackerdataprivacylitigation.com/home/",
-   "info_url": "https://www.classaction.org/settlements#flo-app-data-privacy",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-16",
-   "keywords": [
-    "flo",
-    "app",
-    "data",
-    "privacy"
-   ]
-  },
-  {
    "id": "oca-powerschool-stockholders-class-action-settlement",
    "title": "$26.5M PowerSchool Stockholder Class Action Settlement",
    "summary": "About $0.44 a share before fees, paid automatically to holders who received $22.80 a share when the Bain Capital deal closed.",
@@ -573,340 +498,50 @@
    ]
   },
   {
-   "id": "ca-settlements-concora-credit-unwanted-calls",
-   "title": "Concora Credit - Unwanted Calls Class Action Settlement",
-   "summary": "You may be included in this settlement if you weren't a Concora Credit accountholder but received a prerecorded call from Concora Credit to your cell between May 2, 2021 and May 31, 2026.",
+   "id": "ca-settlements-altrua-ministries-unwanted-calls",
+   "title": "Altrua Ministries - Unwanted Calls Class Action Settlement",
+   "summary": "You may be included in this settlement if you received a prerecorded call from Altrua HealthShare between December 2, 2024 and December 11, 2024.",
    "category": "Unwanted Calls",
    "states": [],
-   "deadline": "2026-10-19",
+   "deadline": "2026-10-20",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$250 - $650",
-   "claim_url": "https://www.sealstcpasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#concora-credit-unwanted-calls",
+   "payout": "Up to $700",
+   "claim_url": "https://altruacrowntcpasettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#altrua-ministries-unwanted-calls",
    "source": "classaction.org",
    "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-10-20",
+   "first_seen": "2026-10-21",
    "keywords": [
-    "concora",
-    "credit",
+    "altrua",
+    "ministry",
     "unwanted",
     "call"
    ]
   },
   {
-   "id": "ca-settlements-csxt-train-derailment-kentucky",
-   "title": "CSXT Train Derailment (Kentucky) Class Action Settlement",
-   "summary": "If you were residing or owned residential property within a three-mile radius of the CSXT train derailment site in Rockcastle County, Kentucky on November 22, 2023, you may be included in this settlement.",
-   "category": null,
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Up to $6,000",
-   "claim_url": "https://livingstonderailmentsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#csxt-train-derailment-kentucky",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "csxt",
-    "train",
-    "derailment",
-    "kentucky"
-   ]
-  },
-  {
-   "id": "ca-settlements-le-moyne-college-covid-tuition",
-   "title": "Le Moyne College - COVID Tuition Class Action Settlement",
-   "summary": "You may be included in this settlement if you were a Le Moyne College undergraduate student who was charged tuition or mandatory fees and enrolled in at least one in-person, on-campus class during the Spring 2020 semester.",
-   "category": "COVID Tuition",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "Varies",
-   "claim_url": "https://lemoynecollegesettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#le-moyne-college-covid-tuition",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "le",
-    "moyne",
-    "college",
-    "covid",
-    "tuition"
-   ]
-  },
-  {
-   "id": "ca-settlements-lester-and-rosalie-anixter-center-data-breach",
-   "title": "Lester and Rosalie Anixter Center - Data Breach Class Action Settlement",
-   "summary": "If your private information was compromised in the July 2023 Lester and Rosalie Anixter Center data breach, you may be included in this settlement.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$50 - $5,000",
-   "claim_url": "https://www.anixterdatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#lester-and-rosalie-anixter-center-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "lester",
-    "rosalie",
-    "anixter",
-    "center",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-managed-care-of-north-america-data-breach",
-   "title": "Managed Care of North America - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your personal information was potentially impacted by the Managed Care of North America data breach that occurred between February 26, 2023 and March 7, 2023.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Up to $2,500",
-   "claim_url": "https://mcnadatabreachsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#managed-care-of-north-america-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "managed",
-    "care",
-    "north",
-    "america",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-new-york-city-central-booking",
-   "title": "New York City - Central Booking Class Action Settlement",
-   "summary": "You may be able to claim a piece of this settlement if you were detained at Brooklyn Central Booking between April 8, 2017 and December 27, 2019 or any Central Booking facility between February 3, 2020 and March 1, 2023.",
-   "category": "Central Booking",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$475",
-   "claim_url": "https://www.centralbookingsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#new-york-city-central-booking",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-19",
-   "keywords": [
-    "york",
-    "city",
-    "central",
-    "booking"
-   ]
-  },
-  {
-   "id": "ca-settlements-state-farm-total-loss-fees-louisiana",
-   "title": "State Farm - Total Loss Fees (Louisiana) Class Action Settlement",
-   "summary": "You may be eligible to claim a piece of this settlement if you are a Louisiana resident and received a total loss claim payment for your vehicle from State Farm between May 17, 2022 and May 21, 2026.",
-   "category": "Total Loss Fees (Louisiana)",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$28.39",
-   "claim_url": "https://louisianafeessettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#state-farm-total-loss-fees-louisiana",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "state",
-    "farm",
-    "total",
-    "loss",
-    "fee",
-    "louisiana"
-   ]
-  },
-  {
-   "id": "ca-settlements-tennessee-farmers-mutual-insurance-total-loss-claims",
-   "title": "Tennessee Farmers Mutual Insurance - Total Loss Claims Class Action Settlement",
-   "summary": "If your vehicle was adjusted to be a total loss by Tennessee Farmers Mutual Insurance Company and the claim was submitted between September 26, 2017 and April 7, 2026, you may be included in this settlement.",
-   "category": "Total Loss Claims",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "Varies",
-   "claim_url": "https://autoinsuranceclaimsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#tennessee-farmers-mutual-insurance-total-loss-claims",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "tennessee",
-    "farmer",
-    "mutual",
-    "insurance",
-    "total",
-    "loss"
-   ]
-  },
-  {
-   "id": "ca-settlements-wpm-pathology-data-breach",
-   "title": "WPM Pathology Laboratory - Data Breach Class Action Settlement",
-   "summary": "If your personal information was compromised in the November 2024 WPM Pathology Laboratory data breach, you may be covered by this settlement.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$20 - $4,480",
-   "claim_url": "https://www.wpmpldatabreach.com/",
-   "info_url": "https://www.classaction.org/settlements#wpm-pathology-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "wpm",
-    "pathology",
-    "laboratory",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-altrua-healthshare-tcpa-prerecorded-calls-class-action-settlement",
-   "title": "Altrua HealthShare & Health Admins TCPA Prerecorded Call Class Action Settlement",
-   "summary": "up to $700 per person, cut pro rata under a $1,100,000 aggregate cap, for people called through AIRudder for Altrua HealthShare December 2–11, 2024",
-   "category": "TCPA",
-   "states": [],
-   "deadline": "2026-10-20",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $700 per person, cut pro rata under a $1,100,000 aggregate cap, for people called through AIRudder for Altrua HealthShare December 2–11, 2024",
-   "claim_url": "https://altruacrowntcpasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/tcpa/altrua-healthshare-tcpa-prerecorded-calls-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#altrua-ministries-unwanted-calls"
-   ],
-   "added": "2026-08-25",
-   "first_seen": "2026-08-25",
-   "keywords": [
-    "altrua",
-    "healthshare",
-    "health",
-    "admin",
-    "tcpa",
-    "prerecorded",
-    "call",
-    "ministry"
-   ]
-  },
-  {
-   "id": "oca-exo-commuter-train-delays-class-action-settlement-quebec",
-   "title": "exo Train Delays Settlement (Quebec) — Up to $145 CAD",
-   "summary": "Up to $145 CAD per monthly or annual pass, or up to $29 per booklet, for Deux-Montagnes and Mascouche train riders in winter 2017–2018.",
-   "category": "Government",
-   "states": [],
-   "deadline": "2026-10-20",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Up to $145 CAD per monthly or annual pass, or up to $29 per booklet, for Deux-Montagnes and Mascouche train riders in winter 2017–2018.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/exo-commuter-train-delays-class-action-settlement-quebec.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
-   "keywords": [
-    "exo",
-    "train",
-    "delay",
-    "quebec",
-    "145",
-    "cad"
-   ]
-  },
-  {
-   "id": "oca-ohio-nightclub-dancer-unpaid-wages-class-action-settlement",
-   "title": "Ohio Nightclub Dancer Unpaid Wages Class Action Settlement ($800K)",
-   "summary": "a share of $800,000 for dancers who worked at Cheeks, Top Hat, House of Babes, Private Dancer, Fantasyland West or Sirens between May 2014 and June 2025",
-   "category": "Employment",
-   "states": [
-    "OH"
-   ],
-   "deadline": "2026-10-20",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a share of $800,000 for dancers who worked at Cheeks, Top Hat, House of Babes, Private Dancer, Fantasyland West or Sirens between May 2014 and June 2025",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/ohio-nightclub-dancer-unpaid-wages-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-24",
-   "first_seen": "2026-08-24",
-   "keywords": [
-    "ohio",
-    "nightclub",
-    "dancer",
-    "unpaid",
-    "wage",
-    "800k"
-   ]
-  },
-  {
-   "id": "oca-vsl3-probiotic-class-action-settlement",
-   "title": "VSL#3 Probiotic Class Action Settlement ($20M)",
-   "summary": "$20 per bottle or box of VSL#3 bought between June 2016 and June 2019 — one unit on your word alone, or up to 40 units if you have receipts or a notice",
-   "category": "Consumer Products",
+   "id": "ca-settlements-vsl-pharmaceuticals-probiotics",
+   "title": "VSL Pharmaceuticals - Probiotics Class Action Settlement",
+   "summary": "You may be included in this settlement if you purchased VSL#3 between June 1, 2016 and June 19, 2019.",
+   "category": "Probiotics",
    "states": [],
    "deadline": "2026-10-20",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$20 per bottle or box of VSL#3 bought between June 2016 and June 2019 — one unit on your word alone, or up to 40 units if you have receipts or a notice",
+   "payout": "$20 Per Unit",
    "claim_url": "https://www.vsl3lawsuit.com/",
-   "info_url": "https://openclassactions.com/settlements/false-advertising/vsl3-probiotic-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#vsl-pharmaceuticals-probiotics"
-   ],
-   "added": "2026-08-24",
-   "first_seen": "2026-08-24",
+   "info_url": "https://www.classaction.org/settlements#vsl-pharmaceuticals-probiotics",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-21",
    "keywords": [
     "vsl",
-    "3",
-    "probiotic",
-    "20m",
-    "pharmaceutical"
+    "pharmaceutical",
+    "probiotic"
    ]
   },
   {
@@ -1293,10 +928,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "$2 per covered hour for former tipped staff at the Brevard County, Florida restaurant who had a tip credit applied from April 2021 through August 2023.",
-   "claim_url": null,
+   "claim_url": "https://www.pinedainnsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/pineda-inn-tip-credit-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#pineda-inn-bar-and-grill-wages"
+   ],
    "added": "2026-10-10",
    "first_seen": "2026-10-10",
    "keywords": [
@@ -1707,8 +1344,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/highland-health-systems-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#highland-health-systems-data-breach",
-    "https://www.classaction.org/settlements#tift-regional-health-system-data-breach"
+    "https://www.classaction.org/settlements#highland-health-systems-data-breach"
    ],
    "added": "2026-09-18",
    "first_seen": "2026-09-18",
@@ -1717,9 +1353,7 @@
     "health",
     "system",
     "data",
-    "breach",
-    "tift",
-    "regional"
+    "breach"
    ]
   },
   {
@@ -2584,10 +2218,12 @@
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
    "payout": "An equal per-address share of an $850,000 fund for people who owned, rented or leased a home within 1.75 miles of the Rhode Island Bioenergy facility since 201…",
-   "claim_url": null,
+   "claim_url": "https://lsclassaction.com/settlements/rhode-island-resource-recovery-class-action-settlement/",
    "info_url": "https://openclassactions.com/settlements/environmental/rhode-island-bioenergy-johnston-odor-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#rhode-island-bioenergy-facility"
+   ],
    "added": "2026-10-14",
    "first_seen": "2026-10-14",
    "keywords": [
@@ -2597,7 +2233,8 @@
     "850k",
     "odor",
     "johnston",
-    "ri"
+    "ri",
+    "facility"
    ]
   },
   {
@@ -2748,21 +2385,17 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "a flat $50 with no documentation, or documented losses plus lost time instead, with three years of credit monitoring either way, from the December 2024 ransomw…",
-   "claim_url": "https://www.cddatabreach.com/",
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/data-breaches/yes-communities-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#community-dental-care-data-breach"
-   ],
+   "also_listed_at": [],
    "added": "2026-08-30",
    "first_seen": "2026-08-30",
    "keywords": [
     "yes",
     "community",
     "data",
-    "breach",
-    "dental",
-    "care"
+    "breach"
    ]
   },
   {
@@ -3328,6 +2961,29 @@
    ]
   },
   {
+   "id": "oca-thoughtworks-stockholder-class-action-settlement",
+   "title": "$31M Thoughtworks Stockholder Class Action Settlement",
+   "summary": "An estimated $0.26 a share before fees, paid automatically to holders who received $4.40 a share when Apax took Thoughtworks private on November 13, 2024.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-11-12",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An estimated $0.26 a share before fees, paid automatically to holders who received $4.40 a share when Apax took Thoughtworks private on November 13, 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/thoughtworks-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "31m",
+    "thoughtwork",
+    "stockholder"
+   ]
+  },
+  {
    "id": "oca-american-vision-partners-data-breach-settlement",
    "title": "American Vision Partners Data Breach Class Action Settlement ($1.75M)",
    "summary": "a pro rata share of the fund with no receipts, or instead up to $3,000 in documented out-of-pocket losses, for the eye-care network breach",
@@ -3456,7 +3112,8 @@
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/compucom-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#high-5-games-washington"
+    "https://www.classaction.org/settlements#high-5-games-washington",
+    "https://www.classaction.org/settlements#compucom-systems-job-postings-washington"
    ],
    "added": "2026-10-18",
    "first_seen": "2026-10-18",
@@ -3468,7 +3125,8 @@
     "posting",
     "high",
     "5",
-    "game"
+    "game",
+    "system"
    ]
   },
   {
@@ -4116,10 +3774,12 @@
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
    "payout": "An equal per-household share of $675,000 for people who owned, rented or leased a home within 1.5 miles of the landfill since August 2021.",
-   "claim_url": null,
+   "claim_url": "https://lsclassaction.com/settlements/charlotte-motor-speedway-landfill/",
    "info_url": "https://openclassactions.com/settlements/environmental/charlotte-motor-speedway-landfill-odor-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#charlotte-motor-speedway-landfill"
+   ],
    "added": "2026-10-15",
    "first_seen": "2026-10-15",
    "keywords": [
@@ -4255,10 +3915,12 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "automatic payment, no claim form — A pro rata share of $1,732,500, by workweek, for hourly and staffing-agency workers at Menasha’s California facilities from…",
-   "claim_url": null,
+   "claim_url": "https://menashaclassactionsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/paga/menasha-packaging-california-wage-paga-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#menasha-packaging-company-wage-and-hour"
+   ],
    "added": "2026-10-16",
    "first_seen": "2026-10-16",
    "keywords": [
@@ -4515,6 +4177,35 @@
     "care",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-overland-missouri-special-deterrent-fee-class-action-settlement",
+   "title": "City of Overland, Missouri Special Deterrent Fee Settlement — $80 per Claim",
+   "summary": "A flat $80 check for people who paid an Overland municipal court special deterrent fee from August 2012 to September 2021.",
+   "category": "Government",
+   "states": [
+    "MO"
+   ],
+   "deadline": "2026-11-24",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $80 check for people who paid an Overland municipal court special deterrent fee from August 2012 to September 2021.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/overland-missouri-special-deterrent-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "keywords": [
+    "city",
+    "overland",
+    "missouri",
+    "special",
+    "deterrent",
+    "fee",
+    "80"
    ]
   },
   {
@@ -5057,6 +4748,34 @@
    ]
   },
   {
+   "id": "oca-fontaine-modification-wage-overtime-class-action-settlement",
+   "title": "Fontaine Modification $1.6M Wage and Overtime Settlement",
+   "summary": "A pro rata share of up to $1.6 million for hourly Fontaine Modification workers from May 1, 2022 to Sept. 1, 2026; Virginia workers are paid automatically, workers elsewhere must file a consent form.",
+   "category": "Employment",
+   "states": [
+    "ID"
+   ],
+   "deadline": "2026-11-27",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata share of up to $1.6 million for hourly Fontaine Modification workers from May 1, 2022 to Sept. 1, 2026",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/fontaine-modification-wage-overtime-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "fontaine",
+    "modification",
+    "1",
+    "6m",
+    "wage",
+    "overtime"
+   ]
+  },
+  {
    "id": "oca-equifax-hard-inquiry-dispute-class-action-settlement",
    "title": "Equifax $30M Hard Inquiry Dispute Class Action Settlement",
    "summary": "An estimated $100 to $400 for people who disputed a hard inquiry with Equifax, depending on which settlement group Equifax’s records place them in.",
@@ -5322,11 +5041,13 @@
    "deadline_type": "claim",
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
-   "payout": null,
-   "claim_url": null,
+   "payout": "Varies",
+   "claim_url": "https://www.ysisettlement.com/",
    "info_url": "https://openclassactions.com/settlements/pulsz-social-casino-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#pulsz-social-casino-games"
+   ],
    "added": "2026-10-04",
    "first_seen": "2026-10-04",
    "keywords": [
@@ -5843,10 +5564,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "An equal share of a $325,000 fund, estimated at $30 to $74, for Starbucks health and vision plan members who were sent a COBRA notice and didn't elect coverage.",
-   "claim_url": null,
+   "claim_url": "https://www.cobranoticeclassaction.com/",
    "info_url": "https://openclassactions.com/settlements/erisa/starbucks-cobra-notice-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#starbucks-welfare-benefits"
+   ],
    "added": "2026-10-15",
    "first_seen": "2026-10-15",
    "keywords": [
@@ -5855,6 +5578,38 @@
     "cobra",
     "notice",
     "mail"
+   ]
+  },
+  {
+   "id": "oca-jackson-county-missouri-property-tax-reassessment-class-action-settlement",
+   "title": "Jackson County, Missouri Property Tax Reassessment Settlement — Credits for 2023 Increases Over 15%",
+   "summary": "Credits for the extra 2023–2024 taxes paid on residential reassessment increases above 15%, applied automatically to current owners’ 2026–2028 bills; former owners and appraisal or legal fee claims must file.",
+   "category": "Government",
+   "states": [
+    "MO"
+   ],
+   "deadline": "2026-12-03",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/jackson-county-missouri-property-tax-reassessment-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "jackson",
+    "county",
+    "missouri",
+    "property",
+    "tax",
+    "reassessment",
+    "credit",
+    "2023",
+    "increase",
+    "15"
    ]
   },
   {
@@ -5930,10 +5685,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "An equal share, estimated at $1,292.77, for people who applied to a Belcan job opening in Washington whose posting left out the pay range (Jan 2023 – Aug 2026).",
-   "claim_url": null,
+   "claim_url": "https://epoasettlementbeg.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/belcan-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#belcan-engineering-job-postings-washington"
+   ],
    "added": "2026-10-10",
    "first_seen": "2026-10-10",
    "keywords": [
@@ -5944,7 +5701,8 @@
     "est",
     "1",
     "292",
-    "77"
+    "77",
+    "engineering"
    ]
   },
   {
@@ -6059,6 +5817,38 @@
    ]
   },
   {
+   "id": "oca-adapthealth-north-carolina-debt-collection-class-action-settlement",
+   "title": "AdaptHealth $14.3M North Carolina Debt Collection Settlement — $47 Automatic or $3,500",
+   "summary": "$47 paid automatically to about 142,539 North Carolina AdaptHealth customers sent “Seriously Past Due” or “Final Demand” letters; $3,500 for 464 identified customers billed for equipment they did not have, by claim.",
+   "category": "Fees & Billing",
+   "states": [
+    "NC"
+   ],
+   "deadline": "2026-12-08",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$47 paid automatically to about 142,539 North Carolina AdaptHealth customers sent “Seriously Past Due” or “Final Demand” letters",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/adapthealth-north-carolina-debt-collection-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "adapthealth",
+    "14",
+    "3m",
+    "north",
+    "carolina",
+    "debt",
+    "collection",
+    "47",
+    "3",
+    "500"
+   ]
+  },
+  {
    "id": "oca-baptist-health-drew-county-data-breach-settlement",
    "title": "Baptist Health Drew County Data Breach Settlement — Up to $4,000",
    "summary": "Two years of credit monitoring, up to $80 for lost time, and up to $400 or $4,000 in documented losses for people notified of the 2024 hospital data incident.",
@@ -6069,10 +5859,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "Two years of credit monitoring, up to $80 for lost time, and up to $400 or $4,000 in documented losses for people notified of the 2024 hospital data incident.",
-   "claim_url": null,
+   "claim_url": "https://bhsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/baptist-health-drew-county-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#baptist-health-data-breach"
+   ],
    "added": "2026-10-15",
    "first_seen": "2026-10-15",
    "keywords": [
@@ -6097,10 +5889,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "Up to $50 with no documentation, or up to $2,500 for documented losses and lost time instead, plus three years of credit monitoring, for people affected by the…",
-   "claim_url": null,
+   "claim_url": "https://bnhdatasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/brockton-neighborhood-health-center-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#brockton-neighborhood-health-center-data-breach"
+   ],
    "added": "2026-10-13",
    "first_seen": "2026-10-13",
    "keywords": [
@@ -6331,6 +6125,35 @@
    ]
   },
   {
+   "id": "oca-brookside-alabama-towing-ticketing-class-action-settlement",
+   "title": "Brookside, Alabama $1.5M Towing and Ticketing Settlement (Claims Not Open Yet)",
+   "summary": "Pro rata cash from a $1 million towing fund and a $500,000 charging fund for people who paid to recover a car towed after a Brookside, Alabama police traffic stop, or were charged in its municipal court after one, from March 1, 2018 to Aug. 1, 2022. Claim form not open yet.",
+   "category": "Government",
+   "states": [
+    "AL"
+   ],
+   "deadline": "2026-12-14",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata cash from a $1 million towing fund and a $500,000 charging fund for people who paid to recover a car towed after a Brookside, Alabama police traffic s…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/brookside-alabama-towing-ticketing-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "brookside",
+    "alabama",
+    "1",
+    "5m",
+    "towing",
+    "ticketing",
+    "yet"
+   ]
+  },
+  {
    "id": "oca-camc-bariatric-hiatal-hernia-class-action-settlement",
    "title": "CAMC Bariatric Surgery Hernia Class Action Settlement ($40M)",
    "summary": "an equal share of $30,000,000 with no claim form, or a larger documented payment from $10,000,000 · patients given a hiatal hernia repair during bariatric surgery at CAMC",
@@ -6424,10 +6247,12 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "equal share of a $1.99 million fund per qualifying job posting",
-   "claim_url": null,
+   "claim_url": "https://epoasettlementpvl.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/pandora-jewelry-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#pandora-ventures-job-postings-washington"
+   ],
    "added": "2026-10-16",
    "first_seen": "2026-10-16",
    "keywords": [
@@ -6436,7 +6261,8 @@
     "99m",
     "washington",
     "job",
-    "posting"
+    "posting",
+    "venture"
    ]
   },
   {
@@ -6686,6 +6512,29 @@
     "24",
     "95m",
     "cad"
+   ]
+  },
+  {
+   "id": "ca-settlements-ahs-management-company-wages",
+   "title": "AHS Management Company - Wages Class Action Settlement",
+   "summary": "You may be included in this settlement if you worked for AHS Management Company as a non-exempt employee between December 11, 2021 to February 17, 2022.",
+   "category": "Wages",
+   "states": [],
+   "deadline": "2026-12-18",
+   "deadline_type": "claim",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "Varies",
+   "claim_url": "https://ardentkronoswagesettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#ahs-management-company-wages",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-21",
+   "keywords": [
+    "ahs",
+    "management",
+    "wage"
    ]
   },
   {
@@ -7031,6 +6880,37 @@
    ]
   },
   {
+   "id": "oca-knotts-berry-farm-great-america-processing-fee-class-action-settlement",
+   "title": "Knott’s Berry Farm & Great America Ticket Fee Settlement — $8 Credit or $8 Cash",
+   "summary": "An $8 Six Flags credit, automatic, or $8 cash by claim for California buyers charged a processing fee on online Knott’s Berry Farm, Knott’s Soak City or California’s Great America tickets, June 28, 2020 to July 1, 2024.",
+   "category": "Fees & Billing",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-12-22",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An $8 Six Flags credit, automatic, or $8 cash by claim for California buyers charged a processing fee on online Knott’s Berry Farm, Knott’s Soak City or Califo…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/knotts-berry-farm-great-america-processing-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "knott",
+    "berry",
+    "farm",
+    "great",
+    "america",
+    "ticket",
+    "fee",
+    "8",
+    "credit"
+   ]
+  },
+  {
    "id": "oca-trc-staffing-data-breach-settlement",
    "title": "TRC Staffing Data Breach Settlement — Up to $200 or $5,000 Documented",
    "summary": "Up to $200 pro rata with no documentation, or up to $5,000 in documented losses plus lost time, for people TRC Staffing notified of the 2024 breach.",
@@ -7102,10 +6982,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "A $100 flat payment, or up to $3,000 in documented losses, plus free credit monitoring for employees in Antigo Construction’s June 2025 breach.",
-   "claim_url": null,
+   "claim_url": "https://www.antigodatabreachsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/antigo-construction-data-breach-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#antigo-construction-data-breach"
+   ],
    "added": "2026-10-09",
    "first_seen": "2026-10-09",
    "keywords": [
@@ -7254,6 +7136,36 @@
    ]
   },
   {
+   "id": "oca-chimienti-associates-data-breach-settlement",
+   "title": "Chimienti & Associates $650K Data Breach Settlement — Up to $100 or $5,000",
+   "summary": "Pro rata cash of up to $100, or up to $5,000 in documented losses, plus two years of credit monitoring, for people whose information was involved in the March 2024 Chimienti & Associates email breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata cash of up to $100, or up to $5,000 in documented losses, plus two years of credit monitoring, for people whose information was involved in the March…",
+   "claim_url": "https://chimientidatasettlement.com/",
+   "info_url": "https://openclassactions.com/settlements/data-breaches/chimienti-associates-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#chimienti-and-associates-data-breach"
+   ],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "chimienti",
+    "associate",
+    "650k",
+    "data",
+    "breach",
+    "100",
+    "5",
+    "000"
+   ]
+  },
+  {
    "id": "oca-equifax-credit-score-error-class-action-settlement",
    "title": "Equifax $100M Credit Score Error Settlement — Est. $95 to $280",
    "summary": "An estimated $95 to $280 each for people whose Equifax credit score was misreported during the spring 2022 coding issue.",
@@ -7340,14 +7252,14 @@
   },
   {
    "id": "oca-goodrx-privacy-class-action-settlement",
-   "title": "GoodRx $32M Privacy Settlement — No Proof Needed",
+   "title": "GoodRx $32M Privacy Settlement — Claims Open by Oct. 30",
    "summary": "",
    "category": null,
    "states": [],
    "deadline": "2026-12-29",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
    "payout": "$32M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/privacy/goodrx-privacy-class-action-settlement.php",
@@ -7359,8 +7271,8 @@
     "goodrx",
     "32m",
     "privacy",
-    "proof",
-    "needed"
+    "oct",
+    "30"
    ]
   },
   {
@@ -7729,10 +7641,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "A pro rata share of $7.75 million, based on fees paid, for people who bought tickets to Nevada events on SeatGeek from Nov. 2020 to May 2025.",
-   "claim_url": null,
+   "claim_url": "https://seatgeekticketfeessettlement.com/",
    "info_url": "https://openclassactions.com/settlements/deceptive-pricing/seatgeek-nevada-ticket-fee-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#seatgeek-ticket-fees-nevada"
+   ],
    "added": "2026-10-12",
    "first_seen": "2026-10-12",
    "keywords": [
@@ -7798,6 +7712,34 @@
    ]
   },
   {
+   "id": "oca-arcare-data-breach-settlement",
+   "title": "ARcare $3.9M Data Breach Settlement — $100 or Up to $5,000",
+   "summary": "An estimated $100, or up to $5,000 in documented losses, plus a year of medical data monitoring, for people sent a notice of the 2022 ARcare, Inc. data breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-07",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "An estimated $100, or up to $5,000 in documented losses, plus a year of medical data monitoring, for people sent a notice of the 2022 ARcare, Inc. data breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/arcare-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-21",
+   "first_seen": "2026-10-21",
+   "keywords": [
+    "arcare",
+    "3",
+    "9m",
+    "data",
+    "breach",
+    "100",
+    "5",
+    "000"
+   ]
+  },
+  {
    "id": "oca-washington-gastroenterology-data-breach-class-action-settlement",
    "title": "Washington Gastroenterology Data Breach Settlement — $75 or Up to $4,000",
    "summary": "An estimated $75 with no documentation, or up to $4,000 documented, plus two years of medical record monitoring, for people notified of the 2024 cyberattack.",
@@ -7808,10 +7750,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "An estimated $75 with no documentation, or up to $4,000 documented, plus two years of medical record monitoring, for people notified of the 2024 cyberattack.",
-   "claim_url": null,
+   "claim_url": "https://wagastrodataincidentsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/washington-gastroenterology-data-breach-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#washington-gastroenterology-data-breach"
+   ],
    "added": "2026-10-15",
    "first_seen": "2026-10-15",
    "keywords": [
@@ -7862,10 +7806,12 @@
    "proof": "none",
    "proof_label": "No proof required",
    "payout": "Florida repair fees over $11.95 are paid automatically.",
-   "claim_url": null,
+   "claim_url": "https://costasunglasslitigation.com/",
    "info_url": "https://openclassactions.com/settlements/costa-del-mar-florida-sunglasses-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#costa-sunglasses-florida"
+   ],
    "added": "2026-10-10",
    "first_seen": "2026-10-10",
    "keywords": [
@@ -7876,6 +7822,30 @@
     "75m",
     "florida",
     "sunglasses"
+   ]
+  },
+  {
+   "id": "oca-marex-group-securities-class-action-settlement",
+   "title": "Marex Group $950K Securities Settlement (MRX)",
+   "summary": "A pro rata share of a $950,000 fund for investors who bought Marex Group ordinary shares from Nov. 7, 2024 to Aug. 5, 2025, estimated at about $0.03 a share before fees.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-01-11",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a $950,000 fund for investors who bought Marex Group ordinary shares from Nov. 7, 2024 to Aug. 5, 2025, estimated at about $0.03 a share be…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/marex-group-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "marex",
+    "950k",
+    "security",
+    "mrx"
    ]
   },
   {
@@ -8170,10 +8140,12 @@
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
    "payout": "A share of a $2M fund, in proportion to prize money forfeited, for tennis players who gave up winnings Mar 19, 2020 – Nov 21, 2025",
-   "claim_url": null,
+   "claim_url": "https://www.ncaatennisprizemoneyclassaction.com/",
    "info_url": "https://openclassactions.com/settlements/ncaa-tennis-prize-money-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#ncaa-tennis-prize-money"
+   ],
    "added": "2026-07-09",
    "first_seen": "2026-07-09",
    "keywords": [
@@ -8182,6 +8154,37 @@
     "tennis",
     "prize",
     "money"
+   ]
+  },
+  {
+   "id": "oca-bigelow-tea-made-in-usa-class-action-settlement",
+   "title": "Bigelow Tea $6.5M “Manufactured in the USA” Settlement — Up to $10 Without a Receipt (Claims Not Open Yet)",
+   "summary": "$0.50 a box, up to $10 without a receipt or $20 with one, for California store buyers of nine Bigelow teas labeled “Manufactured in the USA” from Oct. 17, 2017 to July 31, 2023. Claim form not open yet.",
+   "category": "Consumer Products",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2027-02-08",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$0.50 a box, up to $10 without a receipt or $20 with one, for California store buyers of nine Bigelow teas labeled “Manufactured in the USA” from Oct. 17, 2017…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/false-advertising/bigelow-tea-made-in-usa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "bigelow",
+    "tea",
+    "6",
+    "5m",
+    "manufactured",
+    "10",
+    "without",
+    "receipt",
+    "yet"
    ]
   },
   {
@@ -8248,10 +8251,12 @@
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
    "payout": "Up to $4.25M",
-   "claim_url": null,
+   "claim_url": "https://adamsautosettlement.com/",
    "info_url": "https://openclassactions.com/settlements/automotive/adams-toyota-resistall-enviroguard-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [],
+   "also_listed_at": [
+    "https://www.classaction.org/settlements#adams-toyota-enviroguard"
+   ],
    "added": "2026-10-15",
    "first_seen": "2026-10-15",
    "keywords": [
@@ -8603,6 +8608,35 @@
     "airbag",
     "control",
     "unit"
+   ]
+  },
+  {
+   "id": "oca-yasmin-yaz-canada-class-action-settlement",
+   "title": "Yasmin & YAZ Canada Settlement — $9.05 Million CAD, Up to $13,500 CAD",
+   "summary": "Pro rata payments of up to $9,000 CAD for a blood clot, $4,500 CAD for a stroke or heart attack and $500 CAD for gallbladder disease, for Canadians who took branded Yasmin or YAZ; medical and pharmacy records required.",
+   "category": "Mass Tort",
+   "states": [],
+   "deadline": "2027-04-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Pro rata payments of up to $9,000 CAD for a blood clot, $4,500 CAD for a stroke or heart attack and $500 CAD for gallbladder disease, for Canadians who took br…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pharmaceuticals/yasmin-yaz-canada-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "yasmin",
+    "yaz",
+    "canada",
+    "9",
+    "05",
+    "million",
+    "cad",
+    "13",
+    "500"
    ]
   },
   {
@@ -8988,7 +9022,7 @@
   {
    "id": "oca-consumer-fragrances-class-action-settlement",
    "title": "$11M Fragrance End-User Antitrust Class Action Settlement",
-   "summary": "Claims not open yet · register for updates",
+   "summary": "Final approval granted Sept. 16, 2026 · claims not open yet · register for updates",
    "category": "Antitrust",
    "states": [],
    "deadline": null,
@@ -9582,6 +9616,36 @@
    ]
   },
   {
+   "id": "oca-city-of-raleigh-capital-facilities-fee-class-action-settlement",
+   "title": "City of Raleigh $26.2M Capital Facilities Fee Settlement — Automatic Refunds",
+   "summary": "Automatic checks, estimated at about 105% of fees paid, for anyone who paid Raleigh water or sewer capital facilities fees from January 12, 2016 to June 30, 2018.",
+   "category": "Government",
+   "states": [
+    "NC"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$26.2M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/city-of-raleigh-capital-facilities-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "city",
+    "raleigh",
+    "26",
+    "2m",
+    "capital",
+    "facility",
+    "fee",
+    "refund"
+   ]
+  },
+  {
    "id": "oca-cognizant-401k-erisa-class-action-settlement",
    "title": "Cognizant 401(k) $2.8M ERISA Settlement — Awaiting Approval",
    "summary": "A proposed $2.8 million pro rata settlement for Cognizant Technology Solutions 401(k) Savings Plan participants since December 2014, paid automatically if approved.",
@@ -10028,6 +10092,32 @@
     "000",
     "plus",
     "refund"
+   ]
+  },
+  {
+   "id": "oca-guitar-center-wage-and-hour-class-action-settlement",
+   "title": "Guitar Center $2.4M Wage and Hour Class Action Settlement",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$2.4M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/guitar-center-wage-and-hour-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-12",
+   "keywords": [
+    "guitar",
+    "center",
+    "2",
+    "4m",
+    "wage",
+    "hour"
    ]
   },
   {
@@ -10480,11 +10570,10 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "A flat $40 check and three years of credit monitoring, paid automatically to about 526 people notified of the January 2025 breach at the Syracuse law firm.",
-   "claim_url": "https://chimientidatasettlement.com/",
+   "claim_url": "https://olinskydatasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/olinsky-associates-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#chimienti-and-associates-data-breach",
     "https://www.classaction.org/settlements#olinsky-and-associates-data-breach"
    ],
    "added": "2026-09-17",
@@ -10494,8 +10583,7 @@
     "associate",
     "data",
     "breach",
-    "40",
-    "chimienti"
+    "40"
    ]
   },
   {
@@ -10630,6 +10718,31 @@
     "magazine",
     "lifetime",
     "subscriber"
+   ]
+  },
+  {
+   "id": "oca-smith-nephew-401k-erisa-class-action-settlement",
+   "title": "Smith & Nephew $350K 401(k) ERISA Settlement",
+   "summary": "pro rata share of a $350,000 fund, based on your average Plan account balance · automatic payment, no claim form · participants in and beneficiaries of the Smith & Nephew U.S. Savings Plan (Aug 30, 2018 – May 13, 2026) · alleged ERISA excessive managed-account fees",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "pro rata share of a $350,000 fund, based on your average Plan account balance",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/employment/erisa/smith-nephew-401k-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-07-30",
+   "first_seen": "2026-07-30",
+   "keywords": [
+    "smith",
+    "nephew",
+    "350k",
+    "401",
+    "erisa"
    ]
   },
   {
