@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-21T14:30:38.382Z",
+ "generated_at": "2026-10-22T14:32:31.602Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 402,
+ "count": 407,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -574,66 +574,10 @@
    ]
   },
   {
-   "id": "oca-dap-health-data-breach-settlement",
-   "title": "DAP Health Data Breach Class Action Settlement ($1.3M)",
-   "summary": "a pro rata cash payment estimated at $25, an extra $75 for people who were California residents on July 22, 2024, and up to $5,000 documented, plus two years of credit and medical record monitoring",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-21",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a pro rata cash payment estimated at $25, an extra $75 for people who were California residents on July 22, 2024, and up to $5,000 documented, plus two years o…",
-   "claim_url": "https://dapdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/dap-health-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#dap-health-data-breach"
-   ],
-   "added": "2026-08-18",
-   "first_seen": "2026-08-18",
-   "keywords": [
-    "dap",
-    "health",
-    "data",
-    "breach",
-    "1",
-    "3m"
-   ]
-  },
-  {
-   "id": "oca-dartmouth-oracle-ebs-data-breach-settlement",
-   "title": "Dartmouth Oracle EBS Data Breach Settlement — $75 or Up to $5,000",
-   "summary": "An estimated $75 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Dartmouth notified of the Oracle EBS data incident.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-21",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "An estimated $75 with no documentation, or up to $5,000 documented, plus two years of credit monitoring, for people Dartmouth notified of the Oracle EBS data i…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/dartmouth-oracle-ebs-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-21",
-   "first_seen": "2026-09-21",
-   "keywords": [
-    "dartmouth",
-    "oracle",
-    "ebs",
-    "data",
-    "breach",
-    "75",
-    "5",
-    "000"
-   ]
-  },
-  {
    "id": "oca-mercurys-coffee-washington-job-postings-class-action-settlement",
-   "title": "Mercurys Coffee $450,000 Washington Job Postings Class Action Settlement",
-   "summary": "equal share of a $450,000 fund, estimated $73.31 · automatic payment, no claim form · WA applicants to Mercurys Madness Inc. (Mercurys Coffee Co.) (Jan 2023 – Aug 2026) whose postings omitted pay or benefits",
-   "category": "Employment",
+   "title": "Mercurys Coffee Washington Job Postings Settlement — Est. $73.31, Automatic Payment",
+   "summary": "",
+   "category": "Job Postings (Washington)",
    "states": [
     "WA"
    ],
@@ -641,7 +585,7 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "equal share of a $450,000 fund, estimated $73.31",
+   "payout": "Varies",
    "claim_url": "https://epoasettlementmmi.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/mercurys-coffee-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
@@ -653,45 +597,35 @@
    "keywords": [
     "mercury",
     "coffee",
-    "450",
-    "000",
     "washington",
     "job",
     "posting",
+    "est",
+    "73",
+    "31",
     "madness"
    ]
   },
   {
-   "id": "oca-playstudios-myvegas-social-casino-class-action-settlement",
-   "title": "Playstudios myVEGAS Social Casino Class Action Settlement",
-   "summary": "free coins automatically, or a cash payment of 23% of your net spend in myVEGAS, Pop! Slots, myKONAMI or MGM Slots Live if you elect it",
-   "category": "Consumer Products",
-   "states": [
-    "AL",
-    "OH",
-    "NJ",
-    "MA",
-    "TN",
-    "KY"
-   ],
+   "id": "ca-settlements-myvegas-games",
+   "title": "myVEGAS, Playstudios Games Class Action Settlement",
+   "summary": "You may be included in this settlement if you spent money to play myVEGAS Facebook, myVEGAS Mobile, Pop! Slots, myKONAMI Slots, MGM Slots Live, myVEGAS Blackjack, or myVEGAS Bingo in Alabama, Tennessee, Kentucky, Ohio, New Jersey, or Massachusetts.",
+   "category": null,
+   "states": [],
    "deadline": "2026-10-21",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
    "payout": "Varies",
    "claim_url": "https://www.gamingappsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/playstudios-myvegas-social-casino-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#myvegas-games"
-   ],
-   "added": "2026-09-23",
-   "first_seen": "2026-09-23",
+   "info_url": "https://www.classaction.org/settlements#myvegas-games",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-22",
    "keywords": [
-    "playstudio",
     "myvega",
-    "social",
-    "casino",
+    "playstudio",
     "game"
    ]
   },
@@ -789,7 +723,6 @@
    "info_url": "https://openclassactions.com/settlements/lands-end-data-breach-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#lands-end-data-breach",
     "https://www.classaction.org/settlements#lands-end-data-breach"
    ],
    "added": null,
@@ -1344,7 +1277,8 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/highland-health-systems-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#highland-health-systems-data-breach"
+    "https://www.classaction.org/settlements#highland-health-systems-data-breach",
+    "https://www.classaction.org/settlements#dap-health-data-breach"
    ],
    "added": "2026-09-18",
    "first_seen": "2026-09-18",
@@ -1353,7 +1287,8 @@
     "health",
     "system",
     "data",
-    "breach"
+    "breach",
+    "dap"
    ]
   },
   {
@@ -1433,31 +1368,6 @@
     "995m",
     "data",
     "breach"
-   ]
-  },
-  {
-   "id": "oca-acct-holdings-esop-erisa-class-action-settlement",
-   "title": "ACCT Holdings ESOP $8.75M ERISA Class Action Settlement",
-   "summary": "a pro rata share of $3M in cash plus a $5.75M debt reduction meant to lift share value, for vested ACCT Holdings ESOP participants and beneficiaries — no claim form and no opt-out",
-   "category": "Retirement Plans",
-   "states": [],
-   "deadline": "2026-10-29",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "a pro rata share of $3M in cash plus a $5.75M debt reduction meant to lift share value, for vested ACCT Holdings ESOP participants and beneficiaries — no claim…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/erisa/acct-holdings-esop-erisa-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-27",
-   "first_seen": "2026-08-27",
-   "keywords": [
-    "acct",
-    "esop",
-    "8",
-    "75m",
-    "erisa"
    ]
   },
   {
@@ -4152,6 +4062,34 @@
    ]
   },
   {
+   "id": "oca-michigan-tax-foreclosure-surplus-proceeds-class-action-settlement",
+   "title": "Michigan Tax Foreclosure Surplus Settlement — 28 Counties",
+   "summary": "About 125% of the surplus, minus fees, for former owners whose property one of 28 Michigan counties sold at a 2013–2020 tax-foreclosure auction for more than was owed.",
+   "category": "Government",
+   "states": [
+    "MI"
+   ],
+   "deadline": "2026-11-23",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/michigan-tax-foreclosure-surplus-proceeds-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "keywords": [
+    "michigan",
+    "tax",
+    "foreclosure",
+    "surplus",
+    "28",
+    "county"
+   ]
+  },
+  {
    "id": "oca-vasindas-around-the-clock-care-data-breach-settlement",
    "title": "Vasindas' Around the Clock Care Data Breach Class Action Settlement",
    "summary": "a flat $70 with no proof, or up to $2,500 in documented out-of-pocket losses instead, plus two years of medical identity monitoring either way, for people notified of the cyberattack on the Bakersfield in-home senior and dementia care provider",
@@ -4462,6 +4400,31 @@
     "solution",
     "stockholder",
     "aesi"
+   ]
+  },
+  {
+   "id": "oca-acct-holdings-esop-erisa-class-action-settlement",
+   "title": "ACCT Holdings ESOP $8.75M ERISA Class Action Settlement",
+   "summary": "a pro rata share of $3M in cash plus a $5.75M debt reduction meant to lift share value, for vested ACCT Holdings ESOP participants and beneficiaries — no claim form and no opt-out",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-11-25",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "a pro rata share of $3M in cash plus a $5.75M debt reduction meant to lift share value, for vested ACCT Holdings ESOP participants and beneficiaries — no claim…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/acct-holdings-esop-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-08-27",
+   "first_seen": "2026-08-27",
+   "keywords": [
+    "acct",
+    "esop",
+    "8",
+    "75m",
+    "erisa"
    ]
   },
   {
@@ -5568,7 +5531,7 @@
    "info_url": "https://openclassactions.com/settlements/erisa/starbucks-cobra-notice-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#starbucks-welfare-benefits"
+    "https://www.classaction.org/settlements#starbucks-welfare-benefits-plan"
    ],
    "added": "2026-10-15",
    "first_seen": "2026-10-15",
@@ -5657,6 +5620,7 @@
    "info_url": "https://openclassactions.com/settlements/deceptive-pricing/aramark-capital-one-arena-venue-fee-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
+    "https://www.classaction.org/settlements#capital-one-arena-concessions",
     "https://www.classaction.org/settlements#capital-one-arena-concessions"
    ],
    "added": "2026-10-03",
@@ -5670,6 +5634,36 @@
     "5m",
     "venue",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-assa-abloy-washington-job-postings-class-action-settlement",
+   "title": "Assa Abloy Washington Job Postings Settlement — Est. $1,588",
+   "summary": "An equal share, estimated at about $1,588, for people who applied to Assa Abloy and related companies’ Washington jobs whose postings left out the pay range (Jan 2023 – July 2025).",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-04",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share, estimated at about $1,588, for people who applied to Assa Abloy and related companies’ Washington jobs whose postings left out the pay range (J…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/assa-abloy-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "keywords": [
+    "assa",
+    "abloy",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "1",
+    "588"
    ]
   },
   {
@@ -6433,6 +6427,34 @@
    ]
   },
   {
+   "id": "oca-simplilearn-vppa-video-privacy-class-action-settlement",
+   "title": "Simplilearn $3M Video Privacy Settlement — Equal Share, Claim by Dec. 15",
+   "summary": "An equal share of a $3 million fund for U.S. Simplilearn account holders who watched a pre-recorded video on the website or app from February 26, 2023 to September 16, 2026.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2026-12-15",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $3 million fund for U.S.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/vppa/simplilearn-vppa-video-privacy-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "keywords": [
+    "simplilearn",
+    "3m",
+    "video",
+    "privacy",
+    "equal",
+    "share",
+    "dec",
+    "15"
+   ]
+  },
+  {
    "id": "oca-national-holdings-stockholder-class-action-settlement",
    "title": "National Holdings $4.35M Stockholder Settlement",
    "summary": "About $0.60 a share before fees for stockholders cashed out at $3.25 a share in the February 2021 B. Riley buyout of National Holdings.",
@@ -6517,13 +6539,13 @@
   {
    "id": "ca-settlements-ahs-management-company-wages",
    "title": "AHS Management Company - Wages Class Action Settlement",
-   "summary": "You may be included in this settlement if you worked for AHS Management Company as a non-exempt employee between December 11, 2021 to February 17, 2022.",
+   "summary": "You may be included in this settlement if you worked for AHS Management Company (doing business as Ardent Health), BSA Health System Management or their affiliated entities as a non-exempt employee between December 11, 2021 to February 17, 2022.",
    "category": "Wages",
    "states": [],
    "deadline": "2026-12-18",
    "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
+   "proof": "none",
+   "proof_label": "No proof required",
    "payout": "Varies",
    "claim_url": "https://ardentkronoswagesettlement.com/",
    "info_url": "https://www.classaction.org/settlements#ahs-management-company-wages",
@@ -7405,6 +7427,35 @@
    ]
   },
   {
+   "id": "oca-healthport-datavant-insurance-underwriting-medical-records-fees-settlement",
+   "title": "HealthPort/Datavant Insurance Underwriting Medical Records Fee Settlement",
+   "summary": "67.5% of the alleged overcharge on Pennsylvania medical records HealthPort supplied for life or health insurance applications, December 17, 2009 to July 23, 2026.",
+   "category": "Fees & Billing",
+   "states": [
+    "PA"
+   ],
+   "deadline": "2026-12-31",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/healthport-datavant-insurance-underwriting-medical-records-fees-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "keywords": [
+    "healthport",
+    "datavant",
+    "insurance",
+    "underwriting",
+    "medical",
+    "record",
+    "fee"
+   ]
+  },
+  {
    "id": "oca-roseland-community-hospital-data-breach-settlement",
    "title": "Roseland Community Hospital Data Breach Settlement — $50 or Up to $5,000",
    "summary": "An estimated $50, up to $5,000 in documented losses and a year of medical records monitoring for people Roseland Community Hospital notified about its June 2024 data incident.",
@@ -7874,6 +7925,35 @@
    ]
   },
   {
+   "id": "oca-vida-y-salud-health-systems-data-breach-settlement",
+   "title": "Vida Y Salud-Health Systems $500K Data Breach Settlement — $50 or Up to $3,580",
+   "summary": "A $50 payment, or up to $3,500 in documented losses and $80 for lost time, plus two years of medical identity monitoring, for people affected by the October 2025 Vida Y Salud data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-18",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $50 payment, or up to $3,500 in documented losses and $80 for lost time, plus two years of medical identity monitoring, for people affected by the October 20…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/vida-y-salud-health-systems-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "keywords": [
+    "vida",
+    "saludhealth",
+    "system",
+    "500k",
+    "data",
+    "breach",
+    "50",
+    "3",
+    "580"
+   ]
+  },
+  {
    "id": "oca-davita-ransomware-data-breach-settlement",
    "title": "DaVita $10M Ransomware Data Breach Class Action Settlement",
    "summary": "An estimated $50 cash, up to $2,500 in documented losses and three years of credit monitoring for about 2.39 million people whose information was exposed in the April 2025 DaVita ransomware attack.",
@@ -7896,6 +7976,37 @@
     "ransomware",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-kisco-senior-living-data-breach-settlement",
+   "title": "Kisco Senior Living $1.8M Data Breach Settlement — Cash, $250 for Californians, Up to $10,000",
+   "summary": "Residual cash, a $250 California payment, up to $10,000 in documented losses and three years of credit monitoring for people notified of the June 2023 Kisco Senior Living data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-19",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Residual cash, a $250 California payment, up to $10,000 in documented losses and three years of credit monitoring for people notified of the June 2023 Kisco Se…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/kisco-senior-living-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "keywords": [
+    "kisco",
+    "senior",
+    "living",
+    "1",
+    "8m",
+    "data",
+    "breach",
+    "250",
+    "californian",
+    "10",
+    "000"
    ]
   },
   {
@@ -7923,6 +8034,36 @@
     "pip",
     "latepayment",
     "6m"
+   ]
+  },
+  {
+   "id": "oca-warner-music-group-data-breach-settlement",
+   "title": "Warner Music Group $1.25M Data Breach Settlement — Est. $50, $100 in California",
+   "summary": "An estimated $50, or $100 for California residents, for people whose payment card information may have been exposed on Warner Music Group subsidiaries’ online stores between April 25 and August 5, 2020.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-22",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $50, or $100 for California residents, for people whose payment card information may have been exposed on Warner Music Group subsidiaries’ online…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/warner-music-group-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "keywords": [
+    "warner",
+    "music",
+    "1",
+    "25m",
+    "data",
+    "breach",
+    "est",
+    "50",
+    "100",
+    "california"
    ]
   },
   {
