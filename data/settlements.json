@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-22T14:32:31.602Z",
+ "generated_at": "2026-10-23T14:15:59.949Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 407,
+ "count": 405,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -630,103 +630,70 @@
    ]
   },
   {
-   "id": "oca-americold-data-breach-settlement",
-   "title": "Americold Data Breach Class Action Settlement",
-   "summary": "an estimated $200 or $100 in residual cash and/or up to $25,000 documented, plus 3 years of credit monitoring · current and former Americold employees and job applicants notified of the 2020 or 2023 data incidents",
-   "category": "Data Breach",
+   "id": "ca-settlements-americold-logistics-data-breaches",
+   "title": "Americold Logistics - Data Breaches Class Action Settlement",
+   "summary": "You may be included in this settlement if your information was exposed in an Americold Logistics data breach in 2020 or 2023.",
+   "category": "Data Breaches",
    "states": [],
    "deadline": "2026-10-22",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $200 or $100 in residual cash and/or up to $25,000 documented, plus 3 years of credit monitoring",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$100 - $25,000",
    "claim_url": "https://americoldbracysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/americold-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#americold-logistics-data-breaches"
-   ],
-   "added": "2026-08-16",
-   "first_seen": "2026-08-16",
+   "info_url": "https://www.classaction.org/settlements#americold-logistics-data-breaches",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-23",
    "keywords": [
     "americold",
+    "logistic",
     "data",
-    "breach",
-    "logistic"
+    "breach"
    ]
   },
   {
-   "id": "oca-efs-advisors-aviben-data-breach-settlement",
-   "title": "EFS Advisors & Aviben Data Breach Class Action Settlement",
-   "summary": "a flat $50 with no documentation, or up to $2,500 in documented losses instead, plus a year of three-bureau credit monitoring",
+   "id": "ca-settlements-efs-advisors-data-breach",
+   "title": "EFS Advisors - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was exposed in the February 2024 data breach affecting EFS Advisors and Aviben.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-22",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat $50 with no documentation, or up to $2,500 in documented losses instead, plus a year of three-bureau credit monitoring",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$50 - $2,500",
    "claim_url": "https://www.efsdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/efs-advisors-aviben-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#efs-advisors-data-breach"
-   ],
-   "added": "2026-08-24",
-   "first_seen": "2026-08-24",
+   "info_url": "https://www.classaction.org/settlements#efs-advisors-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-23",
    "keywords": [
     "efs",
     "advisor",
-    "aviben",
     "data",
     "breach"
    ]
   },
   {
-   "id": "oca-highlands-oncology-group-data-breach-settlement",
-   "title": "Highlands Oncology Data Breach Class Action Settlement",
-   "summary": "three years of medical data monitoring plus either a flat $50 with no documentation or up to $4,250 in documented losses, for people notified of the June 2025 cyberattack",
+   "id": "ca-settlements-lands-end-data-breach",
+   "title": "Lands’ End - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your information was compromised in the December 2024 Lands’ End data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-22",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "three years of medical data monitoring plus either a flat $50 with no documentation or up to $4,250 in documented losses, for people notified of the June 2025…",
-   "claim_url": "https://highlandsoncologysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/highlands-oncology-group-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#highlands-oncology-group-data-breach"
-   ],
-   "added": "2026-08-24",
-   "first_seen": "2026-08-24",
-   "keywords": [
-    "highland",
-    "oncology",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-lands-end-data-breach-class-action-settlement",
-   "title": "Lands’ End Data Breach Class Action Settlement",
-   "summary": "~$60 cash or up to $5,000 documented + credit monitoring · Login ID & PIN required",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-22",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "~$60 cash or up to $5,000 documented + credit monitoring",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$60 - $5,000",
    "claim_url": "https://landsenddatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/lands-end-data-breach-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#lands-end-data-breach"
-   ],
+   "info_url": "https://www.classaction.org/settlements#lands-end-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-10-12",
+   "first_seen": "2026-10-23",
    "keywords": [
     "land",
     "end",
@@ -735,60 +702,27 @@
    ]
   },
   {
-   "id": "oca-palomar-health-medical-group-data-breach-settlement",
-   "title": "Palomar Health Medical Group $3.1M Data Breach Class Action Settlement",
-   "summary": "an estimated $60 with no documentation, or up to $5,000 documented instead, plus two years of credit monitoring claimable on its own or alongside either cash option",
-   "category": "Data Breach",
+   "id": "ca-settlements-waste-connections-rate-increases",
+   "title": "Waste Connections - Rate Increases Class Action Settlement",
+   "summary": "You may be included in this settlement if you arranged for or received solid waste collection services from Waste Connections before mid 2026.",
+   "category": "Rate Increases",
    "states": [],
    "deadline": "2026-10-22",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $60 with no documentation, or up to $5,000 documented instead, plus two years of credit monitoring claimable on its own or alongside either cash o…",
-   "claim_url": "https://www.phmgdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/palomar-health-medical-group-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#palomar-health-medical-group-data-breach"
-   ],
-   "added": "2026-08-30",
-   "first_seen": "2026-08-30",
-   "keywords": [
-    "palomar",
-    "health",
-    "medical",
-    "3",
-    "1m",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-waste-connections-rate-increase-fuel-surcharge-class-action-settlement",
-   "title": "Waste Connections $1.4M Commercial Billing Class Action Settlement",
-   "summary": "a pro rata share of a $1.4M fund for businesses, non-profits and public bodies billed rate increases and fuel surcharges on a commercial trash account",
-   "category": "Fees & Billing",
-   "states": [],
-   "deadline": "2026-10-22",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a pro rata share of a $1.4M fund for businesses, non-profits and public bodies billed rate increases and fuel surcharges on a commercial trash account",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://pinnaclewastesettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/waste-connections-rate-increase-fuel-surcharge-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#waste-connections-rate-increases"
-   ],
-   "added": "2026-08-27",
-   "first_seen": "2026-08-27",
+   "info_url": "https://www.classaction.org/settlements#waste-connections-rate-increases",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-23",
    "keywords": [
     "waste",
     "connection",
-    "1",
-    "4m",
-    "commercial",
-    "billing"
+    "rate",
+    "increase"
    ]
   },
   {
@@ -1278,6 +1212,7 @@
    "source": "openclassactions",
    "also_listed_at": [
     "https://www.classaction.org/settlements#highland-health-systems-data-breach",
+    "https://www.classaction.org/settlements#highlands-oncology-group-data-breach",
     "https://www.classaction.org/settlements#dap-health-data-breach"
    ],
    "added": "2026-09-18",
@@ -1288,6 +1223,7 @@
     "system",
     "data",
     "breach",
+    "oncology",
     "dap"
    ]
   },
@@ -2219,7 +2155,8 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/summit-medical-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#summit-medical-group-data-breach"
+    "https://www.classaction.org/settlements#summit-medical-group-data-breach",
+    "https://www.classaction.org/settlements#palomar-health-medical-group-data-breach"
    ],
    "added": "2026-08-25",
    "first_seen": "2026-08-25",
@@ -2227,7 +2164,9 @@
     "summit",
     "medical",
     "data",
-    "breach"
+    "breach",
+    "palomar",
+    "health"
    ]
   },
   {
