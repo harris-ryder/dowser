@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-23T14:15:59.949Z",
+ "generated_at": "2026-10-24T13:21:45.981Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 405,
+ "count": 408,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -498,53 +498,6 @@
    ]
   },
   {
-   "id": "ca-settlements-altrua-ministries-unwanted-calls",
-   "title": "Altrua Ministries - Unwanted Calls Class Action Settlement",
-   "summary": "You may be included in this settlement if you received a prerecorded call from Altrua HealthShare between December 2, 2024 and December 11, 2024.",
-   "category": "Unwanted Calls",
-   "states": [],
-   "deadline": "2026-10-20",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $700",
-   "claim_url": "https://altruacrowntcpasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#altrua-ministries-unwanted-calls",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-21",
-   "keywords": [
-    "altrua",
-    "ministry",
-    "unwanted",
-    "call"
-   ]
-  },
-  {
-   "id": "ca-settlements-vsl-pharmaceuticals-probiotics",
-   "title": "VSL Pharmaceuticals - Probiotics Class Action Settlement",
-   "summary": "You may be included in this settlement if you purchased VSL#3 between June 1, 2016 and June 19, 2019.",
-   "category": "Probiotics",
-   "states": [],
-   "deadline": "2026-10-20",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$20 Per Unit",
-   "claim_url": "https://www.vsl3lawsuit.com/",
-   "info_url": "https://www.classaction.org/settlements#vsl-pharmaceuticals-probiotics",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-21",
-   "keywords": [
-    "vsl",
-    "pharmaceutical",
-    "probiotic"
-   ]
-  },
-  {
    "id": "oca-aion-management-virginia-apartment-fees-class-action-settlement",
    "title": "AION Management Virginia Apartment Fee Class Action Settlement ($776,628)",
    "summary": "automatic payment, no claim form — about $141 by check for renters billed a pest, trash, amenity or administrative fee at six AION-managed Virginia apartment complexes",
@@ -577,7 +530,7 @@
    "id": "oca-mercurys-coffee-washington-job-postings-class-action-settlement",
    "title": "Mercurys Coffee Washington Job Postings Settlement — Est. $73.31, Automatic Payment",
    "summary": "",
-   "category": "Job Postings (Washington)",
+   "category": null,
    "states": [
     "WA"
    ],
@@ -585,13 +538,11 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "Varies",
-   "claim_url": "https://epoasettlementmmi.com/",
+   "payout": null,
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/mercurys-coffee-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#mercurys-madness-job-postings-washington"
-   ],
+   "also_listed_at": [],
    "added": "2026-09-29",
    "first_seen": "2026-09-29",
    "keywords": [
@@ -602,134 +553,14 @@
     "posting",
     "est",
     "73",
-    "31",
-    "madness"
-   ]
-  },
-  {
-   "id": "ca-settlements-myvegas-games",
-   "title": "myVEGAS, Playstudios Games Class Action Settlement",
-   "summary": "You may be included in this settlement if you spent money to play myVEGAS Facebook, myVEGAS Mobile, Pop! Slots, myKONAMI Slots, MGM Slots Live, myVEGAS Blackjack, or myVEGAS Bingo in Alabama, Tennessee, Kentucky, Ohio, New Jersey, or Massachusetts.",
-   "category": null,
-   "states": [],
-   "deadline": "2026-10-21",
-   "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "Varies",
-   "claim_url": "https://www.gamingappsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#myvegas-games",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-22",
-   "keywords": [
-    "myvega",
-    "playstudio",
-    "game"
-   ]
-  },
-  {
-   "id": "ca-settlements-americold-logistics-data-breaches",
-   "title": "Americold Logistics - Data Breaches Class Action Settlement",
-   "summary": "You may be included in this settlement if your information was exposed in an Americold Logistics data breach in 2020 or 2023.",
-   "category": "Data Breaches",
-   "states": [],
-   "deadline": "2026-10-22",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$100 - $25,000",
-   "claim_url": "https://americoldbracysettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#americold-logistics-data-breaches",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-23",
-   "keywords": [
-    "americold",
-    "logistic",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-efs-advisors-data-breach",
-   "title": "EFS Advisors - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your personal information was exposed in the February 2024 data breach affecting EFS Advisors and Aviben.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-22",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$50 - $2,500",
-   "claim_url": "https://www.efsdatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#efs-advisors-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-23",
-   "keywords": [
-    "efs",
-    "advisor",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-lands-end-data-breach",
-   "title": "Lands’ End - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your information was compromised in the December 2024 Lands’ End data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-22",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$60 - $5,000",
-   "claim_url": "https://landsenddatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#lands-end-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-23",
-   "keywords": [
-    "land",
-    "end",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-waste-connections-rate-increases",
-   "title": "Waste Connections - Rate Increases Class Action Settlement",
-   "summary": "You may be included in this settlement if you arranged for or received solid waste collection services from Waste Connections before mid 2026.",
-   "category": "Rate Increases",
-   "states": [],
-   "deadline": "2026-10-22",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://pinnaclewastesettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#waste-connections-rate-increases",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-23",
-   "keywords": [
-    "waste",
-    "connection",
-    "rate",
-    "increase"
+    "31"
    ]
   },
   {
    "id": "oca-cosco-fire-protection-washington-job-postings-class-action-settlement",
-   "title": "Cosco Fire Protection $332,000 Washington Job Postings Class Action Settlement",
-   "summary": "equal share of a $332,000 fund, estimated $1,264.46 · automatic payment, no claim form · WA applicants to Cosco Fire Protection (Jan 2023 – Jul 2025) whose postings omitted the pay range",
-   "category": "Employment",
+   "title": "Cosco Fire Protection Washington Job Postings Settlement — Est. $1,264.46, Automatic Payment",
+   "summary": "",
+   "category": "Job Postings (Washington)",
    "states": [
     "WA"
    ],
@@ -737,7 +568,7 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "equal share of a $332,000 fund, estimated $1,264.46",
+   "payout": "$1,264.46",
    "claim_url": "https://epoasettlementcfpi.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/cosco-fire-protection-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
@@ -750,68 +581,38 @@
     "cosco",
     "fire",
     "protection",
-    "332",
-    "000",
     "washington",
     "job",
-    "posting"
+    "posting",
+    "est",
+    "1",
+    "264",
+    "46"
    ]
   },
   {
-   "id": "oca-equinox-data-breach-settlement",
-   "title": "Equinox Data Breach Settlement",
-   "summary": "up to $5,000 documented losses and/or an estimated $100 pro rata cash payment, plus up to 3 years of credit monitoring · ~$685,000 fund · anyone notified of the Apr 2024 Equinox data incident · Notice ID & Confirmation Code needed to file online",
-   "category": "Data Breach",
+   "id": "ca-settlements-pineda-inn-bar-and-grill-wages",
+   "title": "Pineda Inn Bar & Grill - Wages Class Action Settlement",
+   "summary": "You may be included in this settlement if you worked for Pineda Inn Bar & Grill as tipped staff and had a “tip credit” applied to your hourly wage between April 2021 and August 2023.",
+   "category": "Wages",
    "states": [],
    "deadline": "2026-10-23",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $5,000 documented losses and/or an estimated $100 pro rata cash payment, plus up to 3 years of credit monitoring",
-   "claim_url": "https://www.equinoxincsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/privacy/equinox-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#equinox-data-breach"
-   ],
-   "added": "2026-07-27",
-   "first_seen": "2026-07-27",
-   "keywords": [
-    "equinox",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-pineda-inn-tip-credit-class-action-settlement",
-   "title": "Pineda Inn Bar & Grill Tip Credit Settlement — $2 Per Hour",
-   "summary": "$2 per covered hour for former tipped staff at the Brevard County, Florida restaurant who had a tip credit applied from April 2021 through August 2023.",
-   "category": "Employment",
-   "states": [
-    "FL"
-   ],
-   "deadline": "2026-10-23",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$2 per covered hour for former tipped staff at the Brevard County, Florida restaurant who had a tip credit applied from April 2021 through August 2023.",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://www.pinedainnsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/pineda-inn-tip-credit-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#pineda-inn-bar-and-grill-wages"
-   ],
-   "added": "2026-10-10",
-   "first_seen": "2026-10-10",
+   "info_url": "https://www.classaction.org/settlements#pineda-inn-bar-and-grill-wages",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-24",
    "keywords": [
     "pineda",
     "inn",
     "bar",
     "grill",
-    "tip",
-    "credit",
-    "2",
-    "hour"
+    "wage"
    ]
   },
   {
@@ -1211,9 +1012,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/highland-health-systems-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#highland-health-systems-data-breach",
-    "https://www.classaction.org/settlements#highlands-oncology-group-data-breach",
-    "https://www.classaction.org/settlements#dap-health-data-breach"
+    "https://www.classaction.org/settlements#highland-health-systems-data-breach"
    ],
    "added": "2026-09-18",
    "first_seen": "2026-09-18",
@@ -1222,9 +1021,7 @@
     "health",
     "system",
     "data",
-    "breach",
-    "oncology",
-    "dap"
+    "breach"
    ]
   },
   {
@@ -2155,8 +1952,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/summit-medical-group-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#summit-medical-group-data-breach",
-    "https://www.classaction.org/settlements#palomar-health-medical-group-data-breach"
+    "https://www.classaction.org/settlements#summit-medical-group-data-breach"
    ],
    "added": "2026-08-25",
    "first_seen": "2026-08-25",
@@ -2164,9 +1960,7 @@
     "summit",
     "medical",
     "data",
-    "breach",
-    "palomar",
-    "health"
+    "breach"
    ]
   },
   {
@@ -3300,14 +3094,16 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/onetouchpoint-data-breach-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#onetouchpoint-data-breach"
+    "https://www.classaction.org/settlements#onetouchpoint-data-breach",
+    "https://www.classaction.org/settlements#equinox-data-breach"
    ],
    "added": "2026-09-08",
    "first_seen": "2026-09-08",
    "keywords": [
     "onetouchpoint",
     "data",
-    "breach"
+    "breach",
+    "equinox"
    ]
   },
   {
@@ -3337,6 +3133,34 @@
     "health",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-savannah-ready-mix-concrete-price-fixing-settlement",
+   "title": "Savannah Ready-Mix Concrete Price-Fixing Settlements — $19M+",
+   "summary": "A pro rata share of the funds for people and businesses that bought ready-mix concrete directly from listed Savannah-area plants from 2010 to 2016.",
+   "category": "Antitrust",
+   "states": [
+    "GA",
+    "SC"
+   ],
+   "deadline": "2026-11-16",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$19M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/antitrust/savannah-ready-mix-concrete-price-fixing-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "keywords": [
+    "savannah",
+    "readymix",
+    "concrete",
+    "pricefixing",
+    "19m"
    ]
   },
   {
@@ -5483,6 +5307,35 @@
    ]
   },
   {
+   "id": "oca-fertility-centers-of-illinois-pixel-tracking-class-action-settlement",
+   "title": "Fertility Centers of Illinois $375K Website Tracking Settlement — Est. $30 to $60",
+   "summary": "An estimated $30 to $60 for people in the U.S. who used the Fertility Centers of Illinois website, fcionline.com, from September 2020 through 2024.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2026-12-03",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $30 to $60 for people in the U.S. who used the Fertility Centers of Illinois website, fcionline.com, from September 2020 through 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pixel-tracking/fertility-centers-of-illinois-pixel-tracking-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "keywords": [
+    "fertility",
+    "center",
+    "illinois",
+    "375k",
+    "website",
+    "tracking",
+    "est",
+    "30",
+    "60"
+   ]
+  },
+  {
    "id": "oca-jackson-county-missouri-property-tax-reassessment-class-action-settlement",
    "title": "Jackson County, Missouri Property Tax Reassessment Settlement — Credits for 2023 Increases Over 15%",
    "summary": "Credits for the extra 2023–2024 taxes paid on residential reassessment increases above 15%, applied automatically to current owners’ 2026–2028 bills; former owners and appraisal or legal fee claims must file.",
@@ -5716,6 +5569,34 @@
     "breach",
     "3",
     "000"
+   ]
+  },
+  {
+   "id": "oca-usc-arcadia-hospital-pixel-tracking-class-action-settlement",
+   "title": "USC Arcadia Hospital $200K Pixel Tracking Settlement — Cash for Email Sign-Ups",
+   "summary": "An equal share of a $200,000 fund plus a year of CyEx Privacy Shield Pro for people who signed up for email or event updates on the USC Arcadia Hospital website in 2022–2023.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2026-12-07",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $200,000 fund plus a year of CyEx Privacy Shield Pro for people who signed up for email or event updates on the USC Arcadia Hospital websit…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pixel-tracking/usc-arcadia-hospital-pixel-tracking-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "keywords": [
+    "usc",
+    "arcadia",
+    "hospital",
+    "200k",
+    "pixel",
+    "tracking",
+    "email",
+    "signup"
    ]
   },
   {
@@ -6032,6 +5913,31 @@
    ]
   },
   {
+   "id": "oca-brighthouse-life-insurance-universal-life-class-action-settlement",
+   "title": "Brighthouse Life Insurance $9.25M Settlement — Automatic Payments",
+   "summary": "Automatic payments from a $9.25 million fund for owners of Brighthouse ULX and ULXP universal life policies over cost of insurance rates.",
+   "category": "Insurance",
+   "states": [],
+   "deadline": "2026-12-11",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Automatic payments from a $9.25 million fund for owners of Brighthouse ULX and ULXP universal life policies over cost of insurance rates.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/brighthouse-life-insurance-universal-life-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "keywords": [
+    "brighthouse",
+    "life",
+    "insurance",
+    "9",
+    "25m"
+   ]
+  },
+  {
    "id": "oca-becton-dickinson-sec-fair-fund",
    "title": "Becton Dickinson $175M SEC Fair Fund (BDX)",
    "summary": "A share of the SEC's $175,000,000 Becton Fair Fund for investors who bought BDX common stock between February 5, 2019 and February 5, 2020.",
@@ -6222,6 +6128,36 @@
     "17m",
     "washington",
     "wage"
+   ]
+  },
+  {
+   "id": "oca-quadrant-technologies-washington-job-postings-class-action-settlement",
+   "title": "Quadrant Technologies Washington Job Postings Settlement — Est. $17.93",
+   "summary": "An equal share of a $900,000 fund, estimated at $17.93, for people who applied to Quadrant Technologies jobs in Washington whose postings left out the pay range.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-14",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of a $900,000 fund, estimated at $17.93, for people who applied to Quadrant Technologies jobs in Washington whose postings left out the pay rang…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/quadrant-technologies-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "keywords": [
+    "quadrant",
+    "technology",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "17",
+    "93"
    ]
   },
   {
@@ -6523,6 +6459,35 @@
     "krono",
     "outage",
     "wage"
+   ]
+  },
+  {
+   "id": "oca-fairmont-federal-credit-union-data-breach-settlement",
+   "title": "Fairmont Federal Credit Union Data Breach Settlement — $150 or Up to $7,500",
+   "summary": "Up to $150 cash, or up to $7,500 in documented losses plus lost time, with three years of credit monitoring, for people affected by the 2023 Fairmont FCU breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-18",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $150 cash, or up to $7,500 in documented losses plus lost time, with three years of credit monitoring, for people affected by the 2023 Fairmont FCU breac…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/fairmont-federal-credit-union-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "keywords": [
+    "fairmont",
+    "federal",
+    "credit",
+    "union",
+    "data",
+    "breach",
+    "150",
+    "7",
+    "500"
    ]
   },
   {
@@ -7213,15 +7178,15 @@
   },
   {
    "id": "oca-goodrx-privacy-class-action-settlement",
-   "title": "GoodRx $32M Privacy Settlement — Claims Open by Oct. 30",
-   "summary": "",
-   "category": null,
+   "title": "GoodRx $32M Privacy Settlement",
+   "summary": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before April 20, 2024.",
+   "category": "Privacy",
    "states": [],
    "deadline": "2026-12-29",
    "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "$32M settlement fund (individual payout not stated)",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before…",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/privacy/goodrx-privacy-class-action-settlement.php",
    "source": "openclassactions",
@@ -7231,9 +7196,7 @@
    "keywords": [
     "goodrx",
     "32m",
-    "privacy",
-    "oct",
-    "30"
+    "privacy"
    ]
   },
   {
@@ -7730,6 +7693,31 @@
    ]
   },
   {
+   "id": "oca-hertz-ev-securities-class-action-settlement",
+   "title": "Hertz $10M EV Securities Class Action Settlement (HTZ)",
+   "summary": "pro rata share of a $10,000,000 fund · estimated $0.07 per damaged share before fees, about $0.04 after · bought Hertz (Nasdaq: HTZ) common stock Jan 6, 2023 – Apr 24, 2024 · brokerage records required · shares sold before Oct 26, 2023 recover $0",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-01-08",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "pro rata share of a $10,000,000 fund",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/hertz-ev-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "keywords": [
+    "hertz",
+    "10m",
+    "ev",
+    "security",
+    "htz"
+   ]
+  },
+  {
    "id": "oca-washington-gastroenterology-data-breach-class-action-settlement",
    "title": "Washington Gastroenterology Data Breach Settlement — $75 or Up to $4,000",
    "summary": "An estimated $75 with no documentation, or up to $4,000 documented, plus two years of medical record monitoring, for people notified of the 2024 cyberattack.",
@@ -7815,6 +7803,36 @@
    ]
   },
   {
+   "id": "oca-hampton-regional-medical-center-data-breach-settlement",
+   "title": "Hampton Regional Medical Center Data Breach Settlement — Est. $20 or Up to $5,000",
+   "summary": "An estimated $20 with no documentation, or up to $5,000 documented, plus a year of credit monitoring, for people notified of the 2025 Hampton Regional Medical Center data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-11",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $20 with no documentation, or up to $5,000 documented, plus a year of credit monitoring, for people notified of the 2025 Hampton Regional Medical…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/hampton-regional-medical-center-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "keywords": [
+    "hampton",
+    "regional",
+    "medical",
+    "center",
+    "data",
+    "breach",
+    "est",
+    "20",
+    "5",
+    "000"
+   ]
+  },
+  {
    "id": "oca-marex-group-securities-class-action-settlement",
    "title": "Marex Group $950K Securities Settlement (MRX)",
    "summary": "A pro rata share of a $950,000 fund for investors who bought Marex Group ordinary shares from Nov. 7, 2024 to Aug. 5, 2025, estimated at about $0.03 a share before fees.",
@@ -7836,6 +7854,35 @@
     "950k",
     "security",
     "mrx"
+   ]
+  },
+  {
+   "id": "oca-blue-ridge-rural-water-data-breach-settlement",
+   "title": "Blue Ridge Rural Water Data Breach Settlement — $50 or Up to $2,500",
+   "summary": "A flat $50 with no documentation, or up to $2,500 documented, plus two years of credit monitoring, for people affected by the July 2024 Blue Ridge Rural Water cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-14",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $50 with no documentation, or up to $2,500 documented, plus two years of credit monitoring, for people affected by the July 2024 Blue Ridge Rural Water…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/blue-ridge-rural-water-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "keywords": [
+    "blue",
+    "ridge",
+    "rural",
+    "water",
+    "data",
+    "breach",
+    "50",
+    "2",
+    "500"
    ]
   },
   {
@@ -7861,6 +7908,32 @@
     "500",
     "401",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-ford-transit-trail-class-action-settlement",
+   "title": "Ford Transit Trail Settlement — $6,000 per Van",
+   "summary": "$6,000 per van for original owners and lessees of new 2023–2024 Ford Transit Trail vans bought for personal use before June 1, 2024.",
+   "category": "Auto",
+   "states": [],
+   "deadline": "2027-01-15",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$6,000 per van for original owners and lessees of new 2023–2024 Ford Transit Trail vans bought for personal use before June 1, 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/automotive/ford-transit-trail-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-24",
+   "first_seen": "2026-10-24",
+   "keywords": [
+    "ford",
+    "transit",
+    "trail",
+    "6",
+    "000",
+    "van"
    ]
   },
   {
@@ -10305,6 +10378,35 @@
     "casino",
     "mobile",
     "game"
+   ]
+  },
+  {
+   "id": "oca-ivueit-vue-workers-class-action-settlement",
+   "title": "iVueit Gig Worker Settlement — California Vuers Paid Automatically",
+   "summary": "Automatic pro rata payments for people paid through PayPal for Vue property inspection and photo jobs on the iVueit app who are California residents per PayPal’s records.",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/ivueit-vue-workers-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-23",
+   "first_seen": "2026-10-23",
+   "keywords": [
+    "ivueit",
+    "gig",
+    "worker",
+    "california",
+    "vuer",
+    "paid",
+    "automatically"
    ]
   },
   {
