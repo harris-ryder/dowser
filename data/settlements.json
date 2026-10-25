@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-24T13:21:45.981Z",
+ "generated_at": "2026-10-25T13:44:10.076Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 408,
+ "count": 409,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -5365,6 +5365,35 @@
     "2023",
     "increase",
     "15"
+   ]
+  },
+  {
+   "id": "oca-long-beach-city-college-adjunct-faculty-18-million-settlement",
+   "title": "Long Beach City College $18M Adjunct Faculty Settlement — Paid Automatically",
+   "summary": "Automatic payments, based on credited weekly hours, for part-time hourly faculty who taught for the Long Beach Community College District from April 2019 to August 2025.",
+   "category": "Other",
+   "states": [],
+   "deadline": "2026-12-03",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$18M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/news/long-beach-city-college-adjunct-faculty-18-million-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "keywords": [
+    "long",
+    "beach",
+    "city",
+    "college",
+    "18m",
+    "adjunct",
+    "faculty",
+    "paid",
+    "automatically"
    ]
   },
   {
