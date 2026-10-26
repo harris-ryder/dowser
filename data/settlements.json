@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T13:44:10.076Z",
+ "generated_at": "2026-10-26T16:09:28.071Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
@@ -4725,7 +4725,7 @@
   {
    "id": "oca-oregon-tax-foreclosure-surplus-proceeds-class-action-settlement",
    "title": "Oregon Tax Foreclosure Surplus Settlements — Seven Counties",
-   "summary": "Surplus proceeds for former owners, lienholders and heirs of property taken for unpaid taxes in seven Oregon counties, Lane County included.",
+   "summary": "Surplus proceeds for former owners, lienholders and heirs of property taken for unpaid taxes in seven Oregon counties · claims for Baker, Columbia, Jackson, Marion, Washington and Yamhill counties close November 30, 2026; Lane County claims run to February 22, 2027.",
    "category": "Government",
    "states": [
     "OR"
@@ -5806,6 +5806,33 @@
     "camera",
     "fee",
     "36"
+   ]
+  },
+  {
+   "id": "ca-settlements-aetna-life-insurance-lumbar-artificial-disc-replacement",
+   "title": "Aetna Life Insurance - Lumbar Artificial Disc Replacement Class Action Settlement",
+   "summary": "You may be included in this settlement if you had a pre-service authorization request or post-service claim for single-level lumbar artificial disc replacement denied by Aetna Life Insurance Company.",
+   "category": "Lumbar Artificial Disc Replacement",
+   "states": [],
+   "deadline": "2026-12-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $55,000",
+   "claim_url": "https://www.ladrsurgerysettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#aetna-life-insurance-lumbar-artificial-disc-replacement",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-26",
+   "keywords": [
+    "aetna",
+    "life",
+    "insurance",
+    "lumbar",
+    "artificial",
+    "disc",
+    "replacement"
    ]
   },
   {
@@ -9461,37 +9488,6 @@
    ]
   },
   {
-   "id": "oca-aetna-lumbar-artificial-disc-replacement-class-action-settlement",
-   "title": "Aetna Lumbar Artificial Disc Replacement (L-ADR) Coverage Class Action Settlement",
-   "summary": "",
-   "category": "Lumbar Artificial Disc Replacement",
-   "states": [],
-   "deadline": null,
-   "deadline_type": "unknown",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Up to $55,000",
-   "claim_url": "https://www.ladrsurgerysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/aetna-lumbar-artificial-disc-replacement-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#aetna-life-insurance-lumbar-artificial-disc-replacement"
-   ],
-   "added": null,
-   "first_seen": "2026-10-12",
-   "keywords": [
-    "aetna",
-    "lumbar",
-    "artificial",
-    "disc",
-    "replacement",
-    "ladr",
-    "coverage",
-    "life",
-    "insurance"
-   ]
-  },
-  {
    "id": "oca-alaska-airlines-military-leave-vacation-class-action-settlement",
    "title": "Alaska Airlines $500K Pilot Military Leave Settlement",
    "summary": "About 163 current and former Alaska Airlines pilots share $500,000 for vacation that never accrued during military leaves of 31 to 60 consecutive days.",
@@ -10011,15 +10007,15 @@
   },
   {
    "id": "oca-drata-sdr-overtime-misclassification-class-action-settlement",
-   "title": "Drata SDR Overtime Class Action Settlement ($1.3M)",
-   "summary": "automatic payment, no claim form — a share of $1,300,000 scaled to what you earned as an SDR · California reps are paid unless they opt out, out-of-state reps must cash the check",
+   "title": "Drata SDR Overtime Class Action Settlement ($1.37M)",
+   "summary": "automatic payment, no claim form — a share of $1,366,690 scaled to what you earned as an SDR · California reps are paid unless they opt out, out-of-state reps must cash the check",
    "category": "Employment",
    "states": [],
    "deadline": null,
    "deadline_type": "automatic",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic payment, no claim form — a share of $1,300,000 scaled to what you earned as an SDR",
+   "payout": "automatic payment, no claim form — a share of $1,366,690 scaled to what you earned as an SDR",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/drata-sdr-overtime-misclassification-class-action-settlement.php",
    "source": "openclassactions",
@@ -10031,7 +10027,7 @@
     "sdr",
     "overtime",
     "1",
-    "3m"
+    "37m"
    ]
   },
   {
@@ -10220,31 +10216,30 @@
    ]
   },
   {
-   "id": "oca-google-play-google-subscription-play-store-class-action-settlement",
-   "title": "Google Play Store Subscription $5M Settlement (California)",
-   "summary": "automatic ~$5.85 payment in Google Play credit, or PayPal/Zelle without an active account · no claim form · Californians who paid a Google Play subscription renewal through Google Play checkout (May 30, 2014 – Oct 27, 2019) · alleged auto-renewal disclosure violations",
-   "category": "Fees & Billing",
-   "states": [
-    "CA"
-   ],
+   "id": "oca-grainger-401k-forfeiture-erisa-class-action-settlement",
+   "title": "Grainger 401(k) $2.85M Forfeiture Settlement — Awaiting Approval",
+   "summary": "A proposed $2.85 million pro rata settlement for W.W. Grainger Retirement Savings Plan participants since May 2019, paid automatically if approved.",
+   "category": "Retirement Plans",
+   "states": [],
    "deadline": null,
    "deadline_type": "automatic",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic ~$5.85 payment in Google Play credit, or PayPal/Zelle without an active account",
+   "payout": "A proposed $2.85 million pro rata settlement for W.W.",
    "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/google-play-google-subscription-play-store-class-action-settlement.php",
+   "info_url": "https://openclassactions.com/settlements/erisa/grainger-401k-forfeiture-erisa-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [],
-   "added": "2026-07-16",
-   "first_seen": "2026-07-16",
+   "added": "2026-10-26",
+   "first_seen": "2026-10-26",
    "keywords": [
-    "google",
-    "play",
-    "store",
-    "subscription",
-    "5m",
-    "california"
+    "grainger",
+    "401",
+    "2",
+    "85m",
+    "forfeiture",
+    "awaiting",
+    "approval"
    ]
   },
   {
