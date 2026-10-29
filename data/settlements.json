@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-28T16:06:22.403Z",
+ "generated_at": "2026-10-29T16:11:07.569Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 417,
+ "count": 425,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -473,31 +473,6 @@
    ]
   },
   {
-   "id": "oca-cibc-nsf-fee-settlement-canada",
-   "title": "CIBC $10M NSF Fee Class Action Settlement (Canada)",
-   "summary": "automatic payment, no claim form · $10M CAD fund, paid pro rata by direct deposit · CIBC & Simplii personal deposit customers charged an NSF fee on a re-presented pre-authorized debit (Sept 21, 2020 – Feb 1, 2024 for CIBC, Dec 18, 2022 for Simplii)",
-   "category": "Banking & Credit",
-   "states": [],
-   "deadline": "2026-10-19",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "$10M CAD fund, paid pro rata by direct deposit",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/cibc-nsf-fee-settlement-canada.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-08",
-   "first_seen": "2026-07-08",
-   "keywords": [
-    "cibc",
-    "10m",
-    "nsf",
-    "fee",
-    "canada"
-   ]
-  },
-  {
    "id": "oca-aion-management-virginia-apartment-fees-class-action-settlement",
    "title": "AION Management Virginia Apartment Fee Class Action Settlement ($776,628)",
    "summary": "automatic payment, no claim form — about $141 by check for renters billed a pest, trash, amenity or administrative fee at six AION-managed Virginia apartment complexes",
@@ -804,57 +779,28 @@
    ]
   },
   {
-   "id": "oca-highland-health-systems-data-breach-settlement",
-   "title": "Highland Health Systems Data Breach Class Action Settlement",
-   "summary": "an estimated $85 pro rata cash payment, or up to $5,000 documented, plus two years of medical identity protection · 83,543 people notified of the July 2023 cyberattack on the Alabama behavioral health provider",
+   "id": "ca-settlements-highland-health-systems-data-breach",
+   "title": "Highland Health Systems - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your private information was compromised in the July 2023 Highland Health Systems data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-10-28",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $85 pro rata cash payment, or up to $5,000 documented, plus two years of medical identity protection",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$85 - $5,000",
    "claim_url": "https://highlanddatabreachsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/highland-health-systems-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#highland-health-systems-data-breach"
-   ],
-   "added": "2026-09-18",
-   "first_seen": "2026-09-18",
+   "info_url": "https://www.classaction.org/settlements#highland-health-systems-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-29",
    "keywords": [
     "highland",
     "health",
     "system",
     "data",
     "breach"
-   ]
-  },
-  {
-   "id": "oca-on-q-financial-data-breach-settlement",
-   "title": "On Q Financial Data Breach Class Action Settlement ($1.25M)",
-   "summary": "a cash payment estimated at $50 with no documentation, or instead up to $5,000 documented, plus a year of identity monitoring, for people sent notice of the February 2024 breach",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-28",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a cash payment estimated at $50 with no documentation, or instead up to $5,000 documented, plus a year of identity monitoring, for people sent notice of the Fe…",
-   "claim_url": "https://onqsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/on-q-financial-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#on-q-financial-data-breach"
-   ],
-   "added": "2026-08-20",
-   "first_seen": "2026-08-20",
-   "keywords": [
-    "financial",
-    "data",
-    "breach",
-    "1",
-    "25m"
    ]
   },
   {
@@ -1741,6 +1687,38 @@
     "data",
     "breach",
     "750k"
+   ]
+  },
+  {
+   "id": "oca-illinois-united-builders-polo-masonry-overtime-settlement",
+   "title": "United Builders and Polo Masonry Illinois AG Overtime Settlement — Late Claims Through Nov. 3",
+   "summary": "Late claim forms for the 91 workers named in the Illinois Attorney General’s $555,000 consent decree with United Builders Group and Polo Masonry over unpaid overtime from 2017 to 2023; each worker’s amount is on the mailed notice.",
+   "category": "Employment",
+   "states": [
+    "IL"
+   ],
+   "deadline": "2026-11-03",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Late claim forms for the 91 workers named in the Illinois Attorney General’s $555,000 consent decree with United Builders Group and Polo Masonry over unpaid ov…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/illinois-united-builders-polo-masonry-overtime-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "united",
+    "builder",
+    "polo",
+    "masonry",
+    "illinois",
+    "ag",
+    "overtime",
+    "late",
+    "nov",
+    "3"
    ]
   },
   {
@@ -2929,14 +2907,16 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/onetouchpoint-data-breach-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#onetouchpoint-data-breach"
+    "https://www.classaction.org/settlements#onetouchpoint-data-breach",
+    "https://www.classaction.org/settlements#on-q-financial-data-breach"
    ],
    "added": "2026-09-08",
    "first_seen": "2026-09-08",
    "keywords": [
     "onetouchpoint",
     "data",
-    "breach"
+    "breach",
+    "financial"
    ]
   },
   {
@@ -5876,6 +5856,33 @@
    ]
   },
   {
+   "id": "oca-bank-of-america-efta-dispute-denial-class-action-settlement",
+   "title": "Bank of America $2M Debit Card & ATM Dispute Settlement",
+   "summary": "An equal share of $2 million for Bank of America customers whose unauthorized debit card or ATM transaction claim was denied May 6, 2023 – July 14, 2026.",
+   "category": "Other",
+   "states": [],
+   "deadline": "2026-12-11",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of $2 million for Bank of America customers whose unauthorized debit card or ATM transaction claim was denied May 6, 2023 – July 14, 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/bank-of-america-efta-dispute-denial-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "bank",
+    "america",
+    "2m",
+    "debit",
+    "card",
+    "atm",
+    "dispute"
+   ]
+  },
+  {
    "id": "oca-brighthouse-life-insurance-universal-life-class-action-settlement",
    "title": "Brighthouse Life Insurance $9.25M Settlement — Automatic Payments",
    "summary": "Automatic payments from a $9.25 million fund for owners of Brighthouse ULX and ULXP universal life policies over cost of insurance rates.",
@@ -5900,6 +5907,34 @@
     "insurance",
     "9",
     "25m"
+   ]
+  },
+  {
+   "id": "oca-ebara-technologies-california-wage-paga-class-action-settlement",
+   "title": "Ebara Technologies $1.2M California Wage Settlement — Automatic",
+   "summary": "automatic payment, no claim form — A pro rata share of $1.2 million, by workweek, for hourly Ebara Technologies employees in California from Nov. 2019 to Aug. 2025.",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-12-11",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — A pro rata share of $1.2 million, by workweek, for hourly Ebara Technologies employees in California from Nov. 2019 to Aug.…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/paga/ebara-technologies-california-wage-paga-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "ebara",
+    "technology",
+    "1",
+    "2m",
+    "california",
+    "wage"
    ]
   },
   {
@@ -6414,6 +6449,35 @@
    ]
   },
   {
+   "id": "oca-brandt-equities-data-breach-settlement",
+   "title": "Brandt Equities Data Breach Settlement — Up to $3,500 Plus Lost Time",
+   "summary": "Up to $3,500 in documented losses and $80 for lost time, plus two years of credit monitoring, for people notified of the November 2025 data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-17",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $3,500 in documented losses and $80 for lost time, plus two years of credit monitoring, for people notified of the November 2025 data incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/brandt-equities-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "brandt",
+    "equity",
+    "data",
+    "breach",
+    "3",
+    "500",
+    "plus",
+    "lost",
+    "time"
+   ]
+  },
+  {
    "id": "oca-marist-brothers-quebec-sexual-abuse-class-action-settlement",
    "title": "Marist Brothers Quebec Abuse Settlement — $24.95M CAD",
    "summary": "Compensation of up to $300,000 CAD, set through a confidential adjudicator process, for people who say a Marist Brothers religious member sexually assaulted them in Quebec.",
@@ -6837,6 +6901,34 @@
    ]
   },
   {
+   "id": "oca-prime-healthcare-pixel-privacy-settlement",
+   "title": "Prime Healthcare Pixel Privacy Settlement — $20 for Patient Portal Users",
+   "summary": "A $20 payment for Prime Healthcare patients who used a hospital patient portal from 2019 to 2023, plus a free year of medical privacy monitoring.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2026-12-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $20 payment for Prime Healthcare patients who used a hospital patient portal from 2019 to 2023, plus a free year of medical privacy monitoring.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pixel-tracking/prime-healthcare-pixel-privacy-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "prime",
+    "healthcare",
+    "pixel",
+    "privacy",
+    "20",
+    "patient",
+    "portal",
+    "user"
+   ]
+  },
+  {
    "id": "oca-telmate-viapath-data-breach-settlement",
    "title": "Telmate / ViaPath Data Breach Settlement — $4.225M",
    "summary": "An equal share of a $4,225,000 fund plus up to $5,000 in documented losses for people whose information was exposed in the August 2020 Telmate breach.",
@@ -6929,7 +7021,7 @@
   {
    "id": "ca-settlements-six-flags-fees-california",
    "title": "Six Flags - Fees (California) Class Action Settlement",
-   "summary": "This settlement covers California residents who were charged processing fees at Six Flags between June 28, 2020 and July 1, 2024.",
+   "summary": "This settlement covers California residents who bought non-season tickets to Knott’s Berry Farm and/or Knott’s Soak City at Knotts.com or to California's Great America at CAGreatAmerica.com between June 28, 2020 and July 1, 2024 and were charged a processing fee.",
    "category": "Fees (California)",
    "states": [],
    "deadline": "2026-12-22",
@@ -7534,6 +7626,30 @@
     "aviation",
     "stockholder",
     "achr"
+   ]
+  },
+  {
+   "id": "oca-supernova-offerpad-spac-stockholder-class-action-settlement",
+   "title": "$3M Supernova (Offerpad) Stockholder Settlement",
+   "summary": "A share of $3 million for Supernova Class A holders who did not redeem all their shares before the 2021 Offerpad SPAC merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of $3 million for Supernova Class A holders who did not redeem all their shares before the 2021 Offerpad SPAC merger.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/supernova-offerpad-spac-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "3m",
+    "supernova",
+    "offerpad",
+    "stockholder"
    ]
   },
   {
@@ -8265,6 +8381,34 @@
    ]
   },
   {
+   "id": "oca-columbia-university-data-breach-settlement",
+   "title": "Columbia University $16.1M Data Breach Settlement — Up to $8,500 or Cash",
+   "summary": "Up to $8,500 in documented losses or an alternative cash payment, plus two years of credit monitoring, for people sent notice of Columbia’s May 2025 cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $8,500 in documented losses or an alternative cash payment, plus two years of credit monitoring, for people sent notice of Columbia’s May 2025 cyberattac…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/columbia-university-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "columbia",
+    "university",
+    "16",
+    "1m",
+    "data",
+    "breach",
+    "8",
+    "500"
+   ]
+  },
+  {
    "id": "oca-warner-music-group-data-breach-settlement",
    "title": "Warner Music Group $1.25M Data Breach Settlement — Est. $50, $100 in California",
    "summary": "An estimated $50, or $100 for California residents, for people whose payment card information may have been exposed on Warner Music Group subsidiaries’ online stores between April 25 and August 5, 2020.",
@@ -8320,6 +8464,30 @@
     "privacy",
     "pro",
     "rata"
+   ]
+  },
+  {
+   "id": "oca-doctors-imaging-group-data-breach-settlement",
+   "title": "Doctors Imaging Group Data Breach Class Action Settlement",
+   "summary": "up to $2,500 in documented losses plus two years of medical data monitoring for U.S. residents whose information may have been impacted in the November 5–11, 2024 data incident — the notice lists no flat no-documentation cash payment",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-26",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "up to $2,500 in documented losses plus two years of medical data monitoring for U.S. residents whose information may have been impacted in the November 5–11, 2…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/doctors-imaging-group-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "keywords": [
+    "doctor",
+    "imaging",
+    "data",
+    "breach"
    ]
   },
   {
@@ -8438,6 +8606,35 @@
     "rent",
     "pricefixing",
     "realpage"
+   ]
+  },
+  {
+   "id": "oca-lion-electric-northern-genesis-spac-stockholder-class-action-settlement",
+   "title": "Lion Electric $4M SPAC Stockholder Settlement (NGA) — About $0.13 a Share",
+   "summary": "A pro rata share of $4 million for Northern Genesis Class A holders who did not redeem before the May 2021 Lion Electric SPAC merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-01-30",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $4 million for Northern Genesis Class A holders who did not redeem before the May 2021 Lion Electric SPAC merger.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/lion-electric-northern-genesis-spac-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "lion",
+    "electric",
+    "4m",
+    "spac",
+    "stockholder",
+    "nga",
+    "0",
+    "13",
+    "share"
    ]
   },
   {
@@ -9980,6 +10177,31 @@
     "certainteed",
     "organic",
     "shingle"
+   ]
+  },
+  {
+   "id": "oca-cibc-nsf-fee-settlement-canada",
+   "title": "CIBC $10M NSF Fee Class Action Settlement (Canada)",
+   "summary": "automatic payment, no claim form · $10M CAD fund, paid pro rata by direct deposit · CIBC & Simplii personal deposit customers charged an NSF fee on a re-presented pre-authorized debit (Sept 21, 2020 – Feb 1, 2024 for CIBC, Dec 18, 2022 for Simplii)",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$10M CAD fund, paid pro rata by direct deposit",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/cibc-nsf-fee-settlement-canada.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-07-08",
+   "first_seen": "2026-07-08",
+   "keywords": [
+    "cibc",
+    "10m",
+    "nsf",
+    "fee",
+    "canada"
    ]
   },
   {
