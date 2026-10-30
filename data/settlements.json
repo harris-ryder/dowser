@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-29T16:11:07.569Z",
+ "generated_at": "2026-10-30T15:57:53.853Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 425,
+ "count": 424,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -703,217 +703,6 @@
    ]
   },
   {
-   "id": "ca-settlements-amn-healthcare-privacy-violations-california",
-   "title": "AMN Healthcare - Privacy (California) Class Action Settlement",
-   "summary": "You may be included in this settlement if you were in California and participated in a conversation that was interpreted by AMN, its employees, contractors, agents, or persons acting on its behalf between December 4, 2022 and August 7, 2026.",
-   "category": "Privacy (California)",
-   "states": [],
-   "deadline": "2026-10-27",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://amncipasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#amn-healthcare-privacy-violations-california",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-27",
-   "keywords": [
-    "amn",
-    "healthcare",
-    "privacy",
-    "california"
-   ]
-  },
-  {
-   "id": "ca-settlements-fort-wayne-medical-education-program-data-breach",
-   "title": "Fort Wayne Medical Education Program - Data Breach Class Action Settlement",
-   "summary": "If your private information was compromised in the December 2024 Fort Wayne Medical Education Program data breach, you may be included in this settlement.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-27",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$40 - $5,500",
-   "claim_url": "https://fwmepdatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#fort-wayne-medical-education-program-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-27",
-   "keywords": [
-    "fort",
-    "wayne",
-    "medical",
-    "education",
-    "program",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-homebuyer-antitrust-multiple-listing-services",
-   "title": "Homebuyer Antitrust - Multiple Listing Services Class Action Settlement",
-   "summary": "You may be included in this settlement if you bought a home that was listed on a multiple listing service and a commission was paid to any brokerage as part of the transaction.",
-   "category": "Multiple Listing Services",
-   "states": [],
-   "deadline": "2026-10-27",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://homebuyersettlement.com/en",
-   "info_url": "https://www.classaction.org/settlements#homebuyer-antitrust-multiple-listing-services",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-27",
-   "keywords": [
-    "homebuyer",
-    "antitrust",
-    "multiple",
-    "listing",
-    "service"
-   ]
-  },
-  {
-   "id": "ca-settlements-highland-health-systems-data-breach",
-   "title": "Highland Health Systems - Data Breach Class Action Settlement",
-   "summary": "You may be included in this settlement if your private information was compromised in the July 2023 Highland Health Systems data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-28",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$85 - $5,000",
-   "claim_url": "https://highlanddatabreachsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#highland-health-systems-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-10-29",
-   "keywords": [
-    "highland",
-    "health",
-    "system",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-pork-price-fixing-class-action-settlement",
-   "title": "$117M Pork Price-Fixing Class Action Settlement",
-   "summary": "A pro rata cash share for grocery shoppers in 24 states who bought raw pork or bacon between 2014 and 2018.",
-   "category": "Antitrust",
-   "states": [],
-   "deadline": "2026-10-29",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$117M settlement fund (individual payout not stated)",
-   "claim_url": "https://www.overchargedforpork.com/Home/Home",
-   "info_url": "https://openclassactions.com/settlements/pork-price-fixing-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#pork-prices"
-   ],
-   "added": "2026-08-31",
-   "first_seen": "2026-08-31",
-   "keywords": [
-    "117m",
-    "pork",
-    "pricefixing",
-    "price"
-   ]
-  },
-  {
-   "id": "oca-academy-mortgage-data-breach-settlement",
-   "title": "Academy Mortgage $1.995M Data Breach Class Action Settlement",
-   "summary": "A pro rata cash payment, up to $3,000 in documented losses and three years of credit monitoring for people notified of the 2023 Academy Mortgage data incident; claims open by October 29, 2026.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-29",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A pro rata cash payment, up to $3,000 in documented losses and three years of credit monitoring for people notified of the 2023 Academy Mortgage data incident",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/academy-mortgage-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-01",
-   "first_seen": "2026-10-01",
-   "keywords": [
-    "academy",
-    "mortgage",
-    "1",
-    "995m",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-finwise-bank-data-breach-settlement",
-   "title": "FinWise Bank Data Breach Settlement — Up to $5,000",
-   "summary": "Cash or up to $5,000 in documented losses, plus two years of credit monitoring, for people affected by the FinWise data incident.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-10-29",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Cash or up to $5,000 in documented losses, plus two years of credit monitoring, for people affected by the FinWise data incident.",
-   "claim_url": "https://www.finwisedatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/finwise-bank-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#finwise-bank-data-breach"
-   ],
-   "added": "2026-09-07",
-   "first_seen": "2026-09-07",
-   "keywords": [
-    "finwise",
-    "bank",
-    "data",
-    "breach",
-    "5",
-    "000"
-   ]
-  },
-  {
-   "id": "oca-rocket-tax-nyc-dcwp-restitution-settlement",
-   "title": "Rocket Tax NYC Restitution — Refunds of Undisclosed Tax Prep Fees",
-   "summary": "Refunds of undisclosed tax preparation fees for customers of Rocket Tax’s Brooklyn offices, from a NYC consumer agency restitution fund.",
-   "category": "Fees & Billing",
-   "states": [
-    "NY"
-   ],
-   "deadline": "2026-10-29",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": null,
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/consumer-protection/rocket-tax-nyc-dcwp-restitution-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-12",
-   "first_seen": "2026-10-12",
-   "keywords": [
-    "rocket",
-    "tax",
-    "nyc",
-    "restitution",
-    "refund",
-    "undisclosed",
-    "prep",
-    "fee"
-   ]
-  },
-  {
    "id": "oca-bestway-above-ground-pools-class-action-settlement",
    "title": "Bestway Above-Ground Pool Class Action Settlement ($15M)",
    "summary": "$40 cash with no receipt and no Claim ID, or 10% of the price paid with proof · Bestway, Power Steel, Steel Pro & Coleman Power Steel above-ground pools 48 inches or taller, sold 2008–2024 · one claim per household · injury claims not released",
@@ -1270,8 +1059,8 @@
    ],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
    "payout": "$1.74M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/90-washington-street-rent-overcharge-class-action-settlement.php",
@@ -1297,8 +1086,8 @@
    "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
    "payout": "up to $75 on a sworn statement alone, or up to $5,000 documented instead, plus two years of dark web and medical data monitoring",
    "claim_url": "https://www.connectoncallsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/connectoncall-data-breach-settlement.php",
@@ -2562,12 +2351,12 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "equal share of a $1 million fund, estimated at $266.67",
-   "claim_url": "https://www.high5lawsuit.com/",
+   "claim_url": "https://epoasettlementccsi.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/compucom-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#high-5-games-washington",
-    "https://www.classaction.org/settlements#compucom-systems-job-postings-washington"
+    "https://www.classaction.org/settlements#compucom-systems-job-postings-washington",
+    "https://www.classaction.org/settlements#high-5-games-washington"
    ],
    "added": "2026-10-18",
    "first_seen": "2026-10-18",
@@ -2577,10 +2366,10 @@
     "washington",
     "job",
     "posting",
+    "system",
     "high",
     "5",
-    "game",
-    "system"
+    "game"
    ]
   },
   {
@@ -2907,16 +2696,14 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/onetouchpoint-data-breach-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#onetouchpoint-data-breach",
-    "https://www.classaction.org/settlements#on-q-financial-data-breach"
+    "https://www.classaction.org/settlements#onetouchpoint-data-breach"
    ],
    "added": "2026-09-08",
    "first_seen": "2026-09-08",
    "keywords": [
     "onetouchpoint",
     "data",
-    "breach",
-    "financial"
+    "breach"
    ]
   },
   {
@@ -3556,12 +3343,12 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "An equal share of a $376,000 fund, estimated at $1,107.44, paid automatically to people who applied to an Emerald City Pizza job opening in Washington whose po…",
-   "claim_url": "https://epoasettlementecp.com/",
+   "claim_url": "https://raleighcffsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/emerald-city-pizza-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#emerald-city-pizza-job-postings-washington",
-    "https://www.classaction.org/settlements#city-of-raleigh-water-sewer-fees"
+    "https://www.classaction.org/settlements#city-of-raleigh-water-sewer-fees",
+    "https://www.classaction.org/settlements#emerald-city-pizza-job-postings-washington"
    ],
    "added": "2026-10-06",
    "first_seen": "2026-10-06",
@@ -3959,8 +3746,8 @@
    ],
    "deadline": "2026-11-24",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
    "payout": "An estimated $71 for booking a Venetian stay, or about $3.60 for browsing venetianlasvegas.com, for California residents who used the site.",
    "claim_url": "https://venetianlasvegassettlement.com/",
    "info_url": "https://openclassactions.com/settlements/privacy/venetian-las-vegas-website-privacy-settlement.php",
@@ -4197,6 +3984,33 @@
     "1",
     "64m",
     "wage"
+   ]
+  },
+  {
+   "id": "oca-ben-e-keith-data-breach-settlement",
+   "title": "Ben E. Keith Data Breach Settlement — $35 or Up to $5,000",
+   "summary": "A $35 payment with no documents, or up to $5,000 in fraud losses and $400 in other documented losses, plus three years of credit monitoring, for people sent a notice about Ben E. Keith’s March 2023 data security incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-26",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $35 payment with no documents, or up to $5,000 in fraud losses and $400 in other documented losses, plus three years of credit monitoring, for people sent a…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/ben-e-keith-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "ben",
+    "keith",
+    "data",
+    "breach",
+    "35",
+    "5",
+    "000"
    ]
   },
   {
@@ -7383,6 +7197,32 @@
    ]
   },
   {
+   "id": "oca-valnet-content-creator-misclassification-paga-class-action-settlement",
+   "title": "Valnet $2M Content Creator Settlement — Automatic",
+   "summary": "automatic payment, no claim form — a $600 base payment plus a share by months worked for California content creators classified by Valnet as independent contractors from December 2019 to August 2026.",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-12-28",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — a $600 base payment plus a share by months worked for California content creators classified by Valnet as independent contra…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/paga/valnet-content-creator-misclassification-paga-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "valnet",
+    "2m",
+    "content",
+    "creator"
+   ]
+  },
+  {
    "id": "oca-goodrx-privacy-class-action-settlement",
    "title": "GoodRx $32M Privacy Settlement",
    "summary": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before April 20, 2024.",
@@ -7513,6 +7353,34 @@
     "john",
     "deere",
     "righttorepair"
+   ]
+  },
+  {
+   "id": "oca-bauer-built-tire-data-breach-settlement",
+   "title": "Bauer Built Tire Data Breach Settlement — $45 or Up to $5,000",
+   "summary": "A $45 payment with no proof, or up to $500 in out-of-pocket losses and $5,000 in fraud losses, plus two years of three-bureau credit monitoring, for people notified of the April 2023 Bauer Built Tire & Service breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-31",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $45 payment with no proof, or up to $500 in out-of-pocket losses and $5,000 in fraud losses, plus two years of three-bureau credit monitoring, for people not…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/bauer-built-tire-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "bauer",
+    "built",
+    "tire",
+    "data",
+    "breach",
+    "45",
+    "5",
+    "000"
    ]
   },
   {
@@ -7909,8 +7777,8 @@
    "states": [],
    "deadline": "2027-01-07",
    "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
    "payout": "An estimated $100, or up to $5,000 in documented losses, plus a year of medical data monitoring, for people sent a notice of the 2022 ARcare, Inc. data breach.",
    "claim_url": "https://arcaredatasettlement.com/",
    "info_url": "https://openclassactions.com/settlements/data-breaches/arcare-data-breach-settlement.php",
@@ -8520,6 +8388,60 @@
    ]
   },
   {
+   "id": "oca-academy-mortgage-data-breach-settlement",
+   "title": "Academy Mortgage $1.995M Data Breach Class Action Settlement",
+   "summary": "A pro rata cash payment, up to $3,000 in documented losses and three years of credit monitoring for people notified of the 2023 Academy Mortgage data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-27",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata cash payment, up to $3,000 in documented losses and three years of credit monitoring for people notified of the 2023 Academy Mortgage data incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/academy-mortgage-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-01",
+   "first_seen": "2026-10-01",
+   "keywords": [
+    "academy",
+    "mortgage",
+    "1",
+    "995m",
+    "data",
+    "breach"
+   ]
+  },
+  {
+   "id": "oca-merchant-of-tennis-us-merchants-data-breach-settlement",
+   "title": "Merchant of Tennis (US Merchants) $685K Data Breach Settlement — Est. $45 or $15",
+   "summary": "An estimated $45 for people in California in Feb. 2024 or $15 elsewhere, up to $2,000 in documented losses and two years of identity monitoring, for employees and truck drivers in the US Merchants cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-27",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $45 for people in California in Feb. 2024 or $15 elsewhere, up to $2,000 in documented losses and two years of identity monitoring, for employees…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/merchant-of-tennis-us-merchants-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "keywords": [
+    "merchant",
+    "tennis",
+    "685k",
+    "data",
+    "breach",
+    "est",
+    "45",
+    "15"
+   ]
+  },
+  {
    "id": "oca-allstate-arizona-depreciation-class-action-settlement",
    "title": "Allstate Arizona Depreciation Settlement — 50% Back Plus Interest",
    "summary": "Allstate-insured Arizona property owners paid for structural damage with labor depreciation withheld can claim half of it back plus 10% interest.",
@@ -8912,6 +8834,38 @@
     "lynch",
     "39m",
     "sweep"
+   ]
+  },
+  {
+   "id": "oca-vanilla-gift-card-california-restitution-settlement",
+   "title": "Vanilla Gift Card $1.525M California Restitution Settlement — $15 or Full Loss",
+   "summary": "Up to $15 per drained Vanilla Gift Card with no receipt (two cards max), or up to the full loss with proof, for California residents whose card bought in California from November 2019 to September 2024 lost its balance to unauthorized charges.",
+   "category": "Banking & Credit",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2027-02-19",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $15 per drained Vanilla Gift Card with no receipt (two cards max), or up to the full loss with proof, for California residents whose card bought in Calif…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/vanilla-gift-card-california-restitution-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-29",
+   "first_seen": "2026-10-29",
+   "keywords": [
+    "vanilla",
+    "gift",
+    "card",
+    "1",
+    "525m",
+    "california",
+    "restitution",
+    "15",
+    "full",
+    "loss"
    ]
   },
   {
@@ -10439,6 +10393,33 @@
     "overtime",
     "1",
     "37m"
+   ]
+  },
+  {
+   "id": "oca-dreo-dr-hsh015-space-heater-recall",
+   "title": "DREO Space Heater Recall — 338,800 Heaters, Free Replacement",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/dreo-dr-hsh015-space-heater-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-30",
+   "keywords": [
+    "dreo",
+    "space",
+    "heater",
+    "338",
+    "800",
+    "free",
+    "replacement"
    ]
   },
   {
