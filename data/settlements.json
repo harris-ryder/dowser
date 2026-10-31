@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-30T15:57:53.853Z",
+ "generated_at": "2026-10-31T15:22:10.193Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 424,
+ "count": 422,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -703,136 +703,71 @@
    ]
   },
   {
-   "id": "oca-bestway-above-ground-pools-class-action-settlement",
-   "title": "Bestway Above-Ground Pool Class Action Settlement ($15M)",
-   "summary": "$40 cash with no receipt and no Claim ID, or 10% of the price paid with proof · Bestway, Power Steel, Steel Pro & Coleman Power Steel above-ground pools 48 inches or taller, sold 2008–2024 · one claim per household · injury claims not released",
-   "category": "Consumer Products",
+   "id": "ca-settlements-bestway-above-ground-pools",
+   "title": "Bestway - Above-Ground Pools Class Action Settlement",
+   "summary": "You may be included in this settlement if you bought a Bestway above-ground pool between 2008 and 2024 that is 48 inches or taller with compression straps running on the outside of the vertical support legs.",
+   "category": "Above-Ground Pools",
    "states": [],
    "deadline": "2026-10-30",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$40 cash with no receipt and no Claim ID, or 10% of the price paid with proof",
+   "payout": "$40+",
    "claim_url": "https://www.poolsettlementbw.com/",
-   "info_url": "https://openclassactions.com/settlements/product-defects/bestway-above-ground-pools-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#bestway-above-ground-pools"
-   ],
-   "added": "2026-08-10",
-   "first_seen": "2026-08-10",
+   "info_url": "https://www.classaction.org/settlements#bestway-above-ground-pools",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-31",
    "keywords": [
     "bestway",
     "aboveground",
-    "pool",
-    "15m"
+    "pool"
    ]
   },
   {
-   "id": "oca-bigsteelbox-abbotsford-flood-class-action-settlement",
-   "title": "BigSteelBox Abbotsford Flood Settlement (B.C.) — $1M CAD",
-   "summary": "A share of $1 million CAD, based on the depreciated value of what was lost, for people whose property flooded in BigSteelBox containers in Abbotsford in late 2021.",
-   "category": "Consumer Products",
+   "id": "ca-settlements-livehealth-data-privacy",
+   "title": "LiveHealth - Data Privacy Class Action Settlement",
+   "summary": "You may be included in this settlement if you used the appointment booking tool on the LiveHealth Online website or app between October 2024 and August 2025.",
+   "category": "Data Privacy",
    "states": [],
    "deadline": "2026-10-30",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "A share of $1 million CAD, based on the depreciated value of what was lost, for people whose property flooded in BigSteelBox containers in Abbotsford in late 2…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/bigsteelbox-abbotsford-flood-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
-   "keywords": [
-    "bigsteelbox",
-    "abbotsford",
-    "flood",
-    "1m",
-    "cad"
-   ]
-  },
-  {
-   "id": "oca-emblemhealth-senior-care-copay-class-action-settlement",
-   "title": "EmblemHealth & NYC $53M Senior Care Co-Pay Class Action Settlement",
-   "summary": "Reimbursement of up to 100% of the $15 medical co-pays charged to Medicare-eligible New York City retirees enrolled in the EmblemHealth-administered GHI Senior Care plan between January 1, 2022 and January 31, 2023, or up to 40% capped at $100 without proof of payment.",
-   "category": "Healthcare",
-   "states": [
-    "NY"
-   ],
-   "deadline": "2026-10-30",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Reimbursement of up to 100% of the $15 medical co-pays charged to Medicare-eligible New York City retirees enrolled in the EmblemHealth-administered GHI Senior…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/emblemhealth-senior-care-copay-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-06",
-   "first_seen": "2026-09-06",
-   "keywords": [
-    "emblemhealth",
-    "nyc",
-    "53m",
-    "senior",
-    "care",
-    "copay"
-   ]
-  },
-  {
-   "id": "oca-livehealth-online-privacy-class-action-settlement",
-   "title": "LiveHealth Online (Amwell) Privacy Class Action Settlement",
-   "summary": "Estimated $51.14 – $102.29 pro rata from a $2,037,751.46 fund for people who used the LiveHealth Online appointment booking tool (Oct 2024 – Aug 2025)",
-   "category": "Privacy",
-   "states": [],
-   "deadline": "2026-10-30",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Estimated $51.14 – $102.29 pro rata from a $2,037,751.46 fund for people who used the LiveHealth Online appointment booking tool (Oct 2024 – Aug 2025)",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$51.14 - $102.29",
    "claim_url": "https://livehealthonlinesettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/privacy/livehealth-online-privacy-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#livehealth-data-privacy"
-   ],
-   "added": "2026-09-04",
-   "first_seen": "2026-09-04",
+   "info_url": "https://www.classaction.org/settlements#livehealth-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-31",
    "keywords": [
     "livehealth",
-    "online",
-    "amwell",
+    "data",
     "privacy"
    ]
   },
   {
-   "id": "oca-lloyds-syndicate-insurance-class-action-settlement",
-   "title": "Lloyd's of London Syndicate Insurance Class Action Settlement ($3.57M)",
-   "summary": "a pro rata share of $3,570,000, scaled to the premium you paid the settling syndicates · anyone in the U.S. who bought or renewed a Lloyd's policy from 1997 through April 15, 2025",
-   "category": "Insurance",
+   "id": "ca-settlements-lloyds-london",
+   "title": "Lloyd’s London Class Action Settlement",
+   "summary": "This settlement covers those who purchased insurance through certain syndicates at Lloyd's London between January 1, 1997 and April 15, 2025.",
+   "category": null,
    "states": [],
    "deadline": "2026-10-30",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "a pro rata share of $3,570,000, scaled to the premium you paid the settling syndicates",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://syndicatesettlement.com/home/",
-   "info_url": "https://openclassactions.com/settlements/lloyds-syndicate-insurance-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#lloyds-london"
-   ],
-   "added": "2026-08-16",
-   "first_seen": "2026-08-16",
+   "info_url": "https://www.classaction.org/settlements#lloyds-london",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-10-31",
    "keywords": [
     "lloyd",
-    "london",
-    "syndicate",
-    "insurance",
-    "3",
-    "57m"
+    "london"
    ]
   },
   {
@@ -911,84 +846,6 @@
     "union",
     "consumer",
     "report"
-   ]
-  },
-  {
-   "id": "oca-transunion-bankruptcy-remark-fcra-class-action-settlement",
-   "title": "TransUnion $8.31M Bankruptcy Reporting Settlement",
-   "summary": "$100 automatically for the No Bankruptcy Group, an estimated $1,000 with a claim, or an estimated $350 for the Aged Bankruptcy Group, who get nothing without filing · people whose TransUnion report carried a bankruptcy remark with no bankruptcy on record, Jan 6, 2020 – Jan 31, 2023",
-   "category": "Banking & Credit",
-   "states": [],
-   "deadline": "2026-10-30",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$100 automatically for the No Bankruptcy Group, an estimated $1,000 with a claim, or an estimated $350 for the Aged Bankruptcy Group, who get nothing without f…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/credit-reporting/transunion-bankruptcy-remark-fcra-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-28",
-   "first_seen": "2026-08-28",
-   "keywords": [
-    "transunion",
-    "8",
-    "31m",
-    "bankruptcy",
-    "reporting"
-   ]
-  },
-  {
-   "id": "oca-turkey-price-fixing-class-action-settlement",
-   "title": "Turkey Price-Fixing Settlements — $93.5M, Claims Open Through October 30",
-   "summary": "Online filing is open on a pro rata share of $93,575,000 across six settlements for U.S. businesses that bought fresh or frozen, uncooked turkey directly from the processors, Jan 1, 2010 – Dec 31, 2016 · a NEW claim form is required even if you filed in the Cargill round",
-   "category": "Antitrust",
-   "states": [],
-   "deadline": "2026-10-30",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Online filing is open on a pro rata share of $93,575,000 across six settlements for U.S. businesses that bought fresh or frozen, uncooked turkey directly from…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/turkey-price-fixing-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-15",
-   "first_seen": "2026-09-15",
-   "keywords": [
-    "turkey",
-    "pricefixing",
-    "93",
-    "5m",
-    "october",
-    "30"
-   ]
-  },
-  {
-   "id": "oca-wm-technology-securities-class-action-settlement",
-   "title": "WM Technology (Weedmaps) $7.5M Securities Settlement (MAPS)",
-   "summary": "A pro rata share of $7.5 million, est. about $0.072 per security before fees, for investors who bought WM Technology or Silver Spike stock or warrants.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-10-30",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "A pro rata share of $7.5 million, est. about $0.072 per security before fees, for investors who bought WM Technology or Silver Spike stock or warrants.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/wm-technology-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
-   "keywords": [
-    "wm",
-    "technology",
-    "weedmap",
-    "7",
-    "5m",
-    "security",
-    "map"
    ]
   },
   {
@@ -3508,6 +3365,35 @@
     "care",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-wiz-washington-job-postings-class-action-settlement",
+   "title": "Wiz $5M Washington Job Postings Settlement — Est. $811, Automatic",
+   "summary": "An equal share of a $5 million fund, estimated at about $811, paid automatically to people who applied to a Wiz job opening in Washington whose posting omitted pay and benefits.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-11-23",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $5 million fund, estimated at about $811, paid automatically to people who applied to a Wiz job opening in Washington whose posting omitted…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/wiz-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "keywords": [
+    "wiz",
+    "5m",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "811"
    ]
   },
   {
@@ -6147,6 +6033,33 @@
    ]
   },
   {
+   "id": "oca-florence-bank-overdraft-nsf-fee-settlement",
+   "title": "Florence Bank $390,881 Overdraft & NSF Fee Settlement",
+   "summary": "Automatic payment · no claim form · retry NSF and debit card overdraft fees (Apr 2018 – Feb 2024)",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": "2026-12-15",
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/overdraft-fees/florence-bank-overdraft-nsf-fee-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-30",
+   "first_seen": "2026-10-30",
+   "keywords": [
+    "florence",
+    "bank",
+    "390",
+    "881",
+    "overdraft",
+    "nsf",
+    "fee"
+   ]
+  },
+  {
    "id": "oca-kimco-staffing-data-breach-settlement",
    "title": "Kimco Staffing Data Breach Settlement — Up to $5,000 Plus $50 in CA",
    "summary": "Up to $5,000 in documented losses, a pro rata cash share and two years of credit monitoring, plus $50 for California residents, after the June 2023 incident.",
@@ -8675,16 +8588,16 @@
   },
   {
    "id": "oca-bigelow-tea-made-in-usa-class-action-settlement",
-   "title": "Bigelow Tea $6.5M “Manufactured in the USA” Settlement — Up to $10 Without a Receipt (Claims Not Open Yet)",
-   "summary": "$0.50 a box, up to $10 without a receipt or $20 with one, for California store buyers of nine Bigelow teas labeled “Manufactured in the USA” from Oct. 17, 2017 to July 31, 2023. Claim form not open yet.",
+   "title": "Bigelow Tea $6.5M “Manufactured in the USA” Settlement — Up to $10 Without a Receipt",
+   "summary": "$0.50 a box, up to $10 without a receipt or $20 with one, for California store buyers of nine Bigelow teas labeled “Manufactured in the USA” from Oct. 17, 2017 to July 31, 2023. Claims open; Unique ID optional.",
    "category": "Consumer Products",
    "states": [
     "CA"
    ],
    "deadline": "2027-02-08",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
+   "proof": "none",
+   "proof_label": "No proof required",
    "payout": "$0.50 a box, up to $10 without a receipt or $20 with one, for California store buyers of nine Bigelow teas labeled “Manufactured in the USA” from Oct. 17, 2017…",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/false-advertising/bigelow-tea-made-in-usa-class-action-settlement.php",
@@ -8700,8 +8613,7 @@
     "manufactured",
     "10",
     "without",
-    "receipt",
-    "yet"
+    "receipt"
    ]
   },
   {
@@ -10106,6 +10018,36 @@
     "military",
     "lending",
     "act"
+   ]
+  },
+  {
+   "id": "oca-cbiz-moveit-data-breach-class-action-settlement",
+   "title": "CBIZ $7.2M MOVEit Data Breach Settlement — Up to $10,000 or $100 Cash (Claims Not Open Yet)",
+   "summary": "Up to $10,000 in documented losses or $100 cash, plus credit monitoring, for about 586,000 people CBIZ notified about the 2023 MOVEit breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $10,000 in documented losses or $100 cash, plus credit monitoring, for about 586,000 people CBIZ notified about the 2023 MOVEit breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/cbiz-moveit-data-breach-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-31",
+   "first_seen": "2026-10-31",
+   "keywords": [
+    "cbiz",
+    "7",
+    "2m",
+    "moveit",
+    "data",
+    "breach",
+    "10",
+    "000",
+    "100",
+    "yet"
    ]
   },
   {
