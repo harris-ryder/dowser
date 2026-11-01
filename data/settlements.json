@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-31T15:22:10.193Z",
+ "generated_at": "2026-11-01T16:04:13.920Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 422,
+ "count": 420,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -846,64 +846,6 @@
     "union",
     "consumer",
     "report"
-   ]
-  },
-  {
-   "id": "oca-alba-services-new-york-worker-restitution-settlement",
-   "title": "Alba Services NY Attorney General Worker Restitution — $1.4M Fund",
-   "summary": "A share of $1.4M for Alba construction and demolition workers injured on the job in 2016–2024 or sexually harassed at work in 2016–2025.",
-   "category": "Employment",
-   "states": [
-    "NY"
-   ],
-   "deadline": "2026-10-31",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A share of $1.4M for Alba construction and demolition workers injured on the job in 2016–2024 or sexually harassed at work in 2016–2025.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/alba-services-new-york-worker-restitution-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
-   "keywords": [
-    "alba",
-    "service",
-    "ny",
-    "attorney",
-    "general",
-    "worker",
-    "restitution",
-    "1",
-    "4m"
-   ]
-  },
-  {
-   "id": "oca-dennys-new-york-unpaid-wages-settlement",
-   "title": "Denny’s New York $440K Unpaid Wages Settlement",
-   "summary": "Unpaid long-workday wages for eligible employees of the Top Line and Reveille Denny’s franchises.",
-   "category": "Employment",
-   "states": [
-    "NY"
-   ],
-   "deadline": "2026-10-31",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$440K settlement fund (individual payout not stated)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/dennys-new-york-unpaid-wages-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-07",
-   "first_seen": "2026-09-07",
-   "keywords": [
-    "denny",
-    "york",
-    "440k",
-    "unpaid",
-    "wage"
    ]
   },
   {
