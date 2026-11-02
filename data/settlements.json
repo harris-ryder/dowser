@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-01T16:04:13.920Z",
+ "generated_at": "2026-11-02T19:31:45.497Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 420,
+ "count": 429,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -2169,6 +2169,36 @@
     "high",
     "5",
     "game"
+   ]
+  },
+  {
+   "id": "oca-essex-property-trust-california-security-deposit-class-action-settlement",
+   "title": "Essex Property Trust $19.25M California Security Deposit Settlement",
+   "summary": "Pro rata cash for former Essex tenants in California with deposit deductions since Sept. 27, 2018, plus $8.7M in automatic move-out debt forgiveness · preliminary approval hearing Nov. 13, 2026 · claim deadline not set",
+   "category": "Fees & Billing",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-11-13",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Pro rata cash for former Essex tenants in California with deposit deductions since Sept. 27, 2018, plus $8.7M in automatic move-out debt forgiveness",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/essex-property-trust-california-security-deposit-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "keywords": [
+    "essex",
+    "property",
+    "trust",
+    "19",
+    "25m",
+    "california",
+    "security",
+    "deposit"
    ]
   },
   {
@@ -5662,6 +5692,38 @@
    ]
   },
   {
+   "id": "oca-camden-county-nj-vacant-property-registration-fee-class-action-settlement",
+   "title": "Camden County, NJ Vacant Property Registration Fee Settlement — $200 or a 60% Refund",
+   "summary": "$200 with proof of ownership, or 60% of fees paid with proof of payment · five Camden County, NJ towns · June 2018 – January 2022",
+   "category": "Government",
+   "states": [
+    "NJ"
+   ],
+   "deadline": "2026-12-14",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$200 with proof of ownership, or 60% of fees paid with proof of payment",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/real-estate/camden-county-nj-vacant-property-registration-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "keywords": [
+    "camden",
+    "county",
+    "nj",
+    "vacant",
+    "property",
+    "registration",
+    "fee",
+    "200",
+    "60",
+    "refund"
+   ]
+  },
+  {
    "id": "ca-settlements-charleston-area-medical-center-hernia-surgery",
    "title": "Charleston Area Medical Center - Hernia Surgery Class Action Settlement",
    "summary": "You may be covered by this settlement if you received a hernia repair procedure while undergoing bariatric surgery from either Dr. Robert B. Shin or Dr. Samuel Rossi at Charleston Area Medical Center’s facilities between April 5, 2015 and April 4, 2025.",
@@ -7103,6 +7165,30 @@
    ]
   },
   {
+   "id": "oca-sirva-relocation-data-breach-settlement",
+   "title": "Sirva Relocation Data Breach Settlement",
+   "summary": "$50 (Group 1) or $10 (Group 2) cash, or up to $500 ordinary and $4,000 extraordinary losses, plus credit monitoring · September 2023 cyberattack",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-29",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$50 (Group 1) or $10 (Group 2) cash, or up to $500 ordinary and $4,000 extraordinary losses, plus credit monitoring",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/sirva-relocation-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "keywords": [
+    "sirva",
+    "relocation",
+    "data",
+    "breach"
+   ]
+  },
+  {
    "id": "oca-covenant-health-data-breach-settlement",
    "title": "Covenant Health $2M Data Breach Class Action Settlement — Est. $75 or Up to $5,000",
    "summary": "An estimated $75 pro rata cash and up to $5,000 in documented losses, plus two years of credit monitoring, for about 502,606 people notified of the May 2025 Covenant Health cyberattack.",
@@ -7847,6 +7933,33 @@
    ]
   },
   {
+   "id": "oca-woodloch-pines-data-breach-settlement",
+   "title": "Woodloch Pines Data Breach Settlement — $60 or Up to $3,500",
+   "summary": "$60 with no documents, or up to $3,500 in documented losses, plus two years of credit monitoring over the May 2024 Woodloch resort cyberattack; online claims need the LoginID and PIN from the notice",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-13",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$60 with no documents, or up to $3,500 in documented losses, plus two years of credit monitoring over the May 2024 Woodloch resort cyberattack",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/woodloch-pines-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "keywords": [
+    "woodloch",
+    "pine",
+    "data",
+    "breach",
+    "60",
+    "3",
+    "500"
+   ]
+  },
+  {
    "id": "oca-blue-ridge-rural-water-data-breach-settlement",
    "title": "Blue Ridge Rural Water Data Breach Settlement — $50 or Up to $2,500",
    "summary": "A flat $50 with no documentation, or up to $2,500 documented, plus two years of credit monitoring, for people affected by the July 2024 Blue Ridge Rural Water cyberattack.",
@@ -8269,6 +8382,35 @@
    ]
   },
   {
+   "id": "oca-bc-credit-union-overdraft-fee-class-action-settlement",
+   "title": "BC Credit Union Overdraft Fee Settlement (Canada) — Refunds Plus Interest",
+   "summary": "Refunds plus interest for members of eight B.C. credit unions charged overdraft fees over $5 between 1994 and 2003 · claim ID optional, no documents · Canada only",
+   "category": "Fees & Billing",
+   "states": [],
+   "deadline": "2027-01-27",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Refunds plus interest for members of eight B.C. credit unions charged overdraft fees over $5 between 1994 and 2003",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/overdraft-fees/bc-credit-union-overdraft-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "keywords": [
+    "bc",
+    "credit",
+    "union",
+    "overdraft",
+    "fee",
+    "canada",
+    "refund",
+    "plus",
+    "interest"
+   ]
+  },
+  {
    "id": "oca-merchant-of-tennis-us-merchants-data-breach-settlement",
    "title": "Merchant of Tennis (US Merchants) $685K Data Breach Settlement — Est. $45 or $15",
    "summary": "An estimated $45 for people in California in Feb. 2024 or $15 elsewhere, up to $2,000 in documented losses and two years of identity monitoring, for employees and truck drivers in the US Merchants cyberattack.",
@@ -8294,6 +8436,32 @@
     "est",
     "45",
     "15"
+   ]
+  },
+  {
+   "id": "oca-lakeside-pediatric-data-breach-settlement",
+   "title": "Lakeside Pediatric Data Breach Settlement — Cash or Up to $2,500",
+   "summary": "Pro rata share of $35,000 or up to $2,500 in documented losses, plus a year of medical data monitoring, over the October 2024 Idaho pediatric practice breach; online claims need the LoginID and PIN from the notice",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata share of $35,000 or up to $2,500 in documented losses, plus a year of medical data monitoring, over the October 2024 Idaho pediatric practice breach",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/lakeside-pediatric-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-02",
+   "first_seen": "2026-11-02",
+   "keywords": [
+    "lakeside",
+    "pediatric",
+    "data",
+    "breach",
+    "2",
+    "500"
    ]
   },
   {
@@ -8415,6 +8583,61 @@
    ]
   },
   {
+   "id": "oca-rapid-investments-axiom-bank-release-card-class-action-settlement",
+   "title": "Release Card Class Action Settlement — Rapid Financial Solutions & Axiom Bank ($4.2M)",
+   "summary": "a $15 minimum plus three times the fees charged on the prepaid release card you were issued when a jail or detention center let you go",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": "2027-01-31",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "a $15 minimum plus three times the fees charged on the prepaid release card you were issued when a jail or detention center let you go",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/rapid-investments-axiom-bank-release-card-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-08-24",
+   "first_seen": "2026-08-24",
+   "keywords": [
+    "release",
+    "card",
+    "rapid",
+    "financial",
+    "solution",
+    "axiom",
+    "bank",
+    "4",
+    "2m"
+   ]
+  },
+  {
+   "id": "oca-yuma-regional-medical-center-data-breach-settlement",
+   "title": "Yuma Regional Medical Center Data Breach Settlement",
+   "summary": "Pro rata cash plus up to $4,000 in documented losses · people sent notice of the April 2022 Yuma Regional Medical Center cyberattack",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-01",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata cash plus up to $4,000 in documented losses",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/yuma-regional-medical-center-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "keywords": [
+    "yuma",
+    "regional",
+    "medical",
+    "center",
+    "data",
+    "breach"
+   ]
+  },
+  {
    "id": "oca-canada-cra-gckey-privacy-breach-settlement",
    "title": "Canada CRA & GCKey Breach Settlement — Up to $5,200 CAD",
    "summary": "Up to $80 CAD or $200 CAD for time spent, plus up to $5,000 CAD in documented costs, for people whose CRA My Account, My Service Canada or GCKey account was breached in 2020.",
@@ -8477,7 +8700,7 @@
   {
    "id": "oca-wyatt-detention-facility-data-breach-settlement",
    "title": "Wyatt Detention Facility Data Breach Settlement — Up to $5,000",
-   "summary": "Up to $5,000 in documented losses, up to $80 for lost time and five years of credit monitoring over the 2023 Wyatt data incident; claim website due by October 31, 2026.",
+   "summary": "Up to $5,000 in documented losses, up to $80 for lost time and five years of credit monitoring over the 2023 Wyatt data incident; claims open online with the Unique ID and PIN from the postcard notice, or by mail",
    "category": "Data Breach",
    "states": [],
    "deadline": "2027-02-05",
@@ -8720,6 +8943,35 @@
     "15",
     "full",
     "loss"
+   ]
+  },
+  {
+   "id": "oca-apple-gift-card-class-action-settlement-canada",
+   "title": "Apple Gift Card Scam Settlement (Canada) — $1.25 Million CAD",
+   "summary": "A share of $1.25 million CAD · people in Canada who lost Apple gift card value to scammers, 2016 – 2026 · government ID, proof of purchase and fraud report required",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2027-02-20",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of $1.25 million CAD",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/apple-gift-card-class-action-settlement-canada.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-01",
+   "first_seen": "2026-11-01",
+   "keywords": [
+    "apple",
+    "gift",
+    "card",
+    "scam",
+    "canada",
+    "1",
+    "25",
+    "million",
+    "cad"
    ]
   },
   {
