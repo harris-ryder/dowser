@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-02T19:31:45.497Z",
+ "generated_at": "2026-11-03T17:05:56.249Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 429,
+ "count": 430,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -849,145 +849,72 @@
    ]
   },
   {
-   "id": "oca-90-washington-street-rent-overcharge-class-action-settlement",
-   "title": "90 Washington Street $1.74M Rent Overcharge Settlement",
-   "summary": "Refunds of alleged rent overcharges plus 9% interest for tenants of deregulated apartments at 90 Washington Street in Manhattan.",
-   "category": "Fees & Billing",
-   "states": [
-    "NY"
-   ],
-   "deadline": "2026-11-02",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$1.74M settlement fund (individual payout not stated)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/90-washington-street-rent-overcharge-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-26",
-   "first_seen": "2026-09-26",
-   "keywords": [
-    "90",
-    "washington",
-    "street",
-    "1",
-    "74m",
-    "rent",
-    "overcharge"
-   ]
-  },
-  {
-   "id": "oca-connectoncall-data-breach-settlement",
-   "title": "ConnectOnCall $4.95M Data Breach Class Action Settlement",
-   "summary": "up to $75 on a sworn statement alone, or up to $5,000 documented instead, plus two years of dark web and medical data monitoring",
-   "category": "Data Breach",
+   "id": "ca-settlements-diisocyanates-antitrust",
+   "title": "Diisocyanates Antitrust Class Action Settlement",
+   "summary": "You may be included in this settlement if you bought methylene diphenyl diisocyanate (MDI) or toluene diisocyanate (TDI) at any time between January 1, 2016 and July 29, 2026.",
+   "category": null,
    "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $75 on a sworn statement alone, or up to $5,000 documented instead, plus two years of dark web and medical data monitoring",
-   "claim_url": "https://www.connectoncallsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/connectoncall-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#connectoncall-data-breach"
-   ],
-   "added": "2026-08-30",
-   "first_seen": "2026-08-30",
-   "keywords": [
-    "connectoncall",
-    "4",
-    "95m",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-diisocyanates-mdi-tdi-antitrust-class-action-settlement",
-   "title": "Diisocyanates (MDI & TDI) Price-Fixing Class Action Settlements — $37.65M",
-   "summary": "A pro rata share of $37.65M for U.S. businesses that bought MDI or TDI directly from BASF, Covestro, Dow, Huntsman or Wanhua since January 1, 2016",
-   "category": "Antitrust",
-   "states": [],
-   "deadline": "2026-11-02",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A pro rata share of $37.65M for U.S. businesses that bought MDI or TDI directly from BASF, Covestro, Dow, Huntsman or Wanhua since January 1, 2016",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://www.diisocyanatesantitrustlitigation.com/",
-   "info_url": "https://openclassactions.com/settlements/diisocyanates-mdi-tdi-antitrust-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#diisocyanates-antitrust"
-   ],
-   "added": "2026-09-13",
-   "first_seen": "2026-09-13",
+   "info_url": "https://www.classaction.org/settlements#diisocyanates-antitrust",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-03",
    "keywords": [
     "diisocyanate",
-    "mdi",
-    "tdi",
-    "pricefixing",
-    "37",
-    "65m",
     "antitrust"
    ]
   },
   {
-   "id": "oca-fairchild-medical-center-pixel-tracking-class-action-settlement",
-   "title": "Fairchild Medical Center Pixel Tracking Settlement — $25 Cash for California Patients",
-   "summary": "A flat $25 cash payment plus a year of CyEx Privacy Shield Pro for roughly 1,000 California citizens whose private information was allegedly disclosed through the Meta Pixel on the hospital's website.",
-   "category": "Privacy",
-   "states": [
-    "CA"
-   ],
+   "id": "ca-settlements-fairchild-medical-center-data-privacy",
+   "title": "Fairchild Medical Center - Data Privacy Class Action Settlement",
+   "summary": "You may be included in this settlement if Fairchild Medical Center disclosed your personal information to third parties without consent.",
+   "category": "Data Privacy",
+   "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $25 cash payment plus a year of CyEx Privacy Shield Pro for roughly 1,000 California citizens whose private information was allegedly disclosed through…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$25",
    "claim_url": "https://fairchilddatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/pixel-tracking/fairchild-medical-center-pixel-tracking-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#fairchild-medical-center-data-privacy"
-   ],
-   "added": "2026-09-17",
-   "first_seen": "2026-09-17",
+   "info_url": "https://www.classaction.org/settlements#fairchild-medical-center-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-03",
    "keywords": [
     "fairchild",
     "medical",
     "center",
-    "pixel",
-    "tracking",
-    "25",
-    "california",
-    "patient"
+    "data",
+    "privacy"
    ]
   },
   {
-   "id": "oca-modernizing-medicine-modmed-data-breach-settlement",
-   "title": "Modernizing Medicine (ModMed) Data Breach Class Action Settlement",
-   "summary": "an estimated $75 with no documentation, or up to $5,000 in documented losses instead, plus two years of medical identity monitoring, for people sent notice of the July 2025 ModMed cyberattack",
+   "id": "ca-settlements-modernizing-medicine-data-breach",
+   "title": "Modernizing Medicine - Data Breach Class Action Settlement",
+   "summary": "If your private information was compromised in the July 2025 Modernizing Medicine data breach, this settlement may have you covered.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $75 with no documentation, or up to $5,000 in documented losses instead, plus two years of medical identity monitoring, for people sent notice of…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$75 - $5,000",
    "claim_url": "https://modernizingmedicinedatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/modernizing-medicine-modmed-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#modernizing-medicine-data-breach"
-   ],
-   "added": "2026-08-25",
-   "first_seen": "2026-08-25",
+   "info_url": "https://www.classaction.org/settlements#modernizing-medicine-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-03",
    "keywords": [
     "modernizing",
     "medicine",
-    "modmed",
     "data",
     "breach"
    ]
@@ -995,14 +922,14 @@
   {
    "id": "oca-specialtycare-training-repayment-agreement-class-action-settlement",
    "title": "SpecialtyCare $725K Training Repayment Settlement — Automatic",
-   "summary": "automatic payment of at least $100 (up to about $10,727) plus cancellation of training repayment debt for SpecialtyCare surgical neurophysiologists subject to the agreement from Aug. 2017 to June 10, 2026",
-   "category": "Employment",
+   "summary": "",
+   "category": "Training Repayment",
    "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic payment of at least $100 (up to about $10,727) plus cancellation of training repayment debt for SpecialtyCare surgical neurophysiologists subject to…",
+   "payout": "$725K settlement fund (individual payout not stated)",
    "claim_url": "https://specialtycareincsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/employment-law/specialtycare-training-repayment-agreement-class-action-settlement.php",
    "source": "openclassactions",
@@ -1020,9 +947,9 @@
   },
   {
    "id": "oca-swire-coca-cola-washington-non-compete-class-action-settlement",
-   "title": "Swire Coca-Cola $2M Washington Non-Compete Settlement",
-   "summary": "An equal share of a $2,003,000 fund, estimated at $672.54, for Swire Coca-Cola workers in Washington who earned under twice the minimum wage (Sep 9, 2022 – Mar 10, 2026).",
-   "category": "Employment",
+   "title": "Swire Coca-Cola $2M Washington Non-Compete Settlement — Est. $672.54, Automatic Payment",
+   "summary": "",
+   "category": "Wages (Washington)",
    "states": [
     "WA"
    ],
@@ -1030,7 +957,7 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "An equal share of a $2,003,000 fund, estimated at $672.54, for Swire Coca-Cola workers in Washington who earned under twice the minimum wage (Sep 9, 2022 – Mar…",
+   "payout": "$2M settlement fund (individual payout not stated)",
    "claim_url": "https://settlementsphi.com/",
    "info_url": "https://openclassactions.com/settlements/employment/non-compete/swire-coca-cola-washington-non-compete-class-action-settlement.php",
    "source": "openclassactions",
@@ -1044,64 +971,59 @@
     "cocacola",
     "2m",
     "washington",
-    "noncompete"
+    "noncompete",
+    "est",
+    "672",
+    "54"
    ]
   },
   {
-   "id": "oca-university-of-hawaii-data-breach-settlement",
-   "title": "University of Hawaii Data Breach Class Action Settlement",
-   "summary": "an estimated $50 with no documentation, or up to $5,000 in documented losses instead, plus a year of medical data monitoring, for anyone notified of the August 2025 UH Cancer Center research server breach",
+   "id": "ca-settlements-university-of-hawaii-data-breach",
+   "title": "University of Hawai’i - Data Breach Class Action Settlement",
+   "summary": "You may be able to take part in this settlement if you were sent notice that your private information was potentially impacted in the August 2025 University of Hawai’i data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "an estimated $50 with no documentation, or up to $5,000 in documented losses instead, plus a year of medical data monitoring, for anyone notified of the August…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$50 - $5,000",
    "claim_url": "https://uhdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/university-of-hawaii-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#university-of-hawaii-data-breach"
-   ],
-   "added": "2026-08-25",
-   "first_seen": "2026-08-25",
+   "info_url": "https://www.classaction.org/settlements#university-of-hawaii-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-03",
    "keywords": [
     "university",
-    "hawaii",
+    "hawai",
     "data",
-    "breach",
-    "hawai"
+    "breach"
    ]
   },
   {
-   "id": "oca-whirlpool-fridges-class-action-settlement",
-   "title": "Whirlpool / Maytag / KitchenAid / JennAir Side-by-Side Refrigerator Wire Harness Class Action Settlement",
-   "summary": "",
-   "category": "Consumer Products",
+   "id": "ca-settlements-whirlpool-refrigerators",
+   "title": "Whirlpool Refrigerators - Wire Harness Issue Class Action Settlement",
+   "summary": "You may be included in this settlement if you bought a side-by-side refrigerator manufactured by Whirlpool from 2018-2021, including certain Whirlpool, Maytag, KitchenAid, and JennAir brand refrigerators.",
+   "category": "Wire Harness Issue",
    "states": [],
    "deadline": "2026-11-02",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
    "payout": "Varies",
    "claim_url": "https://www.refrigeratorsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/whirlpool-fridges-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#whirlpool-refrigerators"
-   ],
+   "info_url": "https://www.classaction.org/settlements#whirlpool-refrigerators",
+   "source": "classaction.org",
+   "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-10-28",
+   "first_seen": "2026-11-03",
    "keywords": [
     "whirlpool",
-    "maytag",
-    "kitchenaid",
-    "jennair",
-    "sidebyside",
     "refrigerator",
     "wire",
-    "harness"
+    "harness",
+    "issue"
    ]
   },
   {
@@ -2525,14 +2447,16 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/onetouchpoint-data-breach-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#onetouchpoint-data-breach"
+    "https://www.classaction.org/settlements#onetouchpoint-data-breach",
+    "https://www.classaction.org/settlements#connectoncall-data-breach"
    ],
    "added": "2026-09-08",
    "first_seen": "2026-09-08",
    "keywords": [
     "onetouchpoint",
     "data",
-    "breach"
+    "breach",
+    "connectoncall"
    ]
   },
   {
@@ -5610,6 +5534,36 @@
    ]
   },
   {
+   "id": "oca-groundlight-washington-job-postings-class-action-settlement",
+   "title": "Groundlight $460,000 Washington Job Postings Settlement — Est. $207, Automatic",
+   "summary": "An equal share of a $460,000 fund, estimated at about $207, paid automatically to people who applied to a Groundlight job opening in Washington whose posting omitted pay and benefits.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-11",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $460,000 fund, estimated at about $207, paid automatically to people who applied to a Groundlight job opening in Washington whose posting o…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/groundlight-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "keywords": [
+    "groundlight",
+    "460",
+    "000",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "207"
+   ]
+  },
+  {
    "id": "oca-becton-dickinson-sec-fair-fund",
    "title": "Becton Dickinson $175M SEC Fair Fund (BDX)",
    "summary": "A share of the SEC's $175,000,000 Becton Fair Fund for investors who bought BDX common stock between February 5, 2019 and February 5, 2020.",
@@ -7056,6 +7010,34 @@
     "est",
     "95",
     "280"
+   ]
+  },
+  {
+   "id": "oca-hyundai-sonata-plug-in-hybrid-battery-repair-class-action-settlement",
+   "title": "Hyundai Sonata Plug-In Hybrid Battery Settlement — $10 a Day Down",
+   "summary": "$10 for each day a 2016–2019 Sonata Plug-In Hybrid waited at least 60 days for a warranty high-voltage battery repair, up to $15 a day.",
+   "category": "Auto",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$10 for each day a 2016–2019 Sonata Plug-In Hybrid waited at least 60 days for a warranty high-voltage battery repair, up to $15 a day.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/automotive/hyundai-sonata-plug-in-hybrid-battery-repair-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "keywords": [
+    "hyundai",
+    "sonata",
+    "plugin",
+    "hybrid",
+    "battery",
+    "10",
+    "day",
+    "down"
    ]
   },
   {
@@ -8635,6 +8617,35 @@
     "center",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-methodist-homes-alabama-data-breach-settlement",
+   "title": "Methodist Homes of Alabama Data Breach Settlement — $52.50 or Up to $5,000",
+   "summary": "A $52.50 cash payment with no documents, or up to $3,500 and $5,000 in documented losses, plus credit monitoring, for people notified of the 2024 and 2025 Methodist Homes data incidents.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-02",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $52.50 cash payment with no documents, or up to $3,500 and $5,000 in documented losses, plus credit monitoring, for people notified of the 2024 and 2025 Meth…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/methodist-homes-alabama-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-03",
+   "first_seen": "2026-11-03",
+   "keywords": [
+    "methodist",
+    "home",
+    "alabama",
+    "data",
+    "breach",
+    "52",
+    "50",
+    "5",
+    "000"
    ]
   },
   {
