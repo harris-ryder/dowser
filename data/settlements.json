@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-05T17:26:12.115Z",
+ "generated_at": "2026-11-06T16:47:36.938Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 424,
+ "count": 429,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -257,15 +257,15 @@
   },
   {
    "id": "oca-north-highland-esop-erisa-class-action-settlement",
-   "title": "North Highland ESOP $2.375M ERISA Class Action Settlement",
-   "summary": "automatic payment, no claim form and no opt-out — a pro rata share of a $2,375,000 fund for participants and beneficiaries who held vested North Highland ESOP shares between 2016 and 2025",
-   "category": "Retirement Plans",
+   "title": "North Highland ESOP $2.375M ERISA Settlement — No Claim Form, No Opt-Out",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-10-06",
    "deadline_type": "claim",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic payment, no claim form and no opt-out — a pro rata share of a $2,375,000 fund for participants and beneficiaries who held vested North Highland ESOP…",
+   "payout": "$2.375M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/erisa/north-highland-esop-erisa-class-action-settlement.php",
    "source": "openclassactions",
@@ -278,7 +278,8 @@
     "esop",
     "2",
     "375m",
-    "erisa"
+    "erisa",
+    "optout"
    ]
   },
   {
@@ -731,55 +732,27 @@
    ]
   },
   {
-   "id": "oca-university-of-phoenix-pixel-privacy-class-action-settlement",
-   "title": "University of Phoenix Pixel Privacy Settlement — $25 for Students",
-   "summary": "$25 per approved claim for people enrolled at the University of Phoenix from April 1, 2023 (April 1, 2020 in Illinois) through October 6, 2026.",
-   "category": "Privacy",
+   "id": "ca-settlements-university-of-phoenix-data-privacy",
+   "title": "University of Phoenix - Data Privacy Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if you were enrolled at The University of Phoenix at any time between April 1, 2023 and October 6, 2026 or between April 1, 2020 and October 6, 2026 if you were located in Illinois.",
+   "category": "Data Privacy",
    "states": [],
    "deadline": "2026-11-05",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$25 per approved claim for people enrolled at the University of Phoenix from April 1, 2023 (April 1, 2020 in Illinois) through October 6, 2026.",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$25",
    "claim_url": "https://uoppixelsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/vppa/university-of-phoenix-pixel-privacy-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#university-of-phoenix-data-privacy"
-   ],
-   "added": "2026-10-08",
-   "first_seen": "2026-10-08",
+   "info_url": "https://www.classaction.org/settlements#university-of-phoenix-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-06",
    "keywords": [
     "university",
     "phoenix",
-    "pixel",
-    "privacy",
-    "25",
-    "student"
-   ]
-  },
-  {
-   "id": "oca-yes-communities-data-breach-settlement",
-   "title": "YES Communities Data Breach Class Action Settlement",
-   "summary": "a flat $50 with no documentation, or documented losses plus lost time instead, with three years of credit monitoring either way, from the December 2024 ransomware attack",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-11-05",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat $50 with no documentation, or documented losses plus lost time instead, with three years of credit monitoring either way, from the December 2024 ransomw…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/yes-communities-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-30",
-   "first_seen": "2026-08-30",
-   "keywords": [
-    "yes",
-    "community",
     "data",
-    "breach"
+    "privacy"
    ]
   },
   {
@@ -2097,6 +2070,30 @@
     "trailing",
     "commission",
     "canada"
+   ]
+  },
+  {
+   "id": "oca-bestway-above-ground-pools-class-action-settlement",
+   "title": "Bestway Above-Ground Pool Class Action Settlement ($15M)",
+   "summary": "$40 cash with no receipt (the pool’s model or serial number is required), or 10% of the price paid with proof · Bestway, Power Steel, Steel Pro & Coleman Power Steel above-ground pools 48 inches or taller, sold 2008–2024 · one claim per household · injury claims not released",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2026-11-19",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "$40 cash with no receipt (the pool’s model or serial number is required), or 10% of the price paid with proof",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/product-defects/bestway-above-ground-pools-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-08-10",
+   "first_seen": "2026-08-10",
+   "keywords": [
+    "bestway",
+    "aboveground",
+    "pool",
+    "15m"
    ]
   },
   {
@@ -4531,6 +4528,33 @@
    ]
   },
   {
+   "id": "oca-koppers-cicero-odor-class-action-settlement",
+   "title": "Koppers $625K Cicero Odor Settlement (Cicero, IL)",
+   "summary": "An equal per-household share of a $625,000 fund for people who owned or rented a home within one mile of the Koppers facility in Cicero, Illinois.",
+   "category": "Environmental",
+   "states": [
+    "IL"
+   ],
+   "deadline": "2026-12-07",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An equal per-household share of a $625,000 fund for people who owned or rented a home within one mile of the Koppers facility in Cicero, Illinois.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/environmental/koppers-cicero-odor-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "keywords": [
+    "kopper",
+    "625k",
+    "cicero",
+    "odor",
+    "il"
+   ]
+  },
+  {
    "id": "oca-pillsbury-data-breach-settlement",
    "title": "Pillsbury Law Firm Data Breach Settlement — Cash + Up to $3,000",
    "summary": "Pro rata cash with no documentation, plus up to $3,000 for documented losses and a year of medical data monitoring, for people notified of the April 2025 breach.",
@@ -5531,6 +5555,31 @@
    ]
   },
   {
+   "id": "oca-caliber-collision-401k-forfeiture-class-action-settlement",
+   "title": "Caliber Collision $750K 401(k) Forfeiture Settlement — Automatic",
+   "summary": "Automatic payments, no claim form and no opt-out, from a $750,000 fund for Caliber Collision 401(k) participants from September 2019 to September 2026.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2026-12-15",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Automatic payments, no claim form and no opt-out, from a $750,000 fund for Caliber Collision 401(k) participants from September 2019 to September 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/caliber-collision-401k-forfeiture-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "keywords": [
+    "caliber",
+    "collision",
+    "750k",
+    "401",
+    "forfeiture"
+   ]
+  },
+  {
    "id": "oca-florence-bank-overdraft-nsf-fee-settlement",
    "title": "Florence Bank $390,881 Overdraft & NSF Fee Settlement",
    "summary": "Automatic payment · no claim form · retry NSF and debit card overdraft fees (Apr 2018 – Feb 2024)",
@@ -5812,6 +5861,37 @@
     "150",
     "7",
     "500"
+   ]
+  },
+  {
+   "id": "oca-the-shade-store-washington-job-postings-class-action-settlement",
+   "title": "The Shade Store Washington Job Postings Settlement — Est. $1,572.99",
+   "summary": "An equal share, estimated at $1,572.99, for people who applied to The Shade Store jobs in Washington whose postings left out the pay range.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-18",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share, estimated at $1,572.99, for people who applied to The Shade Store jobs in Washington whose postings left out the pay range.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/the-shade-store-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "keywords": [
+    "shade",
+    "store",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "1",
+    "572",
+    "99"
    ]
   },
   {
@@ -7916,6 +7996,33 @@
     "breach",
     "8",
     "500"
+   ]
+  },
+  {
+   "id": "oca-hilton-grand-vacations-marbrisa-hotel-fee-class-action-settlement",
+   "title": "MarBrisa Carlsbad $750K Hotel Fee Settlement",
+   "summary": "An equal share of $750,000 for guests charged fees, including parking, allegedly left out of advertised MarBrisa Carlsbad room prices.",
+   "category": "Fees & Billing",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2027-01-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal share of $750,000 for guests charged fees, including parking, allegedly left out of advertised MarBrisa Carlsbad room prices.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/hilton-grand-vacations-marbrisa-hotel-fee-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "keywords": [
+    "marbrisa",
+    "carlsbad",
+    "750k",
+    "hotel",
+    "fee"
    ]
   },
   {
@@ -11316,6 +11423,32 @@
     "former",
     "customer",
     "must"
+   ]
+  },
+  {
+   "id": "oca-prestige-financial-services-repossession-class-action-settlement",
+   "title": "Prestige Financial Services $6.5M Repossession Settlement — Automatic",
+   "summary": "Automatic checks from a $6.5 million fund, plus $2,000 off deficiency balances, for borrowers sent a repossession notice by Prestige Financial.",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Automatic checks from a $6.5 million fund, plus $2,000 off deficiency balances, for borrowers sent a repossession notice by Prestige Financial.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/prestige-financial-services-repossession-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-06",
+   "first_seen": "2026-11-06",
+   "keywords": [
+    "prestige",
+    "financial",
+    "service",
+    "6",
+    "5m",
+    "repossession"
    ]
   },
   {
