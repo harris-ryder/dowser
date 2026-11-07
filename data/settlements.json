@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-06T16:47:36.938Z",
+ "generated_at": "2026-11-07T15:41:21.119Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 429,
+ "count": 441,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -706,8 +706,8 @@
   {
    "id": "oca-sun-country-pilot-military-leave-401k-class-action-settlement",
    "title": "Sun Country $1.55M Pilot Military Leave 401(k) Settlement — Automatic Payment",
-   "summary": "Missed 401(k) contributions plus lost earnings, paid automatically, for Sun Country pilots who took military leave between 2011 and 2025.",
-   "category": "Retirement Plans",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-10-30",
    "deadline_type": "claim",
@@ -756,31 +756,27 @@
    ]
   },
   {
-   "id": "oca-situsamc-data-breach-settlement",
-   "title": "SitusAMC Data Breach Class Action Settlement ($5.3M)",
-   "summary": "a flat cash payment estimated at $75 with no documentation, or instead up to $5,000 documented, for people sent notice of the November 2025 data incident",
+   "id": "ca-settlements-situsamc-holdings-corporation-data-breach",
+   "title": "SitusAMC Holdings Corporation - Data Breach Class Action Settlement",
+   "summary": "You may be covered by this settlement if you were notified that your personal information was involved in the November 2025 SitusAMC Holdings Corporation data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-06",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat cash payment estimated at $75 with no documentation, or instead up to $5,000 documented, for people sent notice of the November 2025 data incident",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$75 - $5,000",
    "claim_url": "https://samcdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/situsamc-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#situsamc-holdings-corporation-data-breach"
-   ],
-   "added": "2026-08-23",
-   "first_seen": "2026-08-23",
+   "info_url": "https://www.classaction.org/settlements#situsamc-holdings-corporation-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
    "keywords": [
     "situsamc",
+    "corporation",
     "data",
-    "breach",
-    "5",
-    "3m",
-    "corporation"
+    "breach"
    ]
   },
   {
@@ -7299,6 +7295,34 @@
    ]
   },
   {
+   "id": "oca-ldf-online-loan-bradby-vivus-class-action-settlement",
+   "title": "Second LDF Online Loan Class Action Settlement ($16.5M, Bradby v. Vivus)",
+   "summary": "automatic payment, no claim form — a pro rata share of $16,500,000 based on state law and principal or above-cap interest paid · anyone who took out a loan from an LDF tribal lending company (Lendgreen, Radiant Cash and 20 others) between July 24, 2016 and October 1, 2023 · borrowers who never cashed their Fitzgerald check must request payment",
+   "category": "Banking & Credit",
+   "states": [],
+   "deadline": "2027-01-04",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — a pro rata share of $16,500,000 based on state law and principal or above-cap interest paid",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/ldf-online-loan-bradby-vivus-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-07",
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "second",
+    "ldf",
+    "online",
+    "loan",
+    "16",
+    "5m",
+    "bradby",
+    "vivus"
+   ]
+  },
+  {
    "id": "oca-manitoba-childrens-special-allowance-class-action-settlement",
    "title": "Manitoba Children’s Special Allowance Settlement — $445.2M CAD",
    "summary": "A share of a $445.2 million CAD fund, based on months in care, for people who were provincially funded children in Manitoba CFS care from 2005 to 2019.",
@@ -10002,6 +10026,61 @@
    ]
   },
   {
+   "id": "oca-arlopu-slide-playset-entrapment-recall",
+   "title": "Arlopu Slide Playset Recall — Free Repair Kit",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/arlopu-slide-playset-entrapment-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "arlopu",
+    "slide",
+    "playset",
+    "free",
+    "repair",
+    "kit"
+   ]
+  },
+  {
+   "id": "oca-baby-brezza-superfast-sterilizer-dryer-recall",
+   "title": "Baby Brezza Sterilizer Dryer Recall — 29,000 Units, Free Replacement",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/baby-brezza-superfast-sterilizer-dryer-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "baby",
+    "brezza",
+    "sterilizer",
+    "dryer",
+    "29",
+    "000",
+    "unit",
+    "free",
+    "replacement"
+   ]
+  },
+  {
    "id": "oca-blue-ridge-power-warn-act-class-action-settlement",
    "title": "Blue Ridge Power $3.07M WARN Act Settlement",
    "summary": "A proposed $3.07 million fund before adjustments would compensate eligible Blue Ridge Power workers over alleged WARN Act violations.",
@@ -10084,6 +10163,35 @@
    ]
   },
   {
+   "id": "oca-bose-s1-pro-battery-pack-recall",
+   "title": "Bose S1 Pro Battery Pack Recall — 634,759 Packs, Free Replacement",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/bose-s1-pro-battery-pack-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "bose",
+    "s1",
+    "pro",
+    "battery",
+    "pack",
+    "634",
+    "759",
+    "free",
+    "replacement"
+   ]
+  },
+  {
    "id": "oca-bowflex-dumbbell-recall",
    "title": "BowFlex Adjustable Dumbbells Recall",
    "summary": "",
@@ -10154,6 +10262,32 @@
     "15m",
     "debt",
     "cancellation"
+   ]
+  },
+  {
+   "id": "oca-camp-ice-axe-x-dream-x-all-mountain-recall",
+   "title": "C.A.M.P. Ice Axe Recall — Free Repair Kit or Factory Repair",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/camp-ice-axe-x-dream-x-all-mountain-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "ice",
+    "axe",
+    "free",
+    "repair",
+    "kit",
+    "factory"
    ]
   },
   {
@@ -10767,6 +10901,35 @@
    ]
   },
   {
+   "id": "oca-gourmia-air-fryer-oven-gtf7530-recall",
+   "title": "Gourmia Air Fryer Oven Recall — 175,951 Ovens, Free Repair Kit",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/gourmia-air-fryer-oven-gtf7530-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "gourmia",
+    "air",
+    "fryer",
+    "oven",
+    "175",
+    "951",
+    "free",
+    "repair",
+    "kit"
+   ]
+  },
+  {
    "id": "oca-grainger-401k-forfeiture-erisa-class-action-settlement",
    "title": "Grainger 401(k) $2.85M Forfeiture Settlement — Awaiting Approval",
    "summary": "A proposed $2.85 million pro rata settlement for W.W. Grainger Retirement Savings Plan participants since May 2019, paid automatically if approved.",
@@ -10874,6 +11037,31 @@
     "metal",
     "awaiting",
     "approval"
+   ]
+  },
+  {
+   "id": "oca-hauoms-eight-drawer-dresser-tip-over-recall",
+   "title": "HAUOMS Eight-Drawer Dresser Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/hauoms-eight-drawer-dresser-tip-over-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "hauom",
+    "eightdrawer",
+    "dresser",
+    "full",
+    "refund"
    ]
   },
   {
@@ -11087,6 +11275,60 @@
     "university",
     "covid",
     "tuition"
+   ]
+  },
+  {
+   "id": "oca-little-giant-ladder-rapid-lock-recall",
+   "title": "Little Giant Ladder Recall — 3.66 Million Ladders, Free Repair Kit",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/little-giant-ladder-rapid-lock-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "little",
+    "giant",
+    "ladder",
+    "3",
+    "66",
+    "million",
+    "free",
+    "repair",
+    "kit"
+   ]
+  },
+  {
+   "id": "oca-magnetopia-magnetic-building-cubes-recall",
+   "title": "Magnetopia Magnetic Cubes Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/magnetopia-magnetic-building-cubes-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "magnetopia",
+    "magnetic",
+    "cube",
+    "full",
+    "refund"
    ]
   },
   {
@@ -11789,6 +12031,33 @@
    ]
   },
   {
+   "id": "oca-vevor-bmx-bicycle-chain-guard-recall",
+   "title": "Vevor BMX Bike Recall — Free Chain Guard Kit",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/vevor-bmx-bicycle-chain-guard-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "vevor",
+    "bmx",
+    "bike",
+    "free",
+    "chain",
+    "guard",
+    "kit"
+   ]
+  },
+  {
    "id": "ca-settlements-washington-nationals-discount-tickets",
    "title": "Washington Nationals - Discount Tickets Class Action Settlement",
    "summary": "You may be included in this settlement if you bought a Washington Nationals ticket in the 2023 or 2024 season and were not eligible for the “Millennial” or “Young Professional” discount due to being 40 or older.",
@@ -11866,6 +12135,57 @@
     "dc",
     "worker",
     "misclassification"
+   ]
+  },
+  {
+   "id": "oca-x-pro-eagle-youth-atv-speed-module-recall",
+   "title": "X-Pro Eagle Youth ATV Recall — $100 Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/x-pro-eagle-youth-atv-speed-module-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "xpro",
+    "eagle",
+    "youth",
+    "atv",
+    "100",
+    "refund"
+   ]
+  },
+  {
+   "id": "oca-x-vesolje-nursing-pillow-recall",
+   "title": "X-VESOLJE Nursing Pillow Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/x-vesolje-nursing-pillow-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "xvesolje",
+    "nursing",
+    "pillow",
+    "full",
+    "refund"
    ]
   },
   {
