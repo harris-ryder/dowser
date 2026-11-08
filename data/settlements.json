@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-07T15:41:21.119Z",
+ "generated_at": "2026-11-08T15:59:58.496Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 441,
+ "count": 445,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -6696,6 +6696,37 @@
    ]
   },
   {
+   "id": "oca-missouri-delta-medical-center-pixel-privacy-settlement",
+   "title": "Missouri Delta Medical Center Pixel Settlement — $20 for Patient Portal Users",
+   "summary": "A $20 payment for Missouri patients who used the MDMC patient portal from 2017 to 2022, plus a free year of CyEx Privacy Shield.",
+   "category": "Privacy",
+   "states": [
+    "MO"
+   ],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $20 payment for Missouri patients who used the MDMC patient portal from 2017 to 2022, plus a free year of CyEx Privacy Shield.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pixel-tracking/missouri-delta-medical-center-pixel-privacy-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-07",
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "missouri",
+    "delta",
+    "medical",
+    "center",
+    "pixel",
+    "20",
+    "patient",
+    "portal",
+    "user"
+   ]
+  },
+  {
    "id": "oca-napco-securities-class-action-settlement",
    "title": "NAPCO $20M Securities Settlement (NSSC) — About $1.23 a Share",
    "summary": "A pro rata share of $20 million for investors who bought NAPCO Security Technologies stock from Nov. 7, 2022 through Aug. 18, 2023.",
@@ -7463,6 +7494,33 @@
    ]
   },
   {
+   "id": "oca-nyc-central-booking-class-action-settlement",
+   "title": "NYC Central Booking $21.5M Class Action Settlement",
+   "summary": "Up to $475 for each time you were held at a New York City Central Booking facility during the class periods, from a fund of up to $21.5 million.",
+   "category": "Government",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2027-01-07",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $475 for each time you were held at a New York City Central Booking facility during the class periods, from a fund of up to $21.5 million.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/nyc-central-booking-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-09-06",
+   "first_seen": "2026-09-06",
+   "keywords": [
+    "nyc",
+    "central",
+    "booking",
+    "21",
+    "5m"
+   ]
+  },
+  {
    "id": "oca-red-coats-data-breach-settlement",
    "title": "Red Coats Data Breach Settlement — Up to $100 for Lost Time or Up to $5,000 Documented",
    "summary": "Up to $100 for time spent, up to $2,000 in ordinary losses and up to $3,000 in fraud losses, plus a year of credit monitoring, for people notified of the May 2025 Red Coats data incident.",
@@ -7703,6 +7761,33 @@
    "first_seen": "2026-11-03",
    "keywords": [
     "nysid",
+    "data",
+    "breach",
+    "50",
+    "5",
+    "000"
+   ]
+  },
+  {
+   "id": "oca-lowe-engineers-data-breach-settlement",
+   "title": "Lowe Engineers Data Breach Settlement — $50 or Up to $5,000",
+   "summary": "A $50 cash payment with no documents, or up to $500 and $5,000 in documented losses, plus two years of credit monitoring, for people notified of the December 2024 Lowe Engineers cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-13",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $50 cash payment with no documents, or up to $500 and $5,000 in documented losses, plus two years of credit monitoring, for people notified of the December 2…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/lowe-engineers-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-07",
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "lowe",
+    "engineer",
     "data",
     "breach",
     "50",
@@ -8985,6 +9070,39 @@
     "nonbank",
     "atm",
     "surcharge"
+   ]
+  },
+  {
+   "id": "oca-la-county-mens-central-jail-strip-search-class-action-settlement",
+   "title": "LA County Men’s Central Jail Strip Search Settlement — At Least $5,000 Each",
+   "summary": "At least $5,000 each for men in Men’s Central Jail units 2500 or 2700 who were subjected to the September 7, 2021 mass strip search.",
+   "category": "Government",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2027-03-02",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "At least $5,000 each for men in Men’s Central Jail units 2500 or 2700 who were subjected to the September 7, 2021 mass strip search.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/la-county-mens-central-jail-strip-search-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-07",
+   "first_seen": "2026-11-07",
+   "keywords": [
+    "la",
+    "county",
+    "men",
+    "central",
+    "jail",
+    "strip",
+    "search",
+    "least",
+    "5",
+    "000",
+    "each"
    ]
   },
   {
