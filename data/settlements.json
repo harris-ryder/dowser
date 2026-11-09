@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-08T15:59:58.496Z",
+ "generated_at": "2026-11-09T19:51:21.772Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 445,
+ "count": 451,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -34,32 +34,6 @@
     "rental",
     "collection",
     "maryland"
-   ]
-  },
-  {
-   "id": "oca-activision-blizzard-shareholder-class-action-settlement",
-   "title": "$250M Activision Blizzard Shareholder Settlement (Microsoft Merger)",
-   "summary": "about $0.30 per eligible share from a $250M all-in fund · automatic payment, no claim form · shareholders who held Activision (ATVI) stock at the Oct 13, 2023 merger closing, when shares converted to Microsoft's $95.00-per-share buyout price",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-08-31",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "about $0.30 per eligible share from a $250M all-in fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/activision-blizzard-shareholder-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-24",
-   "first_seen": "2026-07-24",
-   "keywords": [
-    "250m",
-    "activision",
-    "blizzard",
-    "shareholder",
-    "microsoft",
-    "merger"
    ]
   },
   {
@@ -280,33 +254,6 @@
     "375m",
     "erisa",
     "optout"
-   ]
-  },
-  {
-   "id": "oca-providence-health-401k-forfeiture-class-action-settlement",
-   "title": "Providence Health $42.7M 401(k) Forfeiture ERISA Settlement — Automatic Payment",
-   "summary": "",
-   "category": null,
-   "states": [],
-   "deadline": "2026-10-06",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "$42.7M settlement fund (individual payout not stated)",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/employment/erisa/providence-health-401k-forfeiture-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-11-05",
-   "keywords": [
-    "providence",
-    "health",
-    "42",
-    "7m",
-    "401",
-    "forfeiture",
-    "erisa"
    ]
   },
   {
@@ -780,33 +727,26 @@
    ]
   },
   {
-   "id": "oca-dominos-san-francisco-health-care-fee-class-action-settlement",
-   "title": "Domino's San Francisco Health Care Fee Class Action Settlement",
-   "summary": "A voucher worth 75% of the 6% health care surcharge you paid at four San Francisco Domino's stores, or 50% in cash if you file instead",
-   "category": "Fees & Billing",
-   "states": [
-    "CA"
-   ],
+   "id": "ca-settlements-dominos-fees-california",
+   "title": "Domino's - Fees (California) Class Action Settlement",
+   "summary": "You may be included in this settlement if you bought anything from one of four San Francisco Domino's locations between December 4, 2023 and August 12, 2026.",
+   "category": "Fees (California)",
+   "states": [],
    "deadline": "2026-11-08",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
+   "proof": "none",
+   "proof_label": "No proof required",
    "payout": "Varies",
    "claim_url": "https://www.asifoodssettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/dominos-san-francisco-health-care-fee-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#dominos-fees-california"
-   ],
-   "added": "2026-08-29",
-   "first_seen": "2026-08-29",
+   "info_url": "https://www.classaction.org/settlements#dominos-fees-california",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-09",
    "keywords": [
     "domino",
-    "san",
-    "francisco",
-    "health",
-    "care",
-    "fee"
+    "fee",
+    "california"
    ]
   },
   {
@@ -2677,6 +2617,33 @@
    ]
   },
   {
+   "id": "oca-mullinax-ford-data-breach-settlement",
+   "title": "Mullinax Ford Data Breach Settlement — $50 or Up to $3,075",
+   "summary": "A flat $50, or up to $3,000 in documented losses plus $75 for lost time, with two years of credit monitoring, for people in the Mullinax Ford data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-23",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $50, or up to $3,000 in documented losses plus $75 for lost time, with two years of credit monitoring, for people in the Mullinax Ford data incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/mullinax-ford-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "keywords": [
+    "mullinax",
+    "ford",
+    "data",
+    "breach",
+    "50",
+    "3",
+    "075"
+   ]
+  },
+  {
    "id": "oca-vasindas-around-the-clock-care-data-breach-settlement",
    "title": "Vasindas' Around the Clock Care Data Breach Class Action Settlement",
    "summary": "a flat $70 with no proof, or up to $2,500 in documented out-of-pocket losses instead, plus two years of medical identity monitoring either way, for people notified of the cyberattack on the Bakersfield in-home senior and dementia care provider",
@@ -3863,6 +3830,33 @@
     "patient",
     "portal",
     "user"
+   ]
+  },
+  {
+   "id": "oca-okanogan-behavioral-healthcare-data-breach-settlement",
+   "title": "Okanogan Behavioral Healthcare Data Breach Class Action Settlement",
+   "summary": "a $50 cash payment that stacks with the documented tiers rather than ruling them out, up to $5,350 in total, plus medical identity monitoring",
+   "category": "Data Breach",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-01",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "a $50 cash payment that stacks with the documented tiers rather than ruling them out, up to $5,350 in total, plus medical identity monitoring",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/okanogan-behavioral-healthcare-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-08-26",
+   "first_seen": "2026-08-26",
+   "keywords": [
+    "okanogan",
+    "behavioral",
+    "healthcare",
+    "data",
+    "breach"
    ]
   },
   {
@@ -8253,6 +8247,33 @@
    ]
   },
   {
+   "id": "oca-eyecare-partners-data-breach-settlement",
+   "title": "EyeCare Partners Data Breach Settlement — $50 or Up to $3,000",
+   "summary": "A flat $50, or up to $3,000 in documented losses, plus a year of medical monitoring, for patients notified of the 2024–2025 EyeCare Partners data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-26",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $50, or up to $3,000 in documented losses, plus a year of medical monitoring, for patients notified of the 2024–2025 EyeCare Partners data incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/eyecare-partners-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "keywords": [
+    "eyecare",
+    "partner",
+    "data",
+    "breach",
+    "50",
+    "3",
+    "000"
+   ]
+  },
+  {
    "id": "oca-mavis-discount-tire-pennsylvania-ag-restitution-settlement",
    "title": "Mavis Tire Pennsylvania Settlement — $190K Restitution for Unneeded Repairs",
    "summary": "Restitution from a $190,000 fund for Pennsylvania Mavis Discount Tire customers who paid for unneeded, unperformed or faulty repairs.",
@@ -8573,6 +8594,35 @@
    ]
   },
   {
+   "id": "oca-johnson-controls-data-breach-settlement",
+   "title": "Johnson Controls $5.475M Data Breach Settlement — Est. $50 or Up to $5,000",
+   "summary": "An estimated $50, or up to $5,000 in documented losses, plus two years of credit monitoring, for people notified of the 2023 Johnson Controls data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-01",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $50, or up to $5,000 in documented losses, plus two years of credit monitoring, for people notified of the 2023 Johnson Controls data incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/johnson-controls-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "keywords": [
+    "johnson",
+    "control",
+    "5",
+    "475m",
+    "data",
+    "breach",
+    "est",
+    "50",
+    "000"
+   ]
+  },
+  {
    "id": "oca-yuma-regional-medical-center-data-breach-settlement",
    "title": "Yuma Regional Medical Center Data Breach Settlement",
    "summary": "Pro rata cash plus up to $4,000 in documented losses · people sent notice of the April 2022 Yuma Regional Medical Center cyberattack",
@@ -8715,6 +8765,32 @@
    ]
   },
   {
+   "id": "oca-brpa-nrx-pharmaceuticals-stockholder-class-action-settlement",
+   "title": "$2.675M BRPA NRx SPAC Stockholder Settlement",
+   "summary": "A pro rata share of $2.675 million for Big Rock Partners SPAC holders who did not redeem their shares before the 2021 NeuroRx merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-02-08",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $2.675 million for Big Rock Partners SPAC holders who did not redeem their shares before the 2021 NeuroRx merger.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/brpa-nrx-pharmaceuticals-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-09",
+   "first_seen": "2026-11-09",
+   "keywords": [
+    "2",
+    "675m",
+    "brpa",
+    "nrx",
+    "spac",
+    "stockholder"
+   ]
+  },
+  {
    "id": "oca-ncaa-tennis-prize-money-class-action-settlement",
    "title": "$2M NCAA Tennis Prize Money Class Action Settlement",
    "summary": "A share of a $2M fund, in proportion to prize money forfeited, for tennis players who gave up winnings Mar 19, 2020 – Nov 21, 2025 · NCAA ID and documentation required.",
@@ -8739,6 +8815,31 @@
     "tennis",
     "prize",
     "money"
+   ]
+  },
+  {
+   "id": "oca-sportsedtv-vppa-class-action-settlement",
+   "title": "$500K SportsEdTV VPPA Video Privacy Class Action Settlement",
+   "summary": "Pro rata cash · 1,264 U.S. subscribers (May 2023 – May 2025) · CA residents 2× · LoginID & PIN from notice",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2027-02-08",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$500K settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/sportsedtv-vppa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-09",
+   "keywords": [
+    "500k",
+    "sportsedtv",
+    "vppa",
+    "video",
+    "privacy"
    ]
   },
   {
@@ -9911,6 +10012,32 @@
     "kentucky",
     "overdraft",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-activision-blizzard-shareholder-class-action-settlement",
+   "title": "$250M Activision Blizzard Shareholder Settlement (Microsoft Merger)",
+   "summary": "about $0.30 per eligible share from a $250M all-in fund · automatic payment, no claim form · shareholders who held Activision (ATVI) stock at the Oct 13, 2023 merger closing, when shares converted to Microsoft's $95.00-per-share buyout price",
+   "category": "Securities",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "about $0.30 per eligible share from a $250M all-in fund",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/activision-blizzard-shareholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-07-24",
+   "first_seen": "2026-07-24",
+   "keywords": [
+    "250m",
+    "activision",
+    "blizzard",
+    "shareholder",
+    "microsoft",
+    "merger"
    ]
   },
   {
@@ -11809,6 +11936,33 @@
     "6",
     "5m",
     "repossession"
+   ]
+  },
+  {
+   "id": "oca-providence-health-401k-forfeiture-class-action-settlement",
+   "title": "Providence Health $42.7M 401(k) Forfeiture ERISA Settlement — Automatic Payment",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$42.7M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/employment/erisa/providence-health-401k-forfeiture-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-05",
+   "keywords": [
+    "providence",
+    "health",
+    "42",
+    "7m",
+    "401",
+    "forfeiture",
+    "erisa"
    ]
   },
   {
