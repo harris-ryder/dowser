@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:04:54.929Z",
+ "generated_at": "2026-11-11T17:12:04.873Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
@@ -727,63 +727,36 @@
    ]
   },
   {
-   "id": "oca-anthem-grandfathered-rx-prescription-drug-settlement",
-   "title": "Anthem Grandfathered Rx Brand-Name Drug Settlement",
-   "summary": "Reimbursement for denied brand-name (single source) drugs · CA Anthem Core 5000, Tonik & RightPlan plans",
-   "category": "Healthcare",
+   "id": "ca-settlements-alliance-ground-international-biometric-privacy-illinois",
+   "title": "Alliance Ground International - Biometric Privacy (Illinois) Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if you scanned your finger or face for timekeeping purposes while working for Alliance Ground International Illinois between September 2020 and August 12, 2026.",
+   "category": "Biometric Privacy (Illinois)",
    "states": [],
    "deadline": "2026-11-10",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": null,
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/anthem-grandfathered-rx-prescription-drug-settlement.php",
-   "source": "openclassactions",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$800 - $2,000",
+   "claim_url": "https://www.zkbipasettlement.com/?lang=en",
+   "info_url": "https://www.classaction.org/settlements#alliance-ground-international-biometric-privacy-illinois",
+   "source": "classaction.org",
    "also_listed_at": [],
    "added": null,
-   "first_seen": "2026-11-05",
+   "first_seen": "2026-11-11",
    "keywords": [
-    "anthem",
-    "grandfathered",
-    "rx",
-    "brandname",
-    "drug"
-   ]
-  },
-  {
-   "id": "oca-communications-data-group-data-breach-settlement",
-   "title": "Communications Data Group Data Breach Settlement — $45 or Up to $5,000",
-   "summary": "A flat $45 with no documentation, or up to $5,000 documented plus three years of credit monitoring, for people notified of the February 2025 CDG billing-vendor breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-11-10",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $45 with no documentation, or up to $5,000 documented plus three years of credit monitoring, for people notified of the February 2025 CDG billing-vendor…",
-   "claim_url": "https://communicationsdatagroupsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/communications-data-group-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#communications-data-group-data-breach"
-   ],
-   "added": "2026-09-24",
-   "first_seen": "2026-09-24",
-   "keywords": [
-    "communication",
-    "data",
-    "breach",
-    "45",
-    "5",
-    "000"
+    "alliance",
+    "ground",
+    "international",
+    "biometric",
+    "privacy",
+    "illinois"
    ]
   },
   {
    "id": "oca-laguna-honda-hospital-patients-rights-class-action-settlement",
    "title": "Laguna Honda Hospital $5.75M Settlement — Paid Automatically",
-   "summary": "$750, or a $1,000 base plus a share sized by days of residence, paid automatically to Laguna Honda Hospital residents and patients sent a privacy violation notice.",
-   "category": "Healthcare",
+   "summary": "",
+   "category": "Privacy",
    "states": [
     "CA"
    ],
@@ -791,7 +764,7 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "$750, or a $1,000 base plus a share sized by days of residence, paid automatically to Laguna Honda Hospital residents and patients sent a privacy violation not…",
+   "payout": "$5.75M settlement fund (individual payout not stated)",
    "claim_url": "https://www.lhhsettlement.com/",
    "info_url": "https://openclassactions.com/settlements/privacy/laguna-honda-hospital-patients-rights-class-action-settlement.php",
    "source": "openclassactions",
@@ -811,91 +784,28 @@
    ]
   },
   {
-   "id": "oca-ppl-cdpap-caregivers-settlement",
-   "title": "PPL $162M New York CDPAP Caregiver Wage Settlement",
-   "summary": "$162M fund · automatic payment, no claim form · ~200,000 New York CDPAP personal assistants paid through PPL in NYC, Nassau, Suffolk & Westchester (Mar 1, 2025 – Apr 30, 2026) · average ~$680, notice by email + text",
-   "category": "Employment",
+   "id": "ca-settlements-wellstar-health-system-data-privacy",
+   "title": "Wellstar Health System - Data Privacy Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if Wellstar Health System disclosed your information to a third-party via tracking technology between February 19, 2020 and July 22, 2026.",
+   "category": "Data Privacy",
    "states": [],
    "deadline": "2026-11-10",
    "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "$162M fund",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/ppl-cdpap-caregivers-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-07-07",
-   "first_seen": "2026-07-07",
-   "keywords": [
-    "ppl",
-    "162m",
-    "york",
-    "cdpap",
-    "caregiver",
-    "wage"
-   ]
-  },
-  {
-   "id": "oca-wellstar-health-system-pixel-tracking-privacy-class-action-settlement",
-   "title": "Wellstar $4.25M Pixel Tracking Privacy Class Action Settlement",
-   "summary": "a pro rata share of a $4.25M fund for U.S. residents whose information was shared by trackers on Wellstar’s website and patient portal",
-   "category": "Privacy",
-   "states": [],
-   "deadline": "2026-11-10",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a pro rata share of a $4.25M fund for U.S. residents whose information was shared by trackers on Wellstar’s website and patient portal",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://wellstardataprivacysettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/pixel-tracking/wellstar-health-system-pixel-tracking-privacy-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#wellstar-health-system-data-privacy"
-   ],
-   "added": "2026-08-27",
-   "first_seen": "2026-08-27",
+   "info_url": "https://www.classaction.org/settlements#wellstar-health-system-data-privacy",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-11",
    "keywords": [
     "wellstar",
-    "4",
-    "25m",
-    "pixel",
-    "tracking",
-    "privacy",
     "health",
-    "system"
-   ]
-  },
-  {
-   "id": "oca-zk-technology-bipa-class-action-settlement",
-   "title": "ZK Technology $635K BIPA Settlement — Alliance Ground Workers",
-   "summary": "An equal share of a $635,160 fund for Alliance Ground International workers who clocked in with a finger or face scan in Illinois.",
-   "category": "Privacy",
-   "states": [
-    "IL"
-   ],
-   "deadline": "2026-11-10",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "An equal share of a $635,160 fund for Alliance Ground International workers who clocked in with a finger or face scan in Illinois.",
-   "claim_url": "https://www.zkbipasettlement.com/?lang=en",
-   "info_url": "https://openclassactions.com/settlements/privacy/zk-technology-bipa-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#alliance-ground-international-biometric-privacy-illinois"
-   ],
-   "added": "2026-09-27",
-   "first_seen": "2026-09-27",
-   "keywords": [
-    "zk",
-    "technology",
-    "635k",
-    "bipa",
-    "alliance",
-    "ground",
-    "worker",
-    "international"
+    "system",
+    "data",
+    "privacy"
    ]
   },
   {
@@ -1477,14 +1387,16 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/onetouchpoint-data-breach-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#onetouchpoint-data-breach"
+    "https://www.classaction.org/settlements#onetouchpoint-data-breach",
+    "https://www.classaction.org/settlements#communications-data-group-data-breach"
    ],
    "added": "2026-09-08",
    "first_seen": "2026-09-08",
    "keywords": [
     "onetouchpoint",
     "data",
-    "breach"
+    "breach",
+    "communication"
    ]
   },
   {
@@ -5135,6 +5047,34 @@
    ]
   },
   {
+   "id": "oca-ufcw-local-7-data-breach-settlement",
+   "title": "UFCW Local 7 Data Breach Settlement — $50 or Up to $3,075",
+   "summary": "A flat $50, or up to $3,000 in documented losses plus $75 for lost time, with two years of credit monitoring, for people in the UFCW Local 7 union data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-14",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $50, or up to $3,000 in documented losses plus $75 for lost time, with two years of credit monitoring, for people in the UFCW Local 7 union data inciden…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/ufcw-local-7-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "keywords": [
+    "ufcw",
+    "local",
+    "7",
+    "data",
+    "breach",
+    "50",
+    "3",
+    "075"
+   ]
+  },
+  {
    "id": "oca-webtoon-entertainment-securities-class-action-settlement",
    "title": "WEBTOON $10.05M IPO Securities Settlement — About $0.45 a Share",
    "summary": "A pro rata share of a $10.05 million fund, estimated at about $0.45 a share before fees, for investors who bought WEBTOON stock in or traceable to the June 2024 IPO.",
@@ -5371,10 +5311,11 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "$500K settlement fund (individual payout not stated)",
-   "claim_url": "https://servicespotsettlement.com/",
+   "claim_url": "https://www.prestigenoticeclass.com/",
    "info_url": "https://openclassactions.com/settlements/service-spot-parking-reservation-fees-california-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
+    "https://www.classaction.org/settlements#prestige-financial-services-vehicle-repossession",
     "https://www.classaction.org/settlements#service-spot-parking-reservation-fees"
    ],
    "added": null,
@@ -5386,7 +5327,9 @@
     "parking",
     "reservation",
     "fee",
-    "california"
+    "california",
+    "prestige",
+    "financial"
    ]
   },
   {
@@ -6497,7 +6440,7 @@
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$50 - $900",
+   "payout": "$50 - $1,000",
    "claim_url": "https://www.spaldataincident.com/",
    "info_url": "https://www.classaction.org/settlements#sherr-puttmann-akins-lamb-data-breach",
    "source": "classaction.org",
@@ -7150,6 +7093,37 @@
    ]
   },
   {
+   "id": "oca-trane-washington-job-postings-class-action-settlement",
+   "title": "Trane $486K Washington Job Postings Settlement — Est. $1,173.55, Automatic",
+   "summary": "An equal share of a $486,000 fund, estimated at $1,173.55 in the notice, paid automatically to about 243 people who applied to Trane job openings in Washington whose postings omitted pay.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2027-01-05",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $486,000 fund, estimated at $1,173.55 in the notice, paid automatically to about 243 people who applied to Trane job openings in Washington…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/trane-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-10",
+   "first_seen": "2026-11-10",
+   "keywords": [
+    "trane",
+    "486k",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "1",
+    "173",
+    "55"
+   ]
+  },
+  {
    "id": "oca-co-diagnostics-securities-class-action-settlement",
    "title": "$6.5M Co-Diagnostics Securities Class Action Settlement (CODX)",
    "summary": "pro rata share of a $6,500,000 fund · estimated $0.61 per damaged share before fees, about $0.36 after · anyone who bought Co-Diagnostics (CODX) stock or call options, or sold puts, May 12 – Aug 11, 2022 · brokerage records required · shares sold before Aug 12, 2022 recover $0",
@@ -7491,7 +7465,7 @@
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$50 - $5,000",
+   "payout": "$50 - $5,500",
    "claim_url": "https://nysiddatasettlement.com/",
    "info_url": "https://www.classaction.org/settlements#new-york-school-of-interior-design-data-breach",
    "source": "classaction.org",
@@ -7901,6 +7875,34 @@
     "750k",
     "hotel",
     "fee"
+   ]
+  },
+  {
+   "id": "oca-warrior-met-coal-data-breach-settlement",
+   "title": "Warrior Met Coal Data Breach Settlement — $25 or Up to $2,500",
+   "summary": "A flat $25, or up to $2,500 for lost time and documented losses, plus a year of credit monitoring, for people notified of the 2023 Warrior Met Coal data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $25, or up to $2,500 for lost time and documented losses, plus a year of credit monitoring, for people notified of the 2023 Warrior Met Coal data incide…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/warrior-met-coal-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-11",
+   "first_seen": "2026-11-11",
+   "keywords": [
+    "warrior",
+    "met",
+    "coal",
+    "data",
+    "breach",
+    "25",
+    "2",
+    "500"
    ]
   },
   {
@@ -8646,7 +8648,8 @@
     "manufactured",
     "10",
     "without",
-    "receipt"
+    "receipt",
+    "california"
    ]
   },
   {
@@ -11704,12 +11707,10 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "Automatic checks from a $6.5 million fund, plus $2,000 off deficiency balances, for borrowers sent a repossession notice by Prestige Financial.",
-   "claim_url": "https://www.prestigenoticeclass.com/",
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/prestige-financial-services-repossession-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#prestige-financial-services-vehicle-repossession"
-   ],
+   "also_listed_at": [],
    "added": "2026-11-06",
    "first_seen": "2026-11-06",
    "keywords": [
@@ -12064,7 +12065,7 @@
   {
    "id": "oca-domestic-airlines-price-fixing-class-action-settlement",
    "title": "US Domestic Airlines Price Fixing Class Action",
-   "summary": "$60M fund so far (American $45M + Southwest $15M) · litigation continues vs Delta & United · register for updates",
+   "summary": "$60M fund so far (American $45M + Southwest $15M) · class certification briefing vs Delta & United · no claims process yet",
    "category": "Antitrust",
    "states": [],
    "deadline": null,
