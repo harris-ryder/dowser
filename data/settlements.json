@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-12T17:37:17.119Z",
+ "generated_at": "2026-11-13T17:14:37.555Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 449,
+ "count": 453,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -849,45 +849,41 @@
    ]
   },
   {
-   "id": "oca-american-vision-partners-data-breach-settlement",
-   "title": "American Vision Partners Data Breach Class Action Settlement ($1.75M)",
-   "summary": "a pro rata share of the fund with no receipts, or instead up to $3,000 in documented out-of-pocket losses, for the eye-care network breach",
+   "id": "ca-settlements-american-vision-partners-data-breach",
+   "title": "American Vision Partners - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal data was exposed in the November 2023 American Vision Partners data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-12",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a pro rata share of the fund with no receipts, or instead up to $3,000 in documented out-of-pocket losses, for the eye-care network breach",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $3,000",
    "claim_url": "https://www.americanvisionsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/american-vision-partners-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#american-vision-partners-data-breach"
-   ],
-   "added": "2026-08-31",
-   "first_seen": "2026-08-31",
+   "info_url": "https://www.classaction.org/settlements#american-vision-partners-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-13",
    "keywords": [
     "american",
     "vision",
     "partner",
     "data",
-    "breach",
-    "1",
-    "75m"
+    "breach"
    ]
   },
   {
    "id": "oca-ampam-parks-mechanical-esop-erisa-class-action-settlement",
-   "title": "AMPAM Parks Mechanical $13.75M ESOP ERISA Settlement",
-   "summary": "automatic payment, no claim form and no opt-out — a pro rata share of $13.75 million, by vested shares, for AMPAM ESOP participants and beneficiaries vested on or after Aug 6, 2023",
-   "category": "Retirement Plans",
+   "title": "AMPAM Parks Mechanical $13.75M ESOP Settlement — Automatic Payment",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-11-12",
    "deadline_type": "claim",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic payment, no claim form and no opt-out — a pro rata share of $13.75 million, by vested shares, for AMPAM ESOP participants and beneficiaries vested on…",
+   "payout": "$13.75M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/erisa/ampam-parks-mechanical-esop-erisa-class-action-settlement.php",
    "source": "openclassactions",
@@ -900,29 +896,26 @@
     "mechanical",
     "13",
     "75m",
-    "esop",
-    "erisa"
+    "esop"
    ]
   },
   {
-   "id": "oca-autobell-car-wash-data-breach-settlement",
-   "title": "Autobell Car Wash Data Breach Class Action Settlement",
-   "summary": "a flat $45 with no documentation, or instead up to $5,000 in documented losses with lost time counted inside that same ceiling, plus two years of three-bureau credit monitoring for every class member",
+   "id": "ca-settlements-autobell-data-breach",
+   "title": "Autobell Car Wash - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was exposed in the April 2024 Autobell Car Wash data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-12",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat $45 with no documentation, or instead up to $5,000 in documented losses with lost time counted inside that same ceiling, plus two years of three-bureau…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$45 - $5,000",
    "claim_url": "https://www.autobelldatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/autobell-car-wash-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#autobell-data-breach"
-   ],
-   "added": "2026-09-09",
-   "first_seen": "2026-09-09",
+   "info_url": "https://www.classaction.org/settlements#autobell-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-13",
    "keywords": [
     "autobell",
     "car",
@@ -934,8 +927,8 @@
   {
    "id": "oca-san-diego-water-rates-class-action-settlement",
    "title": "San Diego $40M Water Rate Settlement — Automatic Refunds",
-   "summary": "A pro rata refund, paid automatically, for City of San Diego single-family water customers overcharged between Aug 14, 2014 and Dec 1, 2023.",
-   "category": "Government",
+   "summary": "",
+   "category": null,
    "states": [
     "CA"
    ],
@@ -960,31 +953,29 @@
    ]
   },
   {
-   "id": "oca-susan-b-allen-memorial-hospital-data-breach-settlement",
-   "title": "Susan B. Allen Hospital Data Breach Class Action Settlement",
-   "summary": "up to $100 in cash plus two years of medical identity monitoring for people sent notice of the July 2025 cyberattack on the Kansas hospital",
+   "id": "ca-settlements-susan-b-allen-memorial-hospital-data-breach",
+   "title": "Susan B. Allen Memorial Hospital - Data Breach Class Action Settlement",
+   "summary": "If your private information was compromised in the July 2025 Susan B. Allen Memorial Hospital data breach, you may be included in this settlement.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-12",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $100 in cash plus two years of medical identity monitoring for people sent notice of the July 2025 cyberattack on the Kansas hospital",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$100",
    "claim_url": "https://sbamhdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/susan-b-allen-memorial-hospital-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#susan-b.-allen-memorial-hospital-data-breach"
-   ],
-   "added": "2026-08-25",
-   "first_seen": "2026-08-25",
+   "info_url": "https://www.classaction.org/settlements#susan-b.-allen-memorial-hospital-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-13",
    "keywords": [
     "susan",
     "allen",
+    "memorial",
     "hospital",
     "data",
-    "breach",
-    "memorial"
+    "breach"
    ]
   },
   {
@@ -6548,6 +6539,33 @@
    ]
   },
   {
+   "id": "oca-cardiology-associates-of-mobile-data-breach-settlement",
+   "title": "Cardiology Associates of Mobile Data Breach Settlement — Cash and Up to $4,000",
+   "summary": "Pro rata cash plus up to $4,000 in documented losses and two years of credit monitoring for people notified of the 2024 Cardiology Associates of Mobile breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-29",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata cash plus up to $4,000 in documented losses and two years of credit monitoring for people notified of the 2024 Cardiology Associates of Mobile breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/cardiology-associates-of-mobile-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "keywords": [
+    "cardiology",
+    "associate",
+    "mobile",
+    "data",
+    "breach",
+    "4",
+    "000"
+   ]
+  },
+  {
    "id": "oca-goodrx-privacy-class-action-settlement",
    "title": "GoodRx $32M Privacy Settlement",
    "summary": "An equal share of a $32 million fund for people in the U.S. who used a GoodRx website, app or service, including GoodRx Gold, HeyDoctor and GoodRx Care, before April 20, 2024.",
@@ -7240,6 +7258,33 @@
    ]
   },
   {
+   "id": "oca-advocate-aurora-tobacco-surcharge-erisa-class-action-settlement",
+   "title": "Advocate Aurora $8.95M Tobacco Surcharge ERISA Settlement — Automatic Payment",
+   "summary": "A pro rata share of $8.95 million, paid automatically, for Advocate Aurora Health plan members who paid a tobacco or nicotine surcharge from 2018 to 2025.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2027-01-07",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata share of $8.95 million, paid automatically, for Advocate Aurora Health plan members who paid a tobacco or nicotine surcharge from 2018 to 2025.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/advocate-aurora-tobacco-surcharge-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "keywords": [
+    "advocate",
+    "aurora",
+    "8",
+    "95m",
+    "tobacco",
+    "surcharge",
+    "erisa"
+   ]
+  },
+  {
    "id": "oca-arcare-data-breach-settlement",
    "title": "ARcare $3.9M Data Breach Settlement — $100 or Up to $5,000",
    "summary": "An estimated $100, or up to $5,000 in documented losses, plus a year of medical data monitoring, for people sent a notice of the 2022 ARcare, Inc. data breach.",
@@ -7770,6 +7815,33 @@
     "6",
     "000",
     "van"
+   ]
+  },
+  {
+   "id": "oca-case-foods-data-breach-settlement",
+   "title": "Case Foods Data Breach Settlement — $45 or Up to $2,000",
+   "summary": "$45 with no documents, or up to $2,000 in documented losses, plus two years of credit monitoring, for people notified of the 2024 Case Foods breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-17",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$45 with no documents, or up to $2,000 in documented losses, plus two years of credit monitoring, for people notified of the 2024 Case Foods breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/case-foods-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-12",
+   "first_seen": "2026-11-12",
+   "keywords": [
+    "case",
+    "food",
+    "data",
+    "breach",
+    "45",
+    "2",
+    "000"
    ]
   },
   {
@@ -11877,6 +11949,33 @@
     "former",
     "customer",
     "must"
+   ]
+  },
+  {
+   "id": "oca-ppl-cdpap-caregivers-settlement",
+   "title": "PPL $162M New York CDPAP Caregiver Wage Settlement — Automatic ~$680 Payments",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "$162M settlement fund (individual payout not stated)",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/ppl-cdpap-caregivers-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-13",
+   "keywords": [
+    "ppl",
+    "162m",
+    "york",
+    "cdpap",
+    "caregiver",
+    "wage",
+    "680"
    ]
   },
   {
