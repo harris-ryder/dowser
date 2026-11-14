@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-13T17:14:37.555Z",
+ "generated_at": "2026-11-14T15:50:45.437Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 453,
+ "count": 456,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -980,9 +980,9 @@
   },
   {
    "id": "oca-compucom-washington-job-postings-class-action-settlement",
-   "title": "CompuCom $1M Washington Job Postings Class Action Settlement",
-   "summary": "equal share of a $1 million fund, estimated at $266.67 · automatic payment, no claim form · WA applicants to CompuCom Systems (Jan 2023 – Sep 2026) whose postings omitted the pay range",
-   "category": "Employment",
+   "title": "CompuCom $1M Washington Job Postings Settlement — Est. $266.67, Automatic",
+   "summary": "",
+   "category": "Job Postings (Washington)",
    "states": [
     "WA"
    ],
@@ -990,7 +990,7 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "equal share of a $1 million fund, estimated at $266.67",
+   "payout": "$1M settlement fund (individual payout not stated)",
    "claim_url": "https://epoasettlementccsi.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/compucom-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
@@ -1006,6 +1006,9 @@
     "washington",
     "job",
     "posting",
+    "est",
+    "266",
+    "67",
     "system",
     "high",
     "5",
@@ -1043,59 +1046,10 @@
    ]
   },
   {
-   "id": "oca-ftd-proflowers-delivery-fee-class-action-settlement",
-   "title": "FTD & ProFlowers Delivery Fee Class Action Settlement",
-   "summary": "$5 cash or a $15 voucher for U.S. customers who paid a delivery, shipping, handling or service fee on FTD.com or ProFlowers.com orders from January 2021 to January 2025.",
-   "category": "Fees & Billing",
-   "states": [],
-   "deadline": "2026-11-13",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "$5 cash or a $15 voucher for U.S. customers who paid a delivery, shipping, handling or service fee on FTD.com or ProFlowers.com orders from January 2021 to Jan…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/ftd-proflowers-delivery-fee-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-28",
-   "first_seen": "2026-09-28",
-   "keywords": [
-    "ftd",
-    "proflower",
-    "delivery",
-    "fee"
-   ]
-  },
-  {
-   "id": "oca-gritstone-bio-securities-class-action-settlement",
-   "title": "Gritstone bio $6M Securities Settlement (GRTS)",
-   "summary": "A pro rata share of $6 million from former CEO Andrew Allen’s insurers, est. about $0.11 a share before fees, for investors who bought Gritstone bio common stock.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-11-13",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "A pro rata share of $6 million from former CEO Andrew Allen’s insurers, est. about $0.11 a share before fees, for investors who bought Gritstone bio common sto…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/gritstone-bio-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
-   "keywords": [
-    "gritstone",
-    "bio",
-    "6m",
-    "security",
-    "grt"
-   ]
-  },
-  {
    "id": "oca-jimmy-johns-sandwich-sc-washington-job-postings-class-action-settlement",
-   "title": "Jimmy John’s (Sandwich SC) $975,000 Washington Job Postings Settlement — Est. $393, Automatic",
-   "summary": "An equal share of a $975,000 fund, estimated by OCA at about $393, paid automatically to people who applied for a Washington job posted by Sandwich SC LLC (Jimmy John’s) from January 1, 2023 to August 24, 2026.",
-   "category": "Employment",
+   "title": "Jimmy John’s (Sandwich SC) Washington Job Postings Settlement — Est. $393, Automatic Payment",
+   "summary": "",
+   "category": "Job Postings (Washington)",
    "states": [
     "WA"
    ],
@@ -1103,7 +1057,7 @@
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "An equal share of a $975,000 fund, estimated by OCA at about $393, paid automatically to people who applied for a Washington job posted by Sandwich SC LLC (Jim…",
+   "payout": "Varies",
    "claim_url": "https://epoasettlementsscl.com/",
    "info_url": "https://openclassactions.com/settlements/wage-and-hours/jimmy-johns-sandwich-sc-washington-job-postings-class-action-settlement.php",
    "source": "openclassactions",
@@ -1117,8 +1071,6 @@
     "john",
     "sandwich",
     "sc",
-    "975",
-    "000",
     "washington",
     "job",
     "posting",
@@ -7059,6 +7011,36 @@
    ]
   },
   {
+   "id": "oca-multicare-dreyer-spine-surgery-class-action-settlement",
+   "title": "MultiCare $55.5M Spine Surgery Settlement — $2,000 or More",
+   "summary": "$2,000, or more after expert review, for patients Dr. Jason Dreyer operated on at MultiCare Deaconess or Valley Hospital in 2019–2021.",
+   "category": "Healthcare",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$2,000, or more after expert review, for patients Dr.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/multicare-dreyer-spine-surgery-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-14",
+   "first_seen": "2026-11-14",
+   "keywords": [
+    "multicare",
+    "55",
+    "5m",
+    "spine",
+    "surgery",
+    "2",
+    "000",
+    "more"
+   ]
+  },
+  {
    "id": "oca-riverside-resort-casino-data-breach-settlement",
    "title": "Riverside Resort & Casino Data Breach Settlement — $50 or Up to $3,000",
    "summary": "$50 ($75 for California residents), or up to $3,000 in documented losses and lost time, for people notified of the July 2024 Riverside data incident.",
@@ -7595,6 +7577,31 @@
     "950k",
     "security",
     "mrx"
+   ]
+  },
+  {
+   "id": "oca-expressvpn-auto-renewal-class-action-settlement",
+   "title": "ExpressVPN Class Action Settlement — Up to 2× What You Paid",
+   "summary": "A pro rata share of $3.9 million, capped at twice what each subscriber paid, for California ExpressVPN customers charged an auto-renewal from 2022 to 2025.",
+   "category": "Fees & Billing",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2027-01-12",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of $3.9 million, capped at twice what each subscriber paid, for California ExpressVPN customers charged an auto-renewal from 2022 to 2025.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/expressvpn-auto-renewal-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "keywords": [
+    "expressvpn",
+    "2",
+    "paid"
    ]
   },
   {
@@ -8166,6 +8173,35 @@
     "privacy",
     "pro",
     "rata"
+   ]
+  },
+  {
+   "id": "oca-gateway-community-services-data-breach-settlement",
+   "title": "Gateway Community Services Data Breach Settlement — Est. $75 or Up to $5,000",
+   "summary": "An estimated $75 or up to $5,000 in documented losses, plus three years of medical identity monitoring, for people notified of Gateway’s April 2025 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-25",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $75 or up to $5,000 in documented losses, plus three years of medical identity monitoring, for people notified of Gateway’s April 2025 breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/gateway-community-services-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "keywords": [
+    "gateway",
+    "community",
+    "service",
+    "data",
+    "breach",
+    "est",
+    "75",
+    "5",
+    "000"
    ]
   },
   {
@@ -8958,6 +8994,64 @@
     "9",
     "25m",
     "pension"
+   ]
+  },
+  {
+   "id": "oca-coffee-bean-tea-leaf-data-breach-settlement",
+   "title": "Coffee Bean & Tea Leaf Data Breach Settlement — Est. $25 or Up to $5,000",
+   "summary": "An estimated $25 or up to $5,000 in documented losses, plus $75 for California residents, for people affected by The Coffee Bean & Tea Leaf’s 2024 breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-10",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $25 or up to $5,000 in documented losses, plus $75 for California residents, for people affected by The Coffee Bean & Tea Leaf’s 2024 breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/coffee-bean-tea-leaf-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "keywords": [
+    "coffee",
+    "bean",
+    "tea",
+    "leaf",
+    "data",
+    "breach",
+    "est",
+    "25",
+    "5",
+    "000"
+   ]
+  },
+  {
+   "id": "oca-north-memorial-health-pixel-privacy-settlement",
+   "title": "North Memorial Health Pixel Privacy Settlement — $21 for MyChart Users",
+   "summary": "A $21 payment and/or a year of privacy monitoring for North Memorial MyChart users who logged in from 2017 to April 2026.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2027-02-10",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $21 payment and/or a year of privacy monitoring for North Memorial MyChart users who logged in from 2017 to April 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pixel-tracking/north-memorial-health-pixel-privacy-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "keywords": [
+    "north",
+    "memorial",
+    "health",
+    "pixel",
+    "privacy",
+    "21",
+    "mychart",
+    "user"
    ]
   },
   {
