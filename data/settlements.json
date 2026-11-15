@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-14T15:50:45.437Z",
+ "generated_at": "2026-11-15T16:24:02.077Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 456,
+ "count": 461,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -6354,6 +6354,33 @@
    ]
   },
   {
+   "id": "oca-mixbook-discount-pricing-class-action-settlement",
+   "title": "Mixbook Settlement — $12 Cash or Automatic $12 Credit",
+   "summary": "$12 cash, or a $12 Mixbook credit sent automatically, for people who bought discounted products on mixbook.com from 2022 to 2026.",
+   "category": "Consumer Products",
+   "states": [
+    "CA",
+    "OR",
+    "WA"
+   ],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$12 cash, or a $12 Mixbook credit sent automatically, for people who bought discounted products on mixbook.com from 2022 to 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/mixbook-discount-pricing-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-14",
+   "first_seen": "2026-11-14",
+   "keywords": [
+    "mixbook",
+    "12",
+    "credit"
+   ]
+  },
+  {
    "id": "oca-napco-securities-class-action-settlement",
    "title": "NAPCO $20M Securities Settlement (NSSC) — About $1.23 a Share",
    "summary": "A pro rata share of $20 million for investors who bought NAPCO Security Technologies stock from Nov. 7, 2022 through Aug. 18, 2023.",
@@ -7580,6 +7607,33 @@
    ]
   },
   {
+   "id": "oca-compumedics-data-breach-settlement",
+   "title": "Compumedics Data Breach Settlement — Pro Rata Cash or Up to $2,500",
+   "summary": "A share of a $500,000 cash fund or up to $2,500 in documented losses, plus a year of medical monitoring, for people notified of the 2025 Compumedics breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-12",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A share of a $500,000 cash fund or up to $2,500 in documented losses, plus a year of medical monitoring, for people notified of the 2025 Compumedics breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/compumedics-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-14",
+   "first_seen": "2026-11-14",
+   "keywords": [
+    "compumedic",
+    "data",
+    "breach",
+    "pro",
+    "rata",
+    "2",
+    "500"
+   ]
+  },
+  {
    "id": "oca-expressvpn-auto-renewal-class-action-settlement",
    "title": "ExpressVPN Class Action Settlement — Up to 2× What You Paid",
    "summary": "A pro rata share of $3.9 million, capped at twice what each subscriber paid, for California ExpressVPN customers charged an auto-renewal from 2022 to 2025.",
@@ -7682,6 +7736,32 @@
     "breach",
     "50",
     "5",
+    "000"
+   ]
+  },
+  {
+   "id": "oca-renkim-data-breach-settlement",
+   "title": "Renkim Data Breach Settlement — $40 Cash or Up to $4,000",
+   "summary": "$40 with no documents, up to $60 for lost time or up to $4,000 in documented losses, plus credit monitoring, for people notified of the March 2025 Renkim breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-13",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$40 with no documents, up to $60 for lost time or up to $4,000 in documented losses, plus credit monitoring, for people notified of the March 2025 Renkim breac…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/renkim-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-14",
+   "first_seen": "2026-11-14",
+   "keywords": [
+    "renkim",
+    "data",
+    "breach",
+    "40",
+    "4",
     "000"
    ]
   },
@@ -8143,6 +8223,33 @@
     "refund",
     "fl",
     "nc"
+   ]
+  },
+  {
+   "id": "oca-cornwell-quality-tools-2024-data-breach-settlement",
+   "title": "Cornwell Tools Data Breach Settlement — $50 or Up to $5,000",
+   "summary": "$50 with no documents, or up to $5,000 in documented losses and lost time, plus two years of identity monitoring, for people notified of the December 2024 Cornwell breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-25",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$50 with no documents, or up to $5,000 in documented losses and lost time, plus two years of identity monitoring, for people notified of the December 2024 Corn…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/cornwell-quality-tools-2024-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-14",
+   "first_seen": "2026-11-14",
+   "keywords": [
+    "cornwell",
+    "tool",
+    "data",
+    "breach",
+    "50",
+    "5",
+    "000"
    ]
   },
   {
@@ -9277,6 +9384,34 @@
     "275m",
     "10",
     "purchase"
+   ]
+  },
+  {
+   "id": "oca-shellpoint-gmfs-louisiana-insurance-proceeds-interest-settlement",
+   "title": "Shellpoint & GMFS Louisiana Insurance Interest Settlement — 3% Interest",
+   "summary": "3% annual interest for Louisiana homeowners whose servicer held $25,000 or more in home insurance proceeds for over 30 days without paying interest.",
+   "category": "Insurance",
+   "states": [
+    "LA"
+   ],
+   "deadline": "2027-02-26",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "3% annual interest for Louisiana homeowners whose servicer held $25,000 or more in home insurance proceeds for over 30 days without paying interest.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/shellpoint-gmfs-louisiana-insurance-proceeds-interest-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-14",
+   "first_seen": "2026-11-14",
+   "keywords": [
+    "shellpoint",
+    "gmf",
+    "louisiana",
+    "insurance",
+    "interest",
+    "3"
    ]
   },
   {
