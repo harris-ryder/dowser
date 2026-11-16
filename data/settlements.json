@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-15T16:24:02.077Z",
+ "generated_at": "2026-11-16T19:38:32.006Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 461,
+ "count": 463,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -1230,7 +1230,6 @@
    "info_url": "https://openclassactions.com/settlements/cvs-digital-privacy-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#cvs-data-privacy",
     "https://www.classaction.org/settlements#cvs-data-privacy"
    ],
    "added": "2026-09-14",
@@ -3106,8 +3105,8 @@
   },
   {
    "id": "oca-oregon-tax-foreclosure-surplus-proceeds-class-action-settlement",
-   "title": "Oregon Tax Foreclosure Surplus Settlements — Seven Counties",
-   "summary": "Surplus proceeds for former owners, lienholders and heirs of property taken for unpaid taxes in seven Oregon counties · claims for Baker, Columbia, Jackson, Marion, Washington and Yamhill counties close November 30, 2026; Lane County claims run to February 22, 2027.",
+   "title": "Oregon Tax Foreclosure Surplus Settlements — 12 Counties",
+   "summary": "Surplus proceeds for former owners, lienholders and heirs of property taken for unpaid taxes in 12 Oregon counties · six counties close November 30, 2026; Lane County February 22, 2027; Clatsop, Deschutes, Douglas, Tillamook and Union March 23, 2027.",
    "category": "Government",
    "states": [
     "OR"
@@ -3128,7 +3127,7 @@
     "tax",
     "foreclosure",
     "surplus",
-    "seven",
+    "12",
     "county"
    ]
   },
@@ -5504,6 +5503,7 @@
    "info_url": "https://openclassactions.com/settlements/false-advertising/apple-intelligence-siri-false-advertising-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
+    "https://www.classaction.org/settlements#iphone-siri-apple-intelligence",
     "https://www.classaction.org/settlements#iphone-siri-apple-intelligence"
    ],
    "added": "2026-09-21",
@@ -7824,6 +7824,33 @@
    ]
   },
   {
+   "id": "oca-gofo-bipa-class-action-settlement",
+   "title": "Gofo BIPA Settlement — About $558, Paid Automatically",
+   "summary": "An estimated $558 check, with no claim form, for Illinois workers whose fingerprints or scans Gofo collected from 2020 to 2026.",
+   "category": "Privacy",
+   "states": [
+    "IL"
+   ],
+   "deadline": "2027-01-14",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An estimated $558 check, with no claim form, for Illinois workers whose fingerprints or scans Gofo collected from 2020 to 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/privacy/gofo-bipa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-15",
+   "first_seen": "2026-11-15",
+   "keywords": [
+    "gofo",
+    "bipa",
+    "558",
+    "paid",
+    "automatically"
+   ]
+  },
+  {
    "id": "oca-national-instruments-securities-class-action-settlement",
    "title": "National Instruments $28M Securities Settlement (NATI) — About $3.01 a Share",
    "summary": "A pro rata share of $28 million for investors who sold National Instruments stock Aug. 12–30 or Sept. 12–28, 2022.",
@@ -9354,6 +9381,32 @@
     "boarding",
     "home",
     "canada"
+   ]
+  },
+  {
+   "id": "oca-nemours-foundation-403b-erisa-class-action-settlement",
+   "title": "Nemours Foundation $2.275M Retirement Plan Settlement — Automatic Payment",
+   "summary": "A pro rata share of $2.275 million, paid automatically, for Nemours Foundation retirement plan participants with an account balance from 2017 through 2025.",
+   "category": "Retirement Plans",
+   "states": [],
+   "deadline": "2027-02-22",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata share of $2.275 million, paid automatically, for Nemours Foundation retirement plan participants with an account balance from 2017 through 2025.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/nemours-foundation-403b-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "keywords": [
+    "nemour",
+    "foundation",
+    "2",
+    "275m",
+    "retirement",
+    "plan"
    ]
   },
   {
