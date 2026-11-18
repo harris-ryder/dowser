@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-17T18:36:46.760Z",
+ "generated_at": "2026-11-18T18:08:09.566Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 449,
+ "count": 453,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -948,84 +948,51 @@
    ]
   },
   {
-   "id": "oca-sizzling-platter-washington-job-postings-class-action-settlement",
-   "title": "Sizzling Platter Washington Job Postings Class Action Settlement",
-   "summary": "estimated $613.71 or more (up to $5,000) · WA applicants for Crew Member or Lead jobs (Jan 2023 – Jul 2025) whose postings omitted the pay range",
-   "category": "Employment",
-   "states": [
-    "WA"
-   ],
+   "id": "ca-settlements-sizzling-platter-job-postings-washington",
+   "title": "Sizzling Platter - Job Postings (Washington) Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if you applied for a job with Sizzling Platter in Washington between January 1, 2023 and July 26, 2025.",
+   "category": "Job Postings (Washington)",
+   "states": [],
    "deadline": "2026-11-17",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "estimated $613.71 or more (up to $5,000)",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://sizzlingplattersettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/sizzling-platter-washington-job-postings-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#sizzling-platter-job-postings-washington"
-   ],
-   "added": "2026-09-27",
-   "first_seen": "2026-09-27",
+   "info_url": "https://www.classaction.org/settlements#sizzling-platter-job-postings-washington",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-18",
    "keywords": [
     "sizzling",
     "platter",
-    "washington",
     "job",
-    "posting"
+    "posting",
+    "washington"
    ]
   },
   {
-   "id": "oca-teleflora-tcpa-text-message-class-action-settlement",
-   "title": "Teleflora $6M Text Message Settlement — Up to $251",
-   "summary": "Up to $251, less a share of fees and costs, for people on the Do Not Call Registry who got more than one Teleflora promotional text in 12 months.",
-   "category": "TCPA",
+   "id": "ca-settlements-teleflora-unwanted-texts",
+   "title": "Teleflora - Unwanted Texts Class Action Settlement",
+   "summary": "You may be included in this settlement if you received more than one promotional text from Teleflora in a twelve-month period since May 9, 2021.",
+   "category": "Unwanted Texts",
    "states": [],
    "deadline": "2026-11-17",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Up to $251, less a share of fees and costs, for people on the Do Not Call Registry who got more than one Teleflora promotional text in 12 months.",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $251",
    "claim_url": "https://www.tfsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/tcpa/teleflora-tcpa-text-message-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#teleflora-unwanted-texts"
-   ],
-   "added": "2026-10-08",
-   "first_seen": "2026-10-08",
+   "info_url": "https://www.classaction.org/settlements#teleflora-unwanted-texts",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-18",
    "keywords": [
     "teleflora",
-    "6m",
-    "text",
-    "message",
-    "251"
-   ]
-  },
-  {
-   "id": "oca-twist-bioscience-securities-class-action-settlement",
-   "title": "Twist Bioscience Securities Class Action Settlement ($17.05M)",
-   "summary": "a pro rata share of a $17.05 million fund for investors who bought Twist Bioscience (Nasdaq: TWST) common stock, estimated at about $0.31 per eligible share before fees",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-11-17",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "a pro rata share of a $17.05 million fund for investors who bought Twist Bioscience (Nasdaq: TWST) common stock, estimated at about $0.31 per eligible share be…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/twist-bioscience-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-09",
-   "first_seen": "2026-09-09",
-   "keywords": [
-    "twist",
-    "bioscience",
-    "security",
-    "17",
-    "05m"
+    "unwanted",
+    "text"
    ]
   },
   {
@@ -2098,31 +2065,6 @@
     "2",
     "32",
     "share"
-   ]
-  },
-  {
-   "id": "oca-exabeam-stockholder-class-action-settlement",
-   "title": "Exabeam $7M Stockholder Settlement — Paid Automatically",
-   "summary": "A pro rata share of $7 million cash plus contingent equity units for holders whose Exabeam common shares were cancelled for nothing in the 2024 LogRhythm merger.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-11-25",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "A pro rata share of $7 million cash plus contingent equity units for holders whose Exabeam common shares were cancelled for nothing in the 2024 LogRhythm merge…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/exabeam-stockholder-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-15",
-   "first_seen": "2026-10-15",
-   "keywords": [
-    "exabeam",
-    "7m",
-    "stockholder",
-    "paid",
-    "automatically"
    ]
   },
   {
@@ -4877,6 +4819,31 @@
    ]
   },
   {
+   "id": "oca-exabeam-stockholder-class-action-settlement",
+   "title": "Exabeam $7M Stockholder Settlement — Paid Automatically",
+   "summary": "A pro rata share of $7 million cash plus contingent equity units for holders whose Exabeam common shares were cancelled for nothing in the 2024 LogRhythm merger.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2026-12-17",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata share of $7 million cash plus contingent equity units for holders whose Exabeam common shares were cancelled for nothing in the 2024 LogRhythm merge…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/exabeam-stockholder-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "keywords": [
+    "exabeam",
+    "7m",
+    "stockholder",
+    "paid",
+    "automatically"
+   ]
+  },
+  {
    "id": "oca-marist-brothers-quebec-sexual-abuse-class-action-settlement",
    "title": "Marist Brothers Quebec Abuse Settlement — $24.95M CAD",
    "summary": "Compensation of up to $300,000 CAD, set through a confidential adjudicator process, for people who say a Marist Brothers religious member sexually assaulted them in Quebec.",
@@ -5656,6 +5623,35 @@
     "99",
     "voucher",
     "service"
+   ]
+  },
+  {
+   "id": "oca-long-island-community-hospital-retirement-plan-erisa-class-action-settlement",
+   "title": "Long Island Community Hospital $3M Retirement Plan Settlement — Automatic Payment",
+   "summary": "A pro rata share of $3 million for Long Island Community Hospital Retirement Savings Plan participants who held six challenged funds from 2018 to 2026.",
+   "category": "Retirement Plans",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2026-12-25",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "A pro rata share of $3 million for Long Island Community Hospital Retirement Savings Plan participants who held six challenged funds from 2018 to 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/erisa/long-island-community-hospital-retirement-plan-erisa-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "long",
+    "island",
+    "community",
+    "hospital",
+    "3m",
+    "retirement",
+    "plan"
    ]
   },
   {
@@ -7543,6 +7539,34 @@
    ]
   },
   {
+   "id": "oca-honda-acura-denso-fuel-pump-class-action-settlement",
+   "title": "Honda & Acura Fuel Pump Settlement — 15-Year Warranty + Repair Reimbursement",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": "2027-01-16",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/automotive/honda-acura-denso-fuel-pump-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "honda",
+    "acura",
+    "fuel",
+    "pump",
+    "15year",
+    "warranty",
+    "repair",
+    "reimbursement"
+   ]
+  },
+  {
    "id": "oca-case-foods-data-breach-settlement",
    "title": "Case Foods Data Breach Settlement — $45 or Up to $2,000",
    "summary": "$45 with no documents, or up to $2,000 in documented losses, plus two years of credit monitoring, for people notified of the 2024 Case Foods breach.",
@@ -7738,6 +7762,33 @@
     "pip",
     "latepayment",
     "6m"
+   ]
+  },
+  {
+   "id": "oca-unique-on-the-go-hertz-logan-airport-overtime-settlement",
+   "title": "Unique on the Go and Hertz $275K Overtime Settlement",
+   "summary": "A share of $275,000, by weeks worked, for workers placed at Hertz’s Logan Airport location through Unique on the Go from June 2022 to July 2026.",
+   "category": "Employment",
+   "states": [
+    "MA"
+   ],
+   "deadline": "2027-01-20",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A share of $275,000, by weeks worked, for workers placed at Hertz’s Logan Airport location through Unique on the Go from June 2022 to July 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/unique-on-the-go-hertz-logan-airport-overtime-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "keywords": [
+    "unique",
+    "go",
+    "hertz",
+    "275k",
+    "overtime"
    ]
   },
   {
@@ -8438,6 +8489,33 @@
     "breach",
     "est",
     "50",
+    "000"
+   ]
+  },
+  {
+   "id": "oca-vna-of-texas-data-breach-settlement",
+   "title": "VNA of Texas Data Breach Settlement — $50 Cash or Up to $4,000",
+   "summary": "$50 with no documents or up to $4,000 in documented losses, plus two years of credit monitoring, for people affected by the July 2025 VNA of Texas data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-01",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$50 with no documents or up to $4,000 in documented losses, plus two years of credit monitoring, for people affected by the July 2025 VNA of Texas data inciden…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/vna-of-texas-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "vna",
+    "texa",
+    "data",
+    "breach",
+    "50",
+    "4",
     "000"
    ]
   },
@@ -9234,6 +9312,36 @@
     "16",
     "privacy",
     "monitoring"
+   ]
+  },
+  {
+   "id": "oca-meridian-security-texas-depreciation-class-action-settlement",
+   "title": "Meridian Texas Depreciation Settlement — 51.5% Back Plus Interest",
+   "summary": "Meridian-insured Texas property owners with structural claims from Nov. 2020 to Nov. 2022 can claim 51.5% of withheld labor depreciation plus interest.",
+   "category": "Insurance",
+   "states": [
+    "TX"
+   ],
+   "deadline": "2027-03-17",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/meridian-security-texas-depreciation-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "meridian",
+    "texa",
+    "depreciation",
+    "51",
+    "5",
+    "back",
+    "plus",
+    "interest"
    ]
   },
   {
