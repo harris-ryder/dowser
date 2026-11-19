@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T18:08:09.566Z",
+ "generated_at": "2026-11-19T18:19:53.231Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 453,
+ "count": 458,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -92,15 +92,15 @@
   },
   {
    "id": "oca-mymichigan-health-403b-erisa-class-action-settlement",
-   "title": "MyMichigan Health $1.9M 403(b) ERISA Class Action Settlement",
-   "summary": "automatic payment, no claim form — a pro rata share of $1,900,000 for 403(b) plan participants who used GoalMaker or the Guaranteed Income Fund since March 18, 2019",
-   "category": "Retirement Plans",
+   "title": "MyMichigan Health $1.9M 403(b) ERISA Settlement — No Claim Form, No Opt-Out",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-09-30",
    "deadline_type": "claim",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic payment, no claim form — a pro rata share of $1,900,000 for 403(b) plan participants who used GoalMaker or the Guaranteed Income Fund since March 18,…",
+   "payout": "$1.9M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/erisa/mymichigan-health-403b-erisa-class-action-settlement.php",
    "source": "openclassactions",
@@ -113,7 +113,8 @@
     "1",
     "9m",
     "403",
-    "erisa"
+    "erisa",
+    "optout"
    ]
   },
   {
@@ -993,33 +994,6 @@
     "teleflora",
     "unwanted",
     "text"
-   ]
-  },
-  {
-   "id": "oca-cibc-renaissance-mutual-funds-trailing-commissions-settlement",
-   "title": "CIBC & Renaissance Mutual Funds $11M Trailing Commissions Settlement (Canada)",
-   "summary": "flat $32 CAD by e-transfer or cheque, pro rata if the fund falls short · holders of CIBC or Renaissance mutual fund trust units on or before Sept 5, 2025, outside a discount broker · only former CIBC holders file — everyone else is paid automatically",
-   "category": "Banking & Credit",
-   "states": [],
-   "deadline": "2026-11-18",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "flat $32 CAD by e-transfer or cheque, pro rata if the fund falls short",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/cibc-renaissance-mutual-funds-trailing-commissions-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-08",
-   "first_seen": "2026-08-08",
-   "keywords": [
-    "cibc",
-    "renaissance",
-    "mutual",
-    "11m",
-    "trailing",
-    "commission",
-    "canada"
    ]
   },
   {
@@ -2358,6 +2332,34 @@
    ]
   },
   {
+   "id": "oca-blank-rome-data-breach-settlement",
+   "title": "Blank Rome Data Breach Settlement — Pro Rata Cash or Up to $3,000",
+   "summary": "Pro rata cash with no documents and up to $3,000 in documented losses from a $991,508 fund, plus a year of credit monitoring, for people notified of the May 2026 Blank Rome law firm breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-11-29",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata cash with no documents and up to $3,000 in documented losses from a $991,508 fund, plus a year of credit monitoring, for people notified of the May 20…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/blank-rome-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "blank",
+    "rome",
+    "data",
+    "breach",
+    "pro",
+    "rata",
+    "3",
+    "000"
+   ]
+  },
+  {
    "id": "oca-equifax-hard-inquiry-dispute-class-action-settlement",
    "title": "Equifax $30M Hard Inquiry Dispute Class Action Settlement",
    "summary": "An estimated $100 to $400 for people who disputed a hard inquiry with Equifax, depending on which settlement group Equifax’s records place them in.",
@@ -3556,6 +3558,35 @@
    ]
   },
   {
+   "id": "oca-laz-parking-california-wage-hour-paga-class-action-settlement",
+   "title": "LAZ Parking $2.5M California Wage & PAGA Settlement — No Claim Form",
+   "summary": "automatic payment, no claim form — a pro rata share of $2,500,000 scaled to workweeks worked · non-exempt LAZ Parking employees in California, June 26, 2019 to October 12, 2025 · opt-out and dispute deadline December 7, 2026",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-12-07",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "automatic payment, no claim form — a pro rata share of $2,500,000 scaled to workweeks worked",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/paga/laz-parking-california-wage-hour-paga-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "laz",
+    "parking",
+    "2",
+    "5m",
+    "california",
+    "wage",
+    "paga"
+   ]
+  },
+  {
    "id": "oca-pillsbury-data-breach-settlement",
    "title": "Pillsbury Law Firm Data Breach Settlement — Cash + Up to $3,000",
    "summary": "Pro rata cash with no documentation, plus up to $3,000 for documented losses and a year of medical data monitoring, for people notified of the April 2025 breach.",
@@ -4512,7 +4543,7 @@
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$50 - $3,000",
+   "payout": "$50 - $3,075",
    "claim_url": "https://www.ufcw7datasettlement.com/",
    "info_url": "https://www.classaction.org/settlements#united-food-and-commercial-workers-union-data-breach",
    "source": "classaction.org",
@@ -5930,7 +5961,7 @@
    "info_url": "https://openclassactions.com/settlements/deceptive-pricing/mixbook-discount-pricing-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#mixbook-deceptive-sales"
+    "https://www.classaction.org/settlements#mixbook-discounts"
    ],
    "added": "2026-11-14",
    "first_seen": "2026-11-14",
@@ -7539,6 +7570,33 @@
    ]
   },
   {
+   "id": "oca-retina-consultants-of-america-pixel-tracking-class-action-settlement",
+   "title": "Retina Consultants of America $4.5M Pixel Tracking Settlement",
+   "summary": "A pro rata share of $4.5 million, no documents needed, for people who visited Retina Consultants of America practice websites or patient portals from Oct. 2019 to Oct. 2025.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2027-01-15",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of $4.5 million, no documents needed, for people who visited Retina Consultants of America practice websites or patient portals from Oct. 2019…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/pixel-tracking/retina-consultants-of-america-pixel-tracking-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "keywords": [
+    "retina",
+    "consultant",
+    "america",
+    "4",
+    "5m",
+    "pixel",
+    "tracking"
+   ]
+  },
+  {
    "id": "oca-honda-acura-denso-fuel-pump-class-action-settlement",
    "title": "Honda & Acura Fuel Pump Settlement — 15-Year Warranty + Repair Reimbursement",
    "summary": "",
@@ -7735,6 +7793,33 @@
     "californian",
     "10",
     "000"
+   ]
+  },
+  {
+   "id": "oca-picis-clinical-solutions-medstreaming-data-breach-settlement",
+   "title": "Picis Medstreaming Data Breach Settlement — $20 Cash or Up to $2,500",
+   "summary": "$20 with no documents or up to $2,500 in documented losses, plus two years of credit monitoring, for people notified of the May 2025 Medstreaming breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-19",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$20 with no documents or up to $2,500 in documented losses, plus two years of credit monitoring, for people notified of the May 2025 Medstreaming breach.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/picis-clinical-solutions-medstreaming-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "picis",
+    "medstreaming",
+    "data",
+    "breach",
+    "20",
+    "2",
+    "500"
    ]
   },
   {
@@ -8604,6 +8689,32 @@
    ]
   },
   {
+   "id": "oca-quatrro-data-breach-settlement",
+   "title": "Quatrro Data Breach Settlement — Cash Share or Up to $3,000",
+   "summary": "An equal cash share with no documents or up to $3,000 in documented losses from a $2.08 million fund, plus two years of credit monitoring, for people affected by the November 2025 Quatrro cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-03",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An equal cash share with no documents or up to $3,000 in documented losses from a $2.08 million fund, plus two years of credit monitoring, for people affected…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/quatrro-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "keywords": [
+    "quatrro",
+    "data",
+    "breach",
+    "share",
+    "3",
+    "000"
+   ]
+  },
+  {
    "id": "oca-curran-progressive-colorado-total-loss-class-action-settlement",
    "title": "Progressive Colorado Total-Loss Settlement — $15.2M for Underpaid Totaled Vehicles",
    "summary": "68% of the projected sold adjustment Progressive applied to a totaled vehicle — about 1.87% of the vehicle actual cash value for Progressive Direct policyholders and about 1.53% for Progressive Preferred — for Colorado first-party total-loss claims valued with a Mitchell Instant Report.",
@@ -9283,6 +9394,34 @@
     "consumer",
     "96",
     "5m"
+   ]
+  },
+  {
+   "id": "oca-colibri-group-vppa-video-privacy-class-action-settlement",
+   "title": "Colibri Group $4.3M Video Privacy Settlement — Est. $51 to $102",
+   "summary": "An equal share of a $4.31 million fund, estimated at $51 to $102, for people who bought video courses on McKissock, Elite Learning, Colibri Real Estate, Home CEU Connection or FHEA websites from Oct. 2022 to June 2026.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2027-03-12",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "An equal share of a $4.31 million fund, estimated at $51 to $102, for people who bought video courses on McKissock, Elite Learning, Colibri Real Estate, Home C…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/vppa/colibri-group-vppa-video-privacy-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "keywords": [
+    "colibri",
+    "4",
+    "3m",
+    "video",
+    "privacy",
+    "est",
+    "51",
+    "102"
    ]
   },
   {
