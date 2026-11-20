@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:19:53.231Z",
+ "generated_at": "2026-11-20T17:51:07.646Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
@@ -997,132 +997,26 @@
    ]
   },
   {
-   "id": "oca-bestway-above-ground-pools-class-action-settlement",
-   "title": "Bestway Above-Ground Pool Class Action Settlement ($15M)",
-   "summary": "$40 cash with no receipt (the pool’s model or serial number is required), or 10% of the price paid with proof · Bestway, Power Steel, Steel Pro & Coleman Power Steel above-ground pools 48 inches or taller, sold 2008–2024 · one claim per household · injury claims not released",
-   "category": "Consumer Products",
-   "states": [],
-   "deadline": "2026-11-19",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "$40 cash with no receipt (the pool’s model or serial number is required), or 10% of the price paid with proof",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/product-defects/bestway-above-ground-pools-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-08-10",
-   "first_seen": "2026-08-10",
-   "keywords": [
-    "bestway",
-    "aboveground",
-    "pool",
-    "15m"
-   ]
-  },
-  {
-   "id": "oca-carter-credit-union-data-breach-settlement",
-   "title": "Carter Credit Union Data Breach Class Action Settlement",
-   "summary": "a flat $50 with no proof, or up to $2,500 in documented losses instead, plus three years of credit monitoring claimable either way, from the June 2025 cyberattack on the Louisiana credit union",
+   "id": "ca-settlements-mental-health-association-data-breach",
+   "title": "Mental Health Association - Data Breach Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if your personal information was exposed in the November 2024 Mental Health Association data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-19",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat $50 with no proof, or up to $2,500 in documented losses instead, plus three years of credit monitoring claimable either way, from the June 2025 cyberatt…",
-   "claim_url": "https://ccudatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/carter-credit-union-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#carter-federal-credit-union-data-breach"
-   ],
-   "added": "2026-09-09",
-   "first_seen": "2026-09-09",
-   "keywords": [
-    "carter",
-    "credit",
-    "union",
-    "data",
-    "breach",
-    "federal"
-   ]
-  },
-  {
-   "id": "oca-holley-securities-class-action-settlement",
-   "title": "Holley Securities Class Action Settlement ($12.75M)",
-   "summary": "a pro rata share of a $12.75 million fund for investors who bought Holley Inc. (NYSE: HLLY) common stock or warrants, estimated at about $0.16 per common share before fees",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-11-19",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "a pro rata share of a $12.75 million fund for investors who bought Holley Inc. (NYSE: HLLY) common stock or warrants, estimated at about $0.16 per common share…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/holley-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-16",
-   "first_seen": "2026-09-16",
-   "keywords": [
-    "holley",
-    "security",
-    "12",
-    "75m"
-   ]
-  },
-  {
-   "id": "oca-mental-health-association-data-breach-settlement",
-   "title": "Mental Health Association (MHA) Data Breach Class Action Settlement",
-   "summary": "A flat $40 with no proof, or up to $5,000 documented plus $75 lost time instead, and three years of credit monitoring — but only for class members who file.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-11-19",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $40 with no proof, or up to $5,000 documented plus $75 lost time instead, and three years of credit monitoring — but only for class members who file.",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$40 - $5,075",
    "claim_url": "https://mhadatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/mental-health-association-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#mental-health-association-data-breach"
-   ],
-   "added": "2026-09-07",
-   "first_seen": "2026-09-07",
+   "info_url": "https://www.classaction.org/settlements#mental-health-association-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-20",
    "keywords": [
     "mental",
     "health",
     "association",
-    "mha",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "oca-mortgage-investors-group-data-breach-settlement",
-   "title": "Mortgage Investors Group (MIG) Data Breach Class Action Settlement",
-   "summary": "A one-time $45 with no documentation, or up to $2,000 in documented out-of-pocket losses instead, plus a year of credit monitoring, for people whose information was implicated in the December 2024 MIG cyberattack.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-11-19",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A one-time $45 with no documentation, or up to $2,000 in documented out-of-pocket losses instead, plus a year of credit monitoring, for people whose informatio…",
-   "claim_url": "https://migdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/mortgage-investors-group-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#mortgage-investors-group-data-breach"
-   ],
-   "added": "2026-09-03",
-   "first_seen": "2026-09-03",
-   "keywords": [
-    "mortgage",
-    "investor",
-    "mig",
     "data",
     "breach"
    ]
@@ -3506,6 +3400,35 @@
    ]
   },
   {
+   "id": "oca-google-csupo-california-android-cellular-data-350-million-settlement",
+   "title": "Google $350M California Android Cellular Data Settlement (Csupo v. Google)",
+   "summary": "A pro rata share, capped at $100, for California residents who used an Android phone with a cellular data plan since Aug. 9, 2016; payment is automatic, and an optional form picks the payment method by Dec. 5, 2026.",
+   "category": "Privacy",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2026-12-05",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share, capped at $100, for California residents who used an Android phone with a cellular data plan since Aug. 9, 2016",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/news/google-csupo-california-android-cellular-data-350-million-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "keywords": [
+    "google",
+    "350m",
+    "california",
+    "android",
+    "cellular",
+    "data",
+    "csupo"
+   ]
+  },
+  {
    "id": "oca-hut-8-securities-class-action-settlement",
    "title": "Hut 8 $2.35M Securities Settlement (HUT)",
    "summary": "A pro rata share of $2.35 million for Hut 8 shares traceable to the 2023 US Bitcoin Corp merger that were sold at a loss before June 14, 2024.",
@@ -4007,7 +3930,8 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/mclean-mortgage-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#mclean-mortgage-corporation-data-breach"
+    "https://www.classaction.org/settlements#mclean-mortgage-corporation-data-breach",
+    "https://www.classaction.org/settlements#mortgage-investors-group-data-breach"
    ],
    "added": "2026-10-02",
    "first_seen": "2026-10-02",
@@ -4016,7 +3940,8 @@
     "mortgage",
     "data",
     "breach",
-    "corporation"
+    "corporation",
+    "investor"
    ]
   },
   {
@@ -4966,7 +4891,8 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/fairmont-federal-credit-union-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#fairmont-federal-credit-union-data-breach"
+    "https://www.classaction.org/settlements#fairmont-federal-credit-union-data-breach",
+    "https://www.classaction.org/settlements#carter-federal-credit-union-data-breach"
    ],
    "added": "2026-10-24",
    "first_seen": "2026-10-24",
@@ -4979,7 +4905,8 @@
     "breach",
     "150",
     "7",
-    "500"
+    "500",
+    "carter"
    ]
   },
   {
@@ -7071,6 +6998,33 @@
    ]
   },
   {
+   "id": "oca-sentry-dairyland-new-mexico-underinsured-motorist-class-action-settlement",
+   "title": "Sentry and Dairyland New Mexico Underinsured Motorist Settlement",
+   "summary": "Up to $25,000 for New Mexico Sentry and Dairyland policyholders whose underinsured motorist claim from an Oct. 2010–Dec. 2022 accident was offset; other UM/UIM policyholders receive an automatic premium refund.",
+   "category": "Insurance",
+   "states": [
+    "NM"
+   ],
+   "deadline": "2027-01-08",
+   "deadline_type": "claim",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Up to $25,000 for New Mexico Sentry and Dairyland policyholders whose underinsured motorist claim from an Oct. 2010–Dec. 2022 accident was offset",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/sentry-dairyland-new-mexico-underinsured-motorist-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "keywords": [
+    "sentry",
+    "dairyland",
+    "mexico",
+    "underinsured",
+    "motorist"
+   ]
+  },
+  {
    "id": "oca-dmy-iv-planet-labs-stockholder-class-action-settlement",
    "title": "$11M dMY IV (Planet Labs) Stockholder Settlement",
    "summary": "A pro rata share of $11 million for dMY IV Class A holders who did not redeem before the December 2021 Planet Labs SPAC merger.",
@@ -9108,6 +9062,32 @@
     "million",
     "25",
     "cad"
+   ]
+  },
+  {
+   "id": "oca-instacart-eeoc-doj-perm-hiring-discrimination-settlement",
+   "title": "Instacart $5M EEOC and DOJ PERM Hiring Settlement",
+   "summary": "Back pay and damages from up to $4 million for U.S. applicants to Instacart PERM jobs, and people deterred from applying, Dec. 2023 to Feb. 2026.",
+   "category": "Employment",
+   "states": [],
+   "deadline": "2027-02-18",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Back pay and damages from up to $4 million for U.S. applicants to Instacart PERM jobs, and people deterred from applying, Dec. 2023 to Feb. 2026.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/employment-law/instacart-eeoc-doj-perm-hiring-discrimination-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "keywords": [
+    "instacart",
+    "5m",
+    "eeoc",
+    "doj",
+    "perm",
+    "hiring"
    ]
   },
   {
@@ -12289,6 +12269,32 @@
     "magazine",
     "lifetime",
     "subscriber"
+   ]
+  },
+  {
+   "id": "oca-sharper-image-tabletop-fire-pit-recall",
+   "title": "Sharper Image Fire Pit Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/sharper-image-tabletop-fire-pit-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-20",
+   "keywords": [
+    "sharper",
+    "image",
+    "fire",
+    "pit",
+    "full",
+    "refund"
    ]
   },
   {
