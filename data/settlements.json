@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-20T17:51:07.646Z",
+ "generated_at": "2026-11-21T16:49:00.876Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 458,
+ "count": 460,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -1022,78 +1022,40 @@
    ]
   },
   {
-   "id": "oca-hearthside-illinois-child-labor-assurance",
-   "title": "$4.5M Hearthside Illinois Child-Labor Settlement",
-   "summary": "cash from a $4.5M fund (up to half to claimants), proportional to weeks worked · people who worked at an Illinois Hearthside food plant while under age 16 (Mar 1, 2020 – Dec 4, 2024) · proof of age and work at the plant required · immigration status does not affect eligibility",
-   "category": "Employment",
+   "id": "ca-settlements-charlotte-motor-speedway-landfill",
+   "title": "Charlotte Motor Speedway Landfill Class Action Settlement",
+   "summary": "This settlement covers people who owned, rented or leased residential property within one and a half miles of the Charlotte Motor Speedway Landfill's property boundary since August 14, 2021.",
+   "category": null,
    "states": [],
-   "deadline": "2026-11-20",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "cash from a $4.5M fund (up to half to claimants), proportional to weeks worked",
-   "claim_url": "https://www.hearthsidefssettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/hearthside-illinois-child-labor-assurance.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#hearthside-food-solutions-labor-laws-illinois"
-   ],
-   "added": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "keywords": [
-    "4",
-    "5m",
-    "hearthside",
-    "illinois",
-    "childlabor",
-    "food",
-    "solution"
-   ]
-  },
-  {
-   "id": "oca-charlotte-motor-speedway-landfill-odor-class-action-settlement",
-   "title": "Charlotte Motor Speedway Landfill $675K Odor Settlement (Concord, N.C.)",
-   "summary": "An equal per-household share of $675,000 for people who owned, rented or leased a home within 1.5 miles of the landfill since August 2021.",
-   "category": "Environmental",
-   "states": [
-    "NC"
-   ],
    "deadline": "2026-11-20",
    "deadline_type": "claim",
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
-   "payout": "An equal per-household share of $675,000 for people who owned, rented or leased a home within 1.5 miles of the landfill since August 2021.",
+   "payout": "Varies",
    "claim_url": "https://lsclassaction.com/settlements/charlotte-motor-speedway-landfill/",
-   "info_url": "https://openclassactions.com/settlements/environmental/charlotte-motor-speedway-landfill-odor-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#charlotte-motor-speedway-landfill"
-   ],
-   "added": "2026-10-15",
-   "first_seen": "2026-10-15",
+   "info_url": "https://www.classaction.org/settlements#charlotte-motor-speedway-landfill",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-21",
    "keywords": [
     "charlotte",
     "motor",
     "speedway",
-    "landfill",
-    "675k",
-    "odor",
-    "concord"
+    "landfill"
    ]
   },
   {
    "id": "oca-concord-management-florida-security-deposit-class-action-settlement",
    "title": "Concord Management Florida Security Deposit Settlement — $1.85M, Paid Automatically",
-   "summary": "A pro rata check sized to the deposit withheld, plus nearly $16M in unpaid lease balances waived, for tenants of Concord-managed Florida properties.",
-   "category": "Fees & Billing",
-   "states": [
-    "FL"
-   ],
+   "summary": "",
+   "category": null,
+   "states": [],
    "deadline": "2026-11-20",
    "deadline_type": "opt_out",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "A pro rata check sized to the deposit withheld, plus nearly $16M in unpaid lease balances waived, for tenants of Concord-managed Florida properties.",
+   "payout": "$1.85M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/real-estate/concord-management-florida-security-deposit-class-action-settlement.php",
    "source": "openclassactions",
@@ -1113,64 +1075,36 @@
    ]
   },
   {
-   "id": "oca-datadog-account-executive-overtime-settlement",
-   "title": "Datadog $4.15M Overtime Settlement — Account Executives",
-   "summary": "A share of up to $4.15 million for Datadog Commercial Account Executives employed Dec. 2022 to Dec. 2025; CO and MA employees are paid automatically, others must file a consent form.",
-   "category": "Employment",
-   "states": [
-    "ID"
-   ],
-   "deadline": "2026-11-20",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "A share of up to $4.15 million for Datadog Commercial Account Executives employed Dec. 2022 to Dec. 2025",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/datadog-account-executive-overtime-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-28",
-   "first_seen": "2026-10-28",
-   "keywords": [
-    "datadog",
-    "4",
-    "15m",
-    "overtime",
-    "account",
-    "executive"
-   ]
-  },
-  {
-   "id": "oca-mont-sainte-anne-gondola-class-action-settlement-quebec",
-   "title": "Mont-Sainte-Anne Gondola Settlement (Quebec) — $5.1M CAD",
-   "summary": "An equal share for everyone aboard the February 21 or March 11, 2020 gondola stops, plus $20,000 to $150,000 CAD for documented injuries or losses.",
-   "category": "Consumer Products",
+   "id": "ca-settlements-hearthside-food-solutions-labor-laws-illinois",
+   "title": "Hearthside Food Solutions - Labor Laws (Illinois) Class Action Settlement",
+   "summary": "This settlement covers those who worked at a Hearthside Food Solutions facility in Illinois while under the age of 16 between March 1, 2020 and December 4, 2024.",
+   "category": "Labor Laws (Illinois)",
    "states": [],
    "deadline": "2026-11-20",
    "deadline_type": "claim",
    "proof": "documentation",
    "proof_label": "Documentation or proof of purchase required",
-   "payout": "An equal share for everyone aboard the February 21 or March 11, 2020 gondola stops, plus $20,000 to $150,000 CAD for documented injuries or losses.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/mont-sainte-anne-gondola-class-action-settlement-quebec.php",
-   "source": "openclassactions",
+   "payout": "Varies",
+   "claim_url": "https://www.hearthsidefssettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#hearthside-food-solutions-labor-laws-illinois",
+   "source": "classaction.org",
    "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
+   "added": null,
+   "first_seen": "2026-11-21",
    "keywords": [
-    "montsainteanne",
-    "gondola",
-    "quebec",
-    "5",
-    "1m",
-    "cad"
+    "hearthside",
+    "food",
+    "solution",
+    "labor",
+    "law",
+    "illinois"
    ]
   },
   {
    "id": "oca-progress-residential-florida-eviction-attorney-fees-class-action-settlement",
    "title": "Progress Residential Florida Eviction Fees Settlement — 75% or 30% Back, Automatic",
-   "summary": "75% or 30% of eviction attorneys’ fees paid, sent automatically, for Florida Progress Residential tenants charged those fees before a court awarded them.",
-   "category": "Fees & Billing",
+   "summary": "",
+   "category": null,
    "states": [
     "FL"
    ],
@@ -4227,6 +4161,36 @@
    ]
   },
   {
+   "id": "oca-integrated-power-services-washington-job-postings-class-action-settlement",
+   "title": "Integrated Power Services $2.46M Washington Job Postings Settlement — Automatic",
+   "summary": "An equal share of a $2,458,600 fund for each posting applied to, paid automatically to about 1,294 people who applied to Integrated Power Services job openings in Washington whose postings omitted pay.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-14",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $2,458,600 fund for each posting applied to, paid automatically to about 1,294 people who applied to Integrated Power Services job openings…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/integrated-power-services-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "keywords": [
+    "integrated",
+    "power",
+    "service",
+    "2",
+    "46m",
+    "washington",
+    "job",
+    "posting"
+   ]
+  },
+  {
    "id": "oca-kiromic-biopharma-securities-class-action-settlement",
    "title": "Kiromic BioPharma $1.225M Securities Settlement — About $0.08 a Share",
    "summary": "A pro rata share of a $1.225 million fund, about $0.08 per damaged share before fees, for investors who bought Kiromic stock in the June 2021 offering or through February 2, 2022.",
@@ -5775,6 +5739,33 @@
     "65",
     "5",
     "000"
+   ]
+  },
+  {
+   "id": "oca-howard-and-company-cpas-data-breach-settlement",
+   "title": "Howard & Co. CPAs Data Breach Settlement — $50 or Up to $2,500",
+   "summary": "$50 with no documents or up to $2,500 in documented losses, plus a year of monitoring, for people notified of the September 2024 Howard Howard & Hodges, CPAs breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$50 with no documents or up to $2,500 in documented losses, plus a year of monitoring, for people notified of the September 2024 Howard Howard & Hodges, CPAs b…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/howard-and-company-cpas-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "keywords": [
+    "howard",
+    "cpa",
+    "data",
+    "breach",
+    "50",
+    "2",
+    "500"
    ]
   },
   {
@@ -7831,6 +7822,31 @@
    ]
   },
   {
+   "id": "oca-american-express-tcpa-prerecorded-calls-class-action-settlement",
+   "title": "American Express Robocall Settlement — An Estimated $100",
+   "summary": "An estimated $100 for people who were not Amex cardmembers but got its prerecorded calls on their cell phone about someone else’s account.",
+   "category": "TCPA",
+   "states": [],
+   "deadline": "2027-01-21",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $100 for people who were not Amex cardmembers but got its prerecorded calls on their cell phone about someone else’s account.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/tcpa/american-express-tcpa-prerecorded-calls-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-21",
+   "first_seen": "2026-11-21",
+   "keywords": [
+    "american",
+    "express",
+    "robocall",
+    "estimated",
+    "100"
+   ]
+  },
+  {
    "id": "oca-columbia-university-data-breach-settlement",
    "title": "Columbia University $16.1M Data Breach Settlement — Up to $8,500 or Cash",
    "summary": "Up to $8,500 in documented losses or an alternative cash payment, plus two years of credit monitoring, for people sent notice of Columbia’s May 2025 cyberattack.",
@@ -8068,6 +8084,31 @@
     "75",
     "5",
     "000"
+   ]
+  },
+  {
+   "id": "oca-tradealgo-tcpa-text-message-class-action-settlement",
+   "title": "TradeAlgo Text Message Settlement — Up to $50.10",
+   "summary": "Up to $50.10 for people who kept getting TradeAlgo marketing texts after replying “stop” or while on the Do Not Call Registry.",
+   "category": "TCPA",
+   "states": [],
+   "deadline": "2027-01-25",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $50.10 for people who kept getting TradeAlgo marketing texts after replying “stop” or while on the Do Not Call Registry.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/tcpa/tradealgo-tcpa-text-message-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "keywords": [
+    "tradealgo",
+    "text",
+    "message",
+    "50",
+    "10"
    ]
   },
   {
