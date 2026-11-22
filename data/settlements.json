@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-21T16:49:00.876Z",
+ "generated_at": "2026-11-22T17:11:15.834Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 460,
+ "count": 474,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -4191,6 +4191,36 @@
    ]
   },
   {
+   "id": "oca-king-county-jail-probable-cause-detention-class-action-settlement",
+   "title": "King County Jail $1.6M Settlement — $1,500+ for 48-Hour Holds",
+   "summary": "A base payment of $1,500 plus $57.81 for each hour held without a prompt probable cause determination, or $150 for people with warrants, for those detained over 48 hours at the King County Jail after a warrantless arrest from Jan. 2021 to April 2025; Notice ID and PIN required to file online.",
+   "category": "Government",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-14",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A base payment of $1,500 plus $57.81 for each hour held without a prompt probable cause determination, or $150 for people with warrants, for those detained ove…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/king-county-jail-probable-cause-detention-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "king",
+    "county",
+    "jail",
+    "1",
+    "6m",
+    "500",
+    "48hour",
+    "hold"
+   ]
+  },
+  {
    "id": "oca-kiromic-biopharma-securities-class-action-settlement",
    "title": "Kiromic BioPharma $1.225M Securities Settlement — About $0.08 a Share",
    "summary": "A pro rata share of a $1.225 million fund, about $0.08 per damaged share before fees, for investors who bought Kiromic stock in the June 2021 offering or through February 2, 2022.",
@@ -4736,6 +4766,34 @@
     "plus",
     "lost",
     "time"
+   ]
+  },
+  {
+   "id": "oca-cardinal-services-data-breach-settlement",
+   "title": "Cardinal Services Data Breach Settlement — Est. $50 or Up to $5,000",
+   "summary": "An estimated $50 or up to $5,000 in documented losses, plus two years of credit monitoring, for people in the 2025 Cardinal Services staffing data incidents.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2026-12-17",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $50 or up to $5,000 in documented losses, plus two years of credit monitoring, for people in the 2025 Cardinal Services staffing data incidents.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/cardinal-services-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-21",
+   "first_seen": "2026-11-21",
+   "keywords": [
+    "cardinal",
+    "service",
+    "data",
+    "breach",
+    "est",
+    "50",
+    "5",
+    "000"
    ]
   },
   {
@@ -7998,6 +8056,32 @@
    ]
   },
   {
+   "id": "oca-ui-community-homecare-data-breach-settlement",
+   "title": "UI Community HomeCare $2M Data Breach Settlement",
+   "summary": "Pro rata cash or up to $2,000 in documented losses, plus two years of credit monitoring, for people notified of the July 2025 UI Community HomeCare incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-24",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Pro rata cash or up to $2,000 in documented losses, plus two years of credit monitoring, for people notified of the July 2025 UI Community HomeCare incident.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/ui-community-homecare-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-21",
+   "first_seen": "2026-11-21",
+   "keywords": [
+    "ui",
+    "community",
+    "homecare",
+    "2m",
+    "data",
+    "breach"
+   ]
+  },
+  {
    "id": "oca-cornwell-quality-tools-2024-data-breach-settlement",
    "title": "Cornwell Tools Data Breach Settlement — $50 or Up to $5,000",
    "summary": "$50 with no documents, or up to $5,000 in documented losses and lost time, plus two years of identity monitoring, for people notified of the December 2024 Cornwell breach.",
@@ -8907,6 +8991,30 @@
     "75m",
     "paid",
     "automatically"
+   ]
+  },
+  {
+   "id": "oca-amgen-securities-class-action-settlement",
+   "title": "$74M Amgen Securities Settlement (AMGN)",
+   "summary": "A pro rata share of $74 million for investors who bought Amgen (AMGN) common stock from July 29, 2020 through April 27, 2022.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-02-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $74 million for investors who bought Amgen (AMGN) common stock from July 29, 2020 through April 27, 2022.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/amgen-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-21",
+   "first_seen": "2026-11-21",
+   "keywords": [
+    "74m",
+    "amgen",
+    "security",
+    "amgn"
    ]
   },
   {
@@ -10127,6 +10235,34 @@
    ]
   },
   {
+   "id": "oca-kucoin-new-york-attorney-general-customer-claims",
+   "title": "KuCoin New York Customer Claims — $16.77M Returned",
+   "summary": "New York KuCoin customers can claim back their crypto and cash balances, about $16.77M in all, under a NY Attorney General consent order.",
+   "category": "Government",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2029-02-28",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "New York KuCoin customers can claim back their crypto and cash balances, about $16.77M in all, under a NY Attorney General consent order.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/kucoin-new-york-attorney-general-customer-claims.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-21",
+   "first_seen": "2026-11-21",
+   "keywords": [
+    "kucoin",
+    "york",
+    "customer",
+    "16",
+    "77m",
+    "returned"
+   ]
+  },
+  {
    "id": "oca-sanyo-solar-panel-class-action-settlement",
    "title": "Sanyo Solar Panel Delamination Class Action Settlement",
    "summary": "replacement panels, or a prorated cash refund (original price minus depreciation, $700 default when unknown) · owners of delaminating Sanyo HIP-xxxBA2/BA3/BA5 panels still inside the 20-year Power Warranty · photos of the damage and proof of ownership required",
@@ -10915,6 +11051,32 @@
    ]
   },
   {
+   "id": "oca-che-us-magnetic-robot-toys-recall",
+   "title": "CHE-US Magnetic Robot Toys Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/che-us-magnetic-robot-toys-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "cheus",
+    "magnetic",
+    "robot",
+    "toy",
+    "full",
+    "refund"
+   ]
+  },
+  {
    "id": "oca-cibc-nsf-fee-settlement-canada",
    "title": "CIBC $10M NSF Fee Class Action Settlement (Canada)",
    "summary": "automatic payment, no claim form · $10M CAD fund, paid pro rata by direct deposit · CIBC & Simplii personal deposit customers charged an NSF fee on a re-presented pre-authorized debit (Sept 21, 2020 – Feb 1, 2024 for CIBC, Dec 18, 2022 for Simplii)",
@@ -10937,6 +11099,32 @@
     "nsf",
     "fee",
     "canada"
+   ]
+  },
+  {
+   "id": "oca-cipton-youth-bike-helmet-recall",
+   "title": "Cipton Youth Bike Helmet Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/cipton-youth-bike-helmet-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "cipton",
+    "youth",
+    "bike",
+    "helmet",
+    "full",
+    "refund"
    ]
   },
   {
@@ -11260,6 +11448,32 @@
     "package",
     "handler",
     "wage"
+   ]
+  },
+  {
+   "id": "oca-fidlock-hermetic-dry-bag-recall",
+   "title": "Fidlock Hermetic Dry Bag Recall — Replacement or Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/fidlock-hermetic-dry-bag-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "fidlock",
+    "hermetic",
+    "dry",
+    "bag",
+    "replacement",
+    "refund"
    ]
   },
   {
@@ -11688,6 +11902,31 @@
    ]
   },
   {
+   "id": "oca-hultafors-johnson-clc-tools-button-battery-recall",
+   "title": "Johnson Level & CLC Tools Recall — Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/hultafors-johnson-clc-tools-button-battery-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "johnson",
+    "level",
+    "clc",
+    "tool",
+    "refund"
+   ]
+  },
+  {
    "id": "oca-kaiser-permanente-out-of-network-mental-health-california-class-action-settlement",
    "title": "Kaiser Permanente Out-of-Network Mental Health Reimbursement (California)",
    "summary": "reimbursement of out-of-pocket costs · CA Kaiser members who paid for out-of-network mental health/SUD care after Jan 1, 2021 · itemized bills + proof of payment required · file within 180 days of your notice",
@@ -11739,6 +11978,32 @@
     "kia",
     "engine",
     "failure"
+   ]
+  },
+  {
+   "id": "oca-kidsview-infant-bouncer-recall",
+   "title": "Kidsview Infant Bouncer Recall — Amazon Gift Card",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/kidsview-infant-bouncer-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "kidsview",
+    "infant",
+    "bouncer",
+    "amazon",
+    "gift",
+    "card"
    ]
   },
   {
@@ -12072,6 +12337,32 @@
    ]
   },
   {
+   "id": "oca-ororo-pd10k-pro-battery-pack-recall",
+   "title": "Ororo PD10K-Pro Battery Pack Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/ororo-pd10k-pro-battery-pack-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "ororo",
+    "pd10kpro",
+    "battery",
+    "pack",
+    "full",
+    "refund"
+   ]
+  },
+  {
    "id": "oca-otay-water-district-rates-class-action-settlement",
    "title": "Otay Water District $12M Water Rate Settlement — Automatic Refunds",
    "summary": "Bill credits or checks, paid automatically, for Otay Water District single-family customers overcharged between July 2014 and December 2022.",
@@ -12233,6 +12524,31 @@
     "401",
     "forfeiture",
     "erisa"
+   ]
+  },
+  {
+   "id": "oca-qpancy-childrens-pajama-recall",
+   "title": "Qpancy Children’s Pajama Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/qpancy-childrens-pajama-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "qpancy",
+    "children",
+    "pajama",
+    "full",
+    "refund"
    ]
   },
   {
@@ -12599,6 +12915,32 @@
    ]
   },
   {
+   "id": "oca-vanderhall-brawley-gts-brake-lockup-recall",
+   "title": "Vanderhall Brawley GTS Brake Recall — Free Fix",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/vanderhall-brawley-gts-brake-lockup-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "vanderhall",
+    "brawley",
+    "gts",
+    "brake",
+    "free",
+    "fix"
+   ]
+  },
+  {
    "id": "oca-vevor-bmx-bicycle-chain-guard-recall",
    "title": "Vevor BMX Bike Recall — Free Chain Guard Kit",
    "summary": "",
@@ -12752,6 +13094,31 @@
     "xvesolje",
     "nursing",
     "pillow",
+    "full",
+    "refund"
+   ]
+  },
+  {
+   "id": "oca-xentrawave-adult-portable-bed-rail-recall",
+   "title": "Xentrawave Bed Rail Recall — Full Refund",
+   "summary": "",
+   "category": null,
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/recalls/xentrawave-adult-portable-bed-rail-recall.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "xentrawave",
+    "bed",
+    "rail",
     "full",
     "refund"
    ]
