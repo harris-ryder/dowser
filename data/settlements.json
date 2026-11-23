@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-22T17:11:15.834Z",
+ "generated_at": "2026-11-23T21:28:14.355Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 474,
+ "count": 480,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -932,12 +932,10 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "automatic payment, no claim form and no opt-out — a pro rata share of a $225,000 fund for Tops, Price Chopper and Northeast Grocery 401(k) participants from 20…",
-   "claim_url": "https://northeastgrocery401ksettlement.com/",
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/erisa/northeast-grocery-401k-erisa-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#northeast-grocery-401k-plans"
-   ],
+   "also_listed_at": [],
    "added": "2026-09-27",
    "first_seen": "2026-09-27",
    "keywords": [
@@ -946,103 +944,6 @@
     "225k",
     "401",
     "erisa"
-   ]
-  },
-  {
-   "id": "ca-settlements-sizzling-platter-job-postings-washington",
-   "title": "Sizzling Platter - Job Postings (Washington) Class Action Settlement",
-   "summary": "You may be able to claim a piece of this settlement if you applied for a job with Sizzling Platter in Washington between January 1, 2023 and July 26, 2025.",
-   "category": "Job Postings (Washington)",
-   "states": [],
-   "deadline": "2026-11-17",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Varies",
-   "claim_url": "https://sizzlingplattersettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#sizzling-platter-job-postings-washington",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-11-18",
-   "keywords": [
-    "sizzling",
-    "platter",
-    "job",
-    "posting",
-    "washington"
-   ]
-  },
-  {
-   "id": "ca-settlements-teleflora-unwanted-texts",
-   "title": "Teleflora - Unwanted Texts Class Action Settlement",
-   "summary": "You may be included in this settlement if you received more than one promotional text from Teleflora in a twelve-month period since May 9, 2021.",
-   "category": "Unwanted Texts",
-   "states": [],
-   "deadline": "2026-11-17",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "Up to $251",
-   "claim_url": "https://www.tfsettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#teleflora-unwanted-texts",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-11-18",
-   "keywords": [
-    "teleflora",
-    "unwanted",
-    "text"
-   ]
-  },
-  {
-   "id": "ca-settlements-mental-health-association-data-breach",
-   "title": "Mental Health Association - Data Breach Class Action Settlement",
-   "summary": "You may be able to claim a piece of this settlement if your personal information was exposed in the November 2024 Mental Health Association data breach.",
-   "category": "Data Breach",
-   "states": [],
-   "deadline": "2026-11-19",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": "$40 - $5,075",
-   "claim_url": "https://mhadatasettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#mental-health-association-data-breach",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-11-20",
-   "keywords": [
-    "mental",
-    "health",
-    "association",
-    "data",
-    "breach"
-   ]
-  },
-  {
-   "id": "ca-settlements-charlotte-motor-speedway-landfill",
-   "title": "Charlotte Motor Speedway Landfill Class Action Settlement",
-   "summary": "This settlement covers people who owned, rented or leased residential property within one and a half miles of the Charlotte Motor Speedway Landfill's property boundary since August 14, 2021.",
-   "category": null,
-   "states": [],
-   "deadline": "2026-11-20",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://lsclassaction.com/settlements/charlotte-motor-speedway-landfill/",
-   "info_url": "https://www.classaction.org/settlements#charlotte-motor-speedway-landfill",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-11-21",
-   "keywords": [
-    "charlotte",
-    "motor",
-    "speedway",
-    "landfill"
    ]
   },
   {
@@ -1072,32 +973,6 @@
     "85m",
     "paid",
     "automatically"
-   ]
-  },
-  {
-   "id": "ca-settlements-hearthside-food-solutions-labor-laws-illinois",
-   "title": "Hearthside Food Solutions - Labor Laws (Illinois) Class Action Settlement",
-   "summary": "This settlement covers those who worked at a Hearthside Food Solutions facility in Illinois while under the age of 16 between March 1, 2020 and December 4, 2024.",
-   "category": "Labor Laws (Illinois)",
-   "states": [],
-   "deadline": "2026-11-20",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "Varies",
-   "claim_url": "https://www.hearthsidefssettlement.com/",
-   "info_url": "https://www.classaction.org/settlements#hearthside-food-solutions-labor-laws-illinois",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-11-21",
-   "keywords": [
-    "hearthside",
-    "food",
-    "solution",
-    "labor",
-    "law",
-    "illinois"
    ]
   },
   {
@@ -1131,29 +1006,6 @@
    ]
   },
   {
-   "id": "ca-settlements-schenker-background-checks",
-   "title": "Schenker - Background Checks Class Action Settlement",
-   "summary": "You may be able to claim a piece of this settlement if Schenker obtained a consumer report on you for employment purposes between November 20, 2014 and February 28, 2022.",
-   "category": "Background Checks",
-   "states": [],
-   "deadline": "2026-11-20",
-   "deadline_type": "claim",
-   "proof": "unknown",
-   "proof_label": "Proof requirement not verified",
-   "payout": "Varies",
-   "claim_url": "https://epoasettlementsinc.com/",
-   "info_url": "https://www.classaction.org/settlements#schenker-background-checks",
-   "source": "classaction.org",
-   "also_listed_at": [],
-   "added": null,
-   "first_seen": "2026-09-29",
-   "keywords": [
-    "schenker",
-    "background",
-    "check"
-   ]
-  },
-  {
    "id": "oca-menasha-packaging-california-wage-paga-class-action-settlement",
    "title": "Menasha Packaging $1.73M California Wage Settlement — Automatic",
    "summary": "automatic payment, no claim form — A pro rata share of $1,732,500, by workweek, for hourly and staffing-agency workers at Menasha’s California facilities from 2017 to 2024.",
@@ -1166,12 +1018,10 @@
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
    "payout": "automatic payment, no claim form — A pro rata share of $1,732,500, by workweek, for hourly and staffing-agency workers at Menasha’s California facilities from…",
-   "claim_url": "https://menashaclassactionsettlement.com/",
+   "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/paga/menasha-packaging-california-wage-paga-class-action-settlement.php",
    "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#menasha-packaging-company-wage-and-hour"
-   ],
+   "also_listed_at": [],
    "added": "2026-10-16",
    "first_seen": "2026-10-16",
    "keywords": [
@@ -1181,68 +1031,6 @@
     "73m",
     "california",
     "wage"
-   ]
-  },
-  {
-   "id": "oca-lavista-walk-apartment-fire-class-action-settlement",
-   "title": "LaVista Walk Apartment Fire $8.45M Settlement",
-   "summary": "An equal displacement payment for adult residents, pro rata property-loss compensation and $2,500 per child for people living at The Reserve at LaVista Walk during the November 2023 fire.",
-   "category": "Environmental",
-   "states": [
-    "GA"
-   ],
-   "deadline": "2026-11-22",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "An equal displacement payment for adult residents, pro rata property-loss compensation and $2,500 per child for people living at The Reserve at LaVista Walk du…",
-   "claim_url": "https://lavistafiresettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/environmental/lavista-walk-apartment-fire-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#lavista-walk-apartment-fire"
-   ],
-   "added": "2026-09-27",
-   "first_seen": "2026-09-27",
-   "keywords": [
-    "lavista",
-    "walk",
-    "apartment",
-    "fire",
-    "8",
-    "45m"
-   ]
-  },
-  {
-   "id": "oca-sela-realty-florida-security-deposit-class-action-settlement",
-   "title": "SELA Realty Florida Security Deposit Settlement — 60% Back",
-   "summary": "60% of a kept security deposit for former SELA Realty tenants in Florida, plus old balances cleared for those who moved out by the end of 2024.",
-   "category": "Fees & Billing",
-   "states": [
-    "FL"
-   ],
-   "deadline": "2026-11-22",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Varies",
-   "claim_url": "https://www.selasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/real-estate/sela-realty-florida-security-deposit-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#sela-realty-investments-florida"
-   ],
-   "added": "2026-09-30",
-   "first_seen": "2026-09-30",
-   "keywords": [
-    "sela",
-    "realty",
-    "florida",
-    "security",
-    "deposit",
-    "60",
-    "back",
-    "investment"
    ]
   },
   {
@@ -2527,6 +2315,32 @@
     "beef",
     "direct",
     "purchaser"
+   ]
+  },
+  {
+   "id": "oca-opioid-third-party-payor-class-action-settlement",
+   "title": "$180M Opioid Settlements for Health Plans — Claims Due Dec 1",
+   "summary": "A pro rata share of $180 million for health plans and other third-party payors that paid for opioids or opioid treatment — not for individuals.",
+   "category": "Healthcare",
+   "states": [],
+   "deadline": "2026-12-01",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $180 million for health plans and other third-party payors that paid for opioids or opioid treatment — not for individuals.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/opioid-third-party-payor-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "180m",
+    "opioid",
+    "health",
+    "plan",
+    "dec",
+    "1"
    ]
   },
   {
@@ -3864,8 +3678,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/mclean-mortgage-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#mclean-mortgage-corporation-data-breach",
-    "https://www.classaction.org/settlements#mortgage-investors-group-data-breach"
+    "https://www.classaction.org/settlements#mclean-mortgage-corporation-data-breach"
    ],
    "added": "2026-10-02",
    "first_seen": "2026-10-02",
@@ -3874,8 +3687,33 @@
     "mortgage",
     "data",
     "breach",
-    "corporation",
-    "investor"
+    "corporation"
+   ]
+  },
+  {
+   "id": "oca-airbit-club-doj-victim-fund-remission",
+   "title": "AirBit Club Victim Fund — DOJ Remission Petitions",
+   "summary": "Compensation for net cash or crypto losses from the AirBit Club scheme, paid from more than $400 million in assets the U.S. forfeited.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2026-12-11",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Compensation for net cash or crypto losses from the AirBit Club scheme, paid from more than $400 million in assets the U.S. forfeited.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/airbit-club-doj-victim-fund-remission.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "airbit",
+    "club",
+    "victim",
+    "doj",
+    "remission",
+    "petition"
    ]
   },
   {
@@ -4716,12 +4554,12 @@
    "proof": "id_required",
    "proof_label": "Claim ID or notice code required",
    "payout": "$500K settlement fund (individual payout not stated)",
-   "claim_url": "https://servicespotsettlement.com/",
+   "claim_url": "https://www.prestigenoticeclass.com/",
    "info_url": "https://openclassactions.com/settlements/service-spot-parking-reservation-fees-california-class-action-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#service-spot-parking-reservation-fees",
-    "https://www.classaction.org/settlements#prestige-financial-services-vehicle-repossession"
+    "https://www.classaction.org/settlements#prestige-financial-services-vehicle-repossession",
+    "https://www.classaction.org/settlements#service-spot-parking-reservation-fees"
    ],
    "added": null,
    "first_seen": "2026-11-05",
@@ -4913,8 +4751,7 @@
    "info_url": "https://openclassactions.com/settlements/data-breaches/fairmont-federal-credit-union-data-breach-settlement.php",
    "source": "openclassactions",
    "also_listed_at": [
-    "https://www.classaction.org/settlements#fairmont-federal-credit-union-data-breach",
-    "https://www.classaction.org/settlements#carter-federal-credit-union-data-breach"
+    "https://www.classaction.org/settlements#fairmont-federal-credit-union-data-breach"
    ],
    "added": "2026-10-24",
    "first_seen": "2026-10-24",
@@ -4927,8 +4764,7 @@
     "breach",
     "150",
     "7",
-    "500",
-    "carter"
+    "500"
    ]
   },
   {
@@ -5369,6 +5205,38 @@
     "4",
     "225m",
     "technology"
+   ]
+  },
+  {
+   "id": "oca-vera-whole-health-washington-job-postings-class-action-settlement",
+   "title": "Vera Whole Health $2.925M Washington Job Postings Settlement — Est. $361, Automatic",
+   "summary": "An equal share of a $2,925,000 fund, estimated at about $361, paid automatically to people who applied to Vera Whole Health or Castlight Health jobs in Washington whose postings omitted pay and benefits.",
+   "category": "Employment",
+   "states": [
+    "WA"
+   ],
+   "deadline": "2026-12-21",
+   "deadline_type": "opt_out",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An equal share of a $2,925,000 fund, estimated at about $361, paid automatically to people who applied to Vera Whole Health or Castlight Health jobs in Washing…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/vera-whole-health-washington-job-postings-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "keywords": [
+    "vera",
+    "whole",
+    "health",
+    "2",
+    "925m",
+    "washington",
+    "job",
+    "posting",
+    "est",
+    "361"
    ]
   },
   {
@@ -6163,34 +6031,27 @@
    ]
   },
   {
-   "id": "oca-covenant-health-data-breach-settlement",
-   "title": "Covenant Health $2M Data Breach Class Action Settlement — Est. $75 or Up to $5,000",
-   "summary": "An estimated $75 pro rata cash and up to $5,000 in documented losses, plus two years of credit monitoring, for about 502,606 people notified of the May 2025 Covenant Health cyberattack.",
+   "id": "ca-settlements-covenant-health-data-breach",
+   "title": "Covenant Health - Data Breach Class Action Settlement",
+   "summary": "If your personal information was affected by the May 2025 Covenant Health data breach, you may be able to claim a piece of this settlement.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-12-30",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "An estimated $75 pro rata cash and up to $5,000 in documented losses, plus two years of credit monitoring, for about 502,606 people notified of the May 2025 Co…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$75 - $5,000",
    "claim_url": "https://covenanthealthdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/covenant-health-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#covenant-health-data-breach"
-   ],
-   "added": "2026-10-20",
-   "first_seen": "2026-10-20",
+   "info_url": "https://www.classaction.org/settlements#covenant-health-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-23",
    "keywords": [
     "covenant",
     "health",
-    "2m",
     "data",
-    "breach",
-    "est",
-    "75",
-    "5",
-    "000"
+    "breach"
    ]
   },
   {
@@ -6575,6 +6436,36 @@
     "agency",
     "data",
     "breach"
+   ]
+  },
+  {
+   "id": "oca-americare-new-york-attorney-general-wage-parity-restitution",
+   "title": "Americare $45M Wage Parity Settlement for NY Home Care Aides",
+   "summary": "A share of nearly $45M in unpaid wage-parity pay for Americare home care aides who did Medicaid-funded work in NYC, Nassau, Suffolk or Westchester, 2014–2020.",
+   "category": "Employment",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2027-01-04",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A share of nearly $45M in unpaid wage-parity pay for Americare home care aides who did Medicaid-funded work in NYC, Nassau, Suffolk or Westchester, 2014–2020.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/americare-new-york-attorney-general-wage-parity-restitution.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "americare",
+    "45m",
+    "wage",
+    "parity",
+    "ny",
+    "home",
+    "care",
+    "aide"
    ]
   },
   {
@@ -7097,6 +6988,33 @@
     "planet",
     "lab",
     "stockholder"
+   ]
+  },
+  {
+   "id": "oca-ups-sec-fair-fund",
+   "title": "UPS $45M SEC Fair Fund for 2019–2021 Investors",
+   "summary": "A share of a $45M SEC Fair Fund, plus interest, for investors who bought UPS Class A or B stock or certain UPS bonds between Oct. 22, 2019 and Jan. 24, 2021.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-01-10",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of a $45M SEC Fair Fund, plus interest, for investors who bought UPS Class A or B stock or certain UPS bonds between Oct. 22, 2019 and Jan. 24, 2021.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/ups-sec-fair-fund.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "ups",
+    "45m",
+    "sec",
+    "fair",
+    "2019",
+    "2021",
+    "investor"
    ]
   },
   {
@@ -9159,6 +9077,35 @@
    ]
   },
   {
+   "id": "oca-covenant-health-data-breach-settlement",
+   "title": "Covenant Health $2M Data Breach Class Action Settlement — Est. $75 or Up to $5,000",
+   "summary": "An estimated $75 pro rata cash and up to $5,000 in documented losses, plus two years of credit monitoring, for about 502,606 people notified of the May 2025 Covenant Health cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-11",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $75 pro rata cash and up to $5,000 in documented losses, plus two years of credit monitoring, for about 502,606 people notified of the May 2025 Co…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/covenant-health-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-20",
+   "first_seen": "2026-10-20",
+   "keywords": [
+    "covenant",
+    "health",
+    "2m",
+    "data",
+    "breach",
+    "est",
+    "75",
+    "5",
+    "000"
+   ]
+  },
+  {
    "id": "oca-buyalerts-tcpa-text-message-class-action-settlement",
    "title": "BuyAlerts Text Message Settlement — Up to $42.16",
    "summary": "Up to $42.16 for people who kept getting BuyAlerts marketing texts after replying “stop” or while on the Do Not Call Registry.",
@@ -9463,6 +9410,32 @@
    ]
   },
   {
+   "id": "oca-bofa-securities-treasury-restitution-fund",
+   "title": "BofA Securities $3.6M Treasury Restitution Fund",
+   "summary": "A share of a $3.6 million BofA Securities fund for parties that traded eligible U.S. Treasury securities or futures from about Nov. 2014 to April 2020.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-03-02",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of a $3.6 million BofA Securities fund for parties that traded eligible U.S.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/bofa-securities-treasury-restitution-fund.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "bofa",
+    "security",
+    "3",
+    "6m",
+    "treasury",
+    "restitution"
+   ]
+  },
+  {
    "id": "oca-la-county-mens-central-jail-strip-search-class-action-settlement",
    "title": "LA County Men’s Central Jail Strip Search Settlement — At Least $5,000 Each",
    "summary": "At least $5,000 each for men in Men’s Central Jail units 2500 or 2700 who were subjected to the September 7, 2021 mass strip search.",
@@ -9523,6 +9496,32 @@
     "consumer",
     "96",
     "5m"
+   ]
+  },
+  {
+   "id": "oca-sema4-genedx-securities-class-action-settlement",
+   "title": "$4.75M Sema4 (GeneDx) Securities Settlement (SMFR)",
+   "summary": "A pro rata share of $4.75 million for investors who bought Sema4 (SMFR) stock or warrants from January 18 to August 15, 2022.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-03-10",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of $4.75 million for investors who bought Sema4 (SMFR) stock or warrants from January 18 to August 15, 2022.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/sema4-genedx-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "keywords": [
+    "4",
+    "75m",
+    "sema4",
+    "genedx",
+    "security",
+    "smfr"
    ]
   },
   {
@@ -9794,6 +9793,30 @@
    ]
   },
   {
+   "id": "oca-mindgeek-aylo-120-million-survivor-settlement",
+   "title": "MindGeek (Aylo) $120M Survivor Settlement",
+   "summary": "An equal share of $120 million for people who were under 18 when abuse content depicting them was viewable on MindGeek websites from 2011 to 2024.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2027-04-05",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An equal share of $120 million for people who were under 18 when abuse content depicting them was viewable on MindGeek websites from 2011 to 2024.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/mindgeek-aylo-120-million-survivor-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "keywords": [
+    "mindgeek",
+    "aylo",
+    "120m",
+    "survivor"
+   ]
+  },
+  {
    "id": "oca-hyundai-kia-airbag-control-units-class-action-settlement",
    "title": "$62.1M Hyundai & Kia Airbag Control Units Class Action",
    "summary": "",
@@ -9820,6 +9843,33 @@
     "airbag",
     "control",
     "unit"
+   ]
+  },
+  {
+   "id": "oca-danske-bank-sec-fair-fund",
+   "title": "Danske Bank $178.6M SEC Fair Fund (DNKEY)",
+   "summary": "A share of a $178.6 million SEC Fair Fund for investors who bought Danske Bank ADRs (DNKEY) or common stock between 2009 and 2018.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-04-09",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A share of a $178.6 million SEC Fair Fund for investors who bought Danske Bank ADRs (DNKEY) or common stock between 2009 and 2018.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/danske-bank-sec-fair-fund.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "danske",
+    "bank",
+    "178",
+    "6m",
+    "sec",
+    "fair",
+    "dnkey"
    ]
   },
   {
@@ -9877,6 +9927,63 @@
     "16",
     "5m",
     "cad"
+   ]
+  },
+  {
+   "id": "oca-san-bernardino-cleansweep-student-citation-refunds",
+   "title": "San Bernardino CleanSWEEP Student Citation Refunds",
+   "summary": "Refunds of fines and fees, plus dismissal, for people cited by the San Bernardino County Sheriff before age 18 under the CleanSWEEP program.",
+   "category": "Government",
+   "states": [
+    "CA"
+   ],
+   "deadline": "2027-04-18",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/consumer-protection/san-bernardino-cleansweep-student-citation-refunds.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "san",
+    "bernardino",
+    "cleansweep",
+    "student",
+    "citation",
+    "refund"
+   ]
+  },
+  {
+   "id": "oca-tec-power-grout-hb-fuller-class-action-settlement",
+   "title": "TEC Power Grout $75M Settlement — 39% of Repair Costs or a Bag Refund",
+   "summary": "Up to $75,000 toward repairs, at 39% of costs, or a refund for bags bought, for U.S. homeowners with TEC Power Grout installed or bought since December 2016.",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2027-04-29",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Up to $75,000 toward repairs, at 39% of costs, or a refund for bags bought, for U.S. homeowners with TEC Power Grout installed or bought since December 2016.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/product-defects/tec-power-grout-hb-fuller-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "tec",
+    "power",
+    "grout",
+    "75m",
+    "39",
+    "repair",
+    "cost",
+    "bag",
+    "refund"
    ]
   },
   {
@@ -10017,6 +10124,34 @@
     "confinement",
     "100",
     "000",
+    "cad"
+   ]
+  },
+  {
+   "id": "oca-vancouver-college-st-thomas-more-christian-brothers-abuse-settlement",
+   "title": "Vancouver College & St. Thomas More Abuse Settlement — $30M CAD",
+   "summary": "Compensation of up to $30,000 CAD, or more through an individual assessment, for former Vancouver College and St. Thomas More students abused by a Christian Brother.",
+   "category": "Government",
+   "states": [],
+   "deadline": "2027-09-13",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Compensation of up to $30,000 CAD, or more through an individual assessment, for former Vancouver College and St.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/vancouver-college-st-thomas-more-christian-brothers-abuse-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "vancouver",
+    "college",
+    "st",
+    "thoma",
+    "more",
+    "abuse",
+    "30m",
     "cad"
    ]
   },
@@ -10287,6 +10422,31 @@
     "panel",
     "delamination",
     "energy"
+   ]
+  },
+  {
+   "id": "oca-certainteed-fiberglass-horizon-shingles-class-action-settlement",
+   "title": "CertainTeed Fiberglass Horizon Shingles Settlement — Claims Through 2030",
+   "summary": "Cash payments for owners of U.S. buildings with CertainTeed Fiberglass Horizon shingles installed 1995–2010 that show Qualifying Damage.",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2030-03-02",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/product-defects/certainteed-fiberglass-horizon-shingles-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-22",
+   "first_seen": "2026-11-22",
+   "keywords": [
+    "certainteed",
+    "fiberglass",
+    "horizon",
+    "shingle",
+    "2030"
    ]
   },
   {
