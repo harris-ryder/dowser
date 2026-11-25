@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T20:11:48.113Z",
+ "generated_at": "2026-11-25T19:20:25.025Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 479,
+ "count": 477,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -1144,62 +1144,6 @@
    ]
   },
   {
-   "id": "oca-overland-missouri-special-deterrent-fee-class-action-settlement",
-   "title": "City of Overland, Missouri Special Deterrent Fee Settlement — $80 per Claim",
-   "summary": "A flat $80 check for people who paid an Overland municipal court special deterrent fee from August 2012 to September 2021.",
-   "category": "Government",
-   "states": [
-    "MO"
-   ],
-   "deadline": "2026-11-24",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A flat $80 check for people who paid an Overland municipal court special deterrent fee from August 2012 to September 2021.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/consumer-protection/overland-missouri-special-deterrent-fee-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-21",
-   "first_seen": "2026-10-21",
-   "keywords": [
-    "city",
-    "overland",
-    "missouri",
-    "special",
-    "deterrent",
-    "fee",
-    "80"
-   ]
-  },
-  {
-   "id": "oca-fastbucks-new-mexico-restitution-program",
-   "title": "FastBucks New Mexico Loan Restitution Program",
-   "summary": "A cash payment for New Mexico consumers identified in the FastBucks loan data the lenders gave the State and adversely affected by the practices at issue.",
-   "category": "Banking & Credit",
-   "states": [
-    "NM"
-   ],
-   "deadline": "2026-11-24",
-   "deadline_type": "claim",
-   "proof": "none",
-   "proof_label": "No proof required",
-   "payout": null,
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/fastbucks-new-mexico-restitution-program.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-10",
-   "first_seen": "2026-09-10",
-   "keywords": [
-    "fastbuck",
-    "mexico",
-    "loan",
-    "restitution",
-    "program"
-   ]
-  },
-  {
    "id": "ca-settlements-festival-fun-parks-raging-waters-ticket-prices",
    "title": "Festival Fun Parks - Raging Waters Ticket Prices Class Action Settlement",
    "summary": "You may be able to claim a piece of this settlement if you bought admission tickets from www.ragingwaters.com between June 1, 2020 and June 22, 2026.",
@@ -1227,92 +1171,33 @@
    ]
   },
   {
-   "id": "oca-lake-compounce-ticket-fee-class-action-settlement",
-   "title": "Lake Compounce $500K Ticket Processing Fee Class Action Settlement",
-   "summary": "A pro rata share of a $500,000 fund, based on the processing fees each claimant paid, for anyone who bought Lake Compounce tickets on the park’s website between October 2023 and June 2025.",
-   "category": "Fees & Billing",
-   "states": [],
-   "deadline": "2026-11-24",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A pro rata share of a $500,000 fund, based on the processing fees each claimant paid, for anyone who bought Lake Compounce tickets on the park’s website betwee…",
-   "claim_url": "https://lakecompounceticketfeesettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/lake-compounce-ticket-fee-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#lake-compounce-ticket-fees"
-   ],
-   "added": "2026-09-29",
-   "first_seen": "2026-09-29",
-   "keywords": [
-    "lake",
-    "compounce",
-    "500k",
-    "ticket",
-    "processing",
-    "fee"
-   ]
-  },
-  {
-   "id": "oca-lsc-planned-parenthood-lab-data-breach-settlement",
-   "title": "Planned Parenthood Lab Data Breach Settlement — Up to $1,000 Pro Rata",
-   "summary": "Up to $1,000 pro rata with no documentation, plus up to $5,000 for documented losses and two years of medical and credit monitoring, from a $6.1 million fund.",
-   "category": "Data Breach",
+   "id": "ca-settlements-lake-compounce-ticket-fees",
+   "title": "Lake Compounce - Ticket Fees Class Action Settlement",
+   "summary": "You may be included in this settlement if you bought tickets to Lake Compounce between October 1, 2023 and June 12, 2025 and paid a processing fee.",
+   "category": "Ticket Fees",
    "states": [],
    "deadline": "2026-11-24",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "Up to $1,000 pro rata with no documentation, plus up to $5,000 for documented losses and two years of medical and credit monitoring, from a $6.1 million fund.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/data-breaches/lsc-planned-parenthood-lab-data-breach-settlement.php",
-   "source": "openclassactions",
+   "payout": "Varies",
+   "claim_url": "https://lakecompounceticketfeesettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#lake-compounce-ticket-fees",
+   "source": "classaction.org",
    "also_listed_at": [],
-   "added": "2026-09-14",
-   "first_seen": "2026-09-14",
+   "added": null,
+   "first_seen": "2026-11-25",
    "keywords": [
-    "planned",
-    "parenthood",
-    "lab",
-    "data",
-    "breach",
-    "1",
-    "000",
-    "pro",
-    "rata"
-   ]
-  },
-  {
-   "id": "oca-raging-waters-processing-fee-class-action-settlement",
-   "title": "Raging Waters $850K Ticket Processing Fee Class Action Settlement",
-   "summary": "A pro rata share of an $850,000 fund, sized to the processing fees each claimant paid, for anyone who bought Raging Waters admission tickets online between June 2020 and June 2026 and paid the fee.",
-   "category": "Fees & Billing",
-   "states": [],
-   "deadline": "2026-11-24",
-   "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A pro rata share of an $850,000 fund, sized to the processing fees each claimant paid, for anyone who bought Raging Waters admission tickets online between Jun…",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/deceptive-pricing/raging-waters-processing-fee-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-09-04",
-   "first_seen": "2026-09-04",
-   "keywords": [
-    "raging",
-    "water",
-    "850k",
+    "lake",
+    "compounce",
     "ticket",
-    "processing",
     "fee"
    ]
   },
   {
-   "id": "oca-twitter-musk-stock-verdict-class-action",
-   "title": "Twitter Stock Jury Verdict — Full Damages Plus Interest (Pampena v. Musk)",
-   "summary": "the full jury-awarded damages plus interest, less your share of court-approved fees — a trial verdict, not a settlement · anyone who sold Twitter stock or call options, or bought puts, May 13 – Oct 4, 2022 · brokerage records required",
+   "id": "ca-settlements-twitter-acquisition-securities",
+   "title": "Twitter Acquisition - Securities Class Action Settlement",
+   "summary": "If you sold the publicly traded stock or call options, or purchased the put options, of Twitter, Inc. between May 13, 2022 and October 4, 2022, you may be included in this settlement.",
    "category": "Securities",
    "states": [],
    "deadline": "2026-11-24",
@@ -1321,58 +1206,41 @@
    "proof_label": "Documentation or proof of purchase required",
    "payout": "Varies",
    "claim_url": "https://twitteracquisitionlitigation.com/",
-   "info_url": "https://openclassactions.com/settlements/securities/twitter-musk-stock-verdict-class-action.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#twitter-acquisition-securities"
-   ],
-   "added": "2026-07-31",
-   "first_seen": "2026-07-31",
+   "info_url": "https://www.classaction.org/settlements#twitter-acquisition-securities",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-25",
    "keywords": [
     "twitter",
-    "stock",
-    "jury",
-    "verdict",
-    "full",
-    "damage",
-    "plus",
-    "interest",
-    "pampena",
-    "musk",
-    "acquisition"
+    "acquisition",
+    "security"
    ]
   },
   {
-   "id": "oca-venetian-las-vegas-website-privacy-settlement",
-   "title": "Venetian Las Vegas Website Privacy Settlement — $1.6M for California Visitors",
-   "summary": "An estimated $71 for booking a Venetian stay, or about $3.60 for browsing venetianlasvegas.com, for California residents who used the site.",
-   "category": "Privacy",
-   "states": [
-    "CA"
-   ],
+   "id": "ca-settlements-venetian-las-vegas-data-privacy-california",
+   "title": "Venetian Las Vegas - Data Privacy (California) Class Action Settlement",
+   "summary": "You may be included in this settlement if you are a California resident and accessed the Venetian Las Vegas website between September 18, 2024 and March 16, 2026.",
+   "category": "Data Privacy (California)",
+   "states": [],
    "deadline": "2026-11-24",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "An estimated $71 for booking a Venetian stay, or about $3.60 for browsing venetianlasvegas.com, for California residents who used the site.",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$3.60 - $71.39",
    "claim_url": "https://venetianlasvegassettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/privacy/venetian-las-vegas-website-privacy-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#venetian-las-vegas-data-privacy-california"
-   ],
-   "added": "2026-09-24",
-   "first_seen": "2026-09-24",
+   "info_url": "https://www.classaction.org/settlements#venetian-las-vegas-data-privacy-california",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-25",
    "keywords": [
     "venetian",
     "las",
     "vega",
-    "website",
+    "data",
     "privacy",
-    "1",
-    "6m",
-    "california",
-    "visitor"
+    "california"
    ]
   },
   {
@@ -9081,6 +8949,61 @@
     "message",
     "42",
     "16"
+   ]
+  },
+  {
+   "id": "oca-heritage-holdings-data-breach-settlement",
+   "title": "Heritage Holdings Data Breach Settlement — Est. $45 Cash or Up to $5,000",
+   "summary": "An estimated $45 in cash or up to $5,000 in documented losses, plus two years of medical data monitoring, for people whose information was in the September 2025 Heritage Holdings data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-16",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $45 in cash or up to $5,000 in documented losses, plus two years of medical data monitoring, for people whose information was in the September 202…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/heritage-holdings-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "keywords": [
+    "heritage",
+    "data",
+    "breach",
+    "est",
+    "45",
+    "5",
+    "000"
+   ]
+  },
+  {
+   "id": "oca-svdp-father-joes-villages-data-breach-settlement",
+   "title": "S.V.D.P. / Father Joe's Villages Data Breach Settlement — Est. $50, No Documents",
+   "summary": "An estimated $50 in cash with nothing to document, or up to $5,000 for documented losses, for people whose information was in the S.V.D.P. / Father Joe's Villages data incident.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-16",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "An estimated $50 in cash with nothing to document, or up to $5,000 for documented losses, for people whose information was in the S.V.D.P. / Father Joe's Villa…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/svdp-father-joes-villages-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "keywords": [
+    "father",
+    "joe",
+    "village",
+    "data",
+    "breach",
+    "est",
+    "50",
+    "document"
    ]
   },
   {
