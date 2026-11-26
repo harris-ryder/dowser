@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T19:20:25.025Z",
+ "generated_at": "2026-11-26T19:03:44.844Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 477,
+ "count": 479,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -1271,15 +1271,15 @@
   },
   {
    "id": "oca-acct-holdings-esop-erisa-class-action-settlement",
-   "title": "ACCT Holdings ESOP $8.75M ERISA Class Action Settlement",
-   "summary": "a pro rata share of $3M in cash plus a $5.75M debt reduction meant to lift share value, for vested ACCT Holdings ESOP participants and beneficiaries — no claim form and no opt-out",
-   "category": "Retirement Plans",
+   "title": "ACCT Holdings ESOP $8.75M ERISA Settlement — No Claim Form, No Opt-Out",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-11-25",
    "deadline_type": "claim",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "a pro rata share of $3M in cash plus a $5.75M debt reduction meant to lift share value, for vested ACCT Holdings ESOP participants and beneficiaries — no claim…",
+   "payout": "$8.75M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/erisa/acct-holdings-esop-erisa-class-action-settlement.php",
    "source": "openclassactions",
@@ -1291,20 +1291,21 @@
     "esop",
     "8",
     "75m",
-    "erisa"
+    "erisa",
+    "optout"
    ]
   },
   {
    "id": "oca-bnbuilders-esop-erisa-class-action-settlement",
-   "title": "BNBuilders $5M ESOP ERISA Class Action Settlement",
-   "summary": "automatic payment, no claim form — a share of a $5 million fund for vested BNBuilders ESOP participants (Dec 2021 – Dec 2025) and their beneficiaries",
-   "category": "Retirement Plans",
+   "title": "BNBuilders $5M ESOP ERISA Settlement — Automatic Payment",
+   "summary": "",
+   "category": null,
    "states": [],
    "deadline": "2026-11-25",
    "deadline_type": "claim",
    "proof": "automatic",
    "proof_label": "Automatic payment, no claim form",
-   "payout": "automatic payment, no claim form — a share of a $5 million fund for vested BNBuilders ESOP participants (Dec 2021 – Dec 2025) and their beneficiaries",
+   "payout": "$5M settlement fund (individual payout not stated)",
    "claim_url": null,
    "info_url": "https://openclassactions.com/settlements/erisa/bnbuilders-esop-erisa-class-action-settlement.php",
    "source": "openclassactions",
@@ -1319,120 +1320,77 @@
    ]
   },
   {
-   "id": "oca-everbridge-securities-class-action-settlement",
-   "title": "Everbridge $85M Securities Settlement (EVBG) — About $2.32 a Share",
-   "summary": "A pro rata share of an $85 million fund, estimated at about $2.32 a share before fees, for investors who bought Everbridge (EVBG) common stock.",
-   "category": "Securities",
-   "states": [],
-   "deadline": "2026-11-25",
-   "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "A pro rata share of an $85 million fund, estimated at about $2.32 a share before fees, for investors who bought Everbridge (EVBG) common stock.",
-   "claim_url": null,
-   "info_url": "https://openclassactions.com/settlements/securities/everbridge-securities-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [],
-   "added": "2026-10-03",
-   "first_seen": "2026-10-03",
-   "keywords": [
-    "everbridge",
-    "85m",
-    "security",
-    "evbg",
-    "2",
-    "32",
-    "share"
-   ]
-  },
-  {
-   "id": "oca-fujifilm-diosynth-data-breach-settlement",
-   "title": "Fujifilm Diosynth Data Breach Class Action Settlement",
-   "summary": "a flat $50 with no documentation, or up to $2,500 in documented out-of-pocket losses instead, plus two years of credit monitoring, for people notified of the September 2025 incident at the biopharmaceutical manufacturer",
+   "id": "ca-settlements-fujifilm-diosynth-biotechnologies-data-breach",
+   "title": "Fujifilm Diosynth Biotechnologies - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your private information was accessed in the Fujifilm Diosynth Biotechnologies data breach that took place in the summer of 2025.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-25",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "a flat $50 with no documentation, or up to $2,500 in documented out-of-pocket losses instead, plus two years of credit monitoring, for people notified of the S…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$50 - $2,500",
    "claim_url": "https://flbdatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/fujifilm-diosynth-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#fujifilm-diosynth-biotechnologies-data-breach"
-   ],
-   "added": "2026-09-10",
-   "first_seen": "2026-09-10",
+   "info_url": "https://www.classaction.org/settlements#fujifilm-diosynth-biotechnologies-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-26",
    "keywords": [
     "fujifilm",
     "diosynth",
+    "biotechnology",
     "data",
-    "breach",
-    "biotechnology"
+    "breach"
    ]
   },
   {
-   "id": "oca-neutrogena-skin360-bipa-settlement",
-   "title": "Neutrogena Skin360 BIPA Settlement — $4.7M for Illinois Users",
-   "summary": "An equal pro rata share of a $4.7 million fund for anyone who performed a Neutrogena or NeoStrata Skin360 skin assessment in Illinois between December 9, 2019 and May 5, 2023.",
-   "category": "Privacy",
-   "states": [
-    "IL"
-   ],
+   "id": "ca-settlements-skin360-biometric-privacy-illinois",
+   "title": "Skin360 - Biometric Privacy (Illinois) Class Action Settlement",
+   "summary": "You may be included in this settlement if you performed a Skin360 skin assessment while in Illinois between December 9, 2019 and May 5, 2023.",
+   "category": "Biometric Privacy (Illinois)",
+   "states": [],
    "deadline": "2026-11-25",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "An equal pro rata share of a $4.7 million fund for anyone who performed a Neutrogena or NeoStrata Skin360 skin assessment in Illinois between December 9, 2019…",
+   "payout": "Varies",
    "claim_url": "https://www.skin360bipasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/neutrogena-skin360-bipa-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#skin360-biometric-privacy-illinois"
-   ],
-   "added": "2026-09-15",
-   "first_seen": "2026-09-15",
+   "info_url": "https://www.classaction.org/settlements#skin360-biometric-privacy-illinois",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-26",
    "keywords": [
-    "neutrogena",
     "skin360",
-    "bipa",
-    "4",
-    "7m",
-    "illinois",
-    "user"
+    "biometric",
+    "privacy",
+    "illinois"
    ]
   },
   {
-   "id": "oca-wellnow-urgent-care-wage-hour-class-action-settlement",
-   "title": "WellNow Urgent Care $1.64M Wage Settlement",
-   "summary": "A points-based share of $1.64 million for hourly WellNow patient-care staff in New York, Illinois and Pennsylvania, scaled to pay periods worked.",
-   "category": "Employment",
-   "states": [
-    "NY",
-    "IL",
-    "PA"
-   ],
+   "id": "ca-settlements-wellnow-urgent-care-wage-and-hour",
+   "title": "WellNow Urgent Care - Wage and Hour Class Action Settlement",
+   "summary": "You may be included in this settlement if you worked for WellNow Urgent Care as an hourly employee in New York, Illinois or Pennsylvania.",
+   "category": "Wage and Hour",
+   "states": [],
    "deadline": "2026-11-25",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "A points-based share of $1.64 million for hourly WellNow patient-care staff in New York, Illinois and Pennsylvania, scaled to pay periods worked.",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://searswellnowsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/wellnow-urgent-care-wage-hour-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#wellnow-urgent-care-wage-and-hour"
-   ],
-   "added": "2026-09-30",
-   "first_seen": "2026-09-30",
+   "info_url": "https://www.classaction.org/settlements#wellnow-urgent-care-wage-and-hour",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-26",
    "keywords": [
     "wellnow",
     "urgent",
     "care",
-    "1",
-    "64m",
-    "wage"
+    "wage",
+    "hour"
    ]
   },
   {
@@ -4401,6 +4359,37 @@
     "ahs",
     "management",
     "wage"
+   ]
+  },
+  {
+   "id": "oca-alba-services-new-york-worker-restitution-settlement",
+   "title": "Alba Services NY Attorney General Worker Restitution — $1.4M Fund",
+   "summary": "A share of $1.4M for Alba construction and demolition workers injured on the job in 2016–2024 or sexually harassed at work in 2016–2025.",
+   "category": "Employment",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2026-12-18",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A share of $1.4M for Alba construction and demolition workers injured on the job in 2016–2024 or sexually harassed at work in 2016–2025.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/alba-services-new-york-worker-restitution-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-10-03",
+   "first_seen": "2026-10-03",
+   "keywords": [
+    "alba",
+    "service",
+    "ny",
+    "attorney",
+    "general",
+    "worker",
+    "restitution",
+    "1",
+    "4m"
    ]
   },
   {
@@ -7721,6 +7710,35 @@
     "50",
     "100",
     "california"
+   ]
+  },
+  {
+   "id": "oca-weee-dc-attorney-general-delivery-driver-misclassification-settlement",
+   "title": "Weee! DC Driver Misclassification Settlement — Share of $47,500",
+   "summary": "A pro rata share of $47,500, split by workweeks, for people who drove deliveries for Weee! in Washington DC as independent contractors between July 31, 2023 and July 31, 2026. The claim form arrives by mail; there is no settlement website.",
+   "category": "Employment",
+   "states": [
+    "DC"
+   ],
+   "deadline": "2027-01-23",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of $47,500, split by workweeks, for people who drove deliveries for Weee! in Washington DC as independent contractors between July 31, 2023 an…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/weee-dc-attorney-general-delivery-driver-misclassification-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "keywords": [
+    "weee",
+    "dc",
+    "driver",
+    "misclassification",
+    "share",
+    "47",
+    "500"
    ]
   },
   {
@@ -12923,6 +12941,35 @@
     "blood",
     "testing",
     "service"
+   ]
+  },
+  {
+   "id": "oca-transcore-california-wage-paga-class-action-settlement",
+   "title": "TransCore $900K California Wage & PAGA Settlement — Paid Automatically",
+   "summary": "Automatic payments from a $900,000 fund, split by workweeks, for non-exempt hourly employees in California at TransCore or placed there by GTN Technical Staffing between February 3, 2019 and September 24, 2026. No claim form; January 7, 2027 is the opt-out date.",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "Automatic payments from a $900,000 fund, split by workweeks, for non-exempt hourly employees in California at TransCore or placed there by GTN Technical Staffi…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/paga/transcore-california-wage-paga-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-26",
+   "first_seen": "2026-11-26",
+   "keywords": [
+    "transcore",
+    "900k",
+    "california",
+    "wage",
+    "paga",
+    "paid",
+    "automatically"
    ]
   },
   {
