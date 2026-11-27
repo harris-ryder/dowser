@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-26T19:03:44.844Z",
+ "generated_at": "2026-11-27T19:01:09.886Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 479,
+ "count": 489,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -1394,90 +1394,78 @@
    ]
   },
   {
-   "id": "oca-ben-e-keith-data-breach-settlement",
-   "title": "Ben E. Keith Data Breach Settlement — $35 or Up to $5,000",
-   "summary": "A $35 payment with no documents, or up to $5,000 in fraud losses and $400 in other documented losses, plus three years of credit monitoring, for people sent a notice about Ben E. Keith’s March 2023 data security incident.",
+   "id": "ca-settlements-ben-e-keith-company-data-breach",
+   "title": "Ben E. Keith Company - Data Breach Class Action Settlement",
+   "summary": "You may be included in this settlement if your personal information was exposed in the March 2023 Ben E. Keith Company data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-26",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "A $35 payment with no documents, or up to $5,000 in fraud losses and $400 in other documented losses, plus three years of credit monitoring, for people sent a…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "$35 - $5,000",
    "claim_url": "https://www.bekdataincidentsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/ben-e-keith-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#ben-e.-keith-company-data-breach"
-   ],
-   "added": "2026-10-29",
-   "first_seen": "2026-10-29",
+   "info_url": "https://www.classaction.org/settlements#ben-e.-keith-company-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-27",
    "keywords": [
     "ben",
     "keith",
     "data",
-    "breach",
-    "35",
-    "5",
-    "000"
+    "breach"
    ]
   },
   {
-   "id": "oca-cpap-medical-supplies-data-breach-settlement",
-   "title": "CPAP Medical Supplies Data Breach Class Action Settlement",
-   "summary": "up to $5,000 in documented out-of-pocket losses under a $500,000 cap, plus two years of CyEx medical identity monitoring, for people sent notice of the December 2024 cyberattack — there is no flat no-proof cash tier",
+   "id": "ca-settlements-cpap-medical-supplies-and-services-data-breach",
+   "title": "CPAP Medical Supplies and Services - Data Breach Class Action Settlement",
+   "summary": "If your private information was compromised in the December 2024 CPAP Medical Supplies and Services data breach, you may be included in this settlement.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-26",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "up to $5,000 in documented out-of-pocket losses under a $500,000 cap, plus two years of CyEx medical identity monitoring, for people sent notice of the Decembe…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $5,000",
    "claim_url": "https://cpapdataincidentsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/cpap-medical-supplies-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#cpap-medical-supplies-and-services-data-breach"
-   ],
-   "added": "2026-09-13",
-   "first_seen": "2026-09-13",
+   "info_url": "https://www.classaction.org/settlements#cpap-medical-supplies-and-services-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-27",
    "keywords": [
     "cpap",
     "medical",
     "supply",
+    "service",
     "data",
-    "breach",
-    "service"
+    "breach"
    ]
   },
   {
-   "id": "oca-nyc-strip-search-class-action-settlement",
-   "title": "NYC Strip Search $28M Class Action Settlement",
-   "summary": "a pro rata share of $28 million, scaled to how many times you were strip searched on arrival at the Manhattan Court Division after already being searched before leaving Rikers Island for court",
-   "category": "Government",
-   "states": [
-    "NY"
-   ],
+   "id": "ca-settlements-nyc-department-of-correction-strip-searches",
+   "title": "NYC Department of Correction - Strip Searches Class Action Settlement",
+   "summary": "You may be included in this settlement if you were in NYC Department of Correction custody and were strip searched upon arrival at the Manhattan Court Division after having been strip searched prior to departing Rikers Island.",
+   "category": "Strip Searches",
+   "states": [],
    "deadline": "2026-11-26",
    "deadline_type": "claim",
-   "proof": "documentation",
-   "proof_label": "Documentation or proof of purchase required",
-   "payout": "a pro rata share of $28 million, scaled to how many times you were strip searched on arrival at the Manhattan Court Division after already being searched befor…",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
    "claim_url": "https://www.nystripsearchsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/nyc-strip-search-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#nyc-department-of-correction-strip-searches"
-   ],
-   "added": "2026-09-13",
-   "first_seen": "2026-09-13",
+   "info_url": "https://www.classaction.org/settlements#nyc-department-of-correction-strip-searches",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-27",
    "keywords": [
     "nyc",
-    "strip",
-    "search",
-    "28m",
     "department",
-    "correction"
+    "correction",
+    "strip",
+    "search"
    ]
   },
   {
@@ -4484,6 +4472,36 @@
    ]
   },
   {
+   "id": "oca-clay-county-public-health-data-breach",
+   "title": "Clay County Public Health Data Breach Settlement — Est. $150",
+   "summary": "An estimated $150, or up to $300 with documentation, for the 315 Clay County residents whose data was posted on the county health department's website.",
+   "category": "Data Breach",
+   "states": [
+    "MO"
+   ],
+   "deadline": "2026-12-20",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "An estimated $150, or up to $300 with documentation, for the 315 Clay County residents whose data was posted on the county health department's website.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/clay-county-public-health-data-breach.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "clay",
+    "county",
+    "public",
+    "health",
+    "data",
+    "breach",
+    "est",
+    "150"
+   ]
+  },
+  {
    "id": "oca-container-store-blind-accessibility-class-action-settlement",
    "title": "The Container Store $780K Accessibility Settlement — $75 Per Purchase",
    "summary": "$75 per qualifying purchase, pro rata, for legally blind Massachusetts shoppers who met touchscreen kiosks with no non-visual way to enter loyalty information.",
@@ -6874,6 +6892,34 @@
    ]
   },
   {
+   "id": "oca-synagro-woonsocket-odors-settlement",
+   "title": "Synagro Woonsocket $1.3M Odor Settlement (Woonsocket, RI)",
+   "summary": "An equal per-household share of a $1,300,000 fund for people who owned, rented or leased a home within three-quarters of a mile of the sewage incinerator facility.",
+   "category": "Environmental",
+   "states": [
+    "RI"
+   ],
+   "deadline": "2027-01-11",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "An equal per-household share of a $1,300,000 fund for people who owned, rented or leased a home within three-quarters of a mile of the sewage incinerator facil…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/environmental/synagro-woonsocket-odors-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "synagro",
+    "woonsocket",
+    "1",
+    "3m",
+    "odor",
+    "ri"
+   ]
+  },
+  {
    "id": "oca-compumedics-data-breach-settlement",
    "title": "Compumedics Data Breach Settlement — Pro Rata Cash or Up to $2,500",
    "summary": "A share of a $500,000 cash fund or up to $2,500 in documented losses, plus a year of medical monitoring, for people notified of the 2025 Compumedics breach.",
@@ -7678,6 +7724,32 @@
     "7oh",
     "100",
     "40"
+   ]
+  },
+  {
+   "id": "oca-upgrade-website-tracking-class-action-settlement",
+   "title": "Upgrade $5.25M Website Tracking Settlement — Up to $15",
+   "summary": "Up to $15 for anyone in the U.S. who created an account and submitted an application through Upgrade, Uplift, Universal Credit or Boost Money between February 1, 2024 and October 30, 2026.",
+   "category": "Privacy",
+   "states": [],
+   "deadline": "2027-01-22",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "Up to $15 for anyone in the U.S. who created an account and submitted an application through Upgrade, Uplift, Universal Credit or Boost Money between February…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/privacy/upgrade-website-tracking-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-26",
+   "first_seen": "2026-11-26",
+   "keywords": [
+    "upgrade",
+    "5",
+    "25m",
+    "website",
+    "tracking",
+    "15"
    ]
   },
   {
@@ -8549,6 +8621,32 @@
    ]
   },
   {
+   "id": "oca-winix-true-hepa-air-purifier-class-action-settlement",
+   "title": "Winix “True HEPA” Air Purifier Settlement — Up to $12",
+   "summary": "A digital payment of up to $12 for anyone in the U.S. who bought a Winix air purifier or replacement filter marketed as “True HEPA” or “HEPA” from Sept. 19 2020 through Oct. 7 2026 · one claim per person · $11,000,000 cap, reduced pro rata · LoginID & PIN from the email notice, or an uploaded receipt without one",
+   "category": "Consumer Products",
+   "states": [],
+   "deadline": "2027-02-04",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A digital payment of up to $12 for anyone in the U.S. who bought a Winix air purifier or replacement filter marketed as “True HEPA” or “HEPA” from Sept. 19 202…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/false-advertising/winix-true-hepa-air-purifier-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "winix",
+    "true",
+    "hepa",
+    "air",
+    "purifier",
+    "12"
+   ]
+  },
+  {
    "id": "oca-curran-progressive-colorado-total-loss-class-action-settlement",
    "title": "Progressive Colorado Total-Loss Settlement — $15.2M for Underpaid Totaled Vehicles",
    "summary": "68% of the projected sold adjustment Progressive applied to a totaled vehicle — about 1.87% of the vehicle actual cash value for Progressive Direct policyholders and about 1.53% for Progressive Preferred — for Colorado first-party total-loss claims valued with a Mitchell Instant Report.",
@@ -8770,6 +8868,37 @@
     "amgen",
     "security",
     "amgn"
+   ]
+  },
+  {
+   "id": "oca-philly-pops-cancelled-concerts-ticket-class-action-settlement",
+   "title": "Philly Pops Cancelled-Concert Ticket Settlement — Pro Rata Refund, Capped at What You Paid",
+   "summary": "A pro rata share of a $200,000 fund, never more than the ticket price, for the roughly 2,600 people who paid for one or more of six Philly Pops concerts scheduled at the Kimmel Center in 2023 and never performed · Claim Number & PIN from the notice needed to file online",
+   "category": "Fees & Billing",
+   "states": [
+    "PA"
+   ],
+   "deadline": "2027-02-09",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of a $200,000 fund, never more than the ticket price, for the roughly 2,600 people who paid for one or more of six Philly Pops concerts schedu…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/news/philly-pops-cancelled-concerts-ticket-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "philly",
+    "pop",
+    "cancelledconcert",
+    "ticket",
+    "pro",
+    "rata",
+    "refund",
+    "capped",
+    "paid"
    ]
   },
   {
@@ -9279,6 +9408,32 @@
    ]
   },
   {
+   "id": "oca-volkswagen-sec-bondholder-distribution-fund",
+   "title": "VW $48.75M SEC Bondholder Distribution Fund",
+   "summary": "A pro rata share of a $48.75 million SEC distribution fund for investors who bought Volkswagen Group of America Finance 144A bonds (seven CUSIPs) between Nov. 20, 2014 and Sept. 18, 2015. Broker records required; nothing is paid below $250. Not for car owners.",
+   "category": "Securities",
+   "states": [],
+   "deadline": "2027-02-26",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A pro rata share of a $48.75 million SEC distribution fund for investors who bought Volkswagen Group of America Finance 144A bonds (seven CUSIPs) between Nov.…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/volkswagen-sec-bondholder-distribution-fund.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "vw",
+    "48",
+    "75m",
+    "sec",
+    "bondholder",
+    "distribution"
+   ]
+  },
+  {
    "id": "ca-settlements-non-bank-atm-surcharges",
    "title": "Non-Bank ATM Surcharges Class Action Settlement",
    "summary": "You may be able to claim a piece of this settlement if you were charged an access fee or surcharge to withdraw cash at an ATM not owned by Visa, Mastercard or any bank or financial institution between October 24, 2007 and August 14, 2026.",
@@ -9471,6 +9626,33 @@
     "16",
     "privacy",
     "monitoring"
+   ]
+  },
+  {
+   "id": "oca-crestwyn-acadia-data-breach-settlement",
+   "title": "Crestwyn & Acadia Data Breach Settlement — $40 or Up to $4,000",
+   "summary": "A $40 cash payment with no documents, documented losses up to $4,000, and two years of medical identity monitoring for people notified of the January 2024 Crestwyn Behavioral Health email breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-03-16",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A $40 cash payment with no documents, documented losses up to $4,000, and two years of medical identity monitoring for people notified of the January 2024 Cres…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/crestwyn-acadia-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-26",
+   "first_seen": "2026-11-26",
+   "keywords": [
+    "crestwyn",
+    "acadia",
+    "data",
+    "breach",
+    "40",
+    "4",
+    "000"
    ]
   },
   {
@@ -10180,6 +10362,34 @@
     "40",
     "000",
     "cad"
+   ]
+  },
+  {
+   "id": "oca-toyota-lexus-hybrid-mgr-connector-class-action-settlement",
+   "title": "Toyota & Lexus Hybrid Cable Settlement — 10-Year Warranty Plus Refunds",
+   "summary": "Coverage for the hybrid power cable extended to 10 years with no mileage limit, plus a refund of repairs already paid for, on about 1.3 million Toyota and Lexus hybrids — RAV4 Hybrid, RAV4 Prime, Highlander, Sienna, Venza, Crown and Lexus NX and RX models. Repairs have run $3,434.69 to $8,963.61.",
+   "category": "Auto",
+   "states": [],
+   "deadline": "2028-03-27",
+   "deadline_type": "claim",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "Repairs have run $3,434.69 to $8,963.61.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/automotive/toyota-lexus-hybrid-mgr-connector-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "toyota",
+    "lexus",
+    "hybrid",
+    "cable",
+    "10year",
+    "warranty",
+    "plus",
+    "refund"
    ]
   },
   {
@@ -11878,6 +12088,31 @@
    ]
   },
   {
+   "id": "oca-humacyte-securities-class-action-settlement",
+   "title": "Humacyte $9M Securities Settlement (HUMA) — Claims Not Open Yet",
+   "summary": "A pro rata share of a proposed $9 million fund for anyone who bought Humacyte (HUMA) common stock, warrants or call options, or sold put options, from Aug. 14 2023 through Mar. 25 2025 · est. $0.09 a share before fees · no claim form yet",
+   "category": "Securities",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A pro rata share of a proposed $9 million fund for anyone who bought Humacyte (HUMA) common stock, warrants or call options, or sold put options, from Aug. 14…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/humacyte-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "humacyte",
+    "9m",
+    "security",
+    "huma",
+    "yet"
+   ]
+  },
+  {
    "id": "oca-hustler-store-facta-credit-card-receipts-privacy-class-action-settlement",
    "title": "Hustler Store FACTA Credit Card Receipt Class Action Settlement",
    "summary": "",
@@ -11925,6 +12160,32 @@
     "casino",
     "mobile",
     "game"
+   ]
+  },
+  {
+   "id": "oca-ivueit-california-vuer-misclassification-paga-class-action-settlement",
+   "title": "iVueit $635,000 Vuer Settlement — Automatic",
+   "summary": "automatic payment, no claim form — a pro rata share by PayPal earnings for California residents paid through PayPal for iVueit app inspection and site photography work from March 21, 2020 to Aug. 26, 2025.",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": null,
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/paga/ivueit-california-vuer-misclassification-paga-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-26",
+   "first_seen": "2026-11-26",
+   "keywords": [
+    "ivueit",
+    "635",
+    "000",
+    "vuer"
    ]
   },
   {
