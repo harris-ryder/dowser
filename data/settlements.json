@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T19:01:09.886Z",
+ "generated_at": "2026-11-28T17:35:42.693Z",
  "sources": [
   "https://openclassactions.com/settlements.php",
   "https://openclassactions.com/llms.txt",
   "https://www.classaction.org/settlements"
  ],
- "count": 489,
+ "count": 495,
  "settlements": [
   {
    "id": "oca-hunter-warfield-unlicensed-rental-collections-settlement",
@@ -1469,118 +1469,120 @@
    ]
   },
   {
-   "id": "oca-dr-squatch-natural-class-action-settlement",
-   "title": "Dr. Squatch \"Natural\" Class Action Settlement ($9M)",
-   "summary": "$0.50 per Dr. Squatch product labeled \"natural\" and bought since November 2018 — five products on your word alone, or 25 in total with receipts",
-   "category": "Consumer Products",
+   "id": "ca-settlements-dr-squatch-all-natural-claims",
+   "title": "Dr. Squatch - All Natural Claims Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if you bought certain Dr. Squatch products between November 1, 2018 and August 29, 2026.",
+   "category": "All Natural Claims",
    "states": [],
    "deadline": "2026-11-27",
    "deadline_type": "claim",
    "proof": "none",
    "proof_label": "No proof required",
-   "payout": "$0.50 per Dr.",
+   "payout": "Varies",
    "claim_url": "https://www.personalcareproductssettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/false-advertising/dr-squatch-natural-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#dr-squatch-all-natural-claims",
-    "https://www.classaction.org/settlements#dr-squatch-all-natural-claims"
-   ],
-   "added": "2026-09-01",
-   "first_seen": "2026-09-01",
+   "info_url": "https://www.classaction.org/settlements#dr-squatch-all-natural-claims",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-28",
    "keywords": [
     "dr",
     "squatch",
-    "natural",
-    "9m"
+    "natural"
    ]
   },
   {
-   "id": "oca-finastra-data-breach-settlement",
-   "title": "Finastra $3.125M Data Breach Settlement — Pro Rata Cash or Up to $2,500",
-   "summary": "pro rata cash or up to $2,500 in documented losses, plus a year of credit monitoring, for people notified of the October 2024 Finastra file-transfer breach",
+   "id": "ca-settlements-dr-squatch-all-natural-claims",
+   "title": "Dr. Squatch - All Natural Claims Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if you bought certain Dr. Squatch products between November 1, 2018 and August 29, 2026.",
+   "category": "All Natural Claims",
+   "states": [],
+   "deadline": "2026-11-27",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Varies",
+   "claim_url": "https://www.personalcareproductssettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#dr-squatch-all-natural-claims",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-28",
+   "keywords": [
+    "dr",
+    "squatch",
+    "natural"
+   ]
+  },
+  {
+   "id": "ca-settlements-finastra-technology-data-breach",
+   "title": "Finastra Technology - Data Breach Class Action Settlement",
+   "summary": "You may be able to claim a piece of this settlement if your private information was compromised in the October 2024 Finastra Technology data breach.",
    "category": "Data Breach",
    "states": [],
    "deadline": "2026-11-27",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "pro rata cash or up to $2,500 in documented losses, plus a year of credit monitoring, for people notified of the October 2024 Finastra file-transfer breach",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $2,500",
    "claim_url": "https://finastradatasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/data-breaches/finastra-data-breach-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#finastra-technology-data-breach"
-   ],
-   "added": "2026-09-27",
-   "first_seen": "2026-09-27",
+   "info_url": "https://www.classaction.org/settlements#finastra-technology-data-breach",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-28",
    "keywords": [
     "finastra",
-    "3",
-    "125m",
+    "technology",
     "data",
-    "breach",
-    "pro",
-    "rata",
-    "2",
-    "500",
-    "technology"
+    "breach"
    ]
   },
   {
-   "id": "oca-fontaine-modification-wage-overtime-class-action-settlement",
-   "title": "Fontaine Modification $1.6M Wage and Overtime Settlement",
-   "summary": "A pro rata share of up to $1.6 million for hourly Fontaine Modification workers from May 1, 2022 to Sept. 1, 2026; Virginia workers are paid automatically, workers elsewhere must file a consent form.",
-   "category": "Employment",
-   "states": [
-    "ID"
-   ],
-   "deadline": "2026-11-27",
-   "deadline_type": "claim",
-   "proof": "automatic",
-   "proof_label": "Automatic payment, no claim form",
-   "payout": "A pro rata share of up to $1.6 million for hourly Fontaine Modification workers from May 1, 2022 to Sept. 1, 2026",
-   "claim_url": "https://www.fmcsettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/wage-and-hours/fontaine-modification-wage-overtime-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#fontaine-modification-company-employee-wages"
-   ],
-   "added": "2026-10-20",
-   "first_seen": "2026-10-20",
-   "keywords": [
-    "fontaine",
-    "modification",
-    "1",
-    "6m",
-    "wage",
-    "overtime"
-   ]
-  },
-  {
-   "id": "oca-seeeyewear-tcpa-text-message-class-action-settlement",
-   "title": "SeeEyeWear Text Message Settlement — Up to $290 Per Text",
-   "summary": "Up to $290 per text for people who got repeat SeeEyeWear marketing texts after replying STOP or while on the Do Not Call Registry.",
-   "category": "TCPA",
+   "id": "ca-settlements-fontaine-modification-company-employee-wages",
+   "title": "Fontaine Modification Company - Employee Wages Class Action Settlement",
+   "summary": "You may be included in this settlement if you were an hourly-paid, non-exempt worker employed by Fontaine Modification Company between May 1, 2022 and September 1, 2026.",
+   "category": "Employee Wages",
    "states": [],
    "deadline": "2026-11-27",
    "deadline_type": "claim",
-   "proof": "id_required",
-   "proof_label": "Claim ID or notice code required",
-   "payout": "Up to $290 per text for people who got repeat SeeEyeWear marketing texts after replying STOP or while on the Do Not Call Registry.",
+   "proof": "unknown",
+   "proof_label": "Proof requirement not verified",
+   "payout": "Varies",
+   "claim_url": "https://www.fmcsettlement.com/",
+   "info_url": "https://www.classaction.org/settlements#fontaine-modification-company-employee-wages",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-28",
+   "keywords": [
+    "fontaine",
+    "modification",
+    "employee",
+    "wage"
+   ]
+  },
+  {
+   "id": "ca-settlements-seeeyewear-unwanted-texts",
+   "title": "SeeEyeWear - Unwanted Texts Class Action Settlement",
+   "summary": "You may be included in this settlement if you received more than one text message from SeeEyeWear within a 12-month period between August 14, 2021 and August 14, 2025 after opting out or while your number was listed on the National Do Not Call Registry.",
+   "category": "Unwanted Texts",
+   "states": [],
+   "deadline": "2026-11-27",
+   "deadline_type": "claim",
+   "proof": "none",
+   "proof_label": "No proof required",
+   "payout": "Up to $290 per text",
    "claim_url": "https://seeeyeweartcpasettlement.com/",
-   "info_url": "https://openclassactions.com/settlements/tcpa/seeeyewear-tcpa-text-message-class-action-settlement.php",
-   "source": "openclassactions",
-   "also_listed_at": [
-    "https://www.classaction.org/settlements#seeeyewear-unwanted-texts"
-   ],
-   "added": "2026-11-03",
-   "first_seen": "2026-11-03",
+   "info_url": "https://www.classaction.org/settlements#seeeyewear-unwanted-texts",
+   "source": "classaction.org",
+   "also_listed_at": [],
+   "added": null,
+   "first_seen": "2026-11-28",
    "keywords": [
     "seeeyewear",
-    "text",
-    "message",
-    "290"
+    "unwanted",
+    "text"
    ]
   },
   {
@@ -7338,6 +7340,35 @@
    ]
   },
   {
+   "id": "oca-mid-michigan-medical-billing-data-breach-settlement",
+   "title": "Mid Michigan Medical Billing Data Breach Settlement — $50 or Up to $4,500",
+   "summary": "A flat $50 with no documentation, or up to $4,500 in documented losses, plus two years of medical identity monitoring, for people notified of the March 2025 MMMBS breach.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-01-18",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A flat $50 with no documentation, or up to $4,500 in documented losses, plus two years of medical identity monitoring, for people notified of the March 2025 MM…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/mid-michigan-medical-billing-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-28",
+   "first_seen": "2026-11-28",
+   "keywords": [
+    "mid",
+    "michigan",
+    "medical",
+    "billing",
+    "data",
+    "breach",
+    "50",
+    "4",
+    "500"
+   ]
+  },
+  {
    "id": "oca-vida-y-salud-health-systems-data-breach-settlement",
    "title": "Vida Y Salud-Health Systems $500K Data Breach Settlement — $50 or Up to $3,580",
    "summary": "A $50 payment, or up to $3,500 in documented losses and $80 for lost time, plus two years of medical identity monitoring, for people affected by the October 2025 Vida Y Salud data incident.",
@@ -8568,6 +8599,35 @@
    ]
   },
   {
+   "id": "oca-student-loan-solutions-class-action-settlement",
+   "title": "Student Loan Solutions $645K Settlement — New York Student Loans Closed Out",
+   "summary": "A share of a $645,000 fund, plus a permanent end to collection, judgment enforcement and credit reporting on the loan, for New Yorkers Student Loan Solutions approved for collection litigation and sent an acceleration letter over a Bank of America private student loan it bought on October 31, 2017. A claim form is required.",
+   "category": "Banking & Credit",
+   "states": [
+    "NY"
+   ],
+   "deadline": "2027-02-02",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "A share of a $645,000 fund, plus a permanent end to collection, judgment enforcement and credit reporting on the loan, for New Yorkers Student Loan Solutions a…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/student-loan-solutions-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-28",
+   "first_seen": "2026-11-28",
+   "keywords": [
+    "student",
+    "loan",
+    "solution",
+    "645k",
+    "york",
+    "closed",
+    "out"
+   ]
+  },
+  {
    "id": "oca-canada-cra-gckey-privacy-breach-settlement",
    "title": "Canada CRA & GCKey Breach Settlement — Up to $5,200 CAD",
    "summary": "Up to $80 CAD or $200 CAD for time spent, plus up to $5,000 CAD in documented costs, for people whose CRA My Account, My Service Canada or GCKey account was breached in 2020.",
@@ -9343,6 +9403,33 @@
     "275m",
     "retirement",
     "plan"
+   ]
+  },
+  {
+   "id": "oca-berry-bros-data-breach-settlement",
+   "title": "Berry Bros. Data Breach Settlement — $50 or Up to $3,000",
+   "summary": "$50 with no documentation, or up to $3,000 in documented losses, plus two years of credit monitoring, for people whose data was exposed in the August 2024 Berry Bros. cyberattack.",
+   "category": "Data Breach",
+   "states": [],
+   "deadline": "2027-02-23",
+   "deadline_type": "claim",
+   "proof": "id_required",
+   "proof_label": "Claim ID or notice code required",
+   "payout": "$50 with no documentation, or up to $3,000 in documented losses, plus two years of credit monitoring, for people whose data was exposed in the August 2024 Berr…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/data-breaches/berry-bros-data-breach-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "berry",
+    "bro",
+    "data",
+    "breach",
+    "50",
+    "3",
+    "000"
    ]
   },
   {
@@ -10968,6 +11055,32 @@
     "unit",
     "free",
     "replacement"
+   ]
+  },
+  {
+   "id": "oca-block-inc-securities-class-action-settlement",
+   "title": "Block $442.5M Securities Settlement (XYZ) — Claims Not Open Yet",
+   "summary": "A proposed $442.5 million fund for investors who bought Block Class A stock during the class period — not for Cash App users.",
+   "category": "Securities",
+   "states": [],
+   "deadline": null,
+   "deadline_type": "unknown",
+   "proof": "documentation",
+   "proof_label": "Documentation or proof of purchase required",
+   "payout": "A proposed $442.5 million fund for investors who bought Block Class A stock during the class period — not for Cash App users.",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/securities/block-inc-securities-class-action-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-28",
+   "first_seen": "2026-11-28",
+   "keywords": [
+    "block",
+    "442",
+    "5m",
+    "security",
+    "xyz",
+    "yet"
    ]
   },
   {
@@ -13493,6 +13606,36 @@
     "rail",
     "full",
     "refund"
+   ]
+  },
+  {
+   "id": "oca-yosemite-community-college-part-time-instructor-wage-settlement",
+   "title": "Yosemite Community College Part-Time Instructor Settlement — Avg $2,796",
+   "summary": "An automatic share of $3.5 million weighted by units taught, averaging about $2,796 per instructor, for part-time faculty at the Yosemite Community College District.",
+   "category": "Employment",
+   "states": [
+    "CA"
+   ],
+   "deadline": null,
+   "deadline_type": "automatic",
+   "proof": "automatic",
+   "proof_label": "Automatic payment, no claim form",
+   "payout": "An automatic share of $3.5 million weighted by units taught, averaging about $2,796 per instructor, for part-time faculty at the Yosemite Community College Dis…",
+   "claim_url": null,
+   "info_url": "https://openclassactions.com/settlements/wage-and-hours/yosemite-community-college-part-time-instructor-wage-settlement.php",
+   "source": "openclassactions",
+   "also_listed_at": [],
+   "added": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "keywords": [
+    "yosemite",
+    "community",
+    "college",
+    "parttime",
+    "instructor",
+    "avg",
+    "2",
+    "796"
    ]
   },
   {
